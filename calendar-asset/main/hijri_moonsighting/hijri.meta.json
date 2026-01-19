@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "updatedAt": "2026-01-19T22:33:29.071Z",
+  "format": "v2",
+  "minGregorianDate": "2025-01-31",
+  "maxGregorianDate": "2026-06-16",
+  "sha256": "c1c90b3114bff84ea2de6b46aac074628bb1b680ebc12be2e9282a055d0b0cea",
+  "count": 502,
+  "cutoffGregorianDate": "2025-06-27"
+}
