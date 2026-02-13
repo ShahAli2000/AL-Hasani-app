@@ -22,10 +22,6 @@ Funds are applied to expenses directly related to producing the next printed edi
 - shipping and distribution
 - other production-related costs
 
-## Updates and transparency
-
-We will publish progress updates (milestones, printing status, and general cost breakdowns when possible) in this repository.
-
 ## Questions
 
 If you have questions about the donation, please contact the team through the app's Feedback section.
