@@ -2076,7 +2076,8 @@
           "en": "Indeed Allah carries through His commands. Certainly, Allah has ordained a measure [and extent] for everything."
         }
       }
-    ]
+    ],
+    "mafatihId": 1353
   },
   {
     "id": "dhuhr-asr-taqeebaat",
@@ -10151,7 +10152,8 @@
           "en": "PdfCard -print2 sides-laminateMorning & Evening duasAll Taqeebat Salat wiseZiaratDesktop"
         }
       }
-    ]
+    ],
+    "mafatihId": 1328
   },
   {
     "id": "salaat-ghufaylah",
@@ -10402,7 +10404,8 @@
           "en": "to grant me my needs."
         }
       }
-    ]
+    ],
+    "mafatihId": 1194
   },
   {
     "id": "sajda-shukr",
@@ -11605,7 +11608,8 @@
           "en": "O Humiliator of all tyrants! O Dignifier of all humble ones! I, swearing by You, have exerted all efforts; so, send blessings upon Muhammad and his Household and relieve me.0"
         }
       }
-    ]
+    ],
+    "mafatihId": 1347
   },
   {
     "id": "tahajjud-salaat",
@@ -15374,6 +15378,1818 @@
           "en": "And all praise for Allah, the Sustainer of the worlds."
         }
       }
-    ]
+    ],
+    "mafatihId": 1309
+  },
+  {
+    "id": "zuhr-taqeebaat",
+    "name": "Zuhr Taqeebaat",
+    "category": "taqeebat",
+    "segmentCount": 74,
+    "mafatihId": 1354,
+    "segments": [
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "Subsequent to the Noon (Zohr) Prayer, say the following supplicatory prayer, as is quoted from Misbah al-Mutahajjid:"
+        }
+      },
+      {
+        "number": 1,
+        "type": "content",
+        "arabic": "لاَ إِلٰهَ إِلاَّ ٱللَّهُ ٱلْعَظِيمُ ٱلْحَلِيمُ",
+        "transliteration": "la ilaha illa allahu al`azimu alhalimu",
+        "translation": {
+          "en": "There is no god save Allah, the All-great and Most Forbearing."
+        }
+      },
+      {
+        "number": 2,
+        "type": "content",
+        "arabic": "لاَ إِلٰهَ إِلاَّ ٱللَّهُ رَبُّ ٱلْعَرْشِ ٱلْكَرِيـمِ",
+        "transliteration": "la ilaha illa allahu rabbu al`arshi alkarimu",
+        "translation": {
+          "en": "There is no god save Allah, the Lord of the Throne of Honor."
+        }
+      },
+      {
+        "number": 3,
+        "type": "content",
+        "arabic": "اَلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَالَمينَ",
+        "transliteration": "alhamdu lillahi rabbi al`alamina",
+        "translation": {
+          "en": "All praise be to Allah, the Lord of the worlds."
+        }
+      },
+      {
+        "number": 4,
+        "type": "content",
+        "arabic": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ مُوجِبَاتِ رَحْمَتِكَ",
+        "transliteration": "allahumma inni as'aluka mujibati rahmatika",
+        "translation": {
+          "en": "O Allah, I ask You for the motives of Your mercy,"
+        }
+      },
+      {
+        "number": 5,
+        "type": "content",
+        "arabic": "وَعَزَائِمَ مَغْفِرَتِكَ",
+        "transliteration": "wa `aza'ima maghfiratika",
+        "translation": {
+          "en": "the determining causes of Your forgiveness,"
+        }
+      },
+      {
+        "number": 6,
+        "type": "content",
+        "arabic": "وَٱلْغَنيمَةَ مِنْ كُلِّ بِرٍّ",
+        "transliteration": "walghanimata min kulli birrin",
+        "translation": {
+          "en": "the advantage of each act of kindness,"
+        }
+      },
+      {
+        "number": 7,
+        "type": "content",
+        "arabic": "وَٱلسَّلاَمَةَ مِنْ كُلِّ إِثْمٍ",
+        "transliteration": "walssalamata min kulli ithmin",
+        "translation": {
+          "en": "and the safeguarding against each and every sin."
+        }
+      },
+      {
+        "number": 8,
+        "type": "content",
+        "arabic": "اَللَّهُمَّ لاَ تَدَعْ لِي ذَنْباً إِلاَّ غَفَرْتَهُ",
+        "transliteration": "allahumma la tada` li dhanban illa ghafartahu",
+        "translation": {
+          "en": "O Allah, (please) do not leave any of my offenses unforgiven,"
+        }
+      },
+      {
+        "number": 9,
+        "type": "content",
+        "arabic": "وَلاَ هَمّاً إِلاَّ فَرَّجْتَهُ",
+        "transliteration": "wa la hamman illa farrajtahu",
+        "translation": {
+          "en": "any of my misfortunes unrelieved,"
+        }
+      },
+      {
+        "number": 10,
+        "type": "content",
+        "arabic": "وَلاَ سُقْماً إِلاَّ شَفَيْتَهُ",
+        "transliteration": "wa la suqman illa shafaytahu",
+        "translation": {
+          "en": "any of my ailments unhealed,"
+        }
+      },
+      {
+        "number": 11,
+        "type": "content",
+        "arabic": "وَلاَ عَيْباً إِلاَّ سَتَرْتَهُ",
+        "transliteration": "wa la `ayban illa satartahu",
+        "translation": {
+          "en": "any of my defects uncovered,"
+        }
+      },
+      {
+        "number": 12,
+        "type": "content",
+        "arabic": "وَلاَ رِزْقاً إِلاَّ بَسَطْتَهُ",
+        "transliteration": "wa la rizqan illa basattahu",
+        "translation": {
+          "en": "any (item of my) sustenance not including (me),"
+        }
+      },
+      {
+        "number": 13,
+        "type": "content",
+        "arabic": "وَلاَ خَوْفاً إِلاَّ آمَنْتَهُ",
+        "transliteration": "wa la khawfan illa amantahu",
+        "translation": {
+          "en": "any fear (that I experience) unsecured,"
+        }
+      },
+      {
+        "number": 14,
+        "type": "content",
+        "arabic": "وَلاَ سُوءاً إِلاَّ صَرَفْتَهُ",
+        "transliteration": "wa la su'an illa saraftahu",
+        "translation": {
+          "en": "any evil (that comes upon me) uncontrollable,"
+        }
+      },
+      {
+        "number": 15,
+        "type": "content",
+        "arabic": "وَلاَ حَاجَةً هِيَ لَكَ رِضاً وَلِيَ فيهَا صَلاَحٌ إِلاَّ قَضَيْتَهَا",
+        "transliteration": "wa la hajatan hiya laka ridan wa liya fiha salahun illa qadaytaha",
+        "translation": {
+          "en": "and any need that achieves Your satisfaction and my benefit unanswered."
+        }
+      },
+      {
+        "number": 16,
+        "type": "content",
+        "arabic": "يَا أَرْحَمَ ٱلرَّاحِمينَ",
+        "transliteration": "ya arhama alrrahimina",
+        "translation": {
+          "en": "O most Merciful of all those who show mercy."
+        }
+      },
+      {
+        "number": 17,
+        "type": "content",
+        "arabic": "آمينَ رَبَّ ٱلْعَالَمينَ",
+        "transliteration": "amina rabba al`alamina",
+        "translation": {
+          "en": "(please) Respond, O Lord of the worlds"
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "You may then repeat the following litany ten times:"
+        }
+      },
+      {
+        "number": 18,
+        "type": "content",
+        "arabic": "بِٱللَّهِ ٱعْتَصَمْتُ",
+        "transliteration": "billahi i`tasamtu",
+        "translation": {
+          "en": "With Allah I seek protection,"
+        }
+      },
+      {
+        "number": 19,
+        "type": "content",
+        "arabic": "وَبِٱللَّهِ أَثِقُ",
+        "transliteration": "wa billahi athiqu",
+        "translation": {
+          "en": "in Allah I trust,"
+        }
+      },
+      {
+        "number": 20,
+        "type": "content",
+        "arabic": "وَعَلَىٰ ٱللَّهِ أَتَوَكَّلُ",
+        "transliteration": "wa `ala allahi atawakkalu",
+        "translation": {
+          "en": "and upon Allah I rely."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "You may then say the following supplicatory prayer:"
+        }
+      },
+      {
+        "number": 21,
+        "type": "content",
+        "arabic": "اَللَّهُمَّ إِنْ عَظُمَتْ ذُنُوبِي فَأَنْتَ أَعْظَمُ",
+        "transliteration": "Allahumma in `azumat dhunubi fa-anta a`zamu",
+        "translation": {
+          "en": "O Allah! if my sins are enormous, surely You are more Tremendous."
+        }
+      },
+      {
+        "number": 22,
+        "type": "content",
+        "arabic": "وَإِنْ كَبُرَ تَفْرِيطِي فَأَنْتَ أَكْبَرُ",
+        "transliteration": "wa in kabura tafriti fa-anta akbaru",
+        "translation": {
+          "en": "If my transgression has exceeded all limits, surely You are Greater."
+        }
+      },
+      {
+        "number": 23,
+        "type": "content",
+        "arabic": "وَإِنْ دَامَ بُخْلي فَأَنْتَ أَجْوَدُ",
+        "transliteration": "wa in dama bukhli fa-anta ajwadu",
+        "translation": {
+          "en": "If my stinginess has perpetuated, surely You are more Generous."
+        }
+      },
+      {
+        "number": 24,
+        "type": "content",
+        "arabic": "اَللَّهُمَّ ٱغْفِرْ لِي عَظيمَ ذُنُوبِي بِعَظِيمِ عَفْوِكَ",
+        "transliteration": "allahumma ighfir li `azima dhunubi bi`azimi `afwika",
+        "translation": {
+          "en": "O Allah, (please) forgive my enormous sins out of Your tremendous pardon,"
+        }
+      },
+      {
+        "number": 25,
+        "type": "content",
+        "arabic": "وَكَثيرَ تَفْرِيطِي بِظَاهِرِ كَرَمِكَ",
+        "transliteration": "wa kathira tafriti bizahiri karamika",
+        "translation": {
+          "en": "forgive my limitless transgression out of Your obvious generosity,"
+        }
+      },
+      {
+        "number": 26,
+        "type": "content",
+        "arabic": "وَٱقْمَعْ بُخْلِي بِفَضْلِ جُودِكَ",
+        "transliteration": "waqma` bukhli bifadli judika",
+        "translation": {
+          "en": "and impede my stinginess by the virtue of Your magnanimity."
+        }
+      },
+      {
+        "number": 27,
+        "type": "content",
+        "arabic": "اَللَّهُمَّ مَا بِنَا مِنْ نِعْمَة فَمِنْكَ",
+        "transliteration": "allahumma ma bina min ni`matin faminka",
+        "translation": {
+          "en": "O Allah, You are certainly the source of each and every favor that covers us."
+        }
+      },
+      {
+        "number": 28,
+        "type": "content",
+        "arabic": "لاَ إِلٰهَ إِلاَّ أَنْتَ",
+        "transliteration": "la ilaha illa anta",
+        "translation": {
+          "en": "There is no god save You."
+        }
+      },
+      {
+        "number": 29,
+        "type": "content",
+        "arabic": "أَسْتَغْفِرُكَ وَ أَتُوبُ إِلَيْكَ",
+        "transliteration": "astaghfiruka wa atubu ilayka",
+        "translation": {
+          "en": "I pray Your forgiveness and I repent before You."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "Syeda Fatima Zehra (sa) Dua after Dhuhr Salat"
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "From Sahifa Zahra(sa)"
+        }
+      },
+      {
+        "number": 30,
+        "type": "content",
+        "arabic": "سُبْحَانَ ذِيْ الْعِزِّ الشَّامِخِ الْمُنِيْفِ، سُبْحَانَ ذِيْ الْجَلَالِ الْبَاذِخِ الْعَظِيْمِ،",
+        "transliteration": "subhaana zil i’zzish shaamekhil moneefe, subhaana zil jalaalil baazekhil a’zeeme,",
+        "translation": {
+          "en": "Glorified is the one having preceding and superior honor – glorified is the owner of majesty, the greatest and the lofty."
+        }
+      },
+      {
+        "number": 31,
+        "type": "content",
+        "arabic": "سُبْحَانَ ذِيْ الْمُلْكِ الْفَاخِرِ الْقَدِيْمِ.",
+        "transliteration": "subhaana zil mulkil faakheril qadeeme.",
+        "translation": {
+          "en": "Glorified is that owner of the ancient and esteemed kingdom."
+        }
+      },
+      {
+        "number": 32,
+        "type": "content",
+        "arabic": "وَ الْحَمْدُ لِلهِ الَّذِيْ بِنِعْمَتِهٖ بَلَغْتُ مَا بَلَغْتُ مِنَ الْعِلْمِ بِهٖ، وَ الْعَمَلِ لَهُ وَ الرَّغْبَةِ اِلَيْهِ، وَ الطَّاعَةِ لِاَمْرِهٖ،",
+        "transliteration": "wal hamdo lillaahil lazee be-ne’matehi balaghto maa balaghto menal i’lme behi, wal a’male lahu war raghbate elayhe, wat taa-a’te le-amrehi,",
+        "translation": {
+          "en": "All praise is for that God, in lieu of whose bounties, I have reached to this level of knowledge and actions and after being inclined to Him I am obeying His commands."
+        }
+      },
+      {
+        "number": 33,
+        "type": "content",
+        "arabic": "وَ الْحَمْدُ لِلهِ الَّذِيْ لَمْ يَجْعَلْنِيْ جَاحِدًا لِشَيْ‏ءٍ مِنْ كِتَابِهٖ، وَ لَا مُتَحَيِّرًا فِيْ شَيْ‏ءٍ مِنْ اَمْرِهٖ.",
+        "transliteration": "wal hamdo lillaahil lazee lam yaj-a’lnee jaahedan le-shay-in min ketaabehi, wa laa motahayyeran fee shay-in min amrehi.",
+        "translation": {
+          "en": "All praise is for that God, Who did not make me denier of any part of His Book and did not make me perplexed in any of His issues."
+        }
+      },
+      {
+        "number": 34,
+        "type": "content",
+        "arabic": "وَ الْحَمْدُ لِلهِ الَّذِيْ هَدَانِيْ لِدِيْنِهٖ وَ لَمْ يَجْعَلْنِيْ اَعْبُدُ شَيْئًا غَيْرَهٗ.",
+        "transliteration": "wal hamdo lillaahil lazee hadaanee le-deenehi wa lam yaj-a’lnee a-a’bodo shayan ghayrahu.",
+        "translation": {
+          "en": "All praise is for that God, Who has bestowed the guidance of His religion and has not allowed worshipping anyone other than Him."
+        }
+      },
+      {
+        "number": 35,
+        "type": "content",
+        "arabic": "اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ قَوْلَ التَّوَّابِيْنَ وَ عَمَلَهُمْ، وَ نَجَاةَ الْمُجَاهِدِيْنَ وَ ثَوَابَهُمْ،",
+        "transliteration": "allaahumma innee as-aloka qawlat tawwaabeena wa a’malahum wa najaatal mojaahedeena wa sawaabahum",
+        "translation": {
+          "en": "O God, I ask You for the words and actions of the penitents. And bestow salvation and bounties like that of the holy fighters."
+        }
+      },
+      {
+        "number": 36,
+        "type": "content",
+        "arabic": "وَ تَصْدِيْقَ الْمُؤْمِنِيْنَ وَ تَوَكُّلَهُمْ، وَ الرَّاحَةَ عِنْدَ الْمَوْتِ، وَ الْاَمْنَ عِنْدَ الْحِسَابِ،",
+        "transliteration": "wa tasdeeqal moameneena wa tawakkolahum, war raahata i’ndal mawte,, wal amne i’ndal hesaabe,",
+        "translation": {
+          "en": "Bestow testimony and contentment like that of the faithful. And bestow on me ease at the time of death and peace and security at the time of accounting."
+        }
+      },
+      {
+        "number": 37,
+        "type": "content",
+        "arabic": "وَ اجْعَلِ الْمَوْتَ خَيْرَ غَائِبٍ اَنْتَظِرُهٗ، وَ خَيْرَ مُطَّلَعٍ يُطَّلَعُ عَلَيَّ.",
+        "transliteration": "waj a’lil mawta khayra ghaa-ebin antazerohu, wa khayra motta-la-i’n yuttala-o’ a’layya.",
+        "translation": {
+          "en": "Deem death to be the best of the unseen, which I may await. And make it the best scene, which is to come before me;"
+        }
+      },
+      {
+        "number": 38,
+        "type": "content",
+        "arabic": "وَ ارْزُقْنِيْ - عِنْدَ حُضُوْرِ الْمَوْتِ، وَ عِنْدَ نُزُوْلِهٖ، وَ فِيْ غَمَرَاتِهٖ وَ حِيْنَ تَنْزِلُ النَّفْسُ مِنْ بَيْنِ التَّرَاقِيْ، وَ حِيْنَ تَبْلُغُ الْحُلْقُوْمُ، وَ فِيْ حَالِ خُرُوْجِيْ مِنَ الدُّنْيَا، وَ تِلْكَ السَّاعَةِ الَّتِيْ لَا اَمْلِكُ لِنَفْسِيْ فِيْهَا ضَرًّا وَ لَا نَفْعًا، وَ لَا شِدَّةً وَ لَا رَخَاءً -",
+        "transliteration": "war zuqnee – i’nda hozooril mawte, wa i’nda nozoolehi, wa fee ghamaraatehi wa heena tanzelun nafso min baynit taraaqee, wa heena tabloghul hulqoomo, wa fee haale khoroojee menad dunyaa, wa tilkas saa-a’til latee laa amleko le-nafsee feehaa zarran wa laa naf-a’n, wa laa shiddatan wa laa rakh",
+        "translation": {
+          "en": "and bestow on me at the time of death and at the moment of its coming down and confrontation of its hardships, and the soul is being sucked out completely and the breath reaches upto the throat and I am going from the world and there is nothing under my control, neither profit or loss, severity or ease."
+        }
+      },
+      {
+        "number": 39,
+        "type": "content",
+        "arabic": "رَوْحًا مِنْ رَحْمَتِكَ، وَ حَظًّا مِنْ رِضْوَانِكَ وَ بُشْرًى مِنْ كَرَامَتِكَ، قَبْلَ اَنْ تَتَوَفّٰى نَفْسِيْ، وَ تَقْبِضَ رُوحِيْ، وَ تُسَلِّطَ مَلَكَ الْمَوْتِ عَلٰى اِخْرَاجِ نَفْسِيْ.",
+        "transliteration": "rawhan min rahmateka, wa hazzan min rizwaaneka wa bushran min karaamateka, qabla an tata-wafffaa nafsee, wa taqbeza roohee, wa tosalleta malakil mawte a’laa ikhraajenafsee.<",
+        "translation": {
+          "en": "Bestow me the peace of your mercy, a part of your beneficence and glad tidings of your miracle, before I die and You capture my soul; and that You impose the angels of death on me to remove my soul."
+        }
+      },
+      {
+        "number": 40,
+        "type": "content",
+        "arabic": "و بِبُشْرًى مِنْكَ يَا رَبِّ - لَيْسَتْ مِنْ اَحَدٍ غَيْرِكَ - تَثْلُجُ بِهَا صَدْرِيْ وَ تَسُرُّ بِهَا نَفْسِيْ، وَ تَقِرُّ بِهَا عَيْنِيْ، وَ يَتَهَلَّلُ بِهَا وَجْهِيْ، وَ يَسْفُرُ بِهَا لَوْنِيْ، وَ يَطْمَئِنُّ بِهَا قَلْبِيْ، وَ يَتَبَاشَرُ بِهَا سَائِرُ جَسَدِيْ.",
+        "transliteration": "wa be-bushraan minka yaa rabbe – laysat min ahadin ghayreka – taslojo behaa sadree wa tasurro behaa nafsee, wa taqirro behaa a’ynee, wa yatahallalo behaa wajhee, wa yasforo behaa lawnee, wa yat-mainno behaa qalbee, wa yatabaasharo behaa saa-ero jasadee.",
+        "translation": {
+          "en": "O God, there is only your glad tiding and there is nothing other than that, which can provide tranquility to my breast, pleasure to my soul, coolness to my eyes, joy to my face, shine to my complexion and peace to my heart. And the effect of its tranquility can become apparent on my complete being."
+        }
+      },
+      {
+        "number": 41,
+        "type": "content",
+        "arabic": "يَغْبِطُنِيْ بِهَا مَنْ حَضَرَنِيْ مِنْ خَلْقِكَ، وَ مَنْ سَمِعَ بِيْ مِنْ عِبَادِكَ. تُهَوِّنُ بِهَا عَلَيَّ سَكَرَاتِ الْمَوْتِ،",
+        "transliteration": "yaghbetonee behaa man hazaranee min khalqeka, wa man same-a’ bee min e’baadeka tohawweno behaa a’layya sakaraatil mawte,",
+        "translation": {
+          "en": "And seeing which at the throes of death, all the onlookers, those present there and those who hear, can feel envious."
+        }
+      },
+      {
+        "number": 42,
+        "type": "content",
+        "arabic": "وَ تُفَرِّجُ عَنِّيْ بِهَا كُرْبَتَهٗ وَ تُخَفِّفُ بِهَا عَنِّيْ شِدَّتَهٗ،",
+        "transliteration": "wa tofarrejo a’nnee behaa kurbatahu wa tokhaffefo behaa a’nnee shiddatahu,",
+        "translation": {
+          "en": "Therefore, through this, You ease the hardships of death and remove its pain and sorrow and lighten its severity;"
+        }
+      },
+      {
+        "number": 43,
+        "type": "content",
+        "arabic": "وَ تَكْشِفُ عَنِّيْ بِهَا سُقْمَهٗ، وَ تُذْهِبُ عَنِّيْ بِهَا هَمَّهٗ وَ حَسْرَتَهٗ، وَ تَعْصِمُنِيْ بِهَا مِنْ اَسَفِهٖ وَ فِتَنِهٖ، وَ تُجِيْرُنِيْ بِهَا مِنْ شَرِّهٖ وَ شَرِّ مَا يَحْضُرُ اَهْلُهٗ، وَ تَرْزُقُنِيْ بِهَا خَيْرَهٗ وَ خَيْرَ مَا يَحْضُرُ عِنْدَهٗ وَ خَيْرَ مَا هُوَ كَائِنٌ بَعْدَهٗ.",
+        "transliteration": "wa takshefo a’nnee behaa suqmahu, wa tuzhebo a’nnee behaa hammahu wa hasratahu, wa ta’semonee behaa min asafehi wa fetanehi, wa tojeeronee behaa min sharrehi washarre maa yahzoro ahlohu, wa tarzoqonee behaa khayrahu wa khayra maa yahzoro i’ndahu wa khayra maa howa kaa-enun ba’dahu.<",
+        "translation": {
+          "en": "and remove its illness, and cure its sorrow and grief and secure me from its mischief and save me from every calamity that befalls from one, who is dying and with his good,bestow every good that comes down at that time and also bestow that good, which is going to occur after death.<"
+        }
+      },
+      {
+        "number": 44,
+        "type": "content",
+        "arabic": "ثُمَّ اِذَا تُوُفِّيَتْ نَفْسِيْ وَ قُبِضَتْ رُوْحِيْ، فَاجْعَلْ رُوْحِيْ فِيْ الْاَرْوَاحِ الرَّائِـحَةِ، وَ اجْعَلْ نَفْسِيْ فِيْ الْاَنْفُسِ الصَّالِحَةِ،",
+        "transliteration": "summa ezaa towuffeyat nafsee wa qobezat roohee, faj-a’l roohee fil arwaahir raa-ehate, waj a’l nafsee fil anfosis saalehate,",
+        "translation": {
+          "en": "After that when my death occurs and the soul is taken out, include my soul among the peaceful souls and make my soul among the most righteous souls,"
+        }
+      },
+      {
+        "number": 45,
+        "type": "content",
+        "arabic": "وَ اجْعَلْ جَسَدِيْ فِيْ الْاَجْسَادِ الْمُطَهَّرَةِ، وَ اجْعَلْ عَمَلِيْ فِيْ الْاَعْمَالِ الْمُتَقَبَّلَةِ.",
+        "transliteration": "waj a’l jasadee fil ajsaadil motahharate, waj a’l a’malee fil a-a’maalil motaqabbbalate.",
+        "translation": {
+          "en": "place my body among purified bodies and my deeds among the accepted deeds."
+        }
+      },
+      {
+        "number": 46,
+        "type": "content",
+        "arabic": "ثُمَّ ارْزُقْنِيْ - فِيْ خِطَّتِيْ مِنَ الْاَرْضِ - وَ مَوْضِعَ جُنَّتِيْ حَيْثُ يُرْفَتُ لَحْمِيْ، وَ يُدْفَنُ عَظْمِيْ، وَ اُتْرَكُ وَحِيْدًا لَا حِيْلَةَ لِيْ.",
+        "transliteration": "summar zuqnee – fee hizzatee menal arze – wa maw-ze-a’ junnatee hayso yurfato lahmee, wa yudfano a’zmee, wa utrako waheedan laa heelata lee.",
+        "translation": {
+          "en": "After that when I am buried in that patch of land, where my flesh decays and only the bones remain buried, and I am abandoned alone helpless."
+        }
+      },
+      {
+        "number": 47,
+        "type": "content",
+        "arabic": "قَدْ لَفَظَتْنِيْ الْبِلَادُ، وَ تَخَلَّا مِنِّيْ الْعِبَادُ، وَ افْتَقَرْتُ اِلٰى رَحْمَتِكَ وَ احْتَجْتُ اِلٰى صَالِحِ عَمَلِيْ، وَ اَلْقٰى مَا مَهَّدْتُ لِنَفْسِيْ وَ قَدَّمْتُ لِاٰخِرَتِيْ، وَ عَمِلْتُ فِيْ اَيَّامِ حَيَاتِيْ،",
+        "transliteration": "qad lafazatnil belaado, wa takhallaa minnil e’baado, waf taqarto elaa rahmatekah tajto elaa saalehe a’malee, wa alqaa maa mahhadto le-nafsee wa qaddamto le-aakheratee, wa a’milto fee ayyaame ha",
+        "translation": {
+          "en": "And the townsmen cast me away from them and all the people shun me and I become the beggar of your mercy and needful of good deeds and all of them come before me that I have prepared for myself and which I have sent for my hereafter and the deeds that I have performed in my life"
+        }
+      },
+      {
+        "number": 48,
+        "type": "content",
+        "arabic": "فَوْزًا مِنْ رَحْمَتِكَ، وَ ضِيَاءً مِنْ نُوْرِكَ وَ تَثْبِيْتًا مِنْ كَرَامَتِكَ، بِالْقَوْلِ الثَّابِتِ فِيْ الْحَيَاةِ الدُّنْيَا وَ الْاٰخِرَةِ اِنَّكَ تُضِلُّ الظَّالِمِيْنَ وَ تَفْعَلُ مَا تَشَاءُ.",
+        "transliteration": "fawzan min rahmateka, wa zeyaa-an min nooreka wa tasbeetan min karaamateka, bil-qawlis saabete fil hayaatid dunyaa wal aakherate innaka tozilluz zaalemeena wa taf-a’lo maa tashaa-o.",
+        "translation": {
+          "en": "– bestow success of your mercy, light of your effulgence and stability of your nobility, through that confirmed statement, which is the means of the life of the world and the hereafter that You do not guide the unjust and You can do whatever You like."
+        }
+      },
+      {
+        "number": 49,
+        "type": "content",
+        "arabic": "ثُمَّ بَارِكْ لِيْ فِيْ الْبَعْثِ وَ الْحِسَابِ، اِذَا انْشَقَّتِ الْاَرْضُ عَنِّيْ وَ تَخَلَّا الْعِبَادُ مِنِّيْ، وَ غَشِيَتْنِيْ الصَّيْحَةُ، وَ اَفْزَعَتْنِيْ النَّفْخَةُ، وَ نَشَرْتَنِيْ بَعْدَ الْمَوْتِ وَ بَعَثْتَنِيْ لِلْحِسَابِ.",
+        "transliteration": "summa baarik lee fil ba’se wal hesaabe, ezan shaqqatil arzo a’nnee wa takhallal e’baado minnee, wa ghasheyatnis sayhato, wa afza-a’tnin naf-khato, wa nashartanee ba’dal mawte wa ba-a’stanee lil-hesaabe.",
+        "translation": {
+          "en": "After that bestow me auspiciousness on Judgment Day and in the stage of accounting when the earth splits and the people leave me and the heavenly call makes me swoon, and the blowing of the bugle makes me tremble, and after death, You revive me and make me join the stage of accounting."
+        }
+      },
+      {
+        "number": 50,
+        "type": "content",
+        "arabic": "فَابْعَثْ مَعِيْ يَا رَبِّ نُوْرًا مِنْ رَحْمَتِكَ، يَسْعٰى بَيْنَ يَدَيَّ وَ عَنْ يَمِيْنِيْ تُؤْمِنُنِيْ بِهٖ، وَ تَرْبِطُ بِهٖ عَلٰى قَلْبِيْ،",
+        "transliteration": "fab-a’s ma-e’e yaa rabbe nooran min rahmateka, yas-a’a bayna yadayya wa a’n yameenee toamenonee behi, wa tarbeto behi a’laa qalbee,",
+        "translation": {
+          "en": "O God, at that time, send along with me that effulgence of your mercy, which may accompany me on the left and the right and through it, You bestow upon me peace and security and satisfaction"
+        }
+      },
+      {
+        "number": 51,
+        "type": "content",
+        "arabic": "وَ تُظْهِرُ بِهٖ عُذْرِيْ، وَ تُبَيِّضُ بِهٖ وَجْهِيْ، وَ تُصَدِّقُ بِهٖ حَدِيْثِيْ،",
+        "transliteration": "wa tuzhero behi u’zree, wa tobayyezo behi wajhee, wa tosaddeqo behi hadeesee",
+        "translation": {
+          "en": "so that my excuse becomes clear, my face is illuminated, my statements prove true, my argument is successful,"
+        }
+      },
+      {
+        "number": 52,
+        "type": "content",
+        "arabic": "وَ تُفْلِجُ بِهٖ حُجَّتِيْ، وَ تُبَلِّغُنِيْ بِهِ الْعُرْوَةَ الْقُصْوٰى مِنْ رَحْمَتِكَ، وَ تُحِلُّنِيْ الدَّرَجَةَ الْعُلْيَا مِنْ جَنَّتِكَ",
+        "transliteration": "wa tuflejo behi hujjatee, wa toballeghonee behil u’rwatal quswaa min rahmateka, wa tohillonid darajatal u’lyaa min jannateka",
+        "translation": {
+          "en": "and You lead to the strong support of your mercy and settle me in the loftiest stage of Paradise."
+        }
+      },
+      {
+        "number": 53,
+        "type": "content",
+        "arabic": "وَ تَرْزُقُنِيْ بِهٖ مُرَافَقَةَ مُحَمَّدٍ النَّبِيِّ عَبْدِكَ وَ رَسُوْلِكَ صَلَّى اللهُ عَلَيْهِ وَ اٰلِہٖ فِيْ اَعْلَى الْجَنَّةِ دَرَجَةً، وَ اَبْلَغِهَا فَضِيْلَةً وَ اَبَرِّهَا عَطِيَّةً،",
+        "transliteration": "wa tarzoqonee behi moraafaqata mohammadenin nabiyye a’bdeka wa rasooleka sallal laaho a’layhe wa aalehi fee a-a’lal jannate darajatan, wa ablaghehaa fazeelatan waabarrehaa a’tiyyatan, <",
+        "translation": {
+          "en": "Bestow upon me the companionship of Muhammad, who is your servant and messenger and loftiest stage of Paradise, which is the highest stage of excellence and your supreme bestowal and the loftiest place,"
+        }
+      },
+      {
+        "number": 54,
+        "type": "content",
+        "arabic": "وَ اَرْفَعِهَا نَفْسَةً مَعَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ مِنَ النَّبِيِّيْنَ وَ الصِّدِّيْقِيْنَ وَ الشُّهَدَاءِ وَ الصَّالِحِيْنَ، وَ حَسُنَ اُوْلٰئِكَ رَفِيْقًا.",
+        "transliteration": "wa arfa-e’haa nafsatan ma-a’l lazeena an-a’mta a’layhim menan nabiyyeena was siddeeqeena wash shohadaa-e was saaleheena, wa hasona oolaa-eka rafeeqan.",
+        "translation": {
+          "en": "deem me among those people, upon whom You have bestowed bounties, and who are your prophets, truthful ones and the righteous and who are the best companions."
+        }
+      },
+      {
+        "number": 55,
+        "type": "content",
+        "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ خَاتَمِ النَّبِيِّيْنَ، وَ عَلٰى جَمِيْعِ الْاَنْبِيَاءِ وَ الْمُرْسَلِيْنَ، وَ عَلَى الْمَلَائِكَةِ اَجْمَعِيْنَ، وَ عَلٰى آلِهِ الطَّيِّبِيْنَ الطَّاهِرِيْنَ وَ عَلٰى اَئِمَّةِ الْهُدٰى اَجْمَعِيْنَ، اٰمِيْنَ رَبَّ الْعَالَمِيْنَ.",
+        "transliteration": "allaahumma salle a’laa mohammadin khaatamin nabiyyeena, wa a’laa jamee-i’l anbeyaa-e wal mursaleena, wa a’lal malaa-ekate ajma-e’ena, wa a’laa aalehit tayyebeenattaahereena wa a’laa a-immatil hodaa ajma-e’ena, aameena rabbal a’alameena.<",
+        "translation": {
+          "en": "O God, bless Muhammad, who is the seal of the prophets and on all the prophets and messengers and all the proximate angels and their purified and chaste progeny and all guiding and guided Imams, amen, O Lord of the worlds."
+        }
+      },
+      {
+        "number": 56,
+        "type": "content",
+        "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ كَمَا هَدَيْتَنَا بِهٖ، وَ صَلِّ عَلٰى مُحَمَّدٍ كَمَا رَحِمْتَنَا بِهٖ.",
+        "transliteration": "allaahumma salle a’laa mohammadin kamaa hadaytanaa behi, wa salle a’laa mohammadin kamaa rahimtanaa behi.",
+        "translation": {
+          "en": "O God, bless Muhammad, like You guided us through him and bless him, like You blessed us through him"
+        }
+      },
+      {
+        "number": 57,
+        "type": "content",
+        "arabic": "وَ صَلِّ عَلٰى مُحَمَّدٍ كَمَا عَزَّزْتَنَا بِهٖ، وَ صَلِّ عَلٰى مُحَمَّدٍ كَمَا فَضَّلْتَنَا بِهٖ.",
+        "transliteration": "wa salle a’laa mohammadin kamaa a’zzaztanaa behi, wa salle a’laa mohammadin kamaa fazzaltanaa behi.",
+        "translation": {
+          "en": "and bless him like You bestowed honor upon us through him. And send mercy upon him like You gave excellence to us through him"
+        }
+      },
+      {
+        "number": 58,
+        "type": "content",
+        "arabic": "وَ صَلِّ عَلٰى مُحَمَّدٍ كَمَا شَرَّفْتَنَا بِهٖ، وَ صَلِّ عَلٰى مُحَمَّدٍ كَمَا نَصَرْتَنَا بِهٖ.",
+        "transliteration": "wa salle a’laa mohammadin kamaa sharraftanaa behi, wa salle a’laa mohammadin kamaa nasartanaa behi.",
+        "translation": {
+          "en": "and send mercy on him, like You gave nobility to us through him. And send mercy on him like You helped us through him."
+        }
+      },
+      {
+        "number": 59,
+        "type": "content",
+        "arabic": "وَ صَلِّ عَلٰى مُحَمَّدٍ كَمَا اَنْقَذْتَنَا بِهٖ مِنْ شَفَا حُفْرَةٍ مِنَ النَّارِ.",
+        "transliteration": "wa salle a’laa mohammadin kamaa anqaztanaa behi min shafaa hufratin menan naare.",
+        "translation": {
+          "en": "And send mercy on him like You removed us from the edge of hell through him."
+        }
+      },
+      {
+        "number": 60,
+        "type": "content",
+        "arabic": "اَللّٰهُمَّ بَيِّضْ وَجْهَهٗ، وَ اَعْلِ كَعْبَهٗ، وَ اَفْلِجْ حُجَّتَهٗ، وَ اَتْمِمْ نُوْرَهٗ، وَ ثَقِّلْ مِيْزَانَهٗ، وَ عَظِّمْ بُرْهَانَهٗ، وَ افْسَحْ لَهٗ حَتّٰى يَرْضٰى، وَ بَلِّغْهُ الدَّرَجَةَ وَ الْوَسِيْلَةَ مِنَ الْجَنَّةِ، وَ ابْعَثْهُ الْمَقَامَ الْمَحْمُوْدَ الَّذِيْ وَعَدْتَهٗ، وَ اجْعَلْهُ اَفْضَلَ النَّبِيِّيْنَ وَ الْمُرْسَلِيْنَ عِنْدَكَ مَنْزِلَةً وَ وَسِيْلَةً.",
+        "transliteration": "allaahumma bayyiz wajhahu, wa a-a’le ka’bahu, wa aflij hujjatahu, wa atmim noorahu, wa saqqil meezaanahu, wa a’zzim burhaanahu, waf sah lahu hattaa yarzaa, wa ballighhud darajata wal waseelata menal jannate, wab a’shul maqaamal mahmoodal lazee wa-a’dtahu waj a’lho afzalan nabiyyeena wal mursaleena i’ndaka manzelatan wa waseelatan.",
+        "translation": {
+          "en": "O God, illuminate his face, raise his rank, make his proof successful, complete his effulgence, make the criterion of his deeds heavy, deem his proof to be great and bestow such wideness to him that he is satisfied, convey him to the ranks of Paradise and mediation and bestow that praised station that You promised him. Make him, in your view, loftier than all prophets and messengers."
+        }
+      },
+      {
+        "number": 61,
+        "type": "content",
+        "arabic": "وَ اقْصُصْ بِنَا اَثَرَهٗ، وَ اسْقِنَا بِكَاْسِهٖ، وَ اَوْرِدْنَا حَوْضَهٗ، وَ احْشُرْنَا فِيْ زُمْرَتِهٖ، وَ تَوَفَّنَا عَلٰى مِلَّتِهٖ، وَ اسْلُكْ بِنَا سُبُلَهٗ، وَ اسْتَعْمِلْنَا بِسُنَّتِهٖ، غَيْرَ خَزَايَا وَ لَا نَادِمِيْنَ، وَ لَا شَاكِّيْنَ، وَ لَا مُبَدِّلِيْنَ.‏",
+        "transliteration": "waq sus benaa asarahu, was qenaa bekaasehi, wa awridnaa hawzahu, wah shurnaa fee zumratehi, wa tawaffanaa a’laa millatehi, was luk benaa sobolahu, was ta’milnaa be-sunnatehi, ghayra khazaa-yaa wa laa naademeena, wa laa shaakkeena, wa laa mobaddeleena.",
+        "translation": {
+          "en": "Make us tread his footsteps and quench us through his glass, make us reach his pool, include us among his group, and make us die on his religion, make us tread his path, make us act on his practice, where there is neither disgrace nor same, nor any doubt or change in the beliefs."
+        }
+      },
+      {
+        "number": 62,
+        "type": "content",
+        "arabic": "يَا مَنْ بَابُهٗ مَفْتُوْحٌ لِدَاعِيْهِ، وَ حِجَابُهٗ مَرْفُوْعٌ لِرَاجِيْهِ، يَا سَاتِرَ الْاَمْرِ الْقَبِيْحِ، وَ مُدَاوِيْ الْقَلْبِ الْجَرِيْحِ، لَا تَفْضَحْنِيْ فِيْ مَشْهَدِ الْقِيَامَةِ بِمُوْبِقَاتِ الْاٰثَامِ، وَ لَا تُعْرِضْ بِوَجْهِكَ الْكَرِيْمِ عَنِّيْ مِنْ بَيْنِ الْاَنَامِ.",
+        "transliteration": "yaa man baabohu maftoohun le-daa-e’ehe, wa hejaabohu marfoo-u’n le-raajeehe, yaa saateral amril qabeehe, wa modaa-wil qalbil jareehe, laa tafzahnee fee mash-hadil qeyaamate bemoobeqaatil aasaame, wa laa to’riz be-wajhekal kareeme a’nnee min baynil anaame.",
+        "translation": {
+          "en": "O One, whose door is open for the supplicants, whose curtains are lifted for the hopeful, O concealer of disgraceful acts, and One, who cures the injured heart, do notdisgrace us on Judgment Day due to fatal sins, and don’t turn away your merciful face from me among the creatures.<"
+        }
+      },
+      {
+        "number": 63,
+        "type": "content",
+        "arabic": "يَا غَايَةَ الْمُضْطَرِّ الْفَقِيْرِ، وَ يَا جَابِرَ الْعَظْمِ الْكَسِيْرِ، هَبْ لِيْ مُوْبِقَاتِ الْجَرَائِرِ، وَ اعْفُ عَنْ فَاضِحَاتِ السَّرَائِرِ، وَ اغْسِلْ قَلْبِيْ مِنْ وِزْرِ الْخَطَايَا، وَ ارْزُقْنِيْ حُسْنَ الْاِسْتِعْدَادِ لِنُزُوْلِ الْمَنَايَا.",
+        "transliteration": "yaa ghaayatal muztarril faqeere, wa yaa jaberal a’zmil kaseere, hab lee moobeqaatil jaraa-ere, wa’ fo a’n faazehaatis saraa-ere, wagh sil qalbee min wizril khataayaa, war zuqnee husnal iste’daade lenozoolil manaayaa.",
+        "translation": {
+          "en": "O final hope of the beggar, O joiner of broken bones. Bestow upon me forgiveness and overlook our concealed sins, clean our heart from the dirt of sins and bestow us the best readiness for the time of death."
+        }
+      },
+      {
+        "number": 64,
+        "type": "content",
+        "arabic": "يَا اَكْرَمَ الْاَكْرَمِيْنَ وَ مُنْتَهٰى اُمْنِيَّةِ السَّائِلِيْنَ، اَنْتَ مَوْلَايَ، فَتَحْتَ لِيْ بَابَ الدُّعَاءِ وَ الْاِنَابَةِ،",
+        "transliteration": "yaa akramal akrameena wa muntahaa umniyyatil saaeleena, anta mawlaaya, fatahta lee baabad do-a’a-e wal enaabate, <",
+        "translation": {
+          "en": "O the most noble from the nobles and the last center of the hopes of petitioners, You are my master."
+        }
+      },
+      {
+        "number": 65,
+        "type": "content",
+        "arabic": "فَلَا تُغْلِقْ عَنِّيْ بَابَ الْقَبُوْلِ وَ الْاِجَابَةِ، وَ نَجِّنِيْ بِرَحْمَتِكَ مِنَ النَّارِ، وَ بَوِّئْنِيْ غُرُفَاتِ الْجِنَانِ،",
+        "transliteration": "falaa tughliq a’nnee baabal qaboole wal ejaabate, wanajjenee be-rahmateka menan naare, wa bawweanee ghorofaatil jenaane,",
+        "translation": {
+          "en": "If You have opened the doors of repentance, do not close the doors of acceptance and on the basis of your mercy, save us from the chastisement of hell and accommodate us inthe chambers of Paradise. <"
+        }
+      },
+      {
+        "number": 66,
+        "type": "content",
+        "arabic": "وَ اجْعَلْنِيْ مُتَمَسِّكًا بِالْعُرْوَةِ الْوُثْقٰى، وَ اخْتِمْ لِيْ بِالسَّعَادَةِ.",
+        "transliteration": "waj a’lnee motamassekan bil-u’rwatil wusqaa, wakh tim lee bis-sa-a’adate.",
+        "translation": {
+          "en": "Through your strong support give us the good sense (Taufeeq) of attachment and make our end be on righteousness."
+        }
+      },
+      {
+        "number": 67,
+        "type": "content",
+        "arabic": "وَ اَحْيِنِيْ بِالسَّلَامَةِ يَا ذَا الْفَضْلِ وَ الْكَمَالِ، وَ الْعِزَّةِ وَ الْجَلَالِ وَ لَا تُشْمِتْ بِيْ عَدُوًّا وَ لَا حَاسِدًا،",
+        "transliteration": "wa ahyenee bis-salaamate yaa zal fazle wal kamaale, wal i’zzate wal jalaale",
+        "translation": {
+          "en": "Keep us alive with health, O owner of grace and perfection and master of honor and majesty;"
+        }
+      },
+      {
+        "number": 68,
+        "type": "content",
+        "arabic": "وَ لَا تُسَلِّطْ عَلَيَّ سُلْطَانًا عَنِيْدًا وَ لَا شَيْطَانًا مَرِيْدًا،",
+        "transliteration": "wa laa tushmit bee a’duwwan wa laa haasedan, wa laa tosallit a’layya sultaanan a’needan wa laa shaytaanin mareedan,",
+        "translation": {
+          "en": "do not give chance to our enemies and jealous ones to ridicule us and do not impose upon us any tyrant or rebellious satan."
+        }
+      },
+      {
+        "number": 69,
+        "type": "content",
+        "arabic": "بِرَحْمَتِكَ يَا اَرْحَمَ الرَّاحِمِيْنَ، وَ لَا حَوْلَ وَ لَا قُوَّةَ اِلَّا بِاللهِ الْعَلِيِّ الْعَظِيْمِ، وَ صَلَّي اللهُ عَلى مُحَمَّدٍ وَ اٰلِہٖ وَ سَلَّمَ تَسْلِیْمًا‏.",
+        "transliteration": "be-rahmateka yaa arhamar raahemeen, wa laa hawla wa laa quwwata illaa billaahil a’liyyil a’zeeme, wa sallal laaho a’laa mohammadin wa aalhi wa sallama tasleeman",
+        "translation": {
+          "en": "Through your perfect mercy, O the best of those, who are merciful. And there is no strength or power, except for Allah, the high and the mighty, and may Allah bless Muhammad and his progeny with the best of the blessings."
+        }
+      }
+    ],
+    "source": "mafatih",
+    "subcategory": "Particular Taqeebat Salat"
+  },
+  {
+    "id": "maghrib-taqeebaat",
+    "name": "Maghrib Taqeebaat",
+    "category": "taqeebat",
+    "segmentCount": 44,
+    "mafatihId": 1355,
+    "segments": [
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "As quoted from Misbah al-Mutahajjid"
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "After accomplishment of Tasbih al-Zahra’, it is recommended to say the following invocation of blessings:"
+        }
+      },
+      {
+        "number": 1,
+        "type": "content",
+        "arabic": "إِنَّ ٱللَّهَ وَمَلاَئِكَتَهُ يُصَلُّون عَلَىٰ ٱلنَّبِيِّ",
+        "transliteration": "inna allaha wa mala'ikatahu yusalluna `ala alnnabiyyi",
+        "translation": {
+          "en": "“Surely, Allah and His angels bless the Prophet."
+        }
+      },
+      {
+        "number": 2,
+        "type": "content",
+        "arabic": "يَا أَيُّهَا ٱلَّذينَ آمَنُوٱ صَلُّوٱ عَلَيْهِ وَسَلِّمُوٱ تَسْليماً﴾",
+        "transliteration": "ya ayyuha alladhina amanu sallu `alayhi wa sallimu tasliman",
+        "translation": {
+          "en": "O you who believe! Call for Divine blessings on him and salute him with a becoming salutation.”"
+        }
+      },
+      {
+        "number": 3,
+        "type": "content",
+        "arabic": "اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّد ٱلنَّبِيِّ",
+        "transliteration": "allahumma salli `ala muhammadin alnnabiyyi",
+        "translation": {
+          "en": "O Allah, send blessings to Muhammad the Prophet,"
+        }
+      },
+      {
+        "number": 4,
+        "type": "content",
+        "arabic": "وَعَلَىٰ ذُرِّيَّتِهِ",
+        "transliteration": "wa `ala dhurriyyatihi",
+        "translation": {
+          "en": "upon his offspring,"
+        }
+      },
+      {
+        "number": 5,
+        "type": "content",
+        "arabic": "وَعَلَىٰ أَهلِ بَيْتِهِ",
+        "transliteration": "wa `ala ahli baytihi",
+        "translation": {
+          "en": "and upon his Household."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "Then, repeat the following litany seven times:"
+        }
+      },
+      {
+        "number": 6,
+        "type": "content",
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمٰنِ ٱلرَّحِيمِ",
+        "transliteration": "bismi allahi alrrahmani alrrahimi",
+        "translation": {
+          "en": "In the Name of Allah; the All-beneficent, the All-merciful."
+        }
+      },
+      {
+        "number": 7,
+        "type": "content",
+        "arabic": "وَلاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِٱللَّهِ ٱلْعَلِيِّ ٱلْعَظيِمِ",
+        "transliteration": "wa la hawla wa la quwwata illa billahi al`aliyyi al`azimi",
+        "translation": {
+          "en": "There is neither might nor power save with Allah, the All-high, the All-great."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "Then, repeat the following doxology three times:"
+        }
+      },
+      {
+        "number": 8,
+        "type": "content",
+        "arabic": "اَلْحَمْدُ لِلَّهِ ٱلَّذي يَفْعَلُ مَا يَشَاءُ",
+        "transliteration": "alhamdu lillahi alladhi yaf`alu ma yasha'u",
+        "translation": {
+          "en": "All praise be to Allah Who does whatever He desires,"
+        }
+      },
+      {
+        "number": 9,
+        "type": "content",
+        "arabic": "وَلاَ يَفْعَلُ مَا يَشَاءُ غَيْرُهُ",
+        "transliteration": "wa la yaf`alu ma yasha'u ghayruhu",
+        "translation": {
+          "en": "and none else can ever do whatever one desires save Him."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "Then, say the following supplicatory prayer:"
+        }
+      },
+      {
+        "number": 10,
+        "type": "content",
+        "arabic": "سُبْحَانَكَ لاَ إِلٰهَ إِلاَّ أَنْتَ",
+        "transliteration": "subhanaka la ilaha illa anta",
+        "translation": {
+          "en": "All glory be to You. There is no god save You."
+        }
+      },
+      {
+        "number": 11,
+        "type": "content",
+        "arabic": "إِغْفِرْ لِي ذُنُوبِي كُلَّهَا جَمِيعاً",
+        "transliteration": "ighfir li dhunubi kullaha jami`an",
+        "translation": {
+          "en": "Forgive my sins all in all,"
+        }
+      },
+      {
+        "number": 12,
+        "type": "content",
+        "arabic": "فَإِنَّهُ لاَ يَغْفِرُ ٱلذُّنُوبَ كُلَّهَا جَمِيعاً إِلاَّ أَنْتَ",
+        "transliteration": "fa'innahu la yaghfiru aldhdhunuba kullaha jami`an illa anta",
+        "translation": {
+          "en": "for none can forgive all sins save You."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "You may then offer the Sunset supererogatory (Nafilah) prayer, which consists of four units of prayer, each two separated by a Taslim statement. You should not utter any word between the two parts of the prayer."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "According to the Shaykh, it has been narrated that <ref=1:109>Surah Al-Kafirun</ref>\n should be recited in the first unit and Surah al-Tawheed in the second. In the third and fourth units, it is optional to recite any other Surah desired."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "It has been also narrated that Imam Ali al-Naqi (al-Hadi) (a.s.) used to recite, in the third unit (Rak’ah) of this prayer, Surah al-Faatehah and <ref=1:57:1-6>the first six verses of Surah al-Hadid</ref> , and in the fourth unit, Surah al-Faatehah and <ref=1:59:21-24>last verses of Surah al-Hashr</ref> ."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "It is also recommended to repeat the following supplicatory prayer seven times in the last prostration (sajdah) of all supererogatory prayers each night, especially at Friday nights (i.e. the night before Friday):"
+        }
+      },
+      {
+        "number": 13,
+        "type": "content",
+        "arabic": "اَللَّهُمَّ إِنِّي اسْالُكَ بِوَجْهِكَ ٱلْكَرِيـمِ",
+        "transliteration": "allahumma inni as'aluka biwajhika alkarimi",
+        "translation": {
+          "en": "O Allah, I surely beseech You in the name of Your Honorable Face,"
+        }
+      },
+      {
+        "number": 14,
+        "type": "content",
+        "arabic": "وَٱسْمِكَ ٱلْعَظِيمِ",
+        "transliteration": "wasmika al`azimi",
+        "translation": {
+          "en": "Your Tremendous Name,"
+        }
+      },
+      {
+        "number": 15,
+        "type": "content",
+        "arabic": "وَمُلْكِكَ ٱلْقَدِيـمِ",
+        "transliteration": "wa mulkika alqadimi",
+        "translation": {
+          "en": "and Your Timeless Kingdom,"
+        }
+      },
+      {
+        "number": 16,
+        "type": "content",
+        "arabic": "انْ تُصَلِّيَ عَلَىٰ مُحَمَّد وَآلِهِ",
+        "transliteration": "an tusalliya `ala muhammadin wa alihi",
+        "translation": {
+          "en": "to send blessings to Muhammad and his Household"
+        }
+      },
+      {
+        "number": 17,
+        "type": "content",
+        "arabic": "وَ انْ تَغْفِرَ لِي ذَنْبِيَ ٱلْعَظِيمَ",
+        "transliteration": "wa an taghfira li dhanbiya al`azima",
+        "translation": {
+          "en": "and to forgive my enormous sin;"
+        }
+      },
+      {
+        "number": 18,
+        "type": "content",
+        "arabic": "إِنَّهُ لاَ يَغْفِرُ ٱلْعَظِيمَ إِلاَّ ٱلْعَظِيمُ",
+        "transliteration": "innahu la yaghfiru al`azima illa al`azimu",
+        "translation": {
+          "en": "for none can forgive the enormous save the All-tremendous (Lord)."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "When you accomplish the supererogatory prayer, you may utter any supplication you like."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "You may then repeat the following litany ten times:"
+        }
+      },
+      {
+        "number": 19,
+        "type": "content",
+        "arabic": "مَا شَاءَ ٱللَّهُ",
+        "transliteration": "ma sha'a allahu",
+        "translation": {
+          "en": "Only that which Allah wills shall come to pass!"
+        }
+      },
+      {
+        "number": 20,
+        "type": "content",
+        "arabic": "لاَ قُوَّةَ إِلاَّ بِٱللَّهِ",
+        "transliteration": "la quwwata illa billahi",
+        "translation": {
+          "en": "There is no strength save with Allah."
+        }
+      },
+      {
+        "number": 21,
+        "type": "content",
+        "arabic": "اَسْتَغْفِرُ ٱللَّهَ",
+        "transliteration": "astaghfiru allaha",
+        "translation": {
+          "en": "I pray the forgiveness of Allah."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "You may then add the following:"
+        }
+      },
+      {
+        "number": 22,
+        "type": "content",
+        "arabic": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ مُوجِبَاتِ رَحْمَتِكَ",
+        "transliteration": "allahumma inni as'aluka mujibati rahmatika",
+        "translation": {
+          "en": "O Allah! I beseech You for the motives of Your mercy,"
+        }
+      },
+      {
+        "number": 23,
+        "type": "content",
+        "arabic": "وَعَزَائِمِ مَغْفِرَتِكَ",
+        "transliteration": "wa `aza'ima maghfiratika",
+        "translation": {
+          "en": "the determining causes of Your forgiveness,"
+        }
+      },
+      {
+        "number": 24,
+        "type": "content",
+        "arabic": "وَٱلنَّجَاةَ مِنَ ٱلنَّارِ",
+        "transliteration": "walnnajata mina alnnari",
+        "translation": {
+          "en": "deliverance from Hellfire"
+        }
+      },
+      {
+        "number": 25,
+        "type": "content",
+        "arabic": "وَمِنْ كُلِّ بِلِيَّةٍ",
+        "transliteration": "wa min kulli baliyyatin",
+        "translation": {
+          "en": "and all misfortunes,"
+        }
+      },
+      {
+        "number": 26,
+        "type": "content",
+        "arabic": "وَٱلْفَوْزَ بِٱلْجَنَّةِ",
+        "transliteration": "walfawza biljannati",
+        "translation": {
+          "en": "winning Paradise,"
+        }
+      },
+      {
+        "number": 27,
+        "type": "content",
+        "arabic": "وَٱلرِّضْوَانِ في دَارِ ٱلسَّلاَمِ",
+        "transliteration": "walrridwani fi dari alssalami",
+        "translation": {
+          "en": "Divine Contentment in the Abode of Peace,"
+        }
+      },
+      {
+        "number": 28,
+        "type": "content",
+        "arabic": "وَجَوَارِ نَبِيِّكَ مُحَمَّدٍ عَلَيْهِ وَآلِهِ ٱلسَّلاَمُ",
+        "transliteration": "wa jiwari nabiyyika muhammadin `alayhi wa alihi alssalamu",
+        "translation": {
+          "en": "and the vicinity of Your Prophet Muhammad—peace be upon him and his Household."
+        }
+      },
+      {
+        "number": 29,
+        "type": "content",
+        "arabic": "اَللَّهُمَّ مَا بِنَا مِنْ نِعْمَةٍ فَمِنْكَ",
+        "transliteration": "allahumma ma bina min ni`matin faminka",
+        "translation": {
+          "en": "O Allah, You are certainly the source of each and every favor that covers us."
+        }
+      },
+      {
+        "number": 30,
+        "type": "content",
+        "arabic": "لاَ إِلٰهَ إِلاَّ أَنْتَ",
+        "transliteration": "la ilaha illa anta",
+        "translation": {
+          "en": "There is no god save You."
+        }
+      },
+      {
+        "number": 31,
+        "type": "content",
+        "arabic": "أَسْتَغْفِرُكَ وَ أَتُوبُ إِلَيْكَ",
+        "transliteration": "astaghfiruka wa atubu ilayka",
+        "translation": {
+          "en": "I pray Your forgiveness and I repent before You."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "<ref=3:1194>Salaat Ghufaylah</ref>"
+        }
+      }
+    ],
+    "source": "mafatih",
+    "subcategory": "Particular Taqeebat Salat"
+  },
+  {
+    "id": "asr-taqeebaat",
+    "name": "Asr Taqeebaat",
+    "category": "taqeebat",
+    "segmentCount": 58,
+    "mafatihId": 1356,
+    "segments": [
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "As quoted from Misbah al-Mutahajjid"
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "Subsequent to the Afternoon (Asr) Prayer, say the following supplicatory prayer, as is quoted from Misbah al-Mutahajjid:"
+        }
+      },
+      {
+        "number": 1,
+        "type": "content",
+        "arabic": "أَسْتَغْفِرُ ٱللَّهَ ٱلَّذِي لاَ إِلٰهَ إِلاَّ هُوَ",
+        "transliteration": "astaghfiru allaha alladhi la ilaha illa huwa",
+        "translation": {
+          "en": "I pray the forgiveness of Allah; there is no god save Him,"
+        }
+      },
+      {
+        "number": 2,
+        "type": "content",
+        "arabic": "ٱلْحَيُّ ٱلْقَيُّومُ",
+        "transliteration": "alhayyu alqayyumu",
+        "translation": {
+          "en": "the Ever-living, the Self-Subsisting,"
+        }
+      },
+      {
+        "number": 3,
+        "type": "content",
+        "arabic": "ٱلرَّحْمٰنُ ٱلرَّحِيمُ",
+        "transliteration": "alrrahmani alrrahimu",
+        "translation": {
+          "en": "the All-compassionate, the All-merciful,"
+        }
+      },
+      {
+        "number": 4,
+        "type": "content",
+        "arabic": "ذُو ٱلْجَلاَلِ وَٱلإِكْرَامِ",
+        "transliteration": "dhu aljalali wal-ikrami",
+        "translation": {
+          "en": "and the Lord of Majesty and Honor."
+        }
+      },
+      {
+        "number": 5,
+        "type": "content",
+        "arabic": "وَ أَسْأَلُهُ أَنْ يَتُوبَ عَلَيَّ",
+        "transliteration": "wa as'aluhu an yatuba `alayya",
+        "translation": {
+          "en": "And I ask Him to accept my repentance,"
+        }
+      },
+      {
+        "number": 6,
+        "type": "content",
+        "arabic": "تَوْبَةَ عَبْدٍ ذَلِيلٍ خَاضِعٍ",
+        "transliteration": "tawbata `abdin dhalilin khadi`in",
+        "translation": {
+          "en": "like His acceptance of the repentance of a slave who is submissive, acquiescent,"
+        }
+      },
+      {
+        "number": 7,
+        "type": "content",
+        "arabic": "فَقِيرٍ بَائِسٍ",
+        "transliteration": "faqirin ba'isin",
+        "translation": {
+          "en": "poor, miserable,"
+        }
+      },
+      {
+        "number": 8,
+        "type": "content",
+        "arabic": "مِسْكِينٍ مُسْتَكِينٍ مُسْتَجِيرٍ",
+        "transliteration": "miskinin mustakinin mustajirin",
+        "translation": {
+          "en": "despondent, dejected, seeking refuge (with Him),"
+        }
+      },
+      {
+        "number": 9,
+        "type": "content",
+        "arabic": "لاَ يَمْلِكُ لِنَفْسِهِ نَفْعَاً وَلاَ ضَرّاً",
+        "transliteration": "la yamliku linafsihi naf`an wa la darran",
+        "translation": {
+          "en": "not controlling for himself any harm or profit,"
+        }
+      },
+      {
+        "number": 10,
+        "type": "content",
+        "arabic": "وَلاَ مَوْتاً وَلاَ حَيَاةً وَلاَ نُشُوراً",
+        "transliteration": "wa la mawtan wa la hayatan wa la nushuran",
+        "translation": {
+          "en": "and not controlling death nor life nor raising (the dead) to life."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "You may then say the following supplicatory prayer:"
+        }
+      },
+      {
+        "number": 11,
+        "type": "content",
+        "arabic": "ا َللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ نَفْسٍ لاَ تَشْبَعُ",
+        "transliteration": "allahumma inni a`udhu bika min nafsin la tashba`u",
+        "translation": {
+          "en": "O Allah, I surely seek Your protection against a self that never has enough,"
+        }
+      },
+      {
+        "number": 12,
+        "type": "content",
+        "arabic": "وَمِنْ قَلْبٍ لاَ يَخْشَعُ",
+        "transliteration": "wa min qalbin la yakhsha`u",
+        "translation": {
+          "en": "a heart that does not feel apprehension,"
+        }
+      },
+      {
+        "number": 13,
+        "type": "content",
+        "arabic": "وَمِنْ عِلْمٍ لاَ يَنْفَعُ",
+        "transliteration": "wa min `ilmin la yanfa`u",
+        "translation": {
+          "en": "knowledge that does not avail,"
+        }
+      },
+      {
+        "number": 14,
+        "type": "content",
+        "arabic": "وَمِنْ صَلاَةٍ لاَ تُرْفَعُ",
+        "transliteration": "wa min salatin la turfa`u",
+        "translation": {
+          "en": "a prayer that is not accepted,"
+        }
+      },
+      {
+        "number": 15,
+        "type": "content",
+        "arabic": "وَمِنْ دُعَاءٍ لاَ يُسْمَعُ",
+        "transliteration": "wa min du`a'in la yusma`u",
+        "translation": {
+          "en": "and a supplication that is not responded."
+        }
+      },
+      {
+        "number": 16,
+        "type": "content",
+        "arabic": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ ٱلْيُسْرَ بَعْدَ ٱلْعُسْرِ",
+        "transliteration": "allahumma inni as'aluka alyusra ba`da al`usri",
+        "translation": {
+          "en": "O Allah, I surely beseech You for easiness after difficulty,"
+        }
+      },
+      {
+        "number": 17,
+        "type": "content",
+        "arabic": "وَٱلْفَرَجَ بَعْدَ ٱلْكَرْبِ",
+        "transliteration": "walfaraja ba`da alkarbi",
+        "translation": {
+          "en": "relief after misfortune,"
+        }
+      },
+      {
+        "number": 18,
+        "type": "content",
+        "arabic": "وَٱلرَّخَاءَ بَعْدَ ٱلشِّدَّةِ",
+        "transliteration": "walrrakha'a ba`da alshshiddati",
+        "translation": {
+          "en": "and comfort after hardship."
+        }
+      },
+      {
+        "number": 19,
+        "type": "content",
+        "arabic": "اَللَّهُمَّ مَا بِنَا مِنْ نِعْمَةٍ فَمِنْكَ",
+        "transliteration": "allahumma ma bina min ni`matin faminka",
+        "translation": {
+          "en": "O Allah, You are certainly the source of each and every favor that covers us."
+        }
+      },
+      {
+        "number": 20,
+        "type": "content",
+        "arabic": "لاَ إِلٰهَ إِلاَّ أَنْتَ",
+        "transliteration": "la ilaha illa anta",
+        "translation": {
+          "en": "There is no god save You."
+        }
+      },
+      {
+        "number": 21,
+        "type": "content",
+        "arabic": "أَسْتَغْفِرُكَ وَ أَتُوبُ إِلَيْكَ",
+        "transliteration": "astaghfiruka wa atubu ilayka",
+        "translation": {
+          "en": "I pray Your forgiveness and repent before You."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "Imam Ja’far al-Sadiq(a.s.) is reported as saying: Anyone who implores Almighty Allah’s forgiveness (i.e. Astaghfirullah) seventy times after the Asr Prayer will have seven hundred of his sins forgiven."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "Imam Muhammad al-Taqi (al-Jawad) (a.s.) is also reported as saying: Anyone who recites <ref=1:97>Surah Al-Qadr</ref>\nten times after the Asr Prayer will be granted the reward of the deeds of all creatures on that day."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "It is also recommended to say <ref=3:1306>Dua Al-Asharaat</ref>  every morning and evening. Yet, the best time for this supplication is the time after the Asr Prayers on Fridays"
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "Syeda Fatima Zehra (sa) Dua after Asr Salat"
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "From Sahifa Zehra(sa)"
+        }
+      },
+      {
+        "number": 22,
+        "type": "content",
+        "arabic": "سُبْحَانَ مَنْ يَعْلَمُ جَوَارِحَ الْقُلُوْبِ، سُبْحَانَ مَنْ يُحْصِيْ عَدَدَ الذُّنُوْبِ، سُبْحَانَ مَنْ لَا يَخْفٰى عَلَيْهِ خَافِيَةٌ فِيْ الْاَرْضِ وَ لَا فِيْ السَّمَاءِ.",
+        "transliteration": "subhaana man ya’lamo jawaarehal qoloobe, subhaana man yohsee a’dadaz zonoobe, subhaana man laa yakhfaa a’layhe khaafeyatun fil arze wa laa fis samaa-e.",
+        "translation": {
+          "en": "Glorified be the one, Who is aware of the thoughts of the minds. Glorified be the one, Who calculates the number of sins. Glorified be the one, from Whom nothing from the heavens and the earth is concealed."
+        }
+      },
+      {
+        "number": 23,
+        "type": "content",
+        "arabic": "وَ الْحَمْدُ لِلهِ الَّذِيْ لَمْ يَجْعَلْنِيْ كَافِرًا لِاَنْعُمِهٖ، وَ لَا جَاحِدًا لِفَضْلِهٖ، فَالْخَيْرُ فِيْهِ، وَ هُوَ اَهْلُهٗ.",
+        "transliteration": "wal hamdo lillaahil lazee lam yaj-a’lnee kaaferan le-ano’mehi, wa laa jaahedan le-fazlehi, fal-khayro feehe, wa howa ahlohu.",
+        "translation": {
+          "en": "Praise be to God, who did not make me a denier of His bounties and the rejecter of His favors; all good is for Him and only He is capable of that."
+        }
+      },
+      {
+        "number": 24,
+        "type": "content",
+        "arabic": "وَ الْحَمْدُ لِلهِ عَلٰى حُجَّتِهِ الْبَالِغَةِ عَلٰى جَمِيْعِ مَنْ خَلَقَ، مِمَّنْ اَطَاعَهٗ وَ مِمَّنْ عَصَاهُ، فَاِنْ رَحِمَ فَمِنْ مَنِّهٖ، وَ اِنْ عَاقَبَ فَبِمَا قَدَّمَتْ اَيْدِيْهِمْ وَ مَا اللهُ بِظَلَّامٍ لِلْعَبِيْدِ، وَ الْحَمْدُ لِلهِ الْعَلِيِّ الْمَكَانِ، وَ الرَّفِيْعِ الْبُنْيَانِ الشَّدِيْدِ الْاَرْكَانِ، الْعَزِيْزِ السُّلْطَانِ، الْعَظِيْمِ الشَّاْنِ، الْوَاضِحِ الْبُرْهَانِ الرَّحِيْمِ الرَّحْمٰنِ، الْمُنْعِمِ الْمَنَّانِ.",
+        "transliteration": "wal hamdo lillaahe a’laa hujjatehil baaleghate a’laa jamee-e’ man khalaqa, mimman ataa-a’hu wa mimman a’saaho, fa-in rahema famin mannehi, wa in a’aqaba fa-bemaa qaadamat aydeehim wa mal laaho be-zallaamin lil-a’beede, wal hamdo lillaahil a’liyyil makaane, war rafee-i’l bunyaanish shadeedil arkaanil, a’zeezis sultaanil, a’zeemish shaanil, waa-zehil burhaanir raheemir rahmaanil, mun-e’min mannaane.",
+        "translation": {
+          "en": "All praise is for God for the complete proof over all the creatures, whether they are obedient or disobedient. After that if He conducts with His mercy, it is His favor; and if He punishes, it is due to the sins of people and He does not oppress His servants."
+        }
+      },
+      {
+        "number": 25,
+        "type": "content",
+        "arabic": "اَلْحَمْدُ لِلهِ الَّذِيْ احْتَجَبَ عَنْ كُلِّ مَخْلُوْقٍ يَرَاهُ بِحَقِيْقَةِ الرُّبُوْبِيَّةِ وَ قُدْرَةِ الْوَحْدَانِيَّةِ، فَلَمْ تُدْرِكْهُ الْاَبْصَارُ، وَ لَمْ تُحِطْ بِهِ الْاَخْبَارُ، وَ لَمْ يُعَيِّنْهُ مِقْدَارٌ، وَ لَمْ يَتَوَهَّمْهُ اعْتِبَارٌ، لِاَنَّهُ الْمَلِكُ الْجَبَّارُ.",
+        "transliteration": "al-hamdo lillaahil lazeeh tajaba a’n kulle makhlooqin yaraaho be-haqeeqatir roboobiyyate wa qudratil wahdaaniyyate, falam tudrikhul absaaro, wa lam tohit behil akhbaaro, wa lam yo-a’yyinho miqdaarun, wa lam yatawahhamho’ tebaarun, le-annahul malekul jabbaaro.",
+        "translation": {
+          "en": "All praise is for God, whose rank is lofty and whose base is glorious, whose pillars are strong and whose kingdom is honorable, whose glory is great and whose proof is evident. He is merciful and beneficent, the bestower and one, who favors."
+        }
+      },
+      {
+        "number": 26,
+        "type": "content",
+        "arabic": "اَللّٰهُمَّ قَدْ تَرٰى مَكَانِيْ، وَ تَسْمَعُ كَلَامِيْ، وَ تَطَّلِعُ عَلٰى اَمْرِيْ، وَ تَعْلَمُ مَا فِيْ نَفْسِيْ، وَ لَيْسَ يَخْفٰى عَلَيْكَ شَيْ‏ءٌ مِنْ اَمْرِيْ، وَ قَدْ سَعَيْتُ اِلَيْكَ فِيْ طَلِبَتِيْ، وَ طَلَبْتُ اِلَيْكَ فِيْ حَاجَتِيْ، وَ تَضَرَّعْتُ اِلَيْكَ فِيْ مَسْاَلَتِيْ وَ سَاَلْتُكَ لِفَقْرٍ وَ حَاجَةٍ، وَ ذِلَّةٍ وَ ضِيْقَةٍ، وَ بُؤْسٍ وَ مَسْكَنَةٍ.",
+        "transliteration": "allaahumma qad taraa makaanee, wa tas-ma-o’ kalaamee, wa tattale-o’ a’laa amree, wa ta’lamo maa fee nafsee, wa laysa yakhfaa a’layka shay-un min amree, wa qad sa-a’yto elayka fee talebatee, wa talabto elayka fee haajatee, wa tazarra’to elayka fee mas-alatee wa sa-a’toka le-faqrin wa haajatin, wa zillatin wa zeeqatin, wa boasin wa maskanatin.",
+        "translation": {
+          "en": "All praise is for God, who has concealed Himself from all the creatures, whom He is seeing on the basis of reality of lordship and power of oneness. Therefore, the sights cannot reach upto Him and the news cannot encompass Him; no quantity can estimate Him and no consideration can even imagine Him, because He is the absolutely powerful ruler."
+        }
+      },
+      {
+        "number": 27,
+        "type": "content",
+        "arabic": "وَ اَنْتَ الرَّبُّ الْجَوَادُ بِالْمَغْفِرَةِ، تَجِدُ مَنْ تُعَذِّبُ غَيْرِيْ، وَ لَا اَجِدُ مَنْ يَغْفِرُ لِيْ غَيْرَكَ، وَ اَنْتَ غَنِيٌّ عَنْ عَذَابِيْ، وَ اَنَا فَقِيْرٌ اِلٰى رَحْمَتِكَ.",
+        "transliteration": "wa antar rabbul jawaado bil-maghferate, tajedo man to-a’zzebo ghayree, wa laa ajedo man yaghffero lee ghayraka, wa anta ghaniyyun a’n a’zaabee wa anaa faqeerun elaa rahmateka.",
+        "translation": {
+          "en": "O God, You are seeing my location and You listen to my statements, and You are aware of my matter, and You are aware of my self, and nothing is concealed from You. I have hastened towards You in my needs; and have presented my needs to You and I have begged You for my needs and begged to You on the basis of my poverty, hunger, humiliation, hard times and severities."
+        }
+      },
+      {
+        "number": 28,
+        "type": "content",
+        "arabic": "فَاَسْاَلُكَ بِفَقْرِيْ اِلَيْكَ وَ غِنَاكَ عَنِّيْ، وَ بِقُدْرَتِكَ عَلَيَّ وَ قِلَّةِ امْتِنَاعِيْ مِنْكَ اَنْ تَجْعَلَ دُعَائِيْ هٰذَا دُعَاءً وَافَقَ مِنْكَ اِجَابَةً، وَ مَجْلِسِيْ هٰذَا مَجْلِسًا وَافَقَ مِنْكَ رَحْمَةً، وَ طَلِبَتِيْ هٰذِهٖ طَلِبَةً وَافَقَتْ نَجَاحًا.",
+        "transliteration": "fa-as-aloka befaqree elayka wa ghenaaka a’nnee, wa be-qudrateka a’layya wa qillatim tenaa-e’e minka an taj-a’la do-a’a-ee haazaa do-a’a-an waafeqan minka ejaabatan, wa majlesee haazaa majlesan waafaqa minka rahmatan, wa talebatee haazehi talebatan waafa-qat najaahan.",
+        "translation": {
+          "en": "You are that Lord, who is generous through forgiveness, You will get others than me whom You can chastise, but I will not find anyone to forgive me other than You; You are needless of chastising me, but I am needful of your mercy."
+        }
+      },
+      {
+        "number": 29,
+        "type": "content",
+        "arabic": "وَ مَا خِفْتُ عُسْرَتَهٗ مِنَ الْاُمُوْرِ فَيَسِّرْهُ، وَ مَا خِفْتُ عَجْزَهٗ مِنَ الْاَشْيَاءِ فَوَسِّعْهُ، وَ مَنْ اَرَادَنِيْ بِسُوْءٍ مِنَ الْخَلَائِقِ كُلِّهِمْ فَاغْلِبْهُ، اٰمِيْنَ يَا اَرْحَمَ الرَّاحِمِيْنَ، وَ هَوِّنْ عَلَيَّ مَا خَشِيْتُ شِدَّتَهٗ، وَ اكْشِفْ عَنِّيْ مَا خَشِيْتُ كُرْبَتَهٗ، وَ يَسِّرْ لِيْ مَا خَشِيْتُ عُسْرَتَهٗ، اٰمِيْنَ (يَا) رَبَّ الْعَالَمِيْنَ.",
+        "transliteration": "wa maa khifto u’sratahu menal omoore fayassirho, wa maa khifto a’jzahu menal ash-yaa-e fawasse’-ho, wa man araadanee be-soo-in menal khalaa-eqe kullehim fagh-libho, aameena yaa arhamar raahemeena, wa hawwin a’layya maa khasheeto shiddatahu, wak shif a’nnee maa khasheeto kurbatahu, wa yassir lee maa khasheeto u’sratahu, aameena (yaa) rabbal a’alameena.",
+        "translation": {
+          "en": "Now, I am asking You on the basis of my poverty and your needlessness and on the basis of your perfect power and my weakness, I am begging from You that You make my supplication to be accompanied with your acceptance and make my gathering a gathering with which is your mercy and make my request such a request, which is accompanied with success."
+        }
+      },
+      {
+        "number": 30,
+        "type": "content",
+        "arabic": "اَللّٰهُمَّ انْزِعِ الْعُجْبَ وَ الرِّيَاءَ وَ الْكِبْرَ وَ الْبَغْيَ وَ الْحَسَدَ وَ الضَّعْفَ وَ الشَّكَّ وَ الْوَهْنَ وَ الضُّرَّ وَ الْاَسْقَامَ وَ الْخِذْلَانَ وَ الْمَكْرَ وَ الْخَدِيْعَةَ وَ الْبَلِيَّةَ وَ الْفَسَادَ، مِنْ سَمْعِيْ وَ بَصَرِيْ وَ جَمِيْعِ جَوَارِحِيْ، وَ خُذْ بِنَاصِيَتِيْ اِلٰى مَا تُحِبُّ وَ تَرْضٰى، يَا اَرْحَمَ الرَّاحِمِيْنَ.",
+        "transliteration": "allahumman ze-i’l u’jba war reyaa-a wak kibra wal baghya wal hasada waz za’fa wash shakka wal wahna waz zurra wal asqaama wal khizlaana wal makra wal khadee-a’ta wal baliyyyata wal fasaada, min sam-e’e wa basaree wa jamee-e’ jawaarehee, wa khuz be-naaseyatee elaa maa tohibbo wa tarzaa, yaa arhamar raahemeen.",
+        "translation": {
+          "en": "Ease the issues, which I am fearful of and create wideness in the matters by whose helplessness I am afraid. And suppress whoever is harboring evil intention regarding me among the creatures, Amen. O the most merciful of the merciful ones. And ease for me the issues, whose severities I fear most and remove from me that, whose distress I am afraid of. And create ease in that, whose straiteness I am terrified of. Amen. O the most merciful of the merciful ones."
+        }
+      },
+      {
+        "number": 31,
+        "type": "content",
+        "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَ اٰلِ مُحَمَّدٍ، وَ اغْفِرْ ذَنْبِيْ، وَ اسْتُرْ عَوْرَتِيْ، وَ اٰمِنْ رَوْعَتِيْ، وَ اجْبُرْ مُصِيْبَتِيْ، وَ اَغْنِ فَقْرِيْ، وَ يَسِّرْ حَاجَتِيْ.",
+        "transliteration": "allaahumma salle a’laa moahmmadin wa aale mohammadin, wagh fir zanbee, was tur a’wratee, wa aamin raw-a’tee, waj bur moseebatee, wa aghne faqree, wa yassir haajatee.",
+        "translation": {
+          "en": "O God, remove from me show off, pride, oppression, jealousy, weakness, doubt, disadvantage, distress, helplessness, trickery, cheating, calamity and corruption; and turn me towards that in which lies your approval and pleasure, O the most merciful of the merciful ones."
+        }
+      },
+      {
+        "number": 32,
+        "type": "content",
+        "arabic": "وَ اَقِلْنِيْ عَثْرَتِيْ، وَ اجْمَعْ شَمْلِيْ، وَ اكْفِنِيْ مَا اَهَمَّنِيْ، وَ مَا غَابَ عَنِّيْ، وَ مَا حَضَرَنِيْ، وَ مَا اَتَخَوَّفُهٗ مِنْكَ، يَا اَرْحَمَ الرَّاحِمِيْنَ.",
+        "transliteration": "wa aqilnee a’sratee, waj ma’ shamlee, wak fenee maa ahammanee, wa maa ghaaba a’nnee, wa maa hazaranee, wa maa atakhawwafohu minka, yaa arhamar raahemeen.",
+        "translation": {
+          "en": "O Allah, bless Muhammad and the progeny of Muhammad and forgive my sins, conceal my defects and bestow peace to my fear, cure my calamity[1] and bestow needlessness to me in poverty, ease my needs and save me from slips and change my dispersal into cohesion; be sufficient for me in all my issues, whether I am absent or present and be sufficient regarding all those issues regarding which I am terrified of You, O the most merciful of the merciful ones."
+        }
+      },
+      {
+        "number": 33,
+        "type": "content",
+        "arabic": "اَللّٰهُمَّ فَوَّضْتُ اَمْرِيْ اِلَيْكَ، وَ اَلْجَاْتُ ظَهْرِيْ اِلَيْكَ، وَ اَسْلَمْتُ نَفْسِيْ اِلَيْكَ بِمَا جَنَيْتُ عَلَيْهَا، فَرَقًا مِنْكَ وَ خَوْفًا وَ طَمَعًا.",
+        "transliteration": "allaahumma fawwazto amree elayka, wa aljaato zahrree elayka, wa aslamto nafsee, elayka bemaa janayto a’layhaa, faraqan minka wa khawfan wa tam-a’n.",
+        "translation": {
+          "en": "O God, I have entrusted my issues to You and I have given over myself into your refuge; on the basis of being unjust on my self, I have entrusted it to you; as I am also terrified and afraid of You, and I also vie for your forgiveness."
+        }
+      },
+      {
+        "number": 34,
+        "type": "content",
+        "arabic": "وَ اَنْتَ الْكَرِيْمُ الَّذِيْ لَا يَقْطَعُ الرَّجَاءَ، وَ لَا يُخَيِّبُ الدُّعَاءَ.",
+        "transliteration": "wa antal kareemul lazee laa yaqta-u’r rajaa-a, wa laa yokhayyebud do-a’a-a.",
+        "translation": {
+          "en": "You are that merciful Lord, who does not severe the hopes and do not make the supplications despair from acceptance."
+        }
+      },
+      {
+        "number": 35,
+        "type": "content",
+        "arabic": "فَاَسْاَلُكَ بِحَقِّ اِبْرَاهِيْمَ خَلِيْلِكَ، وَ مُوْسٰى كَلِيْمِكَ، وَ عِيْسٰى رُوحِكَ وَ مُحَمَّدٍ ﷺ صَفِيِّكَ وَ نَبِيِّكَ اَلَّا تَصْرِفَ وَجْهَكَ الْكَرِيْمَ عَنِّيْ، حَتّٰى تَقْبَلَ تَوْبَتِيْ، (وَ تَرْحَمَ عَبْرَتِيْ) وَ تَغْفِرَ لِيْ خَطِيْئَتِيْ، يَا اَرْحَمَ الرَّاحِمِيْنَ وَ يَا اَحْكَمَ الْحَاكِمِيْنَ، اَللّٰهُمَّ اجْعَلْ ثَارِيْ عَلٰى مَنْ ظَلَمَنِيْ، وَ انْصُرْنِيْ عَلٰى مَنْ عَادَانِيْ، اَللّٰهُمَّ لَا تَجْعَلْ مُصِيْبَتِيْ فِيْ دِيْنِيْ، وَ لَا تَجْعَلِ الدُّنْيَا اَكْبَرَ هَمِّيْ وَ لَا مَبْلَغَ عِلْمِيْ.",
+        "transliteration": "fa-asaloka behaqqe ibraaheema khaleeleka, wa moosaa kaleemeka, wa e’esaa rooheka wa mohammadin sallal laaho a’layhe wa aalehi safiyyeka wa nabiyyeka allaa tasrefa wajhakal kareema a’nnee, hattaa taqbala tawbatee, (wa tarhama a’bratee) wa taghfera lee khatee-atee, yaa arhamar raahemeena wa yaa ahkamal haakemeena, allaahummaj a’l saaree a’laa man zalamanee, wan surnee a’laa man a’adaanee, allaahumma laa taj-a’lid dunyaa akbara hammee wa laa mablagha i’lmee.",
+        "translation": {
+          "en": "So I beg You by the right of Ibrahim, your friend, Musa, with whom You conversed, Isa, your spirit, and Muhammad, your chosen and your prophet, that You don’t turn away your kind face from me till You accept my repentance, have mercy on my tears and forgive my mistakes, O the most merciful of the merciful ones and the best judgment giver. O God, take revenge from those, who are unjust to me and help me against my enemies. O God, do not deem my calamity to be in my religion and do not make the world as the most important aim and the end of knowledge."
+        }
+      },
+      {
+        "number": 36,
+        "type": "content",
+        "arabic": "اِلٰهِيْ اَصْلِحْ لِيْ دِيْنِيَ الَّذِيْ هُوَ عِصْمَةُ اَمْرِيْ، وَ اَصْلِحْ لِيْ دُنْيَايَ الَّتِيْ فِيْهَا مَعَاشِيْ، وَ اَصْلِحْ لِيْ اٰخِرَتِيَ الَّتِيْ اِلَيْهَا مَعَادِيْ، وَ اجْعَلِ الْحَيَاةَ زِيَادَةً لِيْ مِنْ كُلِّ خَيْرٍ، وَ اجْعَلِ الْمَوْتَ رَاحَةً لِيْ مِنْ كُلِّ شَرٍّ.",
+        "transliteration": "elaahee asleh lee deeneyal lazee howa i’smato amree, wa asleh lee dunyaayal latee feehaa ma-a’ashee, wa asleh lee aakherateyal latee elayhaa ma-a’adee, waj a’lil hayaata zeyaadatan lee min kulle khayrin, waj a’lil mawta raahatan lee min kulle sharrin.",
+        "translation": {
+          "en": "My God, reform this religion of mine, which is the support of my issues and reform this world for me in which I live; and also reform my hereafter, where I have to return. And make my life a means of increase in every goodness; and make death to be a stage of being saved from every mischief."
+        }
+      },
+      {
+        "number": 37,
+        "type": "content",
+        "arabic": "اَللّٰهُمَّ اِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ، فَاعْفُ عَنِّيْ، اَللّٰهُمَّ اَحْيِنِيْ مَا عَلِمْتَ الْحَيَاةَ خَيْرًا لِيْ، وَ تَوَفَّنِيْ اِذَا كَانَتِ الْوَفَاةُ خَيْرًا لِيْ، وَ اَسْاَلُكَ خَشْيَتَكَ فِيْ الْغَيْبِ وَ الشَّهَادَةِ، وَ الْعَدْلَ فِيْ الْغَضَبِ وَ الرِّضَا.",
+        "transliteration": "allaahumma innaka a’fuwwun tohibbul a’fwa, fa’fo a’nnee, allaahumma ahyenee maa a’limtal hayaata khayran lee, wa tawaffanee ezaa kaanatil wafaato khayran lee, wa as-aloka khasyataka fil ghaybe wash shahaadate, wal a’dla fil ghazabe war rezaa.",
+        "translation": {
+          "en": "O God, You are excessively forgiving and You also like forgiveness; so now forgive me and keep me alive as long as there is good in life; after that if death is better, You give that to me. And I ask You for your fear in every seen and unseen matter and I want justice in every stage of approval and anger."
+        }
+      },
+      {
+        "number": 38,
+        "type": "content",
+        "arabic": "وَ اَسْاَلُكَ الْقَصْدَ فِيْ الْفَقْرِ وَ الْغِنٰى، وَ اَسْاَلُكَ نَعِيْمًا لَا يَبِيْدُ، وَ قُرَّةَ عَيْنٍ لَا يَنْقَطِعُ، وَ اَسْاَلُكَ الرِّضَا بَعْدَ الْقَضَاءِ، وَ اَسْاَلُكَ لَذَّةَ النَّظَرِ اِلٰى وَجْهِكَ.",
+        "transliteration": "wa as-alokal qasda fil faqre wal ghenaa, wa as-aloka na-e’eman laa yabeedo, wa qurrata ay’nin laa yanqate-o’, wa as-alokar rezaa ba’dal qazaa-e, wa as-aloka lazzatan nazare elaa wajheka.",
+        "translation": {
+          "en": "O God, bestow on me moderation in both: poverty and affluence; and I ask You for that bounty, which is not destroyed. And that coolness of the eye, which is unending. I ask You for approval after death and I ask You for the pleasure of looking at your elegance."
+        }
+      },
+      {
+        "number": 39,
+        "type": "content",
+        "arabic": "اَللّٰهُمَّ اِنِّيْ اَسْتَهْدِيْكَ لِاِرْشَادِ اَمْرِيْ، وَ اَعُوْذُ بِكَ مِنْ شَرِّ نَفْسِيْ.",
+        "transliteration": "allaahumma innee as-tahdeeka le-irshaade amree, wa a-o’ozo beka min sharre nafsee.",
+        "translation": {
+          "en": "O God, I ask You for guidance in my issues and seek your refuge from the mischief of my self."
+        }
+      },
+      {
+        "number": 40,
+        "type": "content",
+        "arabic": "اَللّٰهُمَّ عَمِلْتُ سُوْءً وَ ظَلَمْتُ‏ نَفْسِيْ فَاغْفِرْ لِيْ، اِنَّهٗ لَا يَغْفِرُ الذُّنُوْبَ اِلَّا اَنْتَ، اَللّٰهُمَّ اِنِّيْ اَسْاَلُكَ تَعْجِيْلَ عَافِيَتِكَ، وَ صَبْرًا عَلٰى بَلِيَّتِكَ وَ خُرُوْجًا مِنَ الدُّنْيَا اِلٰى رَحْمَتِكَ.",
+        "transliteration": "allaahumma a’milto soo-an wa zalamto nafsee fagh-fir lee, innahu laa yaghferuz zonbooba illaa anta, allaahumma innee as-aloka ta’jeela a’afeyateka, wa sabran a’laa baliyyateka wa khoroojan menad dunyaa elaa rahmateka.",
+        "translation": {
+          "en": "O God, I have committed the worst kinds of deeds and have oppressed my self, so forgive me; as there is no one other than You, who can forgive the sins. O God, I ask You for haste in your relief, and patience in your trials and exit from the world towards your mercy."
+        }
+      },
+      {
+        "number": 41,
+        "type": "content",
+        "arabic": "اَللّٰهُمَّ اِنِّيْ اُشْهِدُكَ، وَ اُشْهِدُ مَلَائِكَتَكَ وَ حَمَلَةَ عَرْشِكَ، وَ اُشْهِدُ مَنْ فِيْ السَّمَاوَاتِ وَ مَنْ فِيْ الْاَرْضِ: اَنَّكَ اَنْتَ اللهُ لَا اِلٰهَ اِلَّا اَنْتَ وَحْدَكَ لَا شَرِيْكَ لَكَ، وَ اَنَّ مُحَمَّدًا عَبْدُكَ وَ رَسُوْلُكَ ﷺ، وَ اَسْاَلُكَ بِاَنَّ لَكَ الْحَمْدَ لَا اِلٰهَ اِلَّا اَنْتَ، بَدِيْعُ السَّمَاوَاتِ وَ الْاَرْضِ، يَا كَائِنُ قَبْلَ اَنْ يَكُوْنَ شَيْ‏ءٌ، وَ الْمُكَوِّنُ لِكُلِّ شَيْ‏ءٍ، وَ الْكَائِنُ بَعْدَ مَا لَا يَكُوْنُ شَيْ‏ءٌ.",
+        "transliteration": "allaahumma innee ush-hedoka, wa ush-hedo malaa-ekataka wa hamalata a’rsheka, wa ush-hedo man fis samaawaate wa man fil arze: annaka antal laaho laa elaaha illaa anta wahdaka laa shareeka laka, wa anna mohammadan a’bdoka wa rasooloka sallal laaho a’layhe wa aalehi, wa as-aloka be-anna lakal hamda laa elaaha illaa anta, ba-dee-o’s samaawaate wal arze, yaa kaa-eno qabla an yakoona shay-un, wal mokawweno lekulle shay-in, wal kaa-eno ba’da maa laa yakoono shay-un.",
+        "translation": {
+          "en": "O God, indeed I make You a witness, and your angels and bearers of the throne and all the creatures of the heavens and the earth, that only You are my God, and You have no partner; and that Muhammad is your servant and your messenger. And I ask You as all praise is for You and there is no god, except You. And You are the originator of the heavens and earth; O one, who is present before everything and is the creator of everything and is to endure till nothing else remains."
+        }
+      },
+      {
+        "number": 42,
+        "type": "content",
+        "arabic": "اَللّٰهُمَّ اِلٰى رَحْمَتِكَ رَفَعْتُ بَصَرِيْ، وَ اِلٰى جُوْدِكَ بَسَطْتُ كَفِّيْ فَلَا تَحْرِمْنِيْ وَ اَنَا اَسْاَلُكَ، وَ لَا تُعَذِّبْنِيْ وَ اَنَا اَسْتَغْفِرُكَ.",
+        "transliteration": "allaahumma elaa rahmateka ra-fa’to basaree, wa elaa joodeka basat-to kaffee falaa tahrimnee wa anaa as-aloka, wa laa to-a’zzibnee wa anaa astaghferoka.",
+        "translation": {
+          "en": "O God, my sight is focused on your mercy and my hand is stretched before your kindness; so do not deprive my entreaty from response and do not chastise me after I have repented."
+        }
+      },
+      {
+        "number": 43,
+        "type": "content",
+        "arabic": "اَللّٰهُمَّ فَاغْفِرْ لِيْ فَاِنَّكَ بِيْ عَالِمٌ، وَ لَا تُعَذِّبْنِيْ فَاِنَّكَ عَلَيَّ قَادِرٌ، بِرَحْمَتِكَ يَا اَرْحَمَ الرَّاحِمِيْنَ.",
+        "transliteration": "allaahumma fagh-fir lee fa-innaka bee a’alemun, wa laa to-a’zzibnee fa-innaka a’layya qaaderun, be-rahmateka yaa arhamar raahemeen.",
+        "translation": {
+          "en": "O God, forgive me, as You are well aware of my weaknesses and don’t chastise me, although You exercise absolute power on me. Through your mercy, O the most merciful of the merciful ones."
+        }
+      },
+      {
+        "number": 44,
+        "type": "content",
+        "arabic": "اَللّٰهُمَّ ذَا الرَّحْمَةِ الْوَاسِعَةِ، وَ الصَّلَاةِ النَّافِعَةِ الرَّافِعَةِ، صَلِّ عَلٰى اَكْرَمِ خَلْقِكَ عَلَيْكَ، وَ اَحَبِّهِمْ اِلَيْكَ، وَ اَوْجَهِهِمْ لَدَيْكَ، مُحَمَّدٍ عَبْدِكَ وَ رَسُوْلِكَ الْمَخْصُوْصِ بِفَضَائِلِ الْوَسَائِلِ، اَشْرَفَ وَ اَكْمَلَ، وَ اَرْفَعَ وَ اَعْظَمَ، وَ اَكْرَمَ مَا صَلَّيْتَ عَلٰى مُبَلِّغٍ عَنْكَ، مُؤْتَمَنٍ عَلٰى وَحْيِكَ.",
+        "transliteration": "allaahumma zar rahmatil waase-a’te, was salaatin naafe-a’tir raa-fe-a’te, salle a’laa akrame khalqeka a’layka, wa ahabbehim elayka, wa awjehehim ladayka, mohammadin a’bdeka wa rasoolekal makhsoose be-fazaa-elil wasaa-ele, ashrafa wa akmala, wa ar-fa-a’ wa a-a’zama, wa akrama maa sallayta a’laa moballeghin a’nka, moatamanin a’laa wahyeka.",
+        "translation": {
+          "en": "O God, O one having wide mercy and beneficial and lofty invocation of blessing (Salawat), bless your most honorable, beloved and modest one, who is your servant and messenger and who is specialized with your greatest means. That Salawat from among all the Salawats, which are most noble, most perfect, loftiest, greatest and most honored; that You have revealed upon a propagator of your religion and your trustee of revelation."
+        }
+      },
+      {
+        "number": 45,
+        "type": "content",
+        "arabic": "اَللّٰهُمَّ كَمَا سَدَدْتَ بِهِ الْعَمٰى، وَ فَتَحْتَ بِهِ الْهُدٰى، فَاجْعَلْ مَنَاهِـجَ سُبُلِهٖ لَنَا سُنَنًا، وَ حُجَجَ بُرْهَانِهٖ لَنَا سَبَبًا نَاْتَمَّ بِهٖ اِلَى الْقُدُوْمِ عَلَيْكَ.",
+        "transliteration": "allaahumma kamaa sadadta behil a’maa, wa fatahta behil hodaa, faj-a’l manaaheja sobolehi lanaa sonanan, wa hojaja burhaanehi lanaa sababan naatamma behi elal qodoome a’layka.",
+        "translation": {
+          "en": "O God, like You have destroyed deviations through him and opened the doors of guidance, now, make our conduct same as his conduct and his proofs and arguments the means of certainty for us. So that we may follow him and present ourselves in your court."
+        }
+      },
+      {
+        "number": 46,
+        "type": "content",
+        "arabic": "اَللّٰهُمَّ لَكَ الْحَمْدُ مِلْاَ السَّمَاوَاتِ السَّبْعِ، وَ مِلْاَ طِبَاقِهِنَّ، وَ مِلْاَ الْاَرَضِيْنَ السَّبْعِ، وَ مِلْاَ مَا بَيْنَهُنَّ، وَ مِلْاَ عَرْشِ رَبِّنَا الْكَرِيْمِ، وَ مِيْزَانَ رَبِّنَا الْغَفَّارِ، وَ مِدَادَ كَلِمَاتِ رَبِّنَا الْقَهَّارِ، وَ مِلْاَ الْجَنَّةِ، وَ مِلْاَ النَّارِ، وَ عَدَدَ الْمَاءِ وَ الثَّرٰى، وَ عَدَدَ مَا يُرٰى وَ مَا لَا يُرٰى.",
+        "transliteration": "allaahumma lakal hamdo mil-as samaawaatis sab-e’, wa mil-a tebaaqehinna, wa mil-al arazeenas sab-e’, wa mil-a maa baynahunna, wa mil-a a’rshe rabbenal kareeme, wa meezaana rabbenal ghaffaare, wa medaada kalemaate rabbenal qahhaare, wa mil-al jannate, wa mil-an naare, wa a’dadal maa-e was saraa, wa a’dada maa yoraa wa maa laa yoraa.",
+        "translation": {
+          "en": "O God, as much praise is there for You that the seven heavens and all their layers; all seven earths and the areas between them, all the scope of the Throne of the noble Lord, all wideness of the system of the forgiving master; full computation of the words of the forceful Lord; and the whole capacity of Paradise and Hell is filled up. The number of the drops of water and equal to the particles of dust and is equal to the seen and unseen things."
+        }
+      },
+      {
+        "number": 47,
+        "type": "content",
+        "arabic": "اَللّٰهُمَّ وَ اجْعَلْ صَلَوَاتِكَ وَ بَرَكَاتِكَ، وَ مَنَّكَ وَ مَغْفِرَتَكَ، وَ رَحْمَتَكَ وَ رِضْوَانَكَ، وَ فَضْلَكَ وَ سَلَامَتَكَ، وَ ذِكْرَكَ وَ نُوْرَكَ، وَ شَرَفَكَ وَ نِعْمَتَكَ وَ خِيَرَتَكَ عَلٰى مُحَمَّدٍ وَ اٰلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ وَ بَارَكْتَ وَ تَرَحَّمْتَ عَلٰى اِبْرَاهِيْمَ وَ اٰلِ اِبْرَاهِيْمَ، اِنَّكَ حَمِيْدٌ مَجِيْدٌ.",
+        "transliteration": "allaahumma waj a’l salawaateka wa barakaateka, wa manneka wa maghferataka, wa rahmataka wa rizwaanaka, wa fazlaka wa salaamataka, wa zikraka wa nooraka, wa sharafaka wa ne’mataka wa kheyarataka a’laa mohammadin wa aale mohammadin, kamaa sallayta wa baarakta wa tarahhamta a’laa ibraaheema wa aale ibraaheema, innaka hameedun majeedun.",
+        "translation": {
+          "en": "O God, deem all your blessings, bounties, favors, forgiveness, mercy, approval, grace, security, remembrance and effulgence, nobility and bounty and all nice good deeds for Muhammad and Progeny of Muhammad (a.s.) in such a way like You blessed and graced Ibrahim and progeny of Ibrahim; indeed You are praised and glorious."
+        }
+      },
+      {
+        "number": 48,
+        "type": "content",
+        "arabic": "اَللّٰهُمَّ اَعْطِ مُحَمَّدًا الْوَسِيْلَةَ الْعُظْمٰى، وَ كَرِيْمَ جَزَائِكَ فِيْ الْعُقْبٰى حَتّٰى تُشَرِّفَهٗ يَوْمَ الْقِيَامَةِ يَا اِلٰهَ الْهُدٰى، اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَ اٰلِ مُحَمَّدٍ، وَ عَلٰى جَمِيْعِ مَلَائِكَتِكَ (وَ اَنْبِيَائِكَ) وَ رُسُلِكَ.",
+        "transliteration": "allaahumma a-a’te mohammadanil waseelatal u’zmaa, wa kareema jazaa-eka fil u’qbaa hattaa tosharrefahu yawmal qeyaamate yaa elaahal hodaa, allaahumma salle a’laa mohammadin wa aale mohammadin, wa a’laa jamee-e’ malaa-ekateka (wa anbeyaa-eka) wa rosoleka.",
+        "translation": {
+          "en": "O God, bestow to Muhammad the greatest mediation and the noblest reward in the hereafter; so that You may announce his nobility on Judgment Day, O Lord of guidances. O Allah, bless Muhammad and the progeny of Muhammad and blessings be on all your angels, your prophets and your messengers."
+        }
+      },
+      {
+        "number": 49,
+        "type": "content",
+        "arabic": "سَلَامٌ عَلٰى جَبْرَئِيْلَ وَ مِيْكَائِيْلَ وَ اِسْرَافِيْلَ، وَ حَمَلَةِ الْعَرْشِ وَ مَلَائِكَتِكَ (الْمُقَرَّبِيْنَ) وَ الْكِرَامِ الْكَاتِبِيْنَ وَ الْكَرُوْبِيِّيْنَ، وَ سَلَامٌ عَلٰى مَلَائِكَتِكَ اَجْمَعِيْنَ، وَ سَلَامٌ عَلٰى اَبِيْنَا اٰدَمَ، وَ عَلٰى اُمِّنَا حَوَّاءَ، وَ سَلَامٌ عَلٰى النَّبِيِّيْنَ اَجْمَعِيْنَ وَ الصِّدِّيقِيْنَ وَ الشُّهَدَاءِ وَ الصَّالِحِيْنَ، وَ سَلَامٌ عَلَى الْمُرْسَلِيْنَ اَجْمَعِيْنَ وَ الْحَمْدُ لِلهِ رَبِّ الْعَالَمِيْنَ.",
+        "transliteration": "salaamun a’laa jibra-eela wa meekaa-eela wa israafeela, wa hamalatil a’rshe wa malaa-ekatekal (moqarrabeena) wa l keraamal kaatebeena wal karoobiyyeena, wa salaamun a’laa malaa-ekateka ajma-e’ena, wa salaamun a’laa abeenaa aadama, wa a’laa ummenaa hawwaa-a, wa salaamun a’lan nabiyyeena ajma-e’ena was siddeeqeena wash shohadaa-e was saaleheena, wa salaamun a’lal mursaleena ajma-e’ena wal hamdo lillaahe rabbil a’alameena.",
+        "translation": {
+          "en": "Glorified be the one, Who is aware of the thoughts of the minds. Glorified be the one, Who calculates the number of sins. Glorified be the one, from Whom nothing from the heavens and the earth is concealed."
+        }
+      },
+      {
+        "number": 50,
+        "type": "content",
+        "arabic": "وَ لَا حَوْلَ وَ لَا قُوَّةَ اِلَّا بِاللهِ الْعَلِيِّ الْعَظِيْمِ، وَ حَسْبِيَ اللهُ وَ نِعْمَ الْوَكِيْلُ، وَ صَلَّى اللهُ عَلٰى مُحَمَّدٍ وَ اٰلِهٖ وَ سَلَّمَ كَثِيْرًا.",
+        "transliteration": "wa laa hawla wa laa quwwata illaa billaahil a’liyyil a’zeeme, wa hasbeyal laaho wa ne’mal wakeelo, wa sallal laaho a’laa mohammadin wa aalehi Wa sallama kaseeran.",
+        "translation": {
+          "en": "There is no power and strength, except for Allah, the high and the mighty and Allah is sufficient for me and the best of the trustees; and may Allah bless Muhammad and the progeny of Muhammad in excess."
+        }
+      }
+    ],
+    "source": "mafatih",
+    "subcategory": "Particular Taqeebat Salat"
+  },
+  {
+    "id": "isha-taqeebaat",
+    "name": "Isha Taqeebaat",
+    "category": "taqeebat",
+    "segmentCount": 27,
+    "mafatihId": 1357,
+    "segments": [
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "As quoted from Misbah al-Mutahajjid"
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "This supplication reported from Imam Ja'far Sadiq (peace be upon him) , is one of the supplications highly recommended for seeking sustenance.(Rizq)"
+        }
+      },
+      {
+        "number": 1,
+        "type": "content",
+        "arabic": "اَللَّهُمَّ إِنَّهُ لَيْسَ لِي عِلْمٌ بِمَوْضِعِ رِزْقِي",
+        "transliteration": "allahumma innahu laysa li `ilmun bimawadi`i rizqi",
+        "translation": {
+          "en": "O Allah! verily, I lack acquaintance with the place of my sustenance;"
+        }
+      },
+      {
+        "number": 2,
+        "type": "content",
+        "arabic": "وَإِنَّمَا أَطْلُبُهُ بِخَطَرَاتٍ تَخْطُرُ عَلَىٰ قَلْبِي",
+        "transliteration": "wa innma atlubuhu bikhataratin takhturu `ala qalbi",
+        "translation": {
+          "en": "rather, I am seeking it owing to ideas that come upon my mind."
+        }
+      },
+      {
+        "number": 3,
+        "type": "content",
+        "arabic": "فَأَجُولُ فِي طَلَبِهِ ٱلْبُلْدَانَ",
+        "transliteration": "fa-ajulu fi talabihu albuldana",
+        "translation": {
+          "en": "I consequently wander in countries searching for it."
+        }
+      },
+      {
+        "number": 4,
+        "type": "content",
+        "arabic": "فَأَنَا فِيمَا أَنَا طَالِبٌ كَٱلْحَيْرَانِ",
+        "transliteration": "fa-ana fima ana talibun kalhayrani",
+        "translation": {
+          "en": "By doing such, I am as confused as the confounded,"
+        }
+      },
+      {
+        "number": 5,
+        "type": "content",
+        "arabic": "لاَ أَدْرِي أَفِي سَهْلٍ هَوُ أَمْ فِي جَبَلٍ",
+        "transliteration": "la adri afi sahlin huwa am fi jabalin",
+        "translation": {
+          "en": "since I do not know whether my sustenance lies in a plain, on a mountain,"
+        }
+      },
+      {
+        "number": 6,
+        "type": "content",
+        "arabic": "أَمْ في أَرْضٍ أَمْ في سَمَاءٍ",
+        "transliteration": "am fi ardin am fi sama'in",
+        "translation": {
+          "en": "on the ground, in the air,"
+        }
+      },
+      {
+        "number": 7,
+        "type": "content",
+        "arabic": "أَمْ فِي بَرٍّ أَمْ فِي بَحْرٍ",
+        "transliteration": "am fi barrin am fi bahrin",
+        "translation": {
+          "en": "on lands, in seas,"
+        }
+      },
+      {
+        "number": 8,
+        "type": "content",
+        "arabic": "وَعَلَىٰ يَدَيْ مَنْ",
+        "transliteration": "wa `ala yaday man",
+        "translation": {
+          "en": "at whose hands,"
+        }
+      },
+      {
+        "number": 9,
+        "type": "content",
+        "arabic": "وَمِنْ قِبَلِ مَنْ",
+        "transliteration": "wa min qibali man",
+        "translation": {
+          "en": "or who the source of it is."
+        }
+      },
+      {
+        "number": 10,
+        "type": "content",
+        "arabic": "وَقَدْ عَلِمْتُ أَنَّ عِلْمَهُ عِنْدَكَ",
+        "transliteration": "wa qad `alimtu anna `ilmahu `indaka",
+        "translation": {
+          "en": "I have full knowledge that You know all these,"
+        }
+      },
+      {
+        "number": 11,
+        "type": "content",
+        "arabic": "وَ أَسْبَابَهُ بِيَدِكَ",
+        "transliteration": "wa asbabahu biyadika",
+        "translation": {
+          "en": "the causes of them are in Your Hands,"
+        }
+      },
+      {
+        "number": 12,
+        "type": "content",
+        "arabic": "وَ أَنْتَ ٱلَّذي تَقْسِمُهُ بِلُطْفِكَ",
+        "transliteration": "wa anta alladhi taqsimuhu bilutfika",
+        "translation": {
+          "en": "and it is You Who distribute it out of Your compassion"
+        }
+      },
+      {
+        "number": 13,
+        "type": "content",
+        "arabic": "وَتُسَبِّبُهُ بِرَحْمَتِكَ",
+        "transliteration": "wa tusabbibuhu birahmatika",
+        "translation": {
+          "en": "and cause it out of Your mercy."
+        }
+      },
+      {
+        "number": 14,
+        "type": "content",
+        "arabic": "اَللَّهُمَّ فَصَلِّ عَلَىٰ مُحَمَّدٍ وَآلِهِ",
+        "transliteration": "allahumma fasalli `ala muhammadin wa alihi",
+        "translation": {
+          "en": "O Allah, please send blessings to Muhammad and his Household"
+        }
+      },
+      {
+        "number": 15,
+        "type": "content",
+        "arabic": "وَٱجْعَلْ يَا رَبِّ رِزْقَكَ لِي وَاسِعاً",
+        "transliteration": "waj`al ya rabbi rizqaka li wasi`an",
+        "translation": {
+          "en": "and make, O Lord, Your sustenance that is provided (by You) to me expansive,"
+        }
+      },
+      {
+        "number": 16,
+        "type": "content",
+        "arabic": "وَمَطْلَبَهُ سَهْلاً",
+        "transliteration": "wa matlabahu sahlan",
+        "translation": {
+          "en": "my seeking for it easy for me,"
+        }
+      },
+      {
+        "number": 17,
+        "type": "content",
+        "arabic": "وَمَاْخَذَهُ قَرِيباً",
+        "transliteration": "wa ma'khadhahu qariban",
+        "translation": {
+          "en": "and its source close to me."
+        }
+      },
+      {
+        "number": 18,
+        "type": "content",
+        "arabic": "وَلاَ تُعَنِّنِي بِطَلَبِ مَا لَمْ تُقَدِّرْ لِي فيهِ رِزْقاً",
+        "transliteration": "wa la tu`annini bitalbi ma lam tuqaddiru li fihi rizqan",
+        "translation": {
+          "en": "Please, do not fatigue me by seeking that which You have not decided for me to take,"
+        }
+      },
+      {
+        "number": 19,
+        "type": "content",
+        "arabic": "فَإِنَّكَ غَنِيٌّ عَنْ عَذَابِي",
+        "transliteration": "fa'innaka ghaniyyun `an `adhabi",
+        "translation": {
+          "en": "because You are certainly in no need for tormenting me"
+        }
+      },
+      {
+        "number": 20,
+        "type": "content",
+        "arabic": "وَ أَنَا فَقِيـرٌ إِلَىٰ رَحْمَتِكَ",
+        "transliteration": "wa ana faqirun ila rahmatika",
+        "translation": {
+          "en": "while I am in full need for Your mercy."
+        }
+      },
+      {
+        "number": 21,
+        "type": "content",
+        "arabic": "فَصَلِّ عَلَىٰ مُحَمَّدٍ وَآلِهِ",
+        "transliteration": "fasalli `ala muhammadin wa alihi",
+        "translation": {
+          "en": "(Please) Send blessings upon Muhammad and his Household"
+        }
+      },
+      {
+        "number": 22,
+        "type": "content",
+        "arabic": "وَجُدْ عَلَىٰ عَبْدِكَ بِفَضْلِكَ",
+        "transliteration": "wa jud `ala `abdika bifadlika",
+        "translation": {
+          "en": "and confer liberally upon me, Your slave, out of Your graciousness."
+        }
+      },
+      {
+        "number": 23,
+        "type": "content",
+        "arabic": "إِنَّكَ ذُو فَضْلٍ عَظيم",
+        "transliteration": "innaka dhu fadlin `azimin",
+        "translation": {
+          "en": "You are surely the Lord of great favor."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "It is worth mentioning that the abovementioned supplication is one of the supplications restricted to seeking sustenance."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "Upon accomplishment of the Evening Prayer, it is recommended to recite <ref=1:97>Surah Al-Qadr</ref>\n seven times and offer the Wutayrah supererogatory prayer, which consists of two units and should be offered in the position of sitting by reciting one hundred verses of the Holy Qur’an in both the units. Hence, it is recommended to recite <ref=1:56>Surah Al-Waqi'ah</ref>  in the first unit and Surah al-Tawheed in the second."
+        }
+      }
+    ],
+    "source": "mafatih",
+    "subcategory": "Particular Taqeebat Salat"
   }
 ]

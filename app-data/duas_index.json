@@ -3,115 +3,134 @@
     "id": "dua-kumayl",
     "name": "Dua Kumayl",
     "category": "major",
-    "segmentCount": 249
+    "segmentCount": 249,
+    "mafatihId": 1299
   },
   {
     "id": "dua-tawassul",
     "name": "Dua Tawassul",
     "category": "major",
-    "segmentCount": 225
+    "segmentCount": 225,
+    "mafatihId": 1300
   },
   {
     "id": "dua-ahad",
     "name": "Dua Ahad",
     "category": "major",
-    "segmentCount": 80
+    "segmentCount": 80,
+    "mafatihId": 1301
   },
   {
     "id": "dua-sabah",
     "name": "Dua Sabah",
     "category": "major",
-    "segmentCount": 111
+    "segmentCount": 111,
+    "mafatihId": 1302
   },
   {
     "id": "dua-simaat",
     "name": "Dua Simaat",
     "category": "major",
-    "segmentCount": 186
+    "segmentCount": 186,
+    "mafatihId": 1303
   },
   {
     "id": "dua-nudba",
     "name": "Dua Nudba",
     "category": "major",
-    "segmentCount": 363
+    "segmentCount": 363,
+    "mafatihId": 1305
   },
   {
     "id": "dua-faraj",
     "name": "Dua Faraj",
     "category": "major",
-    "segmentCount": 49
+    "segmentCount": 49,
+    "mafatihId": 1334
   },
   {
     "id": "dua-mashlool",
     "name": "Dua Mashlool",
     "category": "major",
-    "segmentCount": 261
+    "segmentCount": 261,
+    "mafatihId": 1294
   },
   {
     "id": "dua-mujeer",
     "name": "Dua Mujeer",
     "category": "major",
-    "segmentCount": 277
+    "segmentCount": 277,
+    "mafatihId": 1350
   },
   {
     "id": "dua-adeelah",
     "name": "Dua Adeelah",
     "category": "major",
-    "segmentCount": 134
+    "segmentCount": 134,
+    "mafatihId": 1295
   },
   {
     "id": "dua-iftitah",
     "name": "Dua Iftitah",
     "category": "major",
-    "segmentCount": 236
+    "segmentCount": 236,
+    "mafatihId": 1043
   },
   {
     "id": "dua-yastasheer",
     "name": "Dua Yastasheer",
     "category": "major",
-    "segmentCount": 139
+    "segmentCount": 139,
+    "mafatihId": 1293
   },
   {
     "id": "dua-jawshan-kabeer",
     "name": "Dua Jawshan Kabeer",
     "category": "major",
-    "segmentCount": 1423
+    "segmentCount": 1423,
+    "mafatihId": 1348
   },
   {
     "id": "dua-jawshan-sagheer",
     "name": "Dua Jawshan Sagheer",
     "category": "major",
-    "segmentCount": 503
+    "segmentCount": 503,
+    "mafatihId": 1351
   },
   {
     "id": "dua-abu-hamza-thumali",
     "name": "Dua Abu Hamza Thumali",
     "category": "major",
-    "segmentCount": 670
+    "segmentCount": 670,
+    "mafatihId": 1039
   },
   {
     "id": "hadith-kisa",
     "name": "Hadith Kisa",
     "category": "major",
-    "segmentCount": 118
+    "segmentCount": 118,
+    "mafatihId": 1304
   },
   {
     "id": "dua-alqama",
     "name": "Dua Alqama",
     "category": "major",
-    "segmentCount": 191
+    "segmentCount": 191,
+    "mafatihId": 1252
   },
   {
     "id": "munajat-imam-ali-as",
     "name": "Munajat Imam Ali (as)",
     "category": "major",
-    "segmentCount": 104
+    "segmentCount": 104,
+    "mafatihId": 1292
   },
   {
     "id": "dua-kayfa-adooka",
     "name": "Dua Kayfa Adooka",
     "category": "major",
-    "segmentCount": 9
+    "segmentCount": 9,
+    "mafatihId": 1291
   },
   {
     "id": "dua-akhasi-sifatik",
@@ -135,13 +154,15 @@
     "id": "dua-aliya-mazameen",
     "name": "Dua Aliya Mazameen",
     "category": "major",
-    "segmentCount": 216
+    "segmentCount": 216,
+    "mafatihId": 1229
   },
   {
     "id": "dua-sad-subhan",
     "name": "Dua Sad Subhan",
     "category": "major",
-    "segmentCount": 58
+    "segmentCount": 58,
+    "mafatihId": 1010
   },
   {
     "id": "dua-noor-kabir",
@@ -153,13 +174,15 @@
     "id": "dua-ya-shahida-kulle-najwa",
     "name": "Dua Ya Shahida Kulle Najwa",
     "category": "major",
-    "segmentCount": 267
+    "segmentCount": 267,
+    "mafatihId": 1101
   },
   {
     "id": "dua-asharaat",
     "name": "Dua Asharaat",
     "category": "major",
-    "segmentCount": 170
+    "segmentCount": 170,
+    "mafatihId": 1306
   },
   {
     "id": "dua-man-taabba",
@@ -171,13 +194,15 @@
     "id": "salwaat-zarrab-isfahani",
     "name": "Salwaat Zarrab Isfahani",
     "category": "salawaat",
-    "segmentCount": 167
+    "segmentCount": 167,
+    "mafatihId": 1180
   },
   {
     "id": "dua-hazeen",
     "name": "Dua Hazeen",
     "category": "major",
-    "segmentCount": 30
+    "segmentCount": 30,
+    "mafatihId": 1196
   },
   {
     "id": "dua-al-itisam",
@@ -207,7 +232,8 @@
     "id": "salat-jafar-tayyar",
     "name": "Salat Jafar Tayyar",
     "category": "salawaat",
-    "segmentCount": 94
+    "segmentCount": 94,
+    "mafatihId": 1193
   },
   {
     "id": "dua-sabasab",
@@ -243,19 +269,22 @@
     "id": "general-need-duas",
     "name": "General Need Duas",
     "category": "special_needs",
-    "segmentCount": 938
+    "segmentCount": 938,
+    "mafatihId": 1313
   },
   {
     "id": "rizq-sustenance-duas",
     "name": "Rizq / Sustenance Duas",
     "category": "special_needs",
-    "segmentCount": 209
+    "segmentCount": 209,
+    "mafatihId": 1312
   },
   {
     "id": "curing-ailments-duas",
     "name": "Curing Ailments Duas",
     "category": "special_needs",
-    "segmentCount": 537
+    "segmentCount": 537,
+    "mafatihId": 1315
   },
   {
     "id": "overcoming-worries-duas",
@@ -267,13 +296,15 @@
     "id": "grief-fear-duas",
     "name": "Grief & Fear Duas",
     "category": "special_needs",
-    "segmentCount": 263
+    "segmentCount": 263,
+    "mafatihId": 1314
   },
   {
     "id": "seeking-forgiveness-duas",
     "name": "Seeking Forgiveness Duas",
     "category": "special_needs",
-    "segmentCount": 57
+    "segmentCount": 57,
+    "mafatihId": 1316
   },
   {
     "id": "evil-repelling-duas",
@@ -297,31 +328,36 @@
     "id": "sunset-duas",
     "name": "Sunset Duas",
     "category": "special_needs",
-    "segmentCount": 51
+    "segmentCount": 51,
+    "mafatihId": 1310
   },
   {
     "id": "hourly-duas",
     "name": "Hourly Duas",
     "category": "special_needs",
-    "segmentCount": 211
+    "segmentCount": 211,
+    "mafatihId": 1311
   },
   {
     "id": "bedtime-duas",
     "name": "Bedtime Duas",
     "category": "special_needs",
-    "segmentCount": 96
+    "segmentCount": 96,
+    "mafatihId": 1307
   },
   {
     "id": "graveyard-visit-duas",
     "name": "Graveyard Visit Duas",
     "category": "special_needs",
-    "segmentCount": 32
+    "segmentCount": 32,
+    "mafatihId": 1287
   },
   {
     "id": "fajr-taqeebaat",
     "name": "Fajr Taqeebaat",
     "category": "taqeebat",
-    "segmentCount": 236
+    "segmentCount": 236,
+    "mafatihId": 1353
   },
   {
     "id": "dhuhr-asr-taqeebaat",
@@ -339,19 +375,22 @@
     "id": "common-taqeebat",
     "name": "Common Taqeebat",
     "category": "taqeebat",
-    "segmentCount": 373
+    "segmentCount": 373,
+    "mafatihId": 1328
   },
   {
     "id": "salaat-ghufaylah",
     "name": "Salaat Ghufaylah",
     "category": "taqeebat",
-    "segmentCount": 28
+    "segmentCount": 28,
+    "mafatihId": 1194
   },
   {
     "id": "sajda-shukr",
     "name": "Sajda Shukr",
     "category": "taqeebat",
-    "segmentCount": 134
+    "segmentCount": 134,
+    "mafatihId": 1347
   },
   {
     "id": "tahajjud-salaat",
@@ -363,7 +402,8 @@
     "id": "after-adhan-duas",
     "name": "After Adhan Duas",
     "category": "taqeebat",
-    "segmentCount": 168
+    "segmentCount": 168,
+    "mafatihId": 1309
   },
   {
     "id": "saturday-duas",
@@ -417,13 +457,15 @@
     "id": "ziyarat-jamia-kabira",
     "name": "Ziyarat Jamia Kabira",
     "category": "ziyarat",
-    "segmentCount": 412
+    "segmentCount": 412,
+    "mafatihId": 1230
   },
   {
     "id": "ziyarat-aleyasin",
     "name": "Ziyarat Aleyasin",
     "category": "ziyarat",
-    "segmentCount": 77
+    "segmentCount": 77,
+    "mafatihId": 1258
   },
   {
     "id": "dua-after-ziyarat-aleyasin",
@@ -435,31 +477,36 @@
     "id": "ziyarat-warith",
     "name": "Ziyarat Warith",
     "category": "ziyarat",
-    "segmentCount": 209
+    "segmentCount": 209,
+    "mafatihId": 1249
   },
   {
     "id": "ziyarat-ashura",
     "name": "Ziyarat Ashura",
     "category": "ziyarat",
-    "segmentCount": 136
+    "segmentCount": 136,
+    "mafatihId": 1246
   },
   {
     "id": "ziyarat-ameenullah",
     "name": "Ziyarat Ameenullah",
     "category": "ziyarat",
-    "segmentCount": 67
+    "segmentCount": 67,
+    "mafatihId": 1233
   },
   {
     "id": "daily-ziyarat-imam-mahdi",
     "name": "Daily Ziyarat Imam Mahdi",
     "category": "ziyarat",
-    "segmentCount": 34
+    "segmentCount": 34,
+    "mafatihId": 1257
   },
   {
     "id": "ziyarat-imam-mahdi",
     "name": "Ziyarat Imam Mahdi",
     "category": "ziyarat",
-    "segmentCount": 38
+    "segmentCount": 38,
+    "mafatihId": 1259
   },
   {
     "id": "ziyarat-imam-hussain-arafah",
@@ -477,7 +524,8 @@
     "id": "isteghasa-imam-mahdi",
     "name": "Isteghasa Imam Mahdi",
     "category": "special_needs",
-    "segmentCount": 66
+    "segmentCount": 66,
+    "mafatihId": 1204
   },
   {
     "id": "ss07-worrisome-task",
@@ -501,7 +549,8 @@
     "id": "ss20-noble-traits-makarem-akhlaq",
     "name": "SS20 - Noble Traits (Makarem Akhlaq)",
     "category": "sahifa",
-    "segmentCount": 217
+    "segmentCount": 217,
+    "mafatihId": 1298
   },
   {
     "id": "ss24-prayer-for-parents",
@@ -562,5 +611,2551 @@
     "name": "Sahifa - Prophet Muhammad (saws)",
     "category": "sahifa_prophet",
     "segmentCount": 991
+  },
+  {
+    "id": "10th-of-muharram-night-night-of-ashura",
+    "name": "10th of Muharram Night (night of Ashura)",
+    "category": "aamal",
+    "segmentCount": 11,
+    "mafatihId": 979,
+    "source": "mafatih",
+    "subcategory": "Muharram"
+  },
+  {
+    "id": "1st-day-of-muharram",
+    "name": "1st Day of Muharram",
+    "category": "aamal",
+    "segmentCount": 37,
+    "mafatihId": 980,
+    "source": "mafatih",
+    "subcategory": "Muharram"
+  },
+  {
+    "id": "ziyarah-taziyah-on-ashura-day",
+    "name": "Ziyarah Taziyah on Ashura day",
+    "category": "aamal",
+    "segmentCount": 76,
+    "mafatihId": 981,
+    "source": "mafatih",
+    "subcategory": "Muharram"
+  },
+  {
+    "id": "1st-night-of-muharram",
+    "name": "1st Night of muharram",
+    "category": "aamal",
+    "segmentCount": 6,
+    "mafatihId": 982,
+    "source": "mafatih",
+    "subcategory": "Muharram"
+  },
+  {
+    "id": "9th-day-of-muharram",
+    "name": "9th Day of muharram",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 983,
+    "source": "mafatih",
+    "subcategory": "Muharram"
+  },
+  {
+    "id": "10th-day-of-muharram-day-of-ashura",
+    "name": "10th Day of muharram (day of Ashura)",
+    "category": "aamal",
+    "segmentCount": 32,
+    "mafatihId": 984,
+    "source": "mafatih",
+    "subcategory": "Muharram"
+  },
+  {
+    "id": "3th-day-of-muharram",
+    "name": "3th Day of muharram",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 985,
+    "source": "mafatih",
+    "subcategory": "Muharram"
+  },
+  {
+    "id": "daily-dua-in-the-month-of-safar",
+    "name": "Daily Dua in the month of Safar",
+    "category": "aamal",
+    "segmentCount": 13,
+    "mafatihId": 987,
+    "source": "mafatih",
+    "subcategory": "Safar"
+  },
+  {
+    "id": "3rd-day-of-safar",
+    "name": "3rd Day of Safar",
+    "category": "aamal",
+    "segmentCount": 6,
+    "mafatihId": 988,
+    "source": "mafatih",
+    "subcategory": "Safar"
+  },
+  {
+    "id": "28th-day-of-safar",
+    "name": "28th Day of safar",
+    "category": "aamal",
+    "segmentCount": 20,
+    "mafatihId": 989,
+    "source": "mafatih",
+    "subcategory": "Safar"
+  },
+  {
+    "id": "arbaeen",
+    "name": "Arbaeen",
+    "category": "aamal",
+    "segmentCount": 4,
+    "mafatihId": 990,
+    "source": "mafatih",
+    "subcategory": "Safar"
+  },
+  {
+    "id": "ziyarat-arbaeen",
+    "name": "Ziyarat  Arbaeen",
+    "category": "aamal",
+    "segmentCount": 81,
+    "mafatihId": 991,
+    "source": "mafatih",
+    "subcategory": "Safar"
+  },
+  {
+    "id": "9th-day-of-rabi-al-avval",
+    "name": "9th Day of rabi al-avval",
+    "category": "aamal",
+    "segmentCount": 2,
+    "mafatihId": 993,
+    "source": "mafatih",
+    "subcategory": "Rabi Awwal"
+  },
+  {
+    "id": "1st-day-of-rabi-awwal",
+    "name": "1st Day of Rabi Awwal",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 994,
+    "source": "mafatih",
+    "subcategory": "Rabi Awwal"
+  },
+  {
+    "id": "12th-day-of-rabi-awwal",
+    "name": "12th Day of Rabi Awwal",
+    "category": "aamal",
+    "segmentCount": 2,
+    "mafatihId": 995,
+    "source": "mafatih",
+    "subcategory": "Rabi Awwal"
+  },
+  {
+    "id": "17th-day-of-rabi-awwal",
+    "name": "17th Day of Rabi Awwal",
+    "category": "aamal",
+    "segmentCount": 11,
+    "mafatihId": 996,
+    "source": "mafatih",
+    "subcategory": "Rabi Awwal"
+  },
+  {
+    "id": "8th-day-rabi-ul-avval",
+    "name": "8th Day rabi ul avval",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 997,
+    "source": "mafatih",
+    "subcategory": "Rabi Awwal"
+  },
+  {
+    "id": "beginning-of-the-month-of-rabi-thani",
+    "name": "Beginning of the Month of Rabi Thani",
+    "category": "aamal",
+    "segmentCount": 20,
+    "mafatihId": 999,
+    "source": "mafatih",
+    "subcategory": "Rabi Thani"
+  },
+  {
+    "id": "10th-day-of-rabi-thani",
+    "name": "10th Day of Rabi Thani",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 1000,
+    "source": "mafatih",
+    "subcategory": "Rabi Thani"
+  },
+  {
+    "id": "beginning-of-the-momth-jumadil-ula",
+    "name": "Beginning of the Momth jumadil ula",
+    "category": "aamal",
+    "segmentCount": 22,
+    "mafatihId": 1002,
+    "source": "mafatih",
+    "subcategory": "Jumada al- Ula"
+  },
+  {
+    "id": "13th-14th-and-15th-days-jumada-al-ula",
+    "name": "13th, 14th, and 15th Days Jumada al- Ula",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 1003,
+    "source": "mafatih",
+    "subcategory": "Jumada al- Ula"
+  },
+  {
+    "id": "15th-day-of-jumadil-ula",
+    "name": "15th Day of Jumadil Ula",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 1004,
+    "source": "mafatih",
+    "subcategory": "Jumada al- Ula"
+  },
+  {
+    "id": "special-4-rakat-salat-in-jamad-al-thani",
+    "name": "Special 4 rakat salat in jamad al-thani",
+    "category": "aamal",
+    "segmentCount": 16,
+    "mafatihId": 1006,
+    "source": "mafatih",
+    "subcategory": "Jumada ath-Thaniyah"
+  },
+  {
+    "id": "3th-day-of-jamadi-al-thani",
+    "name": "3th Day of jamadi al-thani",
+    "category": "aamal",
+    "segmentCount": 60,
+    "mafatihId": 1007,
+    "source": "mafatih",
+    "subcategory": "Jumada ath-Thaniyah"
+  },
+  {
+    "id": "20th-day-of-jamadi-al-thani",
+    "name": "20th Day of jamadi al-thani",
+    "category": "aamal",
+    "segmentCount": 4,
+    "mafatihId": 1008,
+    "source": "mafatih",
+    "subcategory": "Jumada ath-Thaniyah"
+  },
+  {
+    "id": "aamal-for-13-14-15th-of-shaban",
+    "name": "A'amal for 13, 14, 15th of shaban",
+    "category": "aamal",
+    "segmentCount": 133,
+    "mafatihId": 1011,
+    "source": "mafatih",
+    "subcategory": "Rajab"
+  },
+  {
+    "id": "ziyarat-imam-hussain-as-on-1st-15th-rajab",
+    "name": "Ziyarat Imam Hussain (as) on 1st & 15th Rajab",
+    "category": "aamal",
+    "segmentCount": 108,
+    "mafatihId": 1012,
+    "source": "mafatih",
+    "subcategory": "Rajab"
+  },
+  {
+    "id": "1st-night-of-rajab",
+    "name": "1st Night of rajab",
+    "category": "aamal",
+    "segmentCount": 106,
+    "mafatihId": 1013,
+    "source": "mafatih",
+    "subcategory": "Rajab"
+  },
+  {
+    "id": "1st-day-of-rajab",
+    "name": "1st Day of rajab",
+    "category": "aamal",
+    "segmentCount": 367,
+    "mafatihId": 1014,
+    "source": "mafatih",
+    "subcategory": "Rajab"
+  },
+  {
+    "id": "general-amaal",
+    "name": "General Amaal",
+    "category": "aamal",
+    "segmentCount": 37,
+    "mafatihId": 1015,
+    "source": "mafatih",
+    "subcategory": "Rajab"
+  },
+  {
+    "id": "daywise-salats-in-rajab",
+    "name": "Daywise Salats in rajab",
+    "category": "aamal",
+    "segmentCount": 49,
+    "mafatihId": 1016,
+    "source": "mafatih",
+    "subcategory": "Rajab"
+  },
+  {
+    "id": "ziyarat-rajabiyah",
+    "name": "Ziyarat Rajabiyah",
+    "category": "aamal",
+    "segmentCount": 50,
+    "mafatihId": 1017,
+    "source": "mafatih",
+    "subcategory": "Rajab"
+  },
+  {
+    "id": "ziyarat-imam-alias-on-27th-rajab",
+    "name": "Ziyarat Imam Ali(as) on 27th Rajab",
+    "category": "aamal",
+    "segmentCount": 278,
+    "mafatihId": 1018,
+    "source": "mafatih",
+    "subcategory": "Rajab"
+  },
+  {
+    "id": "27th-night-of-rajab",
+    "name": "27th Night of rajab",
+    "category": "aamal",
+    "segmentCount": 128,
+    "mafatihId": 1019,
+    "source": "mafatih",
+    "subcategory": "Rajab"
+  },
+  {
+    "id": "dua-yaman-arjohu",
+    "name": "Dua Yaman Arjohu",
+    "category": "aamal",
+    "segmentCount": 20,
+    "mafatihId": 1020,
+    "source": "mafatih",
+    "subcategory": "Rajab"
+  },
+  {
+    "id": "daily-rajab-duas",
+    "name": "Daily Rajab Duas",
+    "category": "aamal",
+    "segmentCount": 220,
+    "mafatihId": 1021,
+    "source": "mafatih",
+    "subcategory": "Rajab"
+  },
+  {
+    "id": "lailatul-raghaib",
+    "name": "Lailatul Raghaib",
+    "category": "aamal",
+    "segmentCount": 17,
+    "mafatihId": 1022,
+    "source": "mafatih",
+    "subcategory": "Rajab"
+  },
+  {
+    "id": "merits-of-rajab-and-general-amaal",
+    "name": "Merits of Rajab and general amaal",
+    "category": "aamal",
+    "segmentCount": 62,
+    "mafatihId": 1023,
+    "source": "mafatih",
+    "subcategory": "Rajab"
+  },
+  {
+    "id": "27th-day-of-rajab",
+    "name": "27th Day of rajab",
+    "category": "aamal",
+    "segmentCount": 114,
+    "mafatihId": 1024,
+    "source": "mafatih",
+    "subcategory": "Rajab"
+  },
+  {
+    "id": "dua-ummi-dawud",
+    "name": "Dua Ummi Dawud",
+    "category": "aamal",
+    "segmentCount": 288,
+    "mafatihId": 1025,
+    "source": "mafatih",
+    "subcategory": "Rajab"
+  },
+  {
+    "id": "last-night-of-shaaban",
+    "name": "Last Night of Shaaban",
+    "category": "aamal",
+    "segmentCount": 65,
+    "mafatihId": 1027,
+    "source": "mafatih",
+    "subcategory": "Sha'ban"
+  },
+  {
+    "id": "general-aamal",
+    "name": "General Aamal",
+    "category": "aamal",
+    "segmentCount": 25,
+    "mafatihId": 1028,
+    "source": "mafatih",
+    "subcategory": "Sha'ban"
+  },
+  {
+    "id": "daily-salawat-on-the-prophet-sa",
+    "name": "Daily Salawat on the Prophet (sa)",
+    "category": "aamal",
+    "segmentCount": 50,
+    "mafatihId": 1029,
+    "source": "mafatih",
+    "subcategory": "Sha'ban"
+  },
+  {
+    "id": "munaajat-of-shabaniyah",
+    "name": "Munaajat of Shabaniyah",
+    "category": "aamal",
+    "segmentCount": 136,
+    "mafatihId": 1030,
+    "source": "mafatih",
+    "subcategory": "Sha'ban"
+  },
+  {
+    "id": "3rd-of-shaban-birth-of-imam-hussain-as",
+    "name": "3rd of shaban - Birth of Imam Hussain (as)",
+    "category": "aamal",
+    "segmentCount": 77,
+    "mafatihId": 1031,
+    "source": "mafatih",
+    "subcategory": "Sha'ban"
+  },
+  {
+    "id": "4th-of-shaban-birth-of-hazrat-abbas-as",
+    "name": "4th of shaban - Birth of Hazrat Abbas (as)",
+    "category": "aamal",
+    "segmentCount": 144,
+    "mafatihId": 1032,
+    "source": "mafatih",
+    "subcategory": "Sha'ban"
+  },
+  {
+    "id": "5th-of-shaban-birth-of-imam-zain-ul-abedin-as",
+    "name": "5th of shaban - Birth of Imam Zain ul Abedin (as)",
+    "category": "aamal",
+    "segmentCount": 72,
+    "mafatihId": 1033,
+    "source": "mafatih",
+    "subcategory": "Sha'ban"
+  },
+  {
+    "id": "the-15th-shaaban-night",
+    "name": "The 15th Shaaban Night",
+    "category": "aamal",
+    "segmentCount": 275,
+    "mafatihId": 1034,
+    "source": "mafatih",
+    "subcategory": "Sha'ban"
+  },
+  {
+    "id": "1st-night-and-day",
+    "name": "1st Night and Day",
+    "category": "aamal",
+    "segmentCount": 2,
+    "mafatihId": 1035,
+    "source": "mafatih",
+    "subcategory": "Sha'ban"
+  },
+  {
+    "id": "15th-day-of-shaban-birth-of-imam-mahdi-atfs",
+    "name": "15th Day of shaban- Birth of Imam Mahdi (atfs)",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 1036,
+    "source": "mafatih",
+    "subcategory": "Sha'ban"
+  },
+  {
+    "id": "dua-sahar",
+    "name": "Dua Sahar",
+    "category": "aamal",
+    "segmentCount": 70,
+    "mafatihId": 1038,
+    "source": "mafatih",
+    "subcategory": "Ramadan"
+  },
+  {
+    "id": "dua-ya-uddati",
+    "name": "Dua Ya Uddati",
+    "category": "aamal",
+    "segmentCount": 171,
+    "mafatihId": 1040,
+    "source": "mafatih",
+    "subcategory": "Ramadan"
+  },
+  {
+    "id": "dua-mujeer-1041",
+    "name": "Dua Mujeer",
+    "category": "aamal",
+    "segmentCount": 278,
+    "mafatihId": 1041,
+    "source": "mafatih",
+    "subcategory": "Ramadan"
+  },
+  {
+    "id": "dua-hajj",
+    "name": "Dua Hajj",
+    "category": "aamal",
+    "segmentCount": 27,
+    "mafatihId": 1042,
+    "source": "mafatih",
+    "subcategory": "Ramadan"
+  },
+  {
+    "id": "ziyarat-imam-alias-on-21st",
+    "name": "Ziyarat Imam Ali(as) on 21st",
+    "category": "aamal",
+    "segmentCount": 69,
+    "mafatihId": 1044,
+    "source": "mafatih",
+    "subcategory": "Ramadan"
+  },
+  {
+    "id": "aamaltakbeer",
+    "name": "Aamal/Takbeer",
+    "category": "aamal",
+    "segmentCount": 11,
+    "mafatihId": 1046,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Dua & Aamal for Eid Night and Day"
+  },
+  {
+    "id": "salaatdua-after-maghrib",
+    "name": "Salaat/Dua after Maghrib",
+    "category": "aamal",
+    "segmentCount": 167,
+    "mafatihId": 1047,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Dua & Aamal for Eid Night and Day"
+  },
+  {
+    "id": "dua-ya-daemal",
+    "name": "Dua Ya Daemal",
+    "category": "aamal",
+    "segmentCount": 8,
+    "mafatihId": 1048,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Dua & Aamal for Eid Night and Day"
+  },
+  {
+    "id": "dua-ya-allahu",
+    "name": "Dua Ya Allahu",
+    "category": "aamal",
+    "segmentCount": 144,
+    "mafatihId": 1049,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Dua & Aamal for Eid Night and Day"
+  },
+  {
+    "id": "dua-after-fajr",
+    "name": "Dua after Fajr",
+    "category": "aamal",
+    "segmentCount": 9,
+    "mafatihId": 1050,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Dua & Aamal for Eid Night and Day"
+  },
+  {
+    "id": "eid-al-fitr-day",
+    "name": "Eid al -Fitr \"Day\"",
+    "category": "aamal",
+    "segmentCount": 32,
+    "mafatihId": 1051,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Dua & Aamal for Eid Night and Day"
+  },
+  {
+    "id": "salat-al-eid-fitr",
+    "name": "Salat al Eid Fitr",
+    "category": "aamal",
+    "segmentCount": 19,
+    "mafatihId": 1052,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Dua & Aamal for Eid Night and Day"
+  },
+  {
+    "id": "the-merits-of-ramadan",
+    "name": "The Merits of Ramadan",
+    "category": "aamal",
+    "segmentCount": 31,
+    "mafatihId": 1053,
+    "source": "mafatih",
+    "subcategory": "Ramadan"
+  },
+  {
+    "id": "general-duas-for-the-days-nights",
+    "name": "General Duas for the Days & Nights",
+    "category": "aamal",
+    "segmentCount": 56,
+    "mafatihId": 1054,
+    "source": "mafatih",
+    "subcategory": "Ramadan"
+  },
+  {
+    "id": "aamal-for-every-night",
+    "name": "Aamal For every  Night",
+    "category": "aamal",
+    "segmentCount": 73,
+    "mafatihId": 1055,
+    "source": "mafatih",
+    "subcategory": "Ramadan"
+  },
+  {
+    "id": "aamal-e-sahar",
+    "name": "Aamal-e-Sahar",
+    "category": "aamal",
+    "segmentCount": 10,
+    "mafatihId": 1056,
+    "source": "mafatih",
+    "subcategory": "Ramadan"
+  },
+  {
+    "id": "daily-duas-in-ramadan",
+    "name": "Daily Duas in ramadan",
+    "category": "aamal",
+    "segmentCount": 261,
+    "mafatihId": 1058,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Aamal For The Days of ramadan"
+  },
+  {
+    "id": "daily-tasbeehat-in-ramadan",
+    "name": "Daily Tasbeehat in ramadan",
+    "category": "aamal",
+    "segmentCount": 189,
+    "mafatihId": 1059,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Aamal For The Days of ramadan"
+  },
+  {
+    "id": "daily-salawat-in-ramadan",
+    "name": "Daily Salawat in ramadan",
+    "category": "aamal",
+    "segmentCount": 139,
+    "mafatihId": 1060,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Aamal For The Days of ramadan"
+  },
+  {
+    "id": "the-other-daily-aamal-in-ramadan",
+    "name": "The Other Daily Aamal in ramadan",
+    "category": "aamal",
+    "segmentCount": 553,
+    "mafatihId": 1061,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Aamal For The Days of ramadan"
+  },
+  {
+    "id": "the-1st-night-of-ramadan",
+    "name": "The 1st Night of ramadan",
+    "category": "aamal",
+    "segmentCount": 106,
+    "mafatihId": 1063,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Particular Aamal"
+  },
+  {
+    "id": "the-1st-day-of-ramadan",
+    "name": "The 1st Day of ramadan",
+    "category": "aamal",
+    "segmentCount": 12,
+    "mafatihId": 1064,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Particular Aamal"
+  },
+  {
+    "id": "the-6th-day-of-ramadan",
+    "name": "The 6th Day of ramadan",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 1065,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Particular Aamal"
+  },
+  {
+    "id": "the-13th-and-14th-night-of-ramadan",
+    "name": "The 13th and 14th Night of ramadan",
+    "category": "aamal",
+    "segmentCount": 6,
+    "mafatihId": 1066,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Particular Aamal"
+  },
+  {
+    "id": "the-15th-night-of-ramadan",
+    "name": "The 15th Night of ramadan",
+    "category": "aamal",
+    "segmentCount": 7,
+    "mafatihId": 1067,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Particular Aamal"
+  },
+  {
+    "id": "the-17th-night-of-ramadan",
+    "name": "The 17th Night of ramadan",
+    "category": "aamal",
+    "segmentCount": 4,
+    "mafatihId": 1068,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Particular Aamal"
+  },
+  {
+    "id": "salats-for-the-nights-of-ramadan",
+    "name": "Salats for The Nights of ramadan",
+    "category": "aamal",
+    "segmentCount": 31,
+    "mafatihId": 1069,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Particular Aamal"
+  },
+  {
+    "id": "general-aamal-for-3-nights-of-laylatul-qadr",
+    "name": "General Aamal for 3 Nights of laylatul qadr",
+    "category": "aamal",
+    "segmentCount": 73,
+    "mafatihId": 1071,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Amal For Laylat ul Qadr"
+  },
+  {
+    "id": "19th-night-of-ramadan",
+    "name": "19th Night of ramadan",
+    "category": "aamal",
+    "segmentCount": 18,
+    "mafatihId": 1072,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Amal For Laylat ul Qadr"
+  },
+  {
+    "id": "21st-night-of-ramadan",
+    "name": "21st Night of ramadan",
+    "category": "aamal",
+    "segmentCount": 128,
+    "mafatihId": 1073,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Amal For Laylat ul Qadr"
+  },
+  {
+    "id": "23rd-night-of-ramadan",
+    "name": "23rd Night of ramadan",
+    "category": "aamal",
+    "segmentCount": 142,
+    "mafatihId": 1074,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Amal For Laylat ul Qadr"
+  },
+  {
+    "id": "dua-for-22nd-night-of-ramadan",
+    "name": "Dua for 22nd night of ramadan",
+    "category": "aamal",
+    "segmentCount": 26,
+    "mafatihId": 1076,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+  },
+  {
+    "id": "dua-for-23rd-night-of-ramadan",
+    "name": "Dua for 23rd night of ramadan",
+    "category": "aamal",
+    "segmentCount": 28,
+    "mafatihId": 1077,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+  },
+  {
+    "id": "dua-for-24th-night-of-ramadan",
+    "name": "Dua for 24th night of ramadan",
+    "category": "aamal",
+    "segmentCount": 28,
+    "mafatihId": 1078,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+  },
+  {
+    "id": "dua-for-25th-night-of-ramadan",
+    "name": "Dua for 25th night of ramadan",
+    "category": "aamal",
+    "segmentCount": 26,
+    "mafatihId": 1079,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+  },
+  {
+    "id": "dua-for-26th-night-of-ramadan",
+    "name": "Dua for 26th night of ramadan",
+    "category": "aamal",
+    "segmentCount": 24,
+    "mafatihId": 1080,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+  },
+  {
+    "id": "dua-for-27th-night-of-ramadan",
+    "name": "Dua for 27th night of ramadan",
+    "category": "aamal",
+    "segmentCount": 34,
+    "mafatihId": 1081,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+  },
+  {
+    "id": "dua-for-28th-night-of-ramadan",
+    "name": "Dua for 28th night of ramadan",
+    "category": "aamal",
+    "segmentCount": 25,
+    "mafatihId": 1082,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+  },
+  {
+    "id": "dua-for-29th-night-of-ramadan",
+    "name": "Dua for 29th night of ramadan",
+    "category": "aamal",
+    "segmentCount": 24,
+    "mafatihId": 1083,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+  },
+  {
+    "id": "dua-for-30th-night-of-ramadan",
+    "name": "Dua for 30th night of ramadan",
+    "category": "aamal",
+    "segmentCount": 28,
+    "mafatihId": 1084,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+  },
+  {
+    "id": "other-aamal-in-21st-night-of-ramadan",
+    "name": "Other Aamal in 21st night of ramadan",
+    "category": "aamal",
+    "segmentCount": 77,
+    "mafatihId": 1085,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+  },
+  {
+    "id": "general-aamal-for-last-10-nights",
+    "name": "General Aamal for last 10 Nights",
+    "category": "aamal",
+    "segmentCount": 6,
+    "mafatihId": 1086,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+  },
+  {
+    "id": "the-last-night-of-ramadan",
+    "name": "The Last Night of ramadan",
+    "category": "aamal",
+    "segmentCount": 257,
+    "mafatihId": 1087,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+  },
+  {
+    "id": "dua-for-30th-day-of-ramadan",
+    "name": "Dua for 30th day of ramadan",
+    "category": "aamal",
+    "segmentCount": 145,
+    "mafatihId": 1088,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+  },
+  {
+    "id": "dua-for-last-friday-of-ramadan",
+    "name": "Dua for last Friday of ramadan",
+    "category": "aamal",
+    "segmentCount": 5,
+    "mafatihId": 1089,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+  },
+  {
+    "id": "farewell-duas-of-ramadan",
+    "name": "Farewell Duas of ramadan",
+    "category": "aamal",
+    "segmentCount": 325,
+    "mafatihId": 1090,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+  },
+  {
+    "id": "completion-of-quran",
+    "name": "Completion of Quran",
+    "category": "aamal",
+    "segmentCount": 139,
+    "mafatihId": 1091,
+    "source": "mafatih",
+    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+  },
+  {
+    "id": "short-duas-for-the-days-of-ramadan",
+    "name": "Short Duas for the Days of ramadan",
+    "category": "aamal",
+    "segmentCount": 62,
+    "mafatihId": 1092,
+    "source": "mafatih",
+    "subcategory": "Ramadan"
+  },
+  {
+    "id": "iftar-etiquette",
+    "name": "Iftar Etiquette",
+    "category": "aamal",
+    "segmentCount": 17,
+    "mafatihId": 1093,
+    "source": "mafatih",
+    "subcategory": "Ramadan"
+  },
+  {
+    "id": "11th-of-dhul-qadah-birth-of-imam-ali-ridha-as",
+    "name": "11th of dhul-qa'dah: Birth of Imam Ali Ridha (as)",
+    "category": "aamal",
+    "segmentCount": 466,
+    "mafatihId": 1095,
+    "source": "mafatih",
+    "subcategory": "Du al-Qa'dah"
+  },
+  {
+    "id": "25th-of-dhul-qadah-day-dahwul-ardh",
+    "name": "25th of dhul-qa'dah: Day Dahwul Ardh",
+    "category": "aamal",
+    "segmentCount": 98,
+    "mafatihId": 1096,
+    "source": "mafatih",
+    "subcategory": "Du al-Qa'dah"
+  },
+  {
+    "id": "sundays-dhul-qadah-salat",
+    "name": "Sunday's dhul-qa'dah Salat",
+    "category": "aamal",
+    "segmentCount": 29,
+    "mafatihId": 1097,
+    "source": "mafatih",
+    "subcategory": "Du al-Qa'dah"
+  },
+  {
+    "id": "15th-night-of-dhul-qada",
+    "name": "15th night of dhul qa'da",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 1098,
+    "source": "mafatih",
+    "subcategory": "Du al-Qa'dah"
+  },
+  {
+    "id": "23th-day-of-dhul-qada",
+    "name": "23th Day of dhul qa'da",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 1099,
+    "source": "mafatih",
+    "subcategory": "Du al-Qa'dah"
+  },
+  {
+    "id": "1st-day-of-dhul-hijjah",
+    "name": "1st Day of dhul-hijjah",
+    "category": "aamal",
+    "segmentCount": 24,
+    "mafatihId": 1102,
+    "source": "mafatih",
+    "subcategory": "Dhu al-Hijjah"
+  },
+  {
+    "id": "9th-night-dhul-hijjah-arafah-night",
+    "name": "9th Night dhul-hijjah (Arafah night)",
+    "category": "aamal",
+    "segmentCount": 330,
+    "mafatihId": 1103,
+    "source": "mafatih",
+    "subcategory": "Dhu al-Hijjah"
+  },
+  {
+    "id": "9th-day-dhul-hijjah-arafah-day",
+    "name": "9th Day dhul-hijjah (Arafah Day)",
+    "category": "aamal",
+    "segmentCount": 200,
+    "mafatihId": 1104,
+    "source": "mafatih",
+    "subcategory": "Dhu al-Hijjah"
+  },
+  {
+    "id": "10th-day-dhul-hijjah-eid-al-adha",
+    "name": "10th Day dhul-hijjah (Eid Al Adha)",
+    "category": "aamal",
+    "segmentCount": 30,
+    "mafatihId": 1105,
+    "source": "mafatih",
+    "subcategory": "Dhu al-Hijjah"
+  },
+  {
+    "id": "18th-dhul-hijjah-eid-ghadeer",
+    "name": "18th dhul-hijjah Eid Ghadeer",
+    "category": "aamal",
+    "segmentCount": 391,
+    "mafatihId": 1106,
+    "source": "mafatih",
+    "subcategory": "Dhu al-Hijjah"
+  },
+  {
+    "id": "24th-dhul-hijjah-day-of-mubahelah",
+    "name": "24th dhul-hijjah Day of Mubahelah",
+    "category": "aamal",
+    "segmentCount": 193,
+    "mafatihId": 1107,
+    "source": "mafatih",
+    "subcategory": "Dhu al-Hijjah"
+  },
+  {
+    "id": "last-day-of-dhul-hijjah",
+    "name": "Last Day of dhul-hijjah",
+    "category": "aamal",
+    "segmentCount": 10,
+    "mafatihId": 1108,
+    "source": "mafatih",
+    "subcategory": "Dhu al-Hijjah"
+  },
+  {
+    "id": "dua-after-fajrmagrib",
+    "name": "Dua after Fajr/Magrib",
+    "category": "aamal",
+    "segmentCount": 50,
+    "mafatihId": 1110,
+    "source": "mafatih",
+    "subcategory": "Dhu al-Hijjah - Dhul-hijjah 1st 10 Days Amaal"
+  },
+  {
+    "id": "salah-between-magrib-isha",
+    "name": "Salah between Magrib-Isha",
+    "category": "aamal",
+    "segmentCount": 7,
+    "mafatihId": 1111,
+    "source": "mafatih",
+    "subcategory": "Dhu al-Hijjah - Dhul-hijjah 1st 10 Days Amaal"
+  },
+  {
+    "id": "five-testaments",
+    "name": "Five testaments",
+    "category": "aamal",
+    "segmentCount": 36,
+    "mafatihId": 1112,
+    "source": "mafatih",
+    "subcategory": "Dhu al-Hijjah - Dhul-hijjah 1st 10 Days Amaal"
+  },
+  {
+    "id": "tahlilat",
+    "name": "Tahlilat",
+    "category": "aamal",
+    "segmentCount": 22,
+    "mafatihId": 1113,
+    "source": "mafatih",
+    "subcategory": "Dhu al-Hijjah - Dhul-hijjah 1st 10 Days Amaal"
+  },
+  {
+    "id": "dua-arafah",
+    "name": "Dua Arafah",
+    "category": "aamal",
+    "segmentCount": 838,
+    "mafatihId": 1114,
+    "source": "mafatih",
+    "subcategory": "Dhu al-Hijjah"
+  },
+  {
+    "id": "8th-day-of-dhul-hajjah",
+    "name": "8th Day of dhul-hajjah",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 1115,
+    "source": "mafatih",
+    "subcategory": "Dhu al-Hijjah"
+  },
+  {
+    "id": "10th-night-of-dhul-hajjah",
+    "name": "10th Night of dhul-hajjah",
+    "category": "aamal",
+    "segmentCount": 33,
+    "mafatihId": 1116,
+    "source": "mafatih",
+    "subcategory": "Dhu al-Hijjah"
+  },
+  {
+    "id": "18th-night-of-dhul-hajjah",
+    "name": "18th Night of dhul-hajjah",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 1117,
+    "source": "mafatih",
+    "subcategory": "Dhu al-Hijjah"
+  },
+  {
+    "id": "25th-day-of-dhul-hajjah",
+    "name": "25th Day of dhul-hajjah",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 1118,
+    "source": "mafatih",
+    "subcategory": "Dhu al-Hijjah"
+  },
+  {
+    "id": "dua-of-saturday",
+    "name": "Dua of Saturday",
+    "category": "weekday",
+    "segmentCount": 28,
+    "mafatihId": 1121,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Saturday"
+  },
+  {
+    "id": "ziyarat-of-holy-prophet-s-on-saturday",
+    "name": "Ziyarat Of Holy Prophet (s) on Saturday",
+    "category": "weekday",
+    "segmentCount": 67,
+    "mafatihId": 1122,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Saturday"
+  },
+  {
+    "id": "prayer-on-saturday",
+    "name": "Prayer on Saturday",
+    "category": "weekday",
+    "segmentCount": 2,
+    "mafatihId": 1123,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Saturday"
+  },
+  {
+    "id": "dua-of-sunday",
+    "name": "Dua of sunday",
+    "category": "weekday",
+    "segmentCount": 37,
+    "mafatihId": 1125,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Sunday"
+  },
+  {
+    "id": "ziyarat-of-imam-ali-as-on-sunday",
+    "name": "Ziyarat Of Imam Ali (as) on Sunday",
+    "category": "weekday",
+    "segmentCount": 24,
+    "mafatihId": 1126,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Sunday"
+  },
+  {
+    "id": "ziyarat-syeda-fatimasa-on-sunday",
+    "name": "Ziyarat Syeda Fatima(sa) on Sunday",
+    "category": "weekday",
+    "segmentCount": 16,
+    "mafatihId": 1127,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Sunday"
+  },
+  {
+    "id": "prayer-of-sunday",
+    "name": "Prayer of Sunday",
+    "category": "weekday",
+    "segmentCount": 2,
+    "mafatihId": 1128,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Sunday"
+  },
+  {
+    "id": "dua-of-monday",
+    "name": "Dua of Monday",
+    "category": "weekday",
+    "segmentCount": 55,
+    "mafatihId": 1130,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Monday"
+  },
+  {
+    "id": "ziyarat-of-imam-hassan-as-on-monday",
+    "name": "Ziyarat Of Imam Hassan (as) on Monday",
+    "category": "weekday",
+    "segmentCount": 22,
+    "mafatihId": 1131,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Monday"
+  },
+  {
+    "id": "ziyarat-imam-hussain-as-on-monday",
+    "name": "Ziyarat Imam Hussain (as) on Monday",
+    "category": "weekday",
+    "segmentCount": 31,
+    "mafatihId": 1132,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Monday"
+  },
+  {
+    "id": "prayer-on-monday",
+    "name": "Prayer on Monday",
+    "category": "weekday",
+    "segmentCount": 2,
+    "mafatihId": 1133,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Monday"
+  },
+  {
+    "id": "dua-of-tuesday",
+    "name": "Dua of Tuesday",
+    "category": "weekday",
+    "segmentCount": 40,
+    "mafatihId": 1135,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Tuesday"
+  },
+  {
+    "id": "ziyarat-of-three-imams-on-tuesday",
+    "name": "Ziyarat of three Imams on Tuesday",
+    "category": "weekday",
+    "segmentCount": 26,
+    "mafatihId": 1136,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Tuesday"
+  },
+  {
+    "id": "prayer-of-tuesday",
+    "name": "Prayer of Tuesday",
+    "category": "weekday",
+    "segmentCount": 2,
+    "mafatihId": 1137,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Tuesday"
+  },
+  {
+    "id": "dua-of-wednesday",
+    "name": "Dua of Wednesday",
+    "category": "weekday",
+    "segmentCount": 36,
+    "mafatihId": 1139,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Wednesday"
+  },
+  {
+    "id": "ziyarat-of-four-imams-on-wednesday",
+    "name": "Ziyarat Of Four Imams on Wednesday",
+    "category": "weekday",
+    "segmentCount": 28,
+    "mafatihId": 1140,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Wednesday"
+  },
+  {
+    "id": "prayer-on-wednesday",
+    "name": "Prayer on Wednesday",
+    "category": "weekday",
+    "segmentCount": 2,
+    "mafatihId": 1141,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Wednesday"
+  },
+  {
+    "id": "dua-of-thursday",
+    "name": "Dua of Thursday",
+    "category": "weekday",
+    "segmentCount": 36,
+    "mafatihId": 1143,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Thursday"
+  },
+  {
+    "id": "ziyarat-of-imam-hassan-askarias-on-thursday",
+    "name": "Ziyarat Of Imam Hassan Askari(as) on Thursday",
+    "category": "weekday",
+    "segmentCount": 14,
+    "mafatihId": 1144,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Thursday"
+  },
+  {
+    "id": "salawat-on-thursday",
+    "name": "Salawat On Thursday",
+    "category": "weekday",
+    "segmentCount": 7,
+    "mafatihId": 1145,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Thursday"
+  },
+  {
+    "id": "last-hours-of-thursday",
+    "name": "Last Hours of Thursday",
+    "category": "weekday",
+    "segmentCount": 13,
+    "mafatihId": 1146,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Thursday"
+  },
+  {
+    "id": "prayer-on-thursday",
+    "name": "Prayer on Thursday",
+    "category": "weekday",
+    "segmentCount": 2,
+    "mafatihId": 1147,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Thursday"
+  },
+  {
+    "id": "thursday-night",
+    "name": "Thursday Night",
+    "category": "weekday",
+    "segmentCount": 152,
+    "mafatihId": 1148,
+    "source": "mafatih",
+    "subcategory": "Days of Week"
+  },
+  {
+    "id": "the-holy-prophets-prayer",
+    "name": "The Holy Prophet’s Prayer",
+    "category": "weekday",
+    "segmentCount": 43,
+    "mafatihId": 1151,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "imam-alis-prayer",
+    "name": "Imam Ali’s Prayer",
+    "category": "weekday",
+    "segmentCount": 80,
+    "mafatihId": 1152,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "lady-fatimah-al-zahras-prayer",
+    "name": "Lady Fatimah al-Zahra's Prayer",
+    "category": "weekday",
+    "segmentCount": 54,
+    "mafatihId": 1153,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "imam-al-hasans-prayer",
+    "name": "Imam al-Hasan’s Prayer",
+    "category": "weekday",
+    "segmentCount": 16,
+    "mafatihId": 1154,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "imam-al-husayns-prayer",
+    "name": "Imam al-Husayn’s Prayer",
+    "category": "weekday",
+    "segmentCount": 113,
+    "mafatihId": 1155,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "imam-zayn-al-abideens-prayer",
+    "name": "Imam Zayn al-`Abideen’s Prayer",
+    "category": "weekday",
+    "segmentCount": 18,
+    "mafatihId": 1156,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "imam-al-baqirass-prayer",
+    "name": "Imam al-Baqir’(as)s Prayer",
+    "category": "weekday",
+    "segmentCount": 26,
+    "mafatihId": 1157,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "imam-al-sadiqs-prayer",
+    "name": "Imam al-Sadiq’s Prayer",
+    "category": "weekday",
+    "segmentCount": 17,
+    "mafatihId": 1158,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "imam-al-kazims-prayer",
+    "name": "Imam al-Kazim’s Prayer",
+    "category": "weekday",
+    "segmentCount": 26,
+    "mafatihId": 1159,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "imam-al-ridhas-prayer",
+    "name": "Imam al-Ridha’s Prayer",
+    "category": "weekday",
+    "segmentCount": 12,
+    "mafatihId": 1160,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "imam-al-jawads-prayer",
+    "name": "Imam al-Jawad’s Prayer",
+    "category": "weekday",
+    "segmentCount": 16,
+    "mafatihId": 1161,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "imam-al-hadis-prayer",
+    "name": "Imam al-Hadi’s Prayer",
+    "category": "weekday",
+    "segmentCount": 17,
+    "mafatihId": 1162,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "imam-al-askaris-prayer",
+    "name": "Imam al-`Askari’s Prayer",
+    "category": "weekday",
+    "segmentCount": 45,
+    "mafatihId": 1163,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "imam-al-mahdis-prayer",
+    "name": "Imam al-Mahdi’s Prayer",
+    "category": "weekday",
+    "segmentCount": 29,
+    "mafatihId": 1164,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "salawaat-of-holy-prophet-sawa",
+    "name": "Salawaat of Holy Prophet (sawa)",
+    "category": "weekday",
+    "segmentCount": 43,
+    "mafatihId": 1166,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "salawaat-upon-imam-ali-as",
+    "name": "Salawaat Upon Imam Ali (as)",
+    "category": "weekday",
+    "segmentCount": 26,
+    "mafatihId": 1167,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "salwaat-on-syeda-fatima-sa",
+    "name": "Salwaat on Syeda Fatima (sa)",
+    "category": "weekday",
+    "segmentCount": 19,
+    "mafatihId": 1168,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "salwaat-on-imam-hassanas-imam-hussainas",
+    "name": "Salwaat on Imam Hassan(as) & Imam Hussain(as)",
+    "category": "weekday",
+    "segmentCount": 54,
+    "mafatihId": 1169,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "salwaat-on-imam-sajjadas",
+    "name": "Salwaat on Imam Sajjad(as)",
+    "category": "weekday",
+    "segmentCount": 16,
+    "mafatihId": 1170,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "salwaat-on-imam-baqiras",
+    "name": "Salwaat on Imam Baqir(as)",
+    "category": "weekday",
+    "segmentCount": 18,
+    "mafatihId": 1171,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "salwaat-on-imam-sadiqas",
+    "name": "Salwaat on Imam Sadiq(as)",
+    "category": "weekday",
+    "segmentCount": 15,
+    "mafatihId": 1172,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "salwaat-on-imam-musa-al-kadhimas",
+    "name": "Salwaat on Imam Musa Al Kadhim(as)",
+    "category": "weekday",
+    "segmentCount": 20,
+    "mafatihId": 1173,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "salwaat-on-imam-ali-ridhaas",
+    "name": "Salwaat on Imam Ali Ridha(as)",
+    "category": "weekday",
+    "segmentCount": 15,
+    "mafatihId": 1174,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "salwaat-on-imam-mohammed-jawadas",
+    "name": "Salwaat on Imam Mohammed Jawad(as)",
+    "category": "weekday",
+    "segmentCount": 18,
+    "mafatihId": 1175,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "salwaat-on-imam-ali-naqi-as",
+    "name": "Salwaat on Imam Ali Naqi (as)",
+    "category": "weekday",
+    "segmentCount": 23,
+    "mafatihId": 1176,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "salwaat-on-imam-hasan-askarias",
+    "name": "Salwaat on Imam Hasan Askari(as)",
+    "category": "weekday",
+    "segmentCount": 16,
+    "mafatihId": 1177,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "salwaat-on-imam-mahdi-ajtfs",
+    "name": "Salwaat on Imam Mahdi (ajtfs)",
+    "category": "weekday",
+    "segmentCount": 35,
+    "mafatihId": 1178,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "friday-salwaat-and-ziarat-on-ahlulbaytas",
+    "name": "Friday Salwaat and ziarat on Ahlulbayt(as)",
+    "category": "weekday",
+    "segmentCount": 55,
+    "mafatihId": 1179,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+  },
+  {
+    "id": "aamal",
+    "name": "Aamal",
+    "category": "weekday",
+    "segmentCount": 60,
+    "mafatihId": 1181,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday"
+  },
+  {
+    "id": "salat-al-kamilah-and-another-prayer",
+    "name": "Salat al-Kamilah And Another Prayer",
+    "category": "weekday",
+    "segmentCount": 14,
+    "mafatihId": 1182,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday"
+  },
+  {
+    "id": "friday-duas-after-salaat-ul-asr",
+    "name": "Friday Duas after Salaat-ul Asr",
+    "category": "weekday",
+    "segmentCount": 34,
+    "mafatihId": 1183,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday"
+  },
+  {
+    "id": "duas-at-the-last-hour-of-friday",
+    "name": "Duas at the Last Hour of Friday",
+    "category": "weekday",
+    "segmentCount": 13,
+    "mafatihId": 1184,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday"
+  },
+  {
+    "id": "prayer-on-friday",
+    "name": "Prayer on Friday",
+    "category": "weekday",
+    "segmentCount": 2,
+    "mafatihId": 1185,
+    "source": "mafatih",
+    "subcategory": "Days of Week - Friday"
+  },
+  {
+    "id": "dua",
+    "name": "Dua",
+    "category": "aamal",
+    "segmentCount": 52,
+    "mafatihId": 1187,
+    "source": "mafatih",
+    "subcategory": "General Aamal of Months"
+  },
+  {
+    "id": "salat",
+    "name": "Salat",
+    "category": "aamal",
+    "segmentCount": 23,
+    "mafatihId": 1188,
+    "source": "mafatih",
+    "subcategory": "General Aamal of Months"
+  },
+  {
+    "id": "nawroz",
+    "name": "Nawroz",
+    "category": "aamal",
+    "segmentCount": 21,
+    "mafatihId": 1189,
+    "source": "mafatih",
+    "subcategory": "General Aamal of Months"
+  },
+  {
+    "id": "roman-months",
+    "name": "Roman Months",
+    "category": "aamal",
+    "segmentCount": 13,
+    "mafatihId": 1190,
+    "source": "mafatih",
+    "subcategory": "General Aamal of Months"
+  },
+  {
+    "id": "salaat-mayyit",
+    "name": "Salaat Mayyit",
+    "category": "salah",
+    "segmentCount": 31,
+    "mafatihId": 1192,
+    "source": "mafatih"
+  },
+  {
+    "id": "method",
+    "name": "Method",
+    "category": "salah",
+    "segmentCount": 27,
+    "mafatihId": 1197,
+    "source": "mafatih",
+    "subcategory": "Salatul Layl - Night Prayer"
+  },
+  {
+    "id": "dua-after-8-rakaat",
+    "name": "Dua After 8 Rakaat",
+    "category": "salah",
+    "segmentCount": 19,
+    "mafatihId": 1198,
+    "source": "mafatih",
+    "subcategory": "Salatul Layl - Night Prayer"
+  },
+  {
+    "id": "dua-after-salaat-ul-shaf",
+    "name": "Dua after Salaat ul Shaf",
+    "category": "salah",
+    "segmentCount": 28,
+    "mafatihId": 1199,
+    "source": "mafatih",
+    "subcategory": "Salatul Layl - Night Prayer"
+  },
+  {
+    "id": "salatul-ayaat",
+    "name": "Salatul Ayaat",
+    "category": "salah",
+    "segmentCount": 8,
+    "mafatihId": 1200,
+    "source": "mafatih"
+  },
+  {
+    "id": "salah-of-salman-farsi",
+    "name": "Salah of Salman farsi",
+    "category": "salah",
+    "segmentCount": 26,
+    "mafatihId": 1201,
+    "source": "mafatih"
+  },
+  {
+    "id": "salaatul-istighfar",
+    "name": "Salaatul Istighfar",
+    "category": "salah",
+    "segmentCount": 17,
+    "mafatihId": 1202,
+    "source": "mafatih"
+  },
+  {
+    "id": "salaat-ul-wahsha-burial",
+    "name": "Salaat ul-Wahsha (Burial)",
+    "category": "salah",
+    "segmentCount": 13,
+    "mafatihId": 1203,
+    "source": "mafatih"
+  },
+  {
+    "id": "salah-for-forgiveness",
+    "name": "Salah for Forgiveness",
+    "category": "salah",
+    "segmentCount": 12,
+    "mafatihId": 1205,
+    "source": "mafatih"
+  },
+  {
+    "id": "the-prayer-of-the-bedouin",
+    "name": "The Prayer of The Bedouin",
+    "category": "salah",
+    "segmentCount": 23,
+    "mafatihId": 1206,
+    "source": "mafatih"
+  },
+  {
+    "id": "the-dedication-prayer",
+    "name": "The Dedication Prayer",
+    "category": "salah",
+    "segmentCount": 12,
+    "mafatihId": 1207,
+    "source": "mafatih"
+  },
+  {
+    "id": "prayer-for-parents",
+    "name": "Prayer for Parents",
+    "category": "salah",
+    "segmentCount": 6,
+    "mafatihId": 1208,
+    "source": "mafatih"
+  },
+  {
+    "id": "prayer-of-the-hungry",
+    "name": "Prayer of the Hungry",
+    "category": "salah",
+    "segmentCount": 5,
+    "mafatihId": 1209,
+    "source": "mafatih"
+  },
+  {
+    "id": "prayer-for-self-inspirations",
+    "name": "Prayer for Self Inspirations",
+    "category": "salah",
+    "segmentCount": 7,
+    "mafatihId": 1210,
+    "source": "mafatih"
+  },
+  {
+    "id": "prayer-of-istikharah-with-sheets",
+    "name": "Prayer of Istikharah With Sheets",
+    "category": "salah",
+    "segmentCount": 9,
+    "mafatihId": 1212,
+    "source": "mafatih",
+    "subcategory": "Istikharah"
+  },
+  {
+    "id": "meaning-of-istikharah",
+    "name": "Meaning of Istikharah",
+    "category": "salah",
+    "segmentCount": 3,
+    "mafatihId": 1213,
+    "source": "mafatih",
+    "subcategory": "Istikharah"
+  },
+  {
+    "id": "istikharah-with-tasbih",
+    "name": "Istikharah With Tasbih",
+    "category": "salah",
+    "segmentCount": 3,
+    "mafatihId": 1214,
+    "source": "mafatih",
+    "subcategory": "Istikharah"
+  },
+  {
+    "id": "tafaul-to-quran",
+    "name": "Tafaul to Quran",
+    "category": "salah",
+    "segmentCount": 3,
+    "mafatihId": 1215,
+    "source": "mafatih",
+    "subcategory": "Istikharah"
+  },
+  {
+    "id": "istikharah-fom-quran",
+    "name": "Istikharah Fom Quran",
+    "category": "salah",
+    "segmentCount": 3,
+    "mafatihId": 1216,
+    "source": "mafatih",
+    "subcategory": "Istikharah"
+  },
+  {
+    "id": "numerical-istikharah",
+    "name": "Numerical Istikharah",
+    "category": "salah",
+    "segmentCount": 3,
+    "mafatihId": 1217,
+    "source": "mafatih",
+    "subcategory": "Istikharah"
+  },
+  {
+    "id": "istikharah-for-others",
+    "name": "Istikharah for Others",
+    "category": "salah",
+    "segmentCount": 2,
+    "mafatihId": 1218,
+    "source": "mafatih",
+    "subcategory": "Istikharah"
+  },
+  {
+    "id": "prayer-for-difficulties",
+    "name": "Prayer for Difficulties",
+    "category": "salah",
+    "segmentCount": 1,
+    "mafatihId": 1219,
+    "source": "mafatih"
+  },
+  {
+    "id": "first-salats-for-istighasa",
+    "name": "First Salats for istighasa",
+    "category": "salah",
+    "segmentCount": 5,
+    "mafatihId": 1221,
+    "source": "mafatih",
+    "subcategory": "Isteghasa Salats"
+  },
+  {
+    "id": "second-salats-for-istighasa",
+    "name": "Second Salats for istighasa",
+    "category": "salah",
+    "segmentCount": 5,
+    "mafatihId": 1222,
+    "source": "mafatih",
+    "subcategory": "Isteghasa Salats"
+  },
+  {
+    "id": "isteghasa-sayeda-fatima-sa",
+    "name": "Isteghasa-Sayeda Fatima (sa)",
+    "category": "salah",
+    "segmentCount": 7,
+    "mafatihId": 1223,
+    "source": "mafatih",
+    "subcategory": "Isteghasa Salats"
+  },
+  {
+    "id": "prayer-of-imam-mahdi",
+    "name": "Prayer of Imam Mahdi",
+    "category": "salah",
+    "segmentCount": 15,
+    "mafatihId": 1224,
+    "source": "mafatih"
+  },
+  {
+    "id": "prayer-fear-of-oppressors",
+    "name": "Prayer Fear of Oppressors",
+    "category": "salah",
+    "segmentCount": 5,
+    "mafatihId": 1225,
+    "source": "mafatih"
+  },
+  {
+    "id": "prayer-for-gaining-good-memory",
+    "name": "Prayer for Gaining Good Memory",
+    "category": "salah",
+    "segmentCount": 3,
+    "mafatihId": 1226,
+    "source": "mafatih"
+  },
+  {
+    "id": "prayer-of-will",
+    "name": "Prayer of Will",
+    "category": "salah",
+    "segmentCount": 1,
+    "mafatihId": 1227,
+    "source": "mafatih"
+  },
+  {
+    "id": "ziarat-jamia-saghira",
+    "name": "Ziarat Jamia Saghira",
+    "category": "ziyarat",
+    "segmentCount": 29,
+    "mafatihId": 1231,
+    "source": "mafatih"
+  },
+  {
+    "id": "ziyarat-of-holy-prophet-sawa",
+    "name": "Ziyarat of Holy Prophet (sawa)",
+    "category": "ziyarat",
+    "segmentCount": 380,
+    "mafatihId": 1232,
+    "source": "mafatih"
+  },
+  {
+    "id": "ziyarat-of-syeda-fatima-sa",
+    "name": "Ziyarat of Syeda Fatima (sa)",
+    "category": "ziyarat",
+    "segmentCount": 71,
+    "mafatihId": 1234,
+    "source": "mafatih"
+  },
+  {
+    "id": "ziyarat-of-imam-hassan-as",
+    "name": "Ziyarat of Imam Hassan (as)",
+    "category": "ziyarat",
+    "segmentCount": 117,
+    "mafatihId": 1235,
+    "source": "mafatih"
+  },
+  {
+    "id": "ziyarat-of-imam-sajjad-as",
+    "name": "Ziyarat of Imam Sajjad (as)",
+    "category": "ziyarat",
+    "segmentCount": 58,
+    "mafatihId": 1236,
+    "source": "mafatih"
+  },
+  {
+    "id": "ziyarat-of-imam-baqir-as",
+    "name": "Ziyarat of Imam Baqir (as)",
+    "category": "ziyarat",
+    "segmentCount": 87,
+    "mafatihId": 1237,
+    "source": "mafatih"
+  },
+  {
+    "id": "ziyarat-of-imam-sadiq-as",
+    "name": "Ziyarat of Imam Sadiq (as)",
+    "category": "ziyarat",
+    "segmentCount": 58,
+    "mafatihId": 1238,
+    "source": "mafatih"
+  },
+  {
+    "id": "ziyarat-of-imam-kadhim-as",
+    "name": "Ziyarat of Imam Kadhim (as)",
+    "category": "ziyarat",
+    "segmentCount": 262,
+    "mafatihId": 1239,
+    "source": "mafatih"
+  },
+  {
+    "id": "ziyarat-of-imam-ridha-as",
+    "name": "Ziyarat of Imam Ridha (as)",
+    "category": "ziyarat",
+    "segmentCount": 366,
+    "mafatihId": 1240,
+    "source": "mafatih"
+  },
+  {
+    "id": "ziyarat-of-imam-jawad-as",
+    "name": "Ziyarat of Imam Jawad (as)",
+    "category": "ziyarat",
+    "segmentCount": 227,
+    "mafatihId": 1241,
+    "source": "mafatih"
+  },
+  {
+    "id": "ziyarat-of-imam-hadi-as",
+    "name": "Ziyarat of Imam Hadi (as)",
+    "category": "ziyarat",
+    "segmentCount": 224,
+    "mafatihId": 1242,
+    "source": "mafatih"
+  },
+  {
+    "id": "ziyarat-of-imam-hassan-askari-as",
+    "name": "Ziyarat of Imam Hassan Askari (as)",
+    "category": "ziyarat",
+    "segmentCount": 215,
+    "mafatihId": 1243,
+    "source": "mafatih"
+  },
+  {
+    "id": "ziyarah-abbas-ibn-ali-as",
+    "name": "Ziyarah Abbas ibn Ali (as)",
+    "category": "ziyarat",
+    "segmentCount": 153,
+    "mafatihId": 1244,
+    "source": "mafatih"
+  },
+  {
+    "id": "ziyarat-imam-husainas-on-the-eve-of-eid",
+    "name": "Ziyarat Imam Husain(as) on the eve of Eid",
+    "category": "ziyarat",
+    "segmentCount": 175,
+    "mafatihId": 1247,
+    "source": "mafatih",
+    "subcategory": "Ziyarat of Imam Hussain(as)"
+  },
+  {
+    "id": "special-ziyarat-of-imam-hussain-as-15th-of-shaban",
+    "name": "Special Ziyarat of Imam Hussain (as) - 15th of shaban",
+    "category": "ziyarat",
+    "segmentCount": 20,
+    "mafatihId": 1248,
+    "source": "mafatih",
+    "subcategory": "Ziyarat of Imam Hussain(as)"
+  },
+  {
+    "id": "dua-after-salat-of-ziarat",
+    "name": "Dua after Salat of ziarat",
+    "category": "ziyarat",
+    "segmentCount": 48,
+    "mafatihId": 1250,
+    "source": "mafatih",
+    "subcategory": "Ziyarat of Imam Hussain(as)"
+  },
+  {
+    "id": "ziarat-ghair-maroof",
+    "name": "Ziarat Ghair Maroof",
+    "category": "ziyarat",
+    "segmentCount": 173,
+    "mafatihId": 1251,
+    "source": "mafatih",
+    "subcategory": "Ziyarat of Imam Hussain(as)"
+  },
+  {
+    "id": "ziyarat-etiquettes",
+    "name": "Ziyarat  Etiquettes",
+    "category": "ziyarat",
+    "segmentCount": 64,
+    "mafatihId": 1253,
+    "source": "mafatih",
+    "subcategory": "Ziyarat of Imam Hussain(as)"
+  },
+  {
+    "id": "aamal-in-holy-shrine-imam-hussainas",
+    "name": "Aamal in Holy Shrine-Imam Hussain(as)",
+    "category": "ziyarat",
+    "segmentCount": 165,
+    "mafatihId": 1254,
+    "source": "mafatih",
+    "subcategory": "Ziyarat of Imam Hussain(as)"
+  },
+  {
+    "id": "method-of-visiting-of-imam-husain-as",
+    "name": "Method of Visiting of Imam Husain (as)",
+    "category": "ziyarat",
+    "segmentCount": 181,
+    "mafatihId": 1255,
+    "source": "mafatih",
+    "subcategory": "Ziyarat of Imam Hussain(as)"
+  },
+  {
+    "id": "ziyarats-of-imam-atfs-at-samarra-sirdab",
+    "name": "Ziyarats of Imam (atfs) at Samarra Sirdab",
+    "category": "ziyarat",
+    "segmentCount": 578,
+    "mafatihId": 1260,
+    "source": "mafatih",
+    "subcategory": "Imam Mahdi (ajtfs)"
+  },
+  {
+    "id": "duas-ziarat-and-rites-to-imam-mahdi-ajtfs",
+    "name": "Duas, Ziarat and rites to Imam Mahdi (ajtfs)",
+    "category": "ziyarat",
+    "segmentCount": 98,
+    "mafatihId": 1261,
+    "source": "mafatih",
+    "subcategory": "Imam Mahdi (ajtfs)"
+  },
+  {
+    "id": "aamal-of-masjid-jamkaran",
+    "name": "Aamal of Masjid Jamkaran",
+    "category": "ziyarat",
+    "segmentCount": 3,
+    "mafatihId": 1262,
+    "source": "mafatih",
+    "subcategory": "Imam Mahdi (ajtfs)"
+  },
+  {
+    "id": "ziyarah-nahiya",
+    "name": "Ziyarah Nahiya",
+    "category": "ziyarat",
+    "segmentCount": 492,
+    "mafatihId": 1263,
+    "source": "mafatih"
+  },
+  {
+    "id": "ziyarat-of-imams-in-baqi",
+    "name": "Ziyarat of Imams in Baqi",
+    "category": "ziyarat",
+    "segmentCount": 96,
+    "mafatihId": 1264,
+    "source": "mafatih"
+  },
+  {
+    "id": "ziyarat-of-fatimah-al-masumah-sa",
+    "name": "Ziyarat of Fatimah Al Masumah (sa)",
+    "category": "ziyarat",
+    "segmentCount": 85,
+    "mafatihId": 1265,
+    "source": "mafatih"
+  },
+  {
+    "id": "ziyarat-of-abd-al-azim-al-hasani-as",
+    "name": "Ziyarat of Abd Al azim Al Hasani (as)",
+    "category": "ziyarat",
+    "segmentCount": 18,
+    "mafatihId": 1266,
+    "source": "mafatih"
+  },
+  {
+    "id": "aamal-of-masjid-al-kufah",
+    "name": "Aamal Of Masjid Al Kufah",
+    "category": "ziyarat",
+    "segmentCount": 133,
+    "mafatihId": 1268,
+    "source": "mafatih",
+    "subcategory": "Masjid Kufa"
+  },
+  {
+    "id": "aamal-in-the-seat-of-judgment",
+    "name": "Aamal In The Seat Of Judgment",
+    "category": "ziyarat",
+    "segmentCount": 362,
+    "mafatihId": 1269,
+    "source": "mafatih",
+    "subcategory": "Masjid Kufa"
+  },
+  {
+    "id": "acts-at-the-niche-of-imam-ali-as",
+    "name": "Acts at the niche of Imam Ali (as)",
+    "category": "ziyarat",
+    "segmentCount": 16,
+    "mafatihId": 1270,
+    "source": "mafatih",
+    "subcategory": "Masjid Kufa"
+  },
+  {
+    "id": "acts-at-imam-zayn-al-abidins-bench",
+    "name": "Acts At Imam Zayn al-’Abidin’S Bench",
+    "category": "ziyarat",
+    "segmentCount": 55,
+    "mafatihId": 1271,
+    "source": "mafatih",
+    "subcategory": "Masjid Kufa"
+  },
+  {
+    "id": "acts-at-imam-al-sadiqs-bench",
+    "name": "Acts At Imam Al-Sadiq’s Bench",
+    "category": "ziyarat",
+    "segmentCount": 16,
+    "mafatihId": 1272,
+    "source": "mafatih",
+    "subcategory": "Masjid Kufa"
+  },
+  {
+    "id": "prayer-for-desires",
+    "name": "Prayer For Desires",
+    "category": "ziyarat",
+    "segmentCount": 3,
+    "mafatihId": 1273,
+    "source": "mafatih",
+    "subcategory": "Masjid Kufa"
+  },
+  {
+    "id": "the-ziyarah-of-muslim-ibn-aqil",
+    "name": "The Ziyarah Of Muslim Ibn Aqil",
+    "category": "ziyarat",
+    "segmentCount": 10,
+    "mafatihId": 1274,
+    "source": "mafatih",
+    "subcategory": "Masjid Kufa"
+  },
+  {
+    "id": "the-ziyarah-of-hani-ibn-urwah",
+    "name": "The Ziyarah Of Hani Ibn Urwah",
+    "category": "ziyarat",
+    "segmentCount": 4,
+    "mafatihId": 1275,
+    "source": "mafatih",
+    "subcategory": "Masjid Kufa"
+  },
+  {
+    "id": "masjid-al-sahla",
+    "name": "Masjid Al Sahla",
+    "category": "ziyarat",
+    "segmentCount": 31,
+    "mafatihId": 1276,
+    "source": "mafatih"
+  },
+  {
+    "id": "masjid-zayd-and-sasaa",
+    "name": "Masjid Zayd And Sasaa",
+    "category": "ziyarat",
+    "segmentCount": 75,
+    "mafatihId": 1277,
+    "source": "mafatih"
+  },
+  {
+    "id": "first-ziyarat-of-imam-ali-as",
+    "name": "First Ziyarat of Imam Ali (as)",
+    "category": "ziyarat",
+    "segmentCount": 450,
+    "mafatihId": 1279,
+    "source": "mafatih",
+    "subcategory": "Ziyarat of Imam Ali (as)"
+  },
+  {
+    "id": "dua-after-the-ziyarah-of-imam-ali",
+    "name": "Dua After The Ziyarah of imam ali",
+    "category": "ziyarat",
+    "segmentCount": 64,
+    "mafatihId": 1280,
+    "source": "mafatih",
+    "subcategory": "Ziyarat of Imam Ali (as)"
+  },
+  {
+    "id": "ziyarat-of-imam-hussain-before-imam-ali",
+    "name": "Ziyarat of Imam Hussain before Imam Ali",
+    "category": "ziyarat",
+    "segmentCount": 34,
+    "mafatihId": 1281,
+    "source": "mafatih",
+    "subcategory": "Ziyarat of Imam Ali (as)"
+  },
+  {
+    "id": "the-other-ziyarats-of-imam-ali",
+    "name": "The Other Ziyarats of imam ali",
+    "category": "ziyarat",
+    "segmentCount": 473,
+    "mafatihId": 1282,
+    "source": "mafatih",
+    "subcategory": "Ziyarat of Imam Ali (as)"
+  },
+  {
+    "id": "bidding-farewell-to-imam-ali-as",
+    "name": "Bidding Farewell To Imam Ali (as)",
+    "category": "ziyarat",
+    "segmentCount": 38,
+    "mafatihId": 1283,
+    "source": "mafatih",
+    "subcategory": "Ziyarat of Imam Ali (as)"
+  },
+  {
+    "id": "asking-permission-for-entering-holy-shrines",
+    "name": "Asking Permission for Entering holy shrines",
+    "category": "ziyarat",
+    "segmentCount": 94,
+    "mafatihId": 1284,
+    "source": "mafatih"
+  },
+  {
+    "id": "third-ziarat-jamea",
+    "name": "Third Ziarat Jamea",
+    "category": "ziyarat",
+    "segmentCount": 76,
+    "mafatihId": 1285,
+    "source": "mafatih"
+  },
+  {
+    "id": "supplications-after-the-ziyarat-of-imams",
+    "name": "Supplications After the Ziyarat of imams",
+    "category": "ziyarat",
+    "segmentCount": 8,
+    "mafatihId": 1286,
+    "source": "mafatih"
+  },
+  {
+    "id": "visiting-of-the-prophets",
+    "name": "Visiting of the Prophets",
+    "category": "ziyarat",
+    "segmentCount": 3,
+    "mafatihId": 1288,
+    "source": "mafatih"
+  },
+  {
+    "id": "visiting-the-descendants-of-imams",
+    "name": "Visiting the Descendants of Imams",
+    "category": "ziyarat",
+    "segmentCount": 5,
+    "mafatihId": 1289,
+    "source": "mafatih"
+  },
+  {
+    "id": "dua-ya-mafzai",
+    "name": "Dua Ya Mafzai",
+    "category": "major",
+    "segmentCount": 28,
+    "mafatihId": 1296,
+    "source": "mafatih"
+  },
+  {
+    "id": "dua-of-nabi-idris",
+    "name": "Dua of Nabi Idris",
+    "category": "major",
+    "segmentCount": 104,
+    "mafatihId": 1297,
+    "source": "mafatih"
+  },
+  {
+    "id": "duas-when-leaving-home",
+    "name": "Duas when leaving home",
+    "category": "major",
+    "segmentCount": 54,
+    "mafatihId": 1308,
+    "source": "mafatih"
+  },
+  {
+    "id": "imam-taqias-10-munajat-list",
+    "name": "Imam Taqi(as) 10 Munajat List",
+    "category": "munajat",
+    "segmentCount": 15,
+    "mafatihId": 1317,
+    "source": "mafatih"
+  },
+  {
+    "id": "guidance-to-the-best-istekhara",
+    "name": "Guidance to the Best - Istekhara",
+    "category": "major",
+    "segmentCount": 42,
+    "mafatihId": 1318,
+    "source": "mafatih"
+  },
+  {
+    "id": "true-repentance-tauba",
+    "name": "True Repentance - Tauba",
+    "category": "major",
+    "segmentCount": 46,
+    "mafatihId": 1319,
+    "source": "mafatih"
+  },
+  {
+    "id": "help-in-travel-safar",
+    "name": "Help in Travel - Safar",
+    "category": "major",
+    "segmentCount": 37,
+    "mafatihId": 1320,
+    "source": "mafatih"
+  },
+  {
+    "id": "sustenance-rizq",
+    "name": "Sustenance - Rizq",
+    "category": "major",
+    "segmentCount": 46,
+    "mafatihId": 1321,
+    "source": "mafatih"
+  },
+  {
+    "id": "seeking-protection-isteazah",
+    "name": "Seeking Protection - Isteazah",
+    "category": "major",
+    "segmentCount": 36,
+    "mafatihId": 1322,
+    "source": "mafatih"
+  },
+  {
+    "id": "accepting-repentance",
+    "name": "Accepting Repentance",
+    "category": "major",
+    "segmentCount": 40,
+    "mafatihId": 1323,
+    "source": "mafatih"
+  },
+  {
+    "id": "prayer-for-hajj",
+    "name": "Prayer for Hajj",
+    "category": "major",
+    "segmentCount": 40,
+    "mafatihId": 1324,
+    "source": "mafatih"
+  },
+  {
+    "id": "removing-persecution",
+    "name": "Removing Persecution",
+    "category": "major",
+    "segmentCount": 49,
+    "mafatihId": 1325,
+    "source": "mafatih"
+  },
+  {
+    "id": "thanks-giving",
+    "name": "Thanks giving",
+    "category": "major",
+    "segmentCount": 38,
+    "mafatihId": 1326,
+    "source": "mafatih"
+  },
+  {
+    "id": "granting-the-requests",
+    "name": "Granting the Requests",
+    "category": "major",
+    "segmentCount": 24,
+    "mafatihId": 1327,
+    "source": "mafatih"
+  },
+  {
+    "id": "imam-husaynas-dua-taught-to-his-son",
+    "name": "Imam Husayn(as) Dua taught to his son",
+    "category": "major",
+    "segmentCount": 12,
+    "mafatihId": 1329,
+    "source": "mafatih"
+  },
+  {
+    "id": "dua-marefat",
+    "name": "Dua Marefat",
+    "category": "major",
+    "segmentCount": 236,
+    "mafatihId": 1330,
+    "source": "mafatih"
+  },
+  {
+    "id": "dua-allumma-idfaa-an-waliyak",
+    "name": "Dua Allumma Idfaa an waliyak",
+    "category": "major",
+    "segmentCount": 145,
+    "mafatihId": 1331,
+    "source": "mafatih"
+  },
+  {
+    "id": "dua-allhumma-kun-li-waliyyika",
+    "name": "Dua Allhumma Kun Li Waliyyika",
+    "category": "major",
+    "segmentCount": 8,
+    "mafatihId": 1332,
+    "source": "mafatih"
+  },
+  {
+    "id": "dua-ghareeq",
+    "name": "Dua Ghareeq",
+    "category": "major",
+    "segmentCount": 6,
+    "mafatihId": 1333,
+    "source": "mafatih"
+  },
+  {
+    "id": "dua-of-imam-al-mahdiajtfs",
+    "name": "Dua of Imam al-Mahdi(ajtfs)",
+    "category": "major",
+    "segmentCount": 29,
+    "mafatihId": 1335,
+    "source": "mafatih"
+  },
+  {
+    "id": "dua-al-hujjah",
+    "name": "Dua Al-Hujjah",
+    "category": "major",
+    "segmentCount": 16,
+    "mafatihId": 1336,
+    "source": "mafatih"
+  },
+  {
+    "id": "morning-imam-sadiq-as",
+    "name": "Morning, Imam Sadiq (a.s)",
+    "category": "major",
+    "segmentCount": 111,
+    "mafatihId": 1338,
+    "source": "mafatih",
+    "subcategory": "Morning and Evening Duas"
+  },
+  {
+    "id": "morning-imam-baqir-as",
+    "name": "Morning, Imam Baqir (a.s)",
+    "category": "major",
+    "segmentCount": 25,
+    "mafatihId": 1339,
+    "source": "mafatih",
+    "subcategory": "Morning and Evening Duas"
+  },
+  {
+    "id": "morning-and-evening",
+    "name": "Morning and Evening",
+    "category": "major",
+    "segmentCount": 92,
+    "mafatihId": 1340,
+    "source": "mafatih",
+    "subcategory": "Morning and Evening Duas"
+  },
+  {
+    "id": "evening-duas",
+    "name": "Evening Duas",
+    "category": "major",
+    "segmentCount": 19,
+    "mafatihId": 1341,
+    "source": "mafatih",
+    "subcategory": "Morning and Evening Duas"
+  },
+  {
+    "id": "before-start",
+    "name": "Before / Start",
+    "category": "major",
+    "segmentCount": 9,
+    "mafatihId": 1343,
+    "source": "mafatih",
+    "subcategory": "Dua of Quran"
+  },
+  {
+    "id": "after-completion",
+    "name": "After / Completion",
+    "category": "major",
+    "segmentCount": 14,
+    "mafatihId": 1344,
+    "source": "mafatih",
+    "subcategory": "Dua of Quran"
+  },
+  {
+    "id": "miraculous-istighfaar",
+    "name": "Miraculous Istighfaar",
+    "category": "major",
+    "segmentCount": 39,
+    "mafatihId": 1345,
+    "source": "mafatih"
+  },
+  {
+    "id": "duas-while-doing-wudhu",
+    "name": "Duas while doing Wudhu",
+    "category": "major",
+    "segmentCount": 20,
+    "mafatihId": 1346,
+    "source": "mafatih"
+  },
+  {
+    "id": "munajat-imam-ali-as-in-masjid-kufa",
+    "name": "Munajat Imam Ali (as) in Masjid Kufa",
+    "category": "munajat",
+    "segmentCount": 37,
+    "mafatihId": 1349,
+    "source": "mafatih"
+  },
+  {
+    "id": "zuhr-taqeebaat",
+    "name": "Zuhr Taqeebaat",
+    "category": "taqeebat",
+    "segmentCount": 74,
+    "mafatihId": 1354,
+    "source": "mafatih",
+    "subcategory": "Particular Taqeebat Salat"
+  },
+  {
+    "id": "maghrib-taqeebaat",
+    "name": "Maghrib Taqeebaat",
+    "category": "taqeebat",
+    "segmentCount": 44,
+    "mafatihId": 1355,
+    "source": "mafatih",
+    "subcategory": "Particular Taqeebat Salat"
+  },
+  {
+    "id": "asr-taqeebaat",
+    "name": "Asr Taqeebaat",
+    "category": "taqeebat",
+    "segmentCount": 58,
+    "mafatihId": 1356,
+    "source": "mafatih",
+    "subcategory": "Particular Taqeebat Salat"
+  },
+  {
+    "id": "isha-taqeebaat",
+    "name": "Isha Taqeebaat",
+    "category": "taqeebat",
+    "segmentCount": 27,
+    "mafatihId": 1357,
+    "source": "mafatih",
+    "subcategory": "Particular Taqeebat Salat"
   }
 ]
