@@ -1,0 +1,2158 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "name": {
+        "en": "Makkah - Saudi Arabia",
+        "ar": "",
+        "fa": ""
+      },
+      "priority": 1
+    },
+    {
+      "id": 2,
+      "name": {
+        "en": "Medina - Saudi Arabia",
+        "ar": "",
+        "fa": ""
+      },
+      "priority": 2
+    },
+    {
+      "id": 3,
+      "name": {
+        "en": "Karbala - Iraq",
+        "ar": "",
+        "fa": ""
+      },
+      "priority": 3
+    },
+    {
+      "id": 4,
+      "name": {
+        "en": "Najaf - Iraq",
+        "ar": "",
+        "fa": ""
+      },
+      "priority": 4
+    },
+    {
+      "id": 5,
+      "name": {
+        "en": "Kadhimain - Iraq",
+        "ar": "",
+        "fa": ""
+      },
+      "priority": 5
+    },
+    {
+      "id": 6,
+      "name": {
+        "en": "Samarra - Iraq",
+        "ar": "",
+        "fa": ""
+      },
+      "priority": 6
+    },
+    {
+      "id": 7,
+      "name": {
+        "en": "Qom - Iran",
+        "ar": "",
+        "fa": ""
+      },
+      "priority": 7
+    },
+    {
+      "id": 8,
+      "name": {
+        "en": "Mashhad - Iran",
+        "ar": "",
+        "fa": ""
+      },
+      "priority": 8
+    },
+    {
+      "id": 9,
+      "name": {
+        "en": "Damascus - Syria",
+        "ar": "",
+        "fa": ""
+      },
+      "priority": 9
+    }
+  ],
+  "holyPlaces": [
+    {
+      "id": 41,
+      "name": {
+        "en": "Jamkaran Mosque",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Jamkarān Mosque (Persian: مَسجِد جَمْکَران) is a mosque attributed to Imam al-Mahdi (a), the twelfth Shi'a Imam, in the suburbs of Qom. Reportedly, it was constructed at his command in the fourth/tenth century. According to Mirza Husayn Nuri, a Shiite scholar of hadith in the fourteenth/ninetieth century, Jamkaran Mosque was built at the command of Imam al-Mahdi (a) by a person called Abu l-Hasan, a scholar from Qom. Muhaddith Nuri talks about a meeting between Hasan b. Muthla al-Jamkarani and Imam al-Mahdi (a), in which the Imam (a) commanded the construction of the mosque in Jamkaran. Mirza Husayn Nuri says that the event occurred in 373/983-4 or 393/1002-3, attributing the story to al-Shaykh al-Saduq’s Munis al-hazin.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 7,
+      "latitude": 34.583460702274,
+      "longitude": 50.913687497004,
+      "priority": 0
+    },
+    {
+      "id": 45,
+      "name": {
+        "en": "Bayt al-Nūr",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Bayt al-Nūr (Arabic: بيت النور) was Lady Ma'suma's (a) worshipping and living place in Qom. This place which was originally the house of Musa b. Khazraj was endowed after the demise of Lady Ma'suma (a) and was called mihrab or ma'bad of Fatima (a), Bayt al-Nur and al-Buq'a al-Sittiyya; and in the next years, a mosque and a school called al-Sittiyya school were built beside it. Its custodianship is upon \"Mireh'i Sayyids\" and every year, special ceremonies are held there on the Lady Ma'suma's (a) birth and demise anniversaries and the anniversary of her entrance to Qom",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 7,
+      "latitude": 34.640155646008,
+      "longitude": 50.887288,
+      "priority": 0
+    },
+    {
+      "id": 83,
+      "name": {
+        "en": "The Shrine of Imamzadeh Shah Syed Ali",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "The Shrine of Imamzadeh Shah Syed Ali, located in the northeast of Qom city (15 Khordad Boulevard), traces its noble lineage back seven generations to Muhammad ibn Hanafiya. Imamzadeh Syed Ali is a place of public attention, where vows are made, a communal tomb, and a center for gatherings and spiritual retreats.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 7,
+      "latitude": 34.646506454189,
+      "longitude": 50.906438807408,
+      "priority": 0
+    },
+    {
+      "id": 99,
+      "name": {
+        "en": "Seyyed Sarbakhsh",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "The Imamzadeh \"Shahzadeh Abul-Ma'ali Isma'il,\" known as \"Seyyed Sarbakhsh,\" is a descendant of Imam Sadiq (peace be upon him) and is located on Azar Street in Qom, opposite the Chehel Akhtaran shrine.\nDuring the reign of Sultan Muhammad Khwarazmshah, he was the Naqib al-Ashraf (leader of the Sayyids) in Nishapur. However, after the Mongol invasion, he migrated to Qom.\nThe shrine of Imamzadeh Abul-Ma'ali Isma'il (Seyyed Sarbakhsh) is a genuine historical structure that includes details about the builder, the construction date, and even the master plasterer.\nAccording to the book \"The Treasury of Qom's Monuments\", this shrine is considered an artistic treasure of Abu Shuja’ Ali the builder. It was built in 774 AH, and the patron was Mir Ghiyas al-Din Muhammad, son of Ali Safi, ruler of Iraq.\nThe shrine lacks rooms or chambers, which was typical in the 7th and 8th centuries AH.\nAt the northern entrance of the shrine is a small portico built in the style of that era, with a width of 1 meter, span of 2 meters, and height of 5 meters. It features diverse cement and tile wainscoting, plain whitewashed walls, and a traditional muqarnas ceiling with floral carvings and the names of God and the infallibles in embossed Thuluth script.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 7,
+      "latitude": 34.637471028043,
+      "longitude": 50.898672446572,
+      "priority": 0
+    },
+    {
+      "id": 459,
+      "name": {
+        "en": "Hazrat Khidr mountain",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Hazrat Khidr (a.s.) is one of the friends of Allah, and in some narrations, he is also considered a prophet. His name is not mentioned explicitly in the Holy Qur'an, but according to some hadiths, he is the same person whose story with Prophet Musa (a.s.) appears in Surah Al-Kahf. In these verses, Khidr is described as possessing divinely inspired knowledge (Ilm Ladunni).\nAccording to verses 60 to 82 of Surah Al-Kahf, Khidr makes a hole in a boat belonging to some poor people, kills an innocent boy, and repairs a broken wall in a village whose people refused to host them. Musa (a.s.) objects to these actions, and Khidr later explains the inner reasons and wisdom behind his deeds.\nNear the city of Qom, there is a mountain from the top of which the entire city can be seen at once. This mountain, with a history of three thousand years, is attributed to Hazrat Khidr (a.s.).",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 7,
+      "latitude": 34.589841869433,
+      "longitude": 50.866280528641,
+      "priority": 0
+    },
+    {
+      "id": 462,
+      "name": {
+        "en": "Khajeh Rabi",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Rabi‘ ibn Khuthaym al-Kufi, known as Khajeh Rabi‘, (died in 61 AH or 63 AH), was one of the governors appointed by Imam Ali (a.s.) and one of the Eight Ascetics (Zuhhad Thamaniyya). He was a close companion and friend of Abdullah ibn Mas‘ud. His refusal to confront Mu‘awiya in the Battle of Siffin, and his failure to support Imam Hussain (a.s.) in Karbala, led some scholars, such as Ayatollah Khoei, to question his Shia identity. A shrine attributed to him exists in the city of Mashhad.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 8,
+      "latitude": 36.342214308023,
+      "longitude": 59.629715945174,
+      "priority": 0
+    },
+    {
+      "id": 469,
+      "name": {
+        "en": "Safavi mosque",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "One of the old mosques in Kadhimayn, located on the northern side of the shrine and connected with three doors to the northern courtyard of the shrine of Imam Musa al-Kadhim (a.s.) and Imam Jawad (a.s.), is the mosque built by Shah Ismail Safavi in 926 AH. It is also known as the Masjid Jami‘ al-Jawadayn.\nAfter four centuries, the mosque remains solid and strong, showcasing the beauty and architectural strength of the Safavid era.\nThroughout the northern courtyard, up to the wall of the Safavid mosque, there is an inscription similar to a belt, written in Thuluth script on turquoise-colored tiles, half a meter wide. The inscription includes some surahs of the Qur’an, such as Surah Jumu‘ah, Fath, Dahr, Duha, Ghashiyah, with the name of the inscriber appearing at the end of the writings.\nAfter Suleiman the Magnificent conquered Iraq and the Ottomans took control of Baghdad, he presented a beautiful pulpit made of brick with a ceramic covering to the Safavid mosque.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 5,
+      "latitude": 33.380465324809,
+      "longitude": 44.338010597262,
+      "priority": 0
+    },
+    {
+      "id": 473,
+      "name": {
+        "en": "Umayyad Mosque",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "The Umayyad Mosque (Arabic: الجامع الاموي) is an old mosque with many artistic works which was built by the order of the Umayyad caliph Walid b. 'Abd al-Malik (d. 96/714-5). The architectural style of this mosque is borrowed from the Byzantine style. The Maqam of Khidr (a), Prophet Hud (a), Prophet Yahya (a), Maqam of Imam al-Sajjad (a) and Ra's al-Husayn (a) (the place of the head of Imam al-Husayn (a)) are in this mosque. Imam al-Sajjad (a) gave the speech eliminating the Battle of Karbala in this mosque.\nThere is a mosque with the same name in Aleppo, Syria.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 9,
+      "latitude": 33.511500968452,
+      "longitude": 36.306729261786,
+      "priority": 0
+    },
+    {
+      "id": 482,
+      "name": {
+        "en": "Mount Uhud",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Mount ʾUḥud (Arabic: جبل أُحُد) is a reddish mountain in Hijaz, north of Medina. It is located 4 kilometers north of al-Masjid al-Nabawi.\nThe Battle of Uhud occurred beside this mountain. Graves of Hamza, the prophet's uncle, and other the martyrs of the Battle of Uhud is beside the mountain and is a visiting site.\nMount ʾUḥud (Arabic: جبل أُحُد) is a reddish mountain in Hijaz,north of Medina. It is located 4 kilometers north of al-Masjid al-Nabawi.\nThe Battle of Uhud occurred beside this mountain. Graves of Hamza, the prophet's uncle, and other the martyrs of the Battle of Uhud is beside the mountain and is a visiting site.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 2,
+      "latitude": 24.52249691381,
+      "longitude": 39.626191644006,
+      "priority": 0
+    },
+    {
+      "id": 24,
+      "name": {
+        "en": "Al-Masjid al-Nabawi",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Al-Masjid al-Nabawī (Arabic: المسجد النبوي), known in English as the Prophet's Mosque, is a mosque in Medina, Saudi Arabia where Prophet Muhammad (s) is buried. Second to al-Masjid al-Haram, al-Masjid al-Nabawi is the holiest mosque in the world of Islam which was built by Al-Masjid al-Nabawī (Arabic: المسجد النبوي), known in English as the Prophet's Mosque, is a mosque in Medina, Saudi Arabia where Prophet Muhammad (s) is buried. Second to al-Masjid al-Haram, al-Masjid al-Nabawi is the holiest mosque in the world of Islam which was built by Prophet Muhammad (s) in the first year after Hijra; it was later expanded in different eras. The houses of Prophet Muhammad (s) and Ali b. Abi Talib (a) and Lady Fatima (a) were built next to this mosque, which were later added to the mosque. Al-Masjid al-Nabawi is among the most important shrines for Muslims, which is highly revered by Shi'as.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 2,
+      "latitude": 24.467519998888,
+      "longitude": 39.611195081083,
+      "priority": 1
+    },
+    {
+      "id": 478,
+      "name": {
+        "en": "Holy Shrine of Lady Fatima al-Ma'suma (a)",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Āstāna Muqaddasa (literally, the Sacred Portal) is the courteous title, officially referring to the Holy Shrine of Lady Fatima al-Ma'suma (a) and its surrounding buildings, endowed properties and administrative organizations.\nLady Fatima al-Ma'suma (a) was buried in a land, then out of the city of Qom, owned by Musa b. Khazraj and known as: the Garden of Babilan, which is the current location of her Holy Shrine. Hasan al-Qummi has used the phrase: the Grave Yard of Babilan, because after the burial of Lady al-Ma'suma (a) there, Musa b. Khazraj endowed the property to public use.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 7,
+      "latitude": 34.642154500364,
+      "longitude": 50.879631151604,
+      "priority": 1
+    },
+    {
+      "id": 485,
+      "name": {
+        "en": "Imam Reza (a) Holy Shrine",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "ʿAlī b. Mūsā (a) (Arabic: علي بن موسی) (b. 148/765 – d. 203/818) is the eighth Imam of Twelver Shia. His teknonym was Abū l-Ḥasan (Arabic: أبو الحسن) and his most famous title was al-Riḍā (Arabic: الرضا). He (a) was Imam for twenty years. Imam al-Rida (a) was born in Medina and was martyred in Tus.\nAl-Ma'mun al-'Abbasi brought Imam al-Rida (a) to Khorasan by force and despite Imam's will made him heir apparent. The debate sessions al-Ma'mun al-Abbasi held between Imam al-Rida (a) and personalities of other religions and schools of thought are famous.\nAfter the martyrdom of Imam al-Rida (a), Ma'mun ordered to bury the body of Imam (a) in the house of Humayd b. Qahtaba al-Ta'i (Haruniyya mausoleum) in the village of Sanabad. Today, the Shrine of Imam al-Rida (a) is located in the holy city of Mashhad in Iran and is visited by millions of Muslims from different countries every year",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 8,
+      "latitude": 36.288117798488,
+      "longitude": 59.615760248328,
+      "priority": 1
+    },
+    {
+      "id": 489,
+      "name": {
+        "en": "Holy Shrine of Imam al-Husayn (a)",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Shrine of Imām al-Ḥusayn (a) (Arabic: العَتَبَة الحُسَینیَّة) is the resting place of Imam al-Husayn (a), some people from Banu Hashim and some of his companions in the ‌Battle of Karbala, who were martyred on Muharram 10th, 61/October 10, 680 in a battle with the army of 'Ubayd Allah b. Ziyad.\nAl-Mukhtar al-Thaqafi made the first building on Imam al-Husayn's (a) grave. The building was later reconstructed and developed by Shias and followers of Ahl al-Bayt (a), especially rulers and governors.\nVisiting Imam al-Husayn's (a) shrine is a Shiite practice recommended in Shiite hadiths. Most visitors or pilgrims congregate in Imam al-Husayn's (a) shrine on Ashura, Arba'in, and Sha'ban 15th. In Shiite fiqh, there are rulings specific to Imam al-Husayn's (a) shrine and its soil.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 3,
+      "latitude": 32.616514811261,
+      "longitude": 44.032458502482,
+      "priority": 1
+    },
+    {
+      "id": 505,
+      "name": {
+        "en": "Shrine of al-'Askariyyayn",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "The Shrine of al-ʿAskarīyyayn or the Shrine of al-Imāmayn al-ʿAskarīyyayn is the resting place of Imam al-Hadi (a) (d. 254/868) and his son Imam al-Hasan al-'Askari (a) (d. 260/874). The mausoleum is located in Samarra. It is a major Shiite pilgrimage destination in Iraq. Narjis Khatun, Imam al-Hasan al-'Askari’s wife and Imam al-Mahdi’s mother, as well as Hakima the daughter of Imam al-Jawad (a), and some other sadat and Shiite scholars are buried in this shrine.\nImam al-Hadi (a) and Imam al-'Askari (a) were laid to rest in their house of dwelling in 254/868 and 260/874, respectively. In 328/939-40, the first dome was erected on their graves, which was frequently repaired and renovated in later periods. In 2006 and 2007, parts of the shrine were devastated in a terrorist bombing. After these attacks, the Committee for Reconstruction of 'Atabat and the Office of Ayatollah al-Sistani reconstructed the shrine’s hall and darih, respectively.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 6,
+      "latitude": 34.1990305951,
+      "longitude": 43.873453867264,
+      "priority": 1
+    },
+    {
+      "id": 519,
+      "name": {
+        "en": "Holy Shrine of Sayyida Zaynab",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "The holy shrine of al-Sayyida Zaynab (a) is the most famous site said to be the burial place of Lady Zaynab (a), daughter of Imam Ali (a) and Lady Fatimah (a), located in south of Damascus in Syria. Maqam of al-Sayyida Zaynab (a) in Egypt and Al-Baqi' cemetery in Medina are the two other possible sites that have been mentioned as the burial place of al-Sayyida Zaynab (a).\n\nThis place is among pilgrimage sites for Shi'a. The area where the shrine of Lady Zaynab (s) is located has been a village called Rawiya. Now, this area is called al-Sayyida Zaynab town.\n\nThe shrine of Lady Zaynab (s) has been reconstructed and expanded several times during history. Since 2012, after the crisis worsened in Syria and Takfiri terrorists emerged in this country, this holy shrine was attacked by mortars and suicide bombings several times and some parts of the shrine were destroyed. Following these attacks, different groups of people went to Syria to defend the shrines of the Ahl al-Bayt (a). These groups, known as defenders of the shrine, prevented terrorist groups from attacking the shrine of al-Sayyida Zaynab (s).",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 9,
+      "latitude": 33.444404047491,
+      "longitude": 36.340757681199,
+      "priority": 1
+    },
+    {
+      "id": 526,
+      "name": {
+        "en": "Holy Shrine of Imam Ali (a)",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Shrine of Imām ʿAlī (a) (Arabic: عَتَبَة إمام عَلي ع) is located in Najaf, Iraq and is the place where he has been buried. For many years after his demise, the location of his grave was a secret. Imam al-Sadiq (a) revealed it in 135/752-3. Different structures have been built in different eras. 'Adud al-Dawla al-Daylami and Shah Safi are among the figures who have built magnificent structures for this shrine.\nCurrently, there is a magnificent structure which is comprised of four gates, five porches, a large courtyard and a darih. Following the collapse of Saddam Hossein and the presence of Iranians, the shrine is being expanded. Recently a large courtyard is being been built in the western section of the shrine, and it has been named after the Lady Fatima (a). It will increase the total area of the shrine to 140,000 square meters. Many faqihs and scholars are buried in this section.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 4,
+      "latitude": 31.995664003415,
+      "longitude": 44.314592633193,
+      "priority": 1
+    },
+    {
+      "id": 529,
+      "name": {
+        "en": "Holy Shrine of al-Kazimayn",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Al-Kāẓimayn's Shrine (Arabic: الْحَرَم الكاظِمي) is the resting place of Imam Musa al-Kazim (a), the seventh Imam of the Shia, and his grandson Imam al-Jawad (a), the ninth Imam of the Shia. The shrine is located in Kadhimiya, an area in the north of Baghdad. It is a pilgrimage destination of Muslims, particularly Shias, in Iraq.\nThe Shrine of al-Kazimayn spans over 26,000 square meters and comprises several distinct parts, including the main courtyard, rawda, minaret, darih, portico (rawaq), and dome. Its construction boasts a variety of artistic styles, featuring intricate mirror work, tessellation, gilding, marquetry, and calligraphy that all contribute to its stunning aesthetic appeal.\nThe initial structure of the mausoleums of al-Imamayn al-Kazimayn (a) dates back to a time preceding the Buyid period. However, over the years, the Shrine of al-Kazimayn underwent multiple stages of restoration, repair, and completion under the patronage of various dynasties including the Buyids, Seljuks, Jalayirids, Safavids, and Qajars.\nDuring the Safavid era, Shah Isma'il I ordered the demolition of the existing shrine and its replacement with a brand new building featuring a dome, minarets, and a mosque. In later years, during the Qajar era, Farhad Mirza, Naser al-Din Shah's uncle, oversaw significant civil construction projects at the shrine, including the reconstruction of the main courtyard.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 5,
+      "latitude": 33.380154448484,
+      "longitude": 44.338041917792,
+      "priority": 1
+    },
+    {
+      "id": 16,
+      "name": {
+        "en": "Maqam Ibrahim (a)",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Maqām Ibrāhīm (a) [Ibrahim's (a) standing place] (Arabic: مقام ابراهیم ) is a stone where the footprint of Prophet Ibrahim (a) is marked. The Qur'an has considered it among clear signs of God in Mecca and Muslims have been invited to perform prayer at this location. This stone is now placed in a golden cylinder located 13 meters away from the Ka'ba. In the views of Shi'a, the original location of Ibrahim's (a) station is right next to the Ka'ba.\nSome jurists believe that obligatory tawaf should be made in the area between the Ka'ba and Ibrahim's (a) station and the salat of tawaf is made behind it.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.422589122765,
+      "longitude": 39.826327817587,
+      "priority": 2
+    },
+    {
+      "id": 25,
+      "name": {
+        "en": "Al Baqi Cemetery",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Al-Baqīʿ (Arabic: البَقيع), also known as Jannat al-Baqīʿ and al-Baqīʿ al-Gharqad, is the first and oldest Islamic cemetery in Medina, where four Shi'a Imams (a) and many noble Sahaba and Tabi'un are buried. It is located near Masjid al-Nabawi, and is regarded as one of the holiest pilgrimage sites, especially for Shi'a Muslims.\n\nIn the early Islamic era, domes and shrines were built over the graves of prominent figures, including the Imams (a) and 'Abbas b. 'Abd al-Muttalib. These structures were demolished twice by Wahhabis—first in 1221/1806–7 and again in 1344/1926, despite having been rebuilt by the Ottoman king 'Abd al-Hamid II in the interim.\n\nHistorically, al-Baqiʿ was located outside Medina, with Bab al-Baqiʿ providing access. Due to urban expansion, it is now adjacent to Masjid al-Nabawi, separated by a street.\n\nThe cemetery was originally smaller; for example, the graves of the third caliph and Halima al-Sa'diyya were once outside it. 'Uthman b. Maz'un is commonly recognized as the first Muhajir buried in al-Baqi', though some sources cite As'ad b. Zurara. The last known Companion of the Prophet (s) buried there is Sahl b. Sa'd al-Sa'idi, who died in 88/707 or 91/709–10.\n\nEach tribe of Medina had its own section in al-Baqi'. Over time, the graves of the Imams (a) were surrounded mainly by Shi'a pilgrims. No one is currently buried in the central area containing the graves of the Companions and Imams.\n\nImams of al-Baqi'\nThe four Imams buried in al-Baqi' are:\n\nImam al-Hasan (a)\n\nImam al-Sajjad (a)\n\nImam al-Baqir (a)\n\nImam al-Sadiq (a)\nThere is also a possibility that Lady Fatima (a) is buried there, though her exact burial place remains uncertain.\n\nOther Notable Burials\nThose buried in al-Baqi' include:\n\nDaughters of the Prophet (s)\n\nHis infant son Ibrahim\n\nHis wives (Mothers of the Believers)\n\nHalima al-Sa'diyya, Fatima bt. Asad, 'Abbas b. 'Abd al-Muttalib, 'Uthman b. 'Affan, 'Aqil b. Abi Talib, and Malik b. Anas\n\nThe Prophet (s) visited al-Baqi' in his final days and prayed for its residents.\n\nHistorical Descriptions\nTravelers such as Ibn Battuta, al-Safadi, Farhad Mirza, and Muhammad Husayn Khan Farahani described elaborate shrines and domes over graves, including a richly adorned shrine over the grave attributed to Lady Fatima (a).\n\nAfter the Wahhabi takeover, Titus Burckhardt described al-Baqi’ as a bare cemetery, devoid of its previous structures.\n\nThe Demolition and Reactions\nBefore the 1926 demolition, the Saudi government sought religious justification, compelling local scholars to issue a ruling under pressure. The demolition caused widespread outrage, especially among Shi'a communities, with official delegations from Iran and India protesting.\n\nScholarly Responses\nNumerous scholars refuted Wahhabi arguments in their writings, such as:\n\nKashf al-Irtiyab by al-Sayyid Muhsin al-Amin\n\nDa'wa al-Huda by Muhammad Jawad al-Balaghi\n\nOther compilations by Islamic scholars opposing grave demolitions\n\nCurrent State\nToday, al-Baqi’ remains without shrines or inscriptions, marked only by simple stones. In 1954, under pressure, Saudi authorities installed cement pathways and later added a gate and some shade structures under King Faysal.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 2,
+      "latitude": 24.466899323015,
+      "longitude": 39.613935380852,
+      "priority": 2
+    },
+    {
+      "id": 117,
+      "name": {
+        "en": "Al-Sayyid Muḥammad",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Abū Jaʿfar Muḥammad b. al-Imam ʿAlī al-Hādī (a) (Arabic: أبوجعفر محمد بن الإمام علي الهادي), (b. 228/842-3 - d. 252/866), known as al-Sayyid Muḥammad (ألسَّیِّد مُحَمَّد), and also known among the natives as Sabu' al-Dujayl (سَبُعُ الدُجَیل; the lion of Dujayl), was the senior son of Imam al-Hadi (a). Because of his remarkable moral virtues, many Shiites and others thought that he would inherit Imamate from Imam al-Hadi (a). However, his death during the life of his father refuted such ideas.\n\nAl-Sayyid Muhammad's mausoleum is located in the city of Balad, 50 kilometers south of Samarra. The place is respected by Shiites, especially in Iraq. Many karamat (acts of wonders) have been reported about him.\n\nOn Shawwal 1, 1437/July 7, 2016 his mausoleum has been attacked by takfiri terrorists.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 6,
+      "latitude": 33.995339726152,
+      "longitude": 44.192652947248,
+      "priority": 2
+    },
+    {
+      "id": 163,
+      "name": {
+        "en": "Kufa",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Kūfa (Arabic: الکوفة), also spelled Kufah, is located in the south of Iraq, ten Kilometers northeast of Imam Ali's shrine in Najaf and it is the second city built by Muslims. It was chosen as the capital by Imam 'Ali (a) in 36/656-7, where he was martyred. Most of Shi'a Muslims were inhabitants of Kufa in the 1st/7th century. The great Mosque of Kufa and al-Sahla Mosque are among the main historical buildings of the city. Sciences such as fiqh, hadith, and Arabic syntax were prominent and routinely taught in this city.\nKufa played a role in the Battle of Karbala; Imam al-Husayn (a) headed toward this city following the invitation letters sent by its residents. A large portion of the army who fought with Imam al-Husayn (a) was also from Kufa. At the beginning of Abbasid rule, Imam al-Sadiq (a) traveled to this city a few times and provided lessons.\nA great position has been depicted for Kufa in Shi'a hadiths. It is considered as the center of Imam al-Mahdi's (a) government after his reappearance.\nThe importance of Kufa is mostly related to the first and second century of Islam, because once the Imam Ali's (a) grave was revealed to the Shi'as, and Najaf was expanded, Kufa gradually lost its importance and position, while Najaf gained the prominence instead.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 4,
+      "latitude": 32.046956372662,
+      "longitude": 44.370944556739,
+      "priority": 2
+    },
+    {
+      "id": 330,
+      "name": {
+        "en": "Al-Umra al-Mufrada",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Al-ʿUmra al-Mufrada (Arabic: العمرة المفردة) is a non-compulsory pilgrimage to Mecca for performing certain rituals, and it can be performed at any time of year. There are two kinds of 'umra: 'umrat al-mufrada and 'umrat al-tamattu'. As al-'umrat al-mufrada is not related to hajj rituals and is undertaken independently it is called al-mufrada (=single).",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.424349831746,
+      "longitude": 39.825375648782,
+      "priority": 2
+    },
+    {
+      "id": 451,
+      "name": {
+        "en": "Hajj al-Tamattu'",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Ḥajj al-Tamattuʿ (Arabic: حَجّ التَمَتُّع) is one of the three types of hajj in Islam. This kind of hajj is obligatory for a person whose distance from Mecca is over 16 parasangs or 48 miles. A person who wants to perform hajj al-tamattu' has to perform umra al-tamattu' first. Sometimes, hajj al-tamattu' is used to indicate both hajj al-tamattu' and umra al-tamattu', as both actions are closely linked to each other.\n\"Tamattu'\" literally means to enjoy, and hajj al-tamattu' is called so because the forbidden actions during ihram are permitted and can be enjoyed in the interval between 'umra al-tamattu' and the hajj, and since umra al-tamattu' is part of the hajj such that they judicially count as the same action, the permissibility of the forbidden actions of ihram in this interval counts as their permissibility within the hajj.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.423827768208,
+      "longitude": 39.825316789379,
+      "priority": 2
+    },
+    {
+      "id": 495,
+      "name": {
+        "en": "Holy Shrine of al-Abbas (a)",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Shrine of al-'Abbas (a) (Arabic: العَتَبَة العَباسيَّة المُقَدَّسَة) is the burial place of al-'Abbas b. 'Ali (a) in Karbala which is located 378 meters northeast of the Shrine of Imam al-Husayn (a) and the place between the two shrines is called Bayn al-Haramayn. The Shrine of al-'Abbas (a) has a shared history with the Shrine of Imam al-Husayn (a) and is one of the most important places for Shi'a to visit.\n\nal-'Abbas (a) was martyred on Muharram 10, 61/680 when confronting the army of 'Ubayd Allah b. Ziyad.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 3,
+      "latitude": 32.617356506683,
+      "longitude": 44.036358059546,
+      "priority": 2
+    },
+    {
+      "id": 18,
+      "name": {
+        "en": "Hijr Isma'il",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Ḥijr Ismaʿīl (Arabic: حجر اسماعيل) is the area between Ka'ba and a semicircle which extends from the north angle of Ka'ba (al-Rukn al-Iraqi) to its western angle (al-Rukn al-Shami). Its other name is al-Ḥaṭīm (Arabic: الحَطیم) and some also call it al-Ḥaẓīra (Arabic: الحَظیره). After Prophet Ibrahim (a), Hajar, and their baby, Isma'il (Ishmael) arrived in Mecca, settled in the current place of Hijr with the guidance of angel Gabriel. Hajar (Hagar) and Isma'il, with their sheep, settled in this place and built a shade using the branches of a tree. Hajar and Isma'il both were buried there after they passed away.\nHijr Isma'il was revered and respected since before Islam. The Holy Prophet (s), after beginning his mission, used to sit in Hijr Isma'il and in addition to worshiping and reciting the Holy Qur'an answered the questions of people.\nAccording to the famous opinion of Twelver Shia scholars in fiqh and with regards to authentic hadiths, Hijr Isma'il is not a part of Ka'ba.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.422588498539,
+      "longitude": 39.82612464027,
+      "priority": 3
+    },
+    {
+      "id": 27,
+      "name": {
+        "en": "Mosque of Al-Ghamama",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Masjid al-Ghamama also known as the Musalla Mosque, is a mosque located west of the Prophet's Mosque in the city of Medina. Along with two other mosques (the Imam Ali Mosque (Manakha) and the Abu Bakr Mosque (Manakha), collectively referred to as the mosques of musalla, Masjid al-Ghamama was built in an open area known as Al-Manakha, where the Prophet performed Eid al-Adha and Eid al-Fitr prayers.\nThe current structure of Masjid al-Ghamama dates back to the time of Sultan Abdulmejid I of the Ottoman Empire (r. 1255–1277 AH / 1839–1861 CE) and has only been restored since then.\nMasjid al-Ghamama, or the Musalla Mosque, is located southwest of the Prophet's Mosque in an area known as the Musalla Square. This area, called Al-Manakha, was a desert where the Medina market was also held. The Prophet used this open space for Eid prayers (Eid al-Adha and Eid al-Fitr) and the prayer for rain (Istisqa).\nProphet Muhammad(s) performed Eid prayers in various locations within Manakha. Later, mosques were built on some of these sites, collectively known as the **Prayer Ground Mosques**. The other two mosques are the Imam Ali Mosque (Manakha) and the Abu Bakr Mosque.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 2,
+      "latitude": 24.465805472805,
+      "longitude": 39.606971956379,
+      "priority": 3
+    },
+    {
+      "id": 49,
+      "name": {
+        "en": "Musa al-Mubarqa",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Mūsā al-Mubarqaʿ (Arabic: موسیٰ المُبَرْقَع), (d. 296/909) was son of Imam al-Jawad (a), the ninth Imam of Shi'a. He was younger than his brother Imam al-Hadi (a), the tenth Imam of Shi'a. He was a scholar and hadith narrator. Musa Mubarqa' is buried in Qom.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 7,
+      "latitude": 34.638636807535,
+      "longitude": 50.899953241656,
+      "priority": 3
+    },
+    {
+      "id": 61,
+      "name": {
+        "en": "Wadi l-Salam Cemetery",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Wādī l-Salām (Arabic: وادي السلام) is an extensive historic cemetery, situated in Najaf, Iraq. It is of immense importance for shi'as due to many Hadiths regarding its significance. On the basis of some hadiths, the cemetery is where some of the prophets (a) and great virtuous men return after their death (raj'a), and any pious man's spirit who passes away in any spot of the world will come to this cemetery.\nIts location in Najaf has raised its importance because of Imam 'Ali's (a) holy shrine being there. Many pilgrims of al-'Atabat al-'Aliyat (The holy shrine of Imams (a)) visit this area beside visiting other sacred places. Furthermore, a lot of religious, political and social figures of shi'a have been buried there.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 4,
+      "latitude": 32.000909303232,
+      "longitude": 44.311363301683,
+      "priority": 3
+    },
+    {
+      "id": 125,
+      "name": {
+        "en": "Sardab al-Muqaddas",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "The Sacred Basement (Sardab al-Muqaddas) or Basement of Occultation is the underground part of the house of Imam Hasan al-Askari (A.S.), located in the northwest of the al-Askari shrine in Samarra. This site holds great sanctity among Shi'a Muslims because it was the residence of Imam Ali al-Hadi (A.S.), Imam Hasan al-Askari (A.S.), and Imam al-Mahdi (A.J.).\n\nSome Sunni writers have claimed that Shi'as believe the Sardab is where Imam Mahdi (A.J.) lives during his occultation and will reappear from it. However, such a belief is not found in authentic Shi'a sources. According to Shi'a doctrine, Imam al-Mahdi (A.J.) will reappear in Mecca, not from the Sardab.\n\nThe original structure of the Sardab dates back to the Abbasid Caliphate era, and it has been rebuilt and restored along with the al-Askari shrine throughout different historical periods.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 6,
+      "latitude": 34.199078773743,
+      "longitude": 43.873567133099,
+      "priority": 3
+    },
+    {
+      "id": 129,
+      "name": {
+        "en": "Baratha mosque",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Baratha (also spelled Buratha) is a neighborhood and a sacred mosque for Shi'a Muslims located in Baghdad.\nThe significance of the Buratha Mosque stems from narrations that report Imam Ali (A.S.) stayed there and that miracles occurred at the mosque during his return from the Battle of Nahrawan. It is also said that some prophets prayed at this location.\nAt one time, this mosque served as a center for the dissemination of Hadiths of the Ahl al-Bayt.\n\nToday, Buratha Mosque remains one of the key centers for Friday prayers among Shi'as in Baghdad.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 5,
+      "latitude": 33.351337896222,
+      "longitude": 44.36122182082,
+      "priority": 3
+    },
+    {
+      "id": 136,
+      "name": {
+        "en": "List of Figures Buried in The Holy Shrine of al-Kazimayn (a)",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "List of Figures Buried in The Holy Shrine of al-Kāẓimayn (a) are Islamic scholars and statesmen who are buried in the shrine of Imam al-Kazim (a) and [[Imam al-Javad (a) in the city of Kadhimiya, Iraq. In the book Tarikh al-mashhad al-Kazimi written by Muhammad Hasan Al Yasin, more than thirty people are mentioned who were buried in Kazmin Shrine during the Abbasid period.[1] The list of those buried in the shrine with the year of their death is as follows:\n\nYahya b. Husayn Zu l-Dam'a b. Zayn al-'Abidin (d. 207/822-3)\nIbn al-'Alqami (d. 656/1258) was a Shi'ite politician and the last minister of Abbasid dynasty.\nIbn Qulawayh al-Qummi (d. 369/979-80), was one the shi'a hadith narrators in the fourth/tenth century and one of the teachers of Al-Shaykh al-Mufid.\nIbn Naqid (d.642/1244-5), one of the politicians and ministers of Abassid caliphate\nAbu Muhammad al-Muhallabi (d. 352/962-3) was one of the scholars and poets of fourth\n/tenth century.\nAbu Yusuf Ya'qub b. Ibrahim al-Qadi (d.182/798-9) was one of the judges and founders of the Hanafi school of jurisprudence.\nMuhammad Amin, the sixth 'Abbasid caliph\nand more ....",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 5,
+      "latitude": 33.380263774389,
+      "longitude": 44.338204488002,
+      "priority": 3
+    },
+    {
+      "id": 147,
+      "name": {
+        "en": "The tomb of Kumayl b. Ziyad al-Nakha'i",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Kumayl b. Zīyād b. Nahīk al-Nakhaʿī al-Ṣuhbānī al-Kūfī (Arabic: کُمَیل بن زِیاد بن نَهِیک النَخَعي الصُهباني الکوفي) ( b.12/633-4 - d. 82/701-2) was one of the Tabi'un and an important companion of Imam Ali (a) and Imam al-Hasan (a). He was one of the first people who suggested the deposition of 'Uthman, and the caliphate of Imam Ali (a). During Imam Ali's (a) caliphate, he was the governor of a region called Hit for a short time. When Mu'awiya's army, plundered Hit, Imam Ali (a) rebuked him for negligence in protecting the city. Lots of hadiths have been narrated from him in Shi'a sources, the most famous of which is Supplication of Kumayl. In Sunni sources, however, Kumayl is described as \"Ghalil al-Hadith\" (someone who has narrated few hadiths) and, even sometimes, he has been dispraised.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 4,
+      "latitude": 32.007752682291,
+      "longitude": 44.338760085204,
+      "priority": 3
+    },
+    {
+      "id": 169,
+      "name": {
+        "en": "Mosque of Kufa",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Mosque of Kūfa (Arabic: مسجد الکوفة) is a great mosque in the Islamic world. For Shi'as, it is the fourth important mosque after al-Masjid al-Haram, al-Masjid al-Nabi, and Masjid al-Aqsa. It is also the oldest and the most important visiting place in Kufa. According to some hadiths, the first person who founded the Mosque of Kufa was Prophet Adam (a). It was reconstructed by Prophet Noah (a) after the storm.\nIn 17/638, when Muslims first entered Kufa in the period of Sa'd b. Abi Waqqas, the mosque was rebuilt together with the governmental building (Dar al-'Imara) at the suggestion of Salman al-Farsi.\nThe mosque has witnessed many prophets (a), Prophet Muhammad (s), Amir al-Mu'minin (a), Imam al-Hasan (a), and Imam al-Husayn (a), and some other Imams (a).\nIn 36/656-7 when Amir al-Mu'minin (a) attended the mosque, it became much more important. He frequently led congregational prayers in this mosque, delivered sermons on its minbar, fulfilled some governmental and judiciary tasks there, and was finally martyred in its mihrab.\nThe mausoleum of Muslim b. 'Aqil, the mausoleum of Maytham al-Tammar, the house of Amir al-Mu'minin (a), the governmental building of Kufa, the mausoleum of Hani b. 'Urwa and al-Mukhtar al-Thaqafi's grave are located near the Mosque of Kufa. The mosque has in it a number of positions, in many of which some spiritual practices of the mosque are performed.\nJust as travelers have the option to say their prayers fully or in a shortened form in al-Masjid al-Haram, the Holy Shrine of Imam al-Husayn (a), and al-Masjid al-Nabi, they have the same option in the Mosque of Kufa as well. There are many hadiths regarding the merits of this mosque. According to some hadiths, the Mosque of Kufa is a garden of the Heaven. If one enters the Mosque of Kufa, one will be forgiven. Kufa will be the center of Imam al-Mahdi's (a) government, and the Mosque of Kufa will be the headquarter of his command.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 4,
+      "latitude": 32.029261935005,
+      "longitude": 44.400644331343,
+      "priority": 3
+    },
+    {
+      "id": 209,
+      "name": {
+        "en": "Al-Tall al-Zaynabi",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Al-Tall al-Zaynabī (Arabic:التلّ الزينبي) is a place overlooking the Qatligah of Imam al-Husayn (a). In the Event of Karbala, Lady Zaynab (a) watched her brother, al-Husayn b. Ali (a) in the battle from there. It is located at the west of the holy Shrine of Imam al-Husayn (a) and is visited by Shias.\nIn Arabic, \"Tall\" means a projection of soil and sand on the ground.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 3,
+      "latitude": 32.615927443181,
+      "longitude": 44.031048935582,
+      "priority": 3
+    },
+    {
+      "id": 213,
+      "name": {
+        "en": "Al-Mukhayyam",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Al-Mukhayyam (Arabic: المُخَیَّم) or Tenting Ground is a building in Karbala visited by the Shi'as constructed in the place where the tents of Imam al-Husayn (a) and his companions were located in the Battle of 'Ashura. It was first constructed in the 10th/16th century.\nTent Burning is a mourning ritual held in Muharram. It is held in some cities of Iraq and Iran.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 3,
+      "latitude": 32.614644434317,
+      "longitude": 44.030603056525,
+      "priority": 3
+    },
+    {
+      "id": 217,
+      "name": {
+        "en": "Qatligah",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Qatligāh (Sacrifice place) or Sacrifice Pit (Arabic:المِنحَر, Persian:قتلگاه) is the name of a place in Karbala where, according to sources, Imam al-Husayn (a) was beheaded by Shimr or Sinan. This place is today in the Shrine of Imam al-Husayn (a) near his darih, visited by Shi'a and lovers of the Ahl al-Bayt (a).\nQatligāh, or the Sacrifice Pit, is where Imam al-Husayn (a) attained martyrdom.It was within these grounds that Imam al-Husayn's head was severed from his body, a brutal act by Shimr b. Dhi l-Jawshan or Sinan b. Anas al-Nakha'i.Qatligah was situated at a lower elevation than other parts of the Karbala battlefield, thus earning its name as the pit of sacrifice or murder.\nIn the current architectural layout of the shrine, Qatligah is positioned outside of Imam al-Husayn's darih in the southwestern section of the Portico of Habib b. Muzahir. It is distinguished by a silver gate and a window that opens towards the courtyard. The floor of Qatligah is adorned with light-colored marble stones, while its walls showcase intricate mirror work. Additionally, Qatligah encompasses a cellar (saradb) accessible through a silver door. This cellar is considered the place where Imam (a) was martyred. There is a marble stone in that cellar, 50 cm above the ground, like a grave.[",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 3,
+      "latitude": 32.616355484489,
+      "longitude": 44.03253743612,
+      "priority": 3
+    },
+    {
+      "id": 446,
+      "name": {
+        "en": "Ka'ba",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Kaʿba (Arabic: الکعبة) is a cube-shaped building inside al-Masjid al-Haram, Mecca. It is the most important place of worship in Islam and the qibla of Muslims. Muslims turn their face to it from any part of the world when they say their prayers. Doing tawaf (circumambulation) around it is a part of hajj rituals.\nIts visit, as part of hajj, is wajib (obligatory) for Muslims once in their lifetime when they meet certain conditions, such as financial and other sorts of ability (istita'a).\nAccording to Quranic verses and hadiths, Ibrahim (a) and his son, Isma'il (a), built the Ka'ba by God's command; although, in some hadiths it is dated back to time of Adam (a) or even before him.\nThe Prophet Muhammad's (s) solution for the installation of the Black Stone and the birth of Imam Ali (a) are two important events which occurred in the Ka'ba.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.423827768208,
+      "longitude": 39.825316789379,
+      "priority": 3
+    },
+    {
+      "id": 22,
+      "name": {
+        "en": "Zamzam",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Zamzam (Arabic: زمزم) is a sacred prominent well located in al-Masjid al-Haram, 21 meters far from East of the Ka'ba. According to hadiths, Zamzam, which originally was a spring, was a miracle of Allah for Isma'il (a). The Holy Prophet (s) regards it curative and superior to any kind of water found on earth.\nWater of Mecca had been provided by Zamzam well. Afterwards, other wells were constructed in and around Mecca. Water of Zamzam well had always been significant and sacred in the eyes of Meccans. Using Zamzam water, they would perform ablutions for their corpses. Currently, water of this well is accessible to pilgrims of the Ka'ba through piping. Pilgrims often take the water to their countries as souvenir.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.422569147561,
+      "longitude": 39.826526301043,
+      "priority": 4
+    },
+    {
+      "id": 62,
+      "name": {
+        "en": "Ali Bin Abi Talib Mosque",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "The Mosque of Ali ibn Abi Talib (AS), the Musalla Mosque, and the Abu Bakr Mosque are three mosques known as the Prophet's Prayer Ground Mosques in the Manakha district. These mosques are located close to each other, west of the Prophet's Mosque. The Imam Ali Mosque is located north of the Musalla Mosque and the Abu Bakr Mosque, with a distance of 122 meters from the Musalla Mosque, 80 meters from the Abu Bakr Mosque, and 290 meters from the Prophet's Mosque.\nAccording to Samhudi (d. 911 AH), a historian of Medina, these mosques were built on the sites where the Prophet performed Eid prayers. These locations were initially not mosques but open spaces or deserts that were later converted into mosques.\nAccording to narrations, when Uthman was under siege in his house by his opponents, Imam Ali (AS) performed Eid prayers at this site. Some historians of Medina believe this event is the reason for the mosque's name. They emphasize that Imam Ali (AS) and the caliphs only performed Eid prayers at the Prophet's prayer grounds; thus, the Mosque of Ali ibn Abi Talib is one of the Prophet's prayer grounds.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 2,
+      "latitude": 24.467027245584,
+      "longitude": 39.606374583853,
+      "priority": 4
+    },
+    {
+      "id": 142,
+      "name": {
+        "en": "Al-Hannana Mosque",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Al-Ḥannāna Mosque (Arabic: مسجد الحَنّانة) is located in the north of Najaf, on the way to Kufa. It is narrated that the site of this mosque wept/mourned for the Ahl al-Bayt (a) two times; during the funeral procession of Imam 'Ali (a) and after the Battle of Karbala. That is why it has been given the name al-Hannana (the weeper/mourner).",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 4,
+      "latitude": 32.005096660467,
+      "longitude": 44.334609124597,
+      "priority": 4
+    },
+    {
+      "id": 153,
+      "name": {
+        "en": "Safi Safa",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Maqam Safi Safa is a historical, religious, and cultural site located in the southern part of Najaf. It is said to have been a place of worship and seclusion for Imam Ali (a). It is also believed that a man from Yemen, according to his will, was buried at this location.\nAccording to some historical sources, Maqam Safi Safa was a place of worship for Prophet Moses (a) and is considered part of Mount Judi and Mount Sinai. Throughout history, the site has been attacked and damaged multiple times but was later restored and reconstructed.\nToday, the shrine has four floors with cultural, scientific, and historical uses, and it serves as a pilgrimage and visitation site for the visitors of the holy shrines in Iraq.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 4,
+      "latitude": 31.995301466317,
+      "longitude": 44.309354635043,
+      "priority": 4
+    },
+    {
+      "id": 157,
+      "name": {
+        "en": "scholars Buried in The Holy Shrine of Imam 'Ali (a)",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "According to sources, two of Ulu l-'Azm prophets are buried in the Darih of Holy Shrine of Imam Ali (a).\nProphet Adam (a).\nProphet Nuh (a).\nIn a narration from Imam al-Sadiq, it is said: Whenever you visit Imam Ali b. Abi Talib (a), know that you have visited Prophet Adam (a), Prophet Nuh (a), and Imam Ali b. Abi Talib (a).\nFamous scholars and Marja's (Shiite authorities) buried in the shrine of Imam Ali (a) and their place of burial in the order of the year of death are:\nMusa b. Ja'far b. Tawus, the father of Ahmad b. Tawus and Al-Sayyid b. Tawus (d. 601/1204-5): Buried in the rawaq of the shrine.\nWarram b. Abi Firas al-Hilli (d. 605/1208-9]], the maternal ancestor of Sayyid b. Tawus.\nAl-Sayyid 'Abd al-Karim b. Ahmad al-Hilli (b. 648/1250-1, d. 693/1294), Sayyid b. Tawus' nephew: Buried in the rawaq.\nAl-'Allama al-Hilli, al-Hasan b. Yusuf b. Mutahhar al-Hilli (b. 648/1250, d. 726/1325), buried inside the shrine on the left side of Bab al-Saghir under the northern minaret.\nMuhammad b. al-Hasan al-Hilli (b. 682/1283, d. 771/1369-70) known as Fakhr al-Muhaqqiqin, the son of Al-'Allama al-Hilli: According to some sources, he was buried in golden iwan near his father.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 4,
+      "latitude": 31.996064358499,
+      "longitude": 44.314571175522,
+      "priority": 4
+    },
+    {
+      "id": 174,
+      "name": {
+        "en": "Al-Sahla Mosque",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Al-Sahla Mosque (Arabic: مسجد السهلة), also known as al-Suhayl Mosque ( مسجد السهیل), Banū Ẓafar Mosque ( مسجد بنی ظفر) and ʿAbd al-Qays Mosque ( مسجد عبدالقیس), is one of the best-known Islamic mosques built in the first/seventh century by some Arab tribes of Kufa, about two kilometers northwest of the Great Mosque of Kufa.\nThe mosque is one of the oldest mosques associated with Imam al-Mahdi (a), the twelfth Shiite Imam. There is a place, called \"maqam\"[1] in the mosque attributed to Imam al-Mahdi (a), and on some accounts, this mosque is where Imam al-Mahdi (a) will live after his reappearance. In the Shiite culture, al-Sahla Mosque is one of the most important mosques. In different parts of the mosque's courtyard, some mihrabs are built and each is called in the name of a religious leader, such as maqam of Imam al-Sajjad (a), Imam al-Sadiq (a), Ibrahim (a), Idris (a) and Khidr (a).",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 4,
+      "latitude": 32.039189035921,
+      "longitude": 44.379919904356,
+      "priority": 4
+    },
+    {
+      "id": 63,
+      "name": {
+        "en": "Quba Mosque",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Quba mosque was built six kilometer off Medina in village of Quba, which is currently part of Medina. The name of the mosque is taken from the village which was named after a famous well, called Quba.\nBefore staying in Medina in the first year after Hijra, the Prophet Muhammad (s) accepted requests of people of Quba and ordered to build a mosque there. The Prophet (s) entered this village on twelfth or fourteenth of Rabi' I, he stayed in Quba and helped Muslims to build the mosque in a week. In some sources it is mentioned that 'Ammar b. Yasir proposed the idea of building a mosque in Quba; while some other sources stated that 'Ammar played the main role in building Quba mosque which made him the first Muslim who built a mosque.\nThe Prophet (s) said: \"If a person perform wudu (ablution) in his house and say prayers in Quba mosque, the rewards of performing an Umra will be given to him.\"\nProphet Muhammad (s) always mentioned the significance of Quba mosque. It is mentioned in a narration that after staying in Medina, Prophet Muhammad (s) visited Quba mosque every week on Saturdays in order to say prayers.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 2,
+      "latitude": 24.437888783961,
+      "longitude": 39.619396424261,
+      "priority": 5
+    },
+    {
+      "id": 78,
+      "name": {
+        "en": "Imam Khomeini's house",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Imam Khomeini's house in the Yakhchal Qazi neighborhood was located on the outskirts of the city at the time of purchase. This house was built in 1942 and has an area of 300 square meters. It features a local, traditional, and simple architectural style, constructed from adobe and brick. Despite its adequate size, it is very simple and lacks any decorations.​\nSome significant events that took place in this house include: a meeting with Ali Amini, the incident of the Provincial and County Associations bill, the tragedy of the Feyziyeh School, the arrest of Imam Khomeini, and the June 5 uprising.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 7,
+      "latitude": 34.636686256534,
+      "longitude": 50.879667061915,
+      "priority": 5
+    },
+    {
+      "id": 108,
+      "name": {
+        "en": "The Qadamgah of Nishapur",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "The Qadamgah of Nishapur is a pilgrimage site located in Nishapur, where a footprint attributed to Imam Reza (peace be upon him) is venerated.\nAccording to some beliefs, during his journey from Medina to Merv, Imam Reza (pbuh) performed prayer on a stone at this very location.\nThe shrine contains a footprint that many attribute to the Imam.\nThe Qadamgah shrine was constructed in 1020 AH by order of Shah Abbas of the Safavid dynasty and was designed by Sheikh Baha’i.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 8,
+      "latitude": 36.108705952279,
+      "longitude": 59.063390661021,
+      "priority": 5
+    },
+    {
+      "id": 112,
+      "name": {
+        "en": "Goharshad Mosque",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Goharshad Mosque in Mashhad, one of the architectural masterpieces of Iran, located 500 meters south of the shrine of Imam Reza, was built at the behest of Goharshad, the wife of Soltan Shah Rokh. This mosque is one of the most important and visited mosques in Iran. Goharshad's name is inscribed in two places with mosaic tiles. It is said to have been built in the year 821 AH or 1418 AD, and the construction took 12 years to complete. Iranian mosques typically have two symmetrical minarets, symbolizing the human hands raised to the sky in prayer. On either side of Goharshad Mosque's dome, there are two minarets, each 43 meters tall from the ground, with 99 names of God inscribed on them, as if the mosque is calling out to God with His most beautiful names.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 8,
+      "latitude": 36.287552924546,
+      "longitude": 59.614707793543,
+      "priority": 5
+    },
+    {
+      "id": 179,
+      "name": {
+        "en": "The House of Imam Ali (a) in Kufa",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "The House of Imam Ali (a) in Kufa is a place attributed to Imam Ali (a), and it is widely believed that he resided there during his caliphate. This house is located in the southwestern part of the Kufa Mosque and is adjacent to the Dar al-Imarah of Kufa. There are various reports about the internal structure of the house, its rooms, places attributed to him and his children, and the site where Imam Ali was washed after his martyrdom. However, these accounts have been critically examined by historians and hadith scholars.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 4,
+      "latitude": 32.02802205294,
+      "longitude": 44.399698189014,
+      "priority": 5
+    },
+    {
+      "id": 187,
+      "name": {
+        "en": "Tomb of Maytham al-tammar",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Maytham al-Tammār al-Asadī al-Kūfī (Arabic: ميثم التمار الأسدي الکوفي) (d. 60/680) was a devout and loyal companion of Imam Ali (a). Although there isn't a lot of detailed information available about his life, he is known for being a date-seller in Kufa who had many outstanding qualities. Maytham was executed by the Ummayad governor before the Event of Karbala.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 4,
+      "latitude": 32.029062488247,
+      "longitude": 44.400409330898,
+      "priority": 5
+    },
+    {
+      "id": 536,
+      "name": {
+        "en": "Al-Mukhtar b. Abi 'Ubayd al-Thaqafi",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Al-Mukhtār b. Abī ʿUbayd al-Thaqafī (المختار بن أبي عبيد الثقفي) (b. 1/622-3 - d. 67/687) the leader of one of the uprisings to take revenge of Imam al-Husayn's (a) blood, one of tabi'un and from Ta'if. He hosted Muslim b. 'Aqil in Kufa and was imprisoned by 'Ubayd Allah b. Ziyad when the Battle of Karbala was taking place. During his uprising many of those people who took part in killing Imam al-Husayn (a) were killed. There is a disagreement regarding al-Muhktar's uprising, his religious sect, and his relationship with the Ahl al-Bayt (a). Some believe his uprising was with the permission of Imam Zayn al-'Abidin (a). After 18 months of rule in Kufa, al-Mukhtar was killed by Mus'ab b. al-Zubayr in 67/687. His grave, next to the Mosque of Kufa, is respected and visited by the Shi'a.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 4,
+      "latitude": 32.028687175275,
+      "longitude": 44.40110914818,
+      "priority": 5
+    },
+    {
+      "id": 553,
+      "name": {
+        "en": "Al-Ḥajar al-Aswad (Black Stone)",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "The Black Stone or Al-Ḥajar al-Aswad (Arabic: الحجر الأسود), is an ancient sacred stone in Islam. It is located in the eastern corner of the Ka'ba (known as al-Rukn al-Aswad, (the Black Angel) or al-Rukn al-Hajari (the Stone Angle), 1.5 meters above the earth. The Stone was honored before Islam. Nevertheless, even then, when the worshiping stones was customary at the age of ignorance, it was not worshiped,[1] but it was a symbol of monotheism and rejection of polytheism.\nThe Black Stone was called by the name because of its color. Some have also called it al-Hajar al-As'ad, meaning \"the Fortunate Stone\".According to Ibn Zahira, if aswad is taken to be derived from \"sawdad\" (grandiose), al-Hajar al-Aswad means the stone that is grander than other stones.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.422513323496,
+      "longitude": 39.826188291938,
+      "priority": 5
+    },
+    {
+      "id": 56,
+      "name": {
+        "en": "Abu l-Salt al-Hirawi",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "There is a mausoleum eastwards outside Mashhad known as Khwaja Aba Salt. There are also mausoleums in Qom and Semnan attributed to him.[27] The dome and the courtyard over his alleged burial place in Mashhad was reconstructed by Muhammad 'Ali Darwish and people's financial support. Some Sufis such as Darwish 'Ali (d. 726/1325-6) are buried near his burial place.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 8,
+      "latitude": 36.182390826175,
+      "longitude": 59.666535380886,
+      "priority": 6
+    },
+    {
+      "id": 64,
+      "name": {
+        "en": "Al-Qiblatayn Mosque",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "This is Masjid al-Qiblatain (Arabic: مسجد القبلتين), translated as the “Mosque of the Two Qiblas”. In Rajjab 2 AH, the revelation of the Quranic verse came to change the direction of the Qibla from Masjid al-Aqsa in Jerusalem to the Ka’bah in Makkah. Masjid al-Qiblatain is historically important to Muslims as it is the location where the first congregational salah was prayed following the change.\nDuring his time in Makkah, the Prophet Muhammed (ﷺ) used to pray towards Bait-al-Maqdis, with the Ka’bah in front of him. When he migrated to Madinah, he prayed towards Jerusalem for 16 months, but he hoped it would be changed to the Ka’bah.\nDuring Dhuhr prayer (or it was said that it was Asar), the Prophet (ﷺ) had led his Companions when he was commanded to face towards the Ka’bah by the following revelation in the Quran in Surah al-Baqarah: “Verily, We have seen the turning of your (Muhammed’s) face towards the heaven. Surely, We shall turn you to a Qiblah (prayer direction) that shall please you, so turn your face in the direction of Al-Masjid Al-Haram (at Makkah). And wheresoever you people are, turn your faces (in prayer) in that direction.” [2:144 ]",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 2,
+      "latitude": 24.48417270645,
+      "longitude": 39.578767821515,
+      "priority": 6
+    },
+    {
+      "id": 90,
+      "name": {
+        "en": "Shahzada Ahmad bin Qasim",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Among the famous Imams of Qom is \"Shahzada Ahmad bin Qasim bin Ahmad bin Ali bin Ja'far al-Sadiq (peace be upon him),\" who migrated from Medina to Qom in the early third century AH. The shrine of Ahmad bin Qasim is located in the southern gate area of Qom (Castle Gate) in the old Maloon cemetery. In this mausoleum, in addition to Ahmad bin Qasim, his sister Fatimah and the mother of Seyyed Mohammad Aziz are also buried. The dome of the shrine is a treasure of artistic works and is one of the authentic ancient buildings, having preserved its plaster decorations to this day. The construction date is 780 AH.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 7,
+      "latitude": 34.632436005835,
+      "longitude": 50.885181142041,
+      "priority": 6
+    },
+    {
+      "id": 192,
+      "name": {
+        "en": "Mosque of Sa'sa'a b. Sawhan",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "The mosque of Ṣaʿṣaʿa b. Ṣawḥān (Arabic: مَسْجِد صَعْصَعَة بنِ صَوْحان) is one of the mosques of Kufa near al-Sahla Mosque. This mosque was the worshiping place of Sa'sa'a b. Sawhan, one of the companions of Imam 'Ali (a). A group of people saw Imam al-Mahdi (a) worshiping in the mosque, in the month of Rajab. In their books, al-Sayyid b. Tawus and al-Shahid al-Awwal mentioned recommended practices for this mosque.,",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 4,
+      "latitude": 32.026481624116,
+      "longitude": 44.395261303122,
+      "priority": 6
+    },
+    {
+      "id": 223,
+      "name": {
+        "en": "Maqam Kaff al-'Abbas (a)",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Maqām Kaff al-ʿAbbās (a) (Arabic:مقام کفِّ العباس; literal translation: the place of the hand of al-'Abbas) or Kaff al-ʿAbbās (Arabic: کَفُّ العَبّاس; literal translation: the hand of al-'Abbas) refers to two places where al-'Abbas b. 'Ali's (a) hands were cut off and fell to the ground. The two places are known as places of the right and the left hands. They are located in northeastern and southeastern parts of the Holy Shrine of al-'Abbas (a) at the entrance of two market-like alleys. There are symbols in these two places and pilgrims visit them.\nThe right-hand place was built in the middle of the 13th/19th century on the ruins of a creek, known as the creek of the grave of al-'Abbas (a ruin of the creek of 'Alqama), and the left-hand place was built by someone who had a dream in this regard in 1327/1909-10. This person split the wall of his house and built the place there.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 3,
+      "latitude": 32.616445033439,
+      "longitude": 44.03704916255,
+      "priority": 6
+    },
+    {
+      "id": 248,
+      "name": {
+        "en": "Two Sons of Muslim b. Aqil",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "The two sons of Muslim b. ʿAqīl, Muhammad b. Muslim b. 'Aqil and Ibrahim b. Muslim b. 'Aqil, were captured from the caravan of Ahl al-Bayt (a), after the martyrdom of Imam al-Husayn (a) in the Battle of 'Ashura'. They were imprisoned in Kufa, by order of 'Ubayd Allah b. Ziyad. They managed to escape but were martyred.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 3,
+      "latitude": 32.785220358645,
+      "longitude": 44.312864218944,
+      "priority": 6
+    },
+    {
+      "id": 290,
+      "name": {
+        "en": "The Gutter of the Ka'ba",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "The Gutter of the Ka'ba (in Arabic: ميزاب الكعبة) is a channel on the northern wall of the Ka'ba for draining rainwater from its roof. The gutter is located on the side of Hijr Ismail. The Quraysh were the first to build this gutter during the construction of the Ka'ba. This gutter has been reconstructed during various reigns.\nFurthermore, in the sayings of the infallibles, the Gutter of the Ka'ba is introduced as a blessed place and a site of worship for the prophets and the Ahl al-Bayt. In Persian literature, poets such as Lari and Khaqani have composed poems about this gutter.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.422572853567,
+      "longitude": 39.826165583433,
+      "priority": 6
+    },
+    {
+      "id": 66,
+      "name": {
+        "en": "The Seven Mosques",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "The Seven Mosques (المساجد السبعة) is a group of small mosques constructed close to each other on the site where the Battle of Trench is believed to have been fought. Originally there were seven mosques marking the locations where the command posts are said to have deployed. Today the actual number of mosques is six, but it is known by the seven mosques.\nThese mosques are located on the western side of the Mount Sela' when part of the trench was dug by Muslims in the time of Prophet Muhammad to defend Medina, when the Quraish marched in with the tribes in the fifth year of Hijra (migration). These mosques are built on the known sites of troops stationed and monitoring sites of the battle in 627 CE.\nEach mosque’s name is linked to the conquest except for al-Fatah mosque which was built at the site of the dome (Qubba) of the Prophet. The mosques are in a row from north to south: al-Fathah, Salman Farsi Mosque, abu Bakr Mosque, Umer ibn Khattab Mosque, Ali ibn abi Talib Mosque, Mosque of Fatima.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 2,
+      "latitude": 24.476757946793,
+      "longitude": 39.596261444622,
+      "priority": 7
+    },
+    {
+      "id": 93,
+      "name": {
+        "en": "Ali b. Jaʿfar (a)",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "ʿAlī b. Jaʿfar b. Muḥammad (Arabic: علی بن جعفر بن محمد) (the 3rd/9th century) known as al-ʿUrayḍī (Arabic: العُرَیْضي), is the son of Imam al-Sadiq (a). He has narrated a lot of hadiths. He was very pious and well educated. He accompanied his brother, Musa b. Ja'far (a) and narrated a lot of hadiths from him. He is counted the youngest child of Imam al-Sadiq (a) who also experienced the Imam al-Hadi's (a) period.Mausoleums in 'Urayd, a village near Medina, and Qom and Semnan in Iran, are attributed to him.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 7,
+      "latitude": 34.631069101011,
+      "longitude": 50.897496665071,
+      "priority": 7
+    },
+    {
+      "id": 197,
+      "name": {
+        "en": "Tomb of Muslim b. Aqil",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Muslim b. ʿAqīl b. Abī Ṭālib (Arabic: مسلم بن عقیل بن ابي طالب), cousin of Imam al-Husayn (a) and his representative in the Kufa before Battle of Karbala and was from Al Abi Talib. Muslim was present in some conquest of Muslims as well as the Battle of Siffin. He went to Kufa as a representative of Imam al-Husayn (a) to provide the Imam with a status report of the city and make sure that the people of Kufa are persistent and truthful in their invitation of the Imam. In a report to the Imam, he wrote that Kufans were prepared for the Imam's arrival.\nHowever, after that 'Ubayd Allah b. Ziyad was appointed as the governor of Kufa, and because people were afraid of him, they suddenly left Muslim alone. Thus, he was arrested and martyred on the day of 'Arafa (Dhu l-Hijja 9), 60 (September 10, 680).The story of Muslim being left alone and his martyrdom in Kufa is the theme of a well-known lament recited by the Shi'as. The lament is recited on the day of 'Arafa and sometimes on Muharram 1.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 4,
+      "latitude": 32.029443109499,
+      "longitude": 44.401541622325,
+      "priority": 7
+    },
+    {
+      "id": 203,
+      "name": {
+        "en": "Hani b. 'Urwa",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Hānī b. ʿUrwa al-Murādī (Arabic: هاني بن عروة المرادي) (d. 60/680) is one of the greatest and closest companions of Imam 'Ali (a). He participated in the battles of Jamal and Siffin and was known as one of the important people in Hujr b. 'Adi's uprising against Ziyad b. Abih.[1] He opposed Mu'awiya when he was asking allegiance of the people of Kufa for Yazid's caliphate. His house was the center of political and military activities since 'Ubayd Allah b. Ziyad entered Kufa. He played a very significant role in Muslim b. 'Aqil's uprising. On Dhu l-Hijja 8, 60/680, after the martyrdom of Muslim b. 'Aqil and by the order of 'Ubayd Allah b. Ziyad he was beheaded.\nImam al-Husayn (a) was informed of his martyrdom when he was in the middle of the way towards Kufa. Imam al-Husayn (a) cried on his demise, recited the al-Istirja' verse and asked for Allah's mercy upon him several times. Hani was buried alongside the Dar al-Imara (municipality) of Kufa, where it is now a significant and famous shrine for Shi'a Muslims.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 4,
+      "latitude": 32.029448277919,
+      "longitude": 44.401543225833,
+      "priority": 7
+    },
+    {
+      "id": 227,
+      "name": {
+        "en": "Habib b. Muzahir",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Ḥabīb b. Muẓāhir al-Asadī (Arabic: حبیب بن مُظاهر الاسدي) was one of Imam Ali's (a) special companions. He was from Banu Asad tribe and lived in Kufa. He was one of the people of Kufa who sent letters to Imam al-Husayn (a) and invited him to Kufa, after Mu'awiya's death. However, when he saw that people of Kufa have broken their allegiance to Imam al-Husayn (a), he left Kufa, joined Imam, and was martyred at the age of 75 while fighting in Imam al-Husayn's (a) army.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 3,
+      "latitude": 32.616311403332,
+      "longitude": 44.03211883092,
+      "priority": 7
+    },
+    {
+      "id": 233,
+      "name": {
+        "en": "The tomb of the Martyrs of Karbala",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "List of Figures Buried in the Holy Shrine of Imam al-Husayn (a) is a collection of the names of figures who are buried in the Holy Shrine of Imam al-Husayn (a). In this place, in addition to 'Ali al-Akbar (a) and 'Ali al-Asghar (a) who are buried next to Imam al-Husayn (a) and Habib b. Muzahir and Ibrahim al-Mujab who each have a separate Darih in this shrine, many scholars, famous families, political figures and some ordinary people have been buried",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 3,
+      "latitude": 32.616382193164,
+      "longitude": 44.03264756158,
+      "priority": 7
+    },
+    {
+      "id": 263,
+      "name": {
+        "en": "The Tomb of Hurr ibn Yazid al-Riyahi",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "The Tomb of Hurr ibn Yazid al-Riyahi is the burial site of Hurr ibn Yazid, one of Imam Husayn’s (a) companions who was martyred on the Day of Ashura while confronting the army of Ubaydullah ibn Ziyad. It is located 9 kilometers from Karbala, near an area known as Kamaliyah.\nAfter the tragedy of Ashura, a group from the Banu Asad tribe buried Imam Husayn (a). They buried Ali Akbar (a) at the feet of his father, and Hazrat Abbas (a) at the place of his martyrdom near the Euphrates River. Then, they dug a large grave and buried the rest of the martyrs together. According to Sayyid Muhsin al-Amin, during the burial by Banu Asad, a group from Hurr’s tribe prevented his body from being buried with the other martyrs. Instead, they buried him in a place formerly known as Nawawis. The shrine of Hurr is 9 km from Karbala, near the area of Kamaliyah",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 3,
+      "latitude": 32.618258007741,
+      "longitude": 44.035181562003,
+      "priority": 7
+    },
+    {
+      "id": 274,
+      "name": {
+        "en": "Euphrates",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Euphrates (Arabic: Furāt, الفرات, literally: fresh water),is a river originates in Turkey, flows through Syria and Iraq, then empties into the Persian Gulf.\nThe Tragedy of Karbala occurred in the bank of this river, and in hadith, some excellences and special characters are attributed to it.\nThe length of the Euphrates is approximately 2900 kilometers and emerges from two main branches in southeastern Turkey. After crossing Syria and Iraq, it confluences with the Tigris in the \"Shatt al-'Arab\", which confluences with the Karun River, in the \"Arvand Rud\" and then empties into the Persian Gulf.\nThe Euphrates and the Tigris have formed a fertile area which is called Mesopotamia. This area is one of the oldest human civilization centers. Many historical civilizations developed in this area; for example, Babylon the capital of the Babylonian Empire was built on the banks of the Euphrates.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 3,
+      "latitude": 32.549531241987,
+      "longitude": 44.224141239852,
+      "priority": 7
+    },
+    {
+      "id": 370,
+      "name": {
+        "en": "Hateem",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Hatim, a place in Masjid al-Haram, is known for taking oaths, cursing oppressors, and possessing great virtue.  \nThere are several narrations about Hatim’s location. Most Shiites consider it the area from the Black Stone to the Kaaba’s door, while Sunnis identify it as Hijr Ismail.  \nBefore Islam, Hatim was a place for taking oaths, and after Islam, many virtues were attributed to it, including the great reward for praying there and its status as one of the purest places.  \nThe Prophet Muhammad (PBUH) performed numerous acts of worship in Hatim, including praying there on the night of his Ascension (Mi’raj).  \nHatim was a site for oaths and curses; it is said that Ibn Muljam swore there to kill Ali (AS).  \nAccording to some Shiite narrations, at the time of Imam Mahdi’s appearance, Gabriel and believers will pledge allegiance to him in Hatim.  \nIn a hadith, it is mentioned that Hatim is the place where Adam’s (AS) repentance was accepted. In a saying of the Prophet (PBUH), Hatim is described as a garden from the gardens of Paradise, where praying four rak’ahs results in a call from the Throne announcing the forgiveness of all the individual’s sins.  \nAmong the etiquettes of Hatim is the remembrance of God. According to jurists, supplicating, praying, holding the Kaaba’s curtain, confessing sins, and expressing humility before God are recommended in Hatim.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.422496518698,
+      "longitude": 39.82626477699,
+      "priority": 7
+    },
+    {
+      "id": 554,
+      "name": {
+        "en": "Al-Ma'lat Cemetery",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Al-Maʿlāt Cemetery (Arabic: مَقبَرَة المَعلاة) is the oldest cemetery in Mecca which is also known as Al-Ḥajūn Cemetery (Arabic: مَقبَرَة الحَجون), al-Mu'alla Cemetery (Arabic: مقبرة المعلی) and Abū Ṭalib Cemetery (Persian: قبرستان ابوطالب) among Iranians. It is mostly know as Banū Hashim Cemetery (Persian: قبرستان بنی هاشم) in recent centuries.\n'Abd al-Muttalib, Khadija al-Kubra (a), Yasir and Sumayya (the first martyred Muslims) were buried in this cemetery. Therefore, after al-Baqi' Cemetery, al-Ma'lat is considered as the second most important cemetery among Muslims, especially Shi'ites, who perform hajj or visit Mecca and Medina.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.434951575875,
+      "longitude": 39.8287037489,
+      "priority": 7
+    },
+    {
+      "id": 73,
+      "name": {
+        "en": "The holy shrine of Sayyid Yasir and Nasir",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "The holy shrine of Imamzadegan Sayyid Yasir and Nasir (peace be upon them) is located 5 kilometers from Mashhad in the village of Golestan, which belongs to the Torghabe County, on a land area of 1,000 square meters that has been expanded in recent years.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 8,
+      "latitude": 36.320503449997,
+      "longitude": 59.411421750194,
+      "priority": 8
+    },
+    {
+      "id": 238,
+      "name": {
+        "en": "Al-Sayyid Ibrahim al-Mujab",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Sayyid Ibrāhim b. Muhammad b. Mūsa al-Kāzim (a) (Arabic: سید إبراهيم بن محمد بن موسى الکاظم) known as Ibrahim al-Mujab and Ḍarir al-Kufi was the son of Muhammad al-'Abid and grandson of Imam Musa al-Kazim (a). About calling Ibrahim \"al-Mujab\", it is reported that he said greetings to Imam al-Husayn (a) and heard his answer from his grave. He was the first person among sayyids who immigrated to Karbala and stayed there. His grave is in the shrine of Imam al-Husayn (a).",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 3,
+      "latitude": 32.616535333828,
+      "longitude": 44.032341350195,
+      "priority": 8
+    },
+    {
+      "id": 266,
+      "name": {
+        "en": "ʿAwn ibn ʿAbdullah ibn Jaʿfar",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "ʿAwn ibn ʿAbdullah ibn Jaʿfar ibn Marʿi, known as ʿAwn Abū Najm, was a descendant of Imam Hasan (a).\nLittle is known about his life except that he resided near the shrine of Imam Husayn (a) and owned land about three farsakhs (approximately 18 km) from Karbala, where he also passed away and was buried. A shrine has been built over his grave, and people visit it for pilgrimage.\nHis tomb is located 12 kilometers northeast of Karbala, along the Karbala–Baghdad road.\nFor generations, the people of Iraq have walked about 11 kilometers annually on the 13th of Safar to visit Awn’s shrine. Along the way, women sing songs and recite poetry.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 3,
+      "latitude": 32.693558227011,
+      "longitude": 44.112877814047,
+      "priority": 8
+    },
+    {
+      "id": 376,
+      "name": {
+        "en": "The door of the Kaaba",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "The door of the Kaaba is located on the eastern wall of the Kaaba, and several virtues have been attributed to it. In Shia narrations, it is recommended to recite supplications upon reaching it.\nOn this door are inscribed verses from the Qur’an, the names of God, and the name of the Prophet of Islam (peace be upon him).\n\nThe door of the Kaaba is over three meters tall and approximately one meter and seventy centimeters wide. It is raised more than two meters above ground level.\nOriginally, the door of the Kaaba was at ground level, but during the reconstruction of the Kaaba by the Quraysh, they elevated it so that people could not enter easily.\n\nOne of the rulers of Yemen, around seven hundred years before the Prophet’s migration (Hijrah), installed a door for the Kaaba, which is considered to be the first door ever made for it.\nInside the Kaaba, there is a small chamber that contains a staircase leading up to the roof. This chamber has a small door known as the \"Door of Repentance\", which is made of gold.\n\nShia narrations recommend reciting the following supplication when reaching the door of the Kaaba:\n\nسَائِلُكَ فَقِيرُكَ مِسْكِينُكَ بِبَابِكَ فَتَصَدَّقْ عَلَيْهِ بِالْجَنَّةِ\nاللَّهُمَّ الْبَيْتُ بَيْتُكَ وَ الْحَرَمُ حَرَمُكَ وَ الْعَبْدُ عَبْدُكَ\nوَ هَذَا مَقَامُ الْعَائِذِ الْمُسْتَجِيرِ بِكَ مِنَ النَّارِ\nفَأَعْتِقْنِي وَ وَالِدَيَّ وَ أَهْلِي وَ وُلْدِي وَ إِخْوَانِيَ الْمُؤْمِنِينَ مِنَ النَّارِ\nيَا جَوَادُ يَا كَرِيم‏\n\nAnother supplication has also been narrated:\n\nاللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّد\nاللَّهُمَّ أَدْخِلْنِي الْجَنَّةَ بِرَحْمَتِكَ\nوَ عَافِنِي مِنَ السُّقْمِ\nوَ أَوْسِعْ عَلَيَّ مِنَ الرِّزْقِ الْحَلَالِ\nوَ ادْرَأْ عَنِّي شَرَّ فَسَقَةِ الْجِنِّ وَ الْإِنْسِ\nوَ شَرَّ فَسَقَةِ الْعَرَبِ وَ الْعَجَمِ\n\nIt is also recommended to send blessings (salawat) upon the Prophet when reaching the door of the Kaaba.\n\nAccording to historical sources, when Abraha attacked the Kaaba intending to destroy it, Abdul Muttalib held onto the ring of the Kaaba’s door and supplicated to God, asking for His help.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.422527729967,
+      "longitude": 39.826250024841,
+      "priority": 8
+    },
+    {
+      "id": 67,
+      "name": {
+        "en": "al-Fath Mosque",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "The al-Fatah Mosque at the site of the Battle of Ahzab, view towards west. This small mosque, which is situated atop a small cliff is one of the most visited mosques in Medina, Saudi Arabia. It is narrated that this mosque is named as \"Al-Fath\" due to the account of the prophet praying here during the Battle of the Trench, and the battle ended in Muslim victory (in Arabic, \"Fath\" or \"Fatah\" means \"conquest\" in Islamic context).\nAlthough the mosque is often visited by the pilgrims, there is no accounts in the order from the Islamic prophet Muhammad or in Sharia regarding the virtue of visiting these mosques. The Mehrab wall and the approach staircase with a few people.\nThe mosque was most probably first built during the time of the Caliph Umar bin Abdul Aziz, and renovated by the minister Saifuddin Abu al-Hija in 1154 during the time of the Sharifate of Mecca. Most recent restoration, circa 1990 CE, was carried out during the reign of Fahad bin 'Abdulaziz al-Saud.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 2,
+      "latitude": 24.477843290388,
+      "longitude": 39.595589081834,
+      "priority": 9
+    },
+    {
+      "id": 242,
+      "name": {
+        "en": "The Maqam of Imam al-Mahdi (aj) Karbala",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "The Maqam of Imam al-Mahdi (aj) is a shrine in Karbala, near the shrine of Imam Hussain (a.s). It is located in the northern part of Karbala, by the Al-Qameh river, and is attributed to Imam Mahdi (aj). People visit this place to perform prayers and supplications.\nThere is little historical information available about the origins of this site, except for a narration stating that a scholar once came here and, during his supplications, witnessed Imam Mahdi (aj).\nInterior View of the Maqam:\nOriginally, the building of the Maqam was a small mud room. Later, a benefactor named Haj Hamza Khalil rebuilt and expanded it with bricks in the year 1378 AH.\nThe second renovation took place in 1391 AH by Mohsen Hamid Mulla Mahdi Wazni, who partially demolished and rebuilt the structure.\nDuring the Sha’baniyah Uprising, the shrine was severely damaged by the Ba'athist regime. Abbas Al-Bahr Yasari, a prominent and wealthy figure of Karbala, repaired and restored it, and it still stands today.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 3,
+      "latitude": 32.624269162462,
+      "longitude": 44.034352251991,
+      "priority": 9
+    },
+    {
+      "id": 252,
+      "name": {
+        "en": "The Maqam of Imam Ja'far al-Sadiq",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "The Maqam of Imam Ja'far al-Sadiq (a) is a pilgrimage site in Karbala, located near the Euphrates River and about one kilometer from the shrine of Imam Husayn (a). This area and the surrounding lands were historically known as Ja’fariyyat, as it is narrated that Imam al-Sadiq (a) came to Karbala in the year 144 AH to visit the grave of his grandfather, Husayn ibn Ali (a), and resided in this region. Initially, in 904 AH, a pious individual named Sheikh Amin al-Din endowed the estates and properties of this area to the shrine of Imam Husayn (a). The first structure of the Maqam was built in 971 AH by a Sufi leader known as Jahandadeh, in memory of Imam al-Sadiq’s visit to Sayyid al-Shuhada.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 3,
+      "latitude": 32.624249884427,
+      "longitude": 44.037654082134,
+      "priority": 9
+    },
+    {
+      "id": 546,
+      "name": {
+        "en": "Shi'b Abi Talib",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Shi'b Abi Talib (Arabic: شِعب أبي طالب, Valley of Abu Talib) is a valley between the Mount Abu Qubays and the Mount Khandama in Mecca. Seven years after Bi'tha, polytheists of Mecca declared an economic and social boycott on the Prophet Muhammad (s), Banu Hashim and Muslims. So they lived in Shi'b Abi Talib for three years under blockade.\nThe valley was owned by 'Abd al-Muttalib and the house of Lady Khadija (a) where she lived with Prophet Muhammad (s), and their children were born in, was located there. The valley is in the east of Ka'ba, next to the place where Sa'y is performed. Because the valley is located close to Ka'ba, it was regarded as the best place in Mecca. As Prophet Muhammad (s) was also born in that region, it is also called as Shi'b al-Mawlid (Arabic: شِعب المولد, the birthplace valley); Lady Fatima (a) was born in this region as well. Today, only a small part of this region, called Suq al-Layl, is left and the other parts were added to al-Masjid al-Haram in different expansions of the mosque.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.425642351569,
+      "longitude": 39.830543701919,
+      "priority": 9
+    },
+    {
+      "id": 79,
+      "name": {
+        "en": "Al-Ijaba Mosque (Mubaahila)",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Al-Ijaba Mosque(Arabic: مسجد الإجابه) is one of the historical mosques in the city of Medina. This mosque, located in the Banu Muawiya b. Malik neighborhood, is also called by this name. Prophet Muhammad (s) prayed in this mosque. Reports indicate that this mosque had an ancient structure that was destroyed in the seventh century but was later reconstructed in the ninth century and possibly once again during the Ottoman era. The mosque was last renovated in the year 1418 AH/1998 AD.\nAl-Ijaba Mosque is located in the northeast of al-Baqi'. It is next to King Faisal Street and approximately 580 meters away from the Masjid al-nabi.\nAl-Ijaba Mosque was located in the Banu Muawiya neighborhood or village in Medina. And for this reason, it is also known as the Mosque of Banu Muawiya b. Malik. Reports from sources suggest that this mosque was built during the time of the Prophet Muhammad (s). Narratives indicate that the Prophet Muhammad (s) prayed and made supplications in this mosque, and informed his companions that he had asked God to spare his nation from famine, drowning, and internal strife. The first two requests were fulfilled, but the last one was not. For this reason, this mosque is called al-Ijaba Mosque.\nThe oldest information about the building of al-Ijaba Mosque comes from a report by Ibn Zabala, a historian of Medina in the seventh century. In his time, which was the first half of the seventh century, this mosque had been destroyed and only its columns and mihrab remained. Matari, in the middle of the eighth century, also mentions that the mosque was in ruins. However, Sakhawi, about a century later in the late ninth century, reports that the mosque was reconstructed, but the columns that Ibn Najjar mentioned no longer remained. It is likely that the mosque did not have a roof during Sakhawi's time. Ahmad Abbasi, in the tenth century, also described this mosque as a four-walled structure without a roof, with a large mihrab. It has been reported that in the middle of the 14th AH century, al-Ijaba Mosque had Ottoman-style stone architecture and a dome, but it was ruined. Until it was reconstructed in the year 1399 AH/ 1979 AD. And it was reconstructed and expanded for a second time in the year 1418 AH/1998 AD, and its area is about 1000 square meters. This mosque has an octagonal dome and one minaret.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 2,
+      "latitude": 24.472089519619,
+      "longitude": 39.618483774124,
+      "priority": 10
+    },
+    {
+      "id": 102,
+      "name": {
+        "en": "Al-Shajara Mosque",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Al-Shajara Mosque (المسجد الشجرة) in Medina is one of the five Miqats. This place is the Miqat for the people of Medina and those who travel from Medina to Mecca. It is said that the Prophet of Islam, peace be upon him, would don the ihram from this location when he set out for Hajj. Dhul Hulayfa, Miqat Mosque, and Abar Ali are other names for this mosque. According to historians, the Masjid Shajara was built during the caliphate of Umar b. Khattab and has been reconstructed several times since then. Today, the Shajara mosque is located about three kilometers from Medina, near the Medina-Mecca highway.\nShajara mosque is one of the historical mosques of Medina. And it is located about eight kilometers south of this city. The Prophet of Islam would don the ihram from this mosque for performing Hajj and Umra. Imam Ali(S) took the verses of dissociation from Abu Bakr, the first caliph, at this place and proclaimed them to the polytheists in Mecca. According to a report, there is another mosque with the same name in Mecca that is among the oldest mosques in that city.\nThis mosque is called Shajara mosque because there was a tree there under whose shade the Prophet would sit. The mosque has been built in an area called Dhul-Hulayfa. This area is also known as Abar or Abiar Ali and is attributed to Ali b. Abi Talib. Consequently, this mosque is also known by the names Masjid Dhul-Hulayfa and Masjid Abar Ali or Bi’r Ali. Additionally, it is popularly referred to by the locals as Masjid Ihram and Masjid Miqat. It is also called Masjid al-Husa.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 2,
+      "latitude": 24.414324664298,
+      "longitude": 39.542572709567,
+      "priority": 11
+    },
+    {
+      "id": 549,
+      "name": {
+        "en": "Mount Thabir",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Mount Thabir\nThabir is a mountain where the sacrifice of Isma'il (Ishmael) did not take place. It is said that Prophet Ibrahim (Abraham) (peace be upon him) took his son Isma'il there to sacrifice him for the sake of God, but God sent a ram to be sacrificed instead. Later, a mosque named Masjid al-Kabsh (Mosque of the Ram) was built at the foot of this mountain to commemorate this event.\nThabir is located to the east of Mecca, facing the Cave of Hira, and extends toward Mina. Because several places were known by this name, this mountain is also called Thabir al-Athbara. It is said the mountain was named after a man from the Hudhayl tribe named Thabir, who died there.\nAnother explanation links the name to the mountain's position, blocking the Cave of Hira or the sunlight — since the word \"Thabir\" in Arabic means to prevent or to block. A part of Thabir is also known as Mount Rakhm, named after birds called \"Rakhm\" that gather there at sunset. Some researchers believe that \"Rakhm\" is the modern name of Thabir. The mountain is also considered a place where prayers are answered.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.453187751054,
+      "longitude": 39.88223796695,
+      "priority": 11
+    },
+    {
+      "id": 103,
+      "name": {
+        "en": "House of Lady Fatima (a)",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "The House of Lady Fāṭima (a) was a residence connected to the Prophet's (s) Mosque, serving as the home of Imam Ali (a) and Lady Fatima (a). Most Shia scholars believe her grave is located within her house. During the event of Sadd al-Abwab (the Closing of the Doors), God commanded the closure of all doors leading to the Prophet’s (s) Mosque, except for the door of this house, which was permitted to remain open.\nIn a hadith transmitted from Imam al-Sadiq (a), it is stated that praying in this house holds greater virtue than praying in the Rawdat al-Nabi (the Prophet's (s) Chamber). This house was demolished during the Umayyad era to expand the Prophet's (s) Mosque and, along with the chamber where the Prophet (s) is buried, is now enclosed within a darih (a lattice structure).\nSome scholars have identified the house of Fatima (s) that was attacked during the attack incident, resulting in injuries to her, as the house of Imam Ali (a) located in the Bani Hashim alley. These researchers have presented reasons and evidence supporting the existence of this house and the occurrence of the incident in Bani Hashim Alley.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 2,
+      "latitude": 24.467545394955,
+      "longitude": 39.611455090999,
+      "priority": 12
+    },
+    {
+      "id": 106,
+      "name": {
+        "en": "Abar Ali",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Ābār ʿAlī (Arabic: آبار علي, lit. Wells of Ali) is an area mostly covered with date palm groves, eight kilometers south of Medina in which water wells attributed to Ali b. Abi Talib (a) are located. The place is a Miqat of Hajj. This area is referred to as Abar Ali, Dhu l-Hulayfa, and Masjid al-Shajara.\nThe word \"Abar\" (Arabic: آبار) is the plural form of \"bi'r\" (Arabic: بِئر, meaning water well). \"Abar Ali\" refers to water wells attributed to Imam Ali (a). In Arabic, the word \"al-Bu'ra\", from the same root, means pit.\nIn Shia and Sunni sources of jurisprudence, Abar Ali is also referred to as \"Bi'r Ali\" and \"Abyar Ali.\"\nAbar Ali is located about eight kilometers south of Medina in the area of 'Aqiq and the western hillside of Mount Ayr on the way to Mecca. The area is rife with water wells and date palm groves.\nToday it is mostly known as Abar Ali. The area with water wells was originally called \"Shajara\" and \"Dhu l-Hulayfa\", but it came to be called Bi'r Ali or Abar Ali at a point in history. Some researchers have written on this. All three names appear on the board indicating the place of Abar Ali, Dhu l-Hulayfa, and Masjid al-Shajara.\nSince Abar Ali and Masjid al-Shajara are located in the same area, both Shi'a and Sunni Muslims take it to be a Miqat of Hajj (Miqat of Medina). Since the 8th/14th and 9th/15th centuries, Sunni sources took Abar Ali, Dhu l-Hulayfa, and Masjid al-Shajara to be the same place and the Miqat of Medina.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 2,
+      "latitude": 24.413545113698,
+      "longitude": 39.545461267073,
+      "priority": 15
+    },
+    {
+      "id": 134,
+      "name": {
+        "en": "Mashrabat Umm Ibrahim",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "One of the important pilgrimage sites in Medina that has been recommended in the traditions of the Imams and the Infallibles for visiting and praying is \"Mashrabat Umm Ibrahim.\" For this reason, this place has always been of great interest to Shia Muslims. The Imams considered Mashrabat Umm Ibrahim, after the Quba Mosque, to be the most important pilgrimage site, even prioritizing it over the graves of the martyrs of Uhud and the tomb of the Prophet's uncle, Hamza Sayyid al-Shuhada.\nOne day, Imam Sadiq (a) said to one of his companions: \"Do not neglect visiting the shrines in Medina, such as the Quba Mosque, which was founded on piety from the very first day, and Mashrabat Umm Ibrahim...\" When asked, \"In visiting the mosques around Medina, which mosque is better to start with?\" he replied: \"Start with the Quba Mosque and pray there abundantly, for it is the first mosque in this region where the Messenger of God prayed. After that, go to Mashrabat Umm Ibrahim and pray there, for it was the residence of the Prophet of God and the place where he prayed.\"\nMashrabat means garden or orchard, or soft ground where plants grow easily and it is always green. This name is also given to land with a high hill in the middle. During the Prophet's time, there was a room built on a rock and natural slabs in this palm grove to prevent moisture and water flow from penetrating it. The entire garden and room complex was called Mashrabat. This garden was located outside the city of Medina, also referred to as the plain.\nMukhayriq, a Jewish scholar and wealthy man from the Banu Nadir tribe in Medina, gathered his relatives at the time of the Battle of Uhud and said to them: \"You know well that Muhammad (s) is the prophet we and our forefathers have been waiting for, and now, according to our treaty with him, it is our duty to support him in this war. So rise and defend him against his enemies.\" His tribe replied: \"Today is Saturday and a Jewish Sabbath; we believe it is not permissible to fight on this day.\" Mukhayriq responded, \"Woe unto you! With the advent of the Prophet of Islam, there is no longer a Sabbath day, and the Jewish religion has been abrogated with his coming.\" Seeing that his call and preaching had no effect on his former co-religionists, he alone prepared to fight against the polytheists of Mecca. Before heading to Uhud, he made a will: \"If I am killed in this battle, all my wealth belongs to Muhammad (s) and he may use it as he sees fit.\" He was martyred in this battle, and the Prophet (s) said after his martyrdom, \"Mukhayriq was the best of the Jews.\"\nIn this way, the properties and gardens of \"Mukhayriq,\" which included seven plots such as \"Mashrabat,\" a large palm grove, came under the possession of the Messenger of Allah (PBUH). From the third year of Hijrah, the Prophet took control of these gardens and palm groves, which became known in history as \"Hawāʾit Sabʿah\" (the seven gardens). After the Prophet's death, these properties, including the garden of Fadak, were under the care of his daughter, Lady Fatimah (SA), but were eventually seized from her.\nIn the month of Dhul-Qi'dah in the sixth year of Hijrah, after returning from Hudaybiyyah, the Prophet sent letters to various rulers, inviting them to monotheism and the acceptance of Islam. One such letter was sent with one of his companions to the king of Alexandria in Egypt, inviting him to embrace Islam. The king did not accept Islam but showed great respect and courtesy towards the Prophet's letter and messenger. Upon receiving the letter, he said, \"From this message, I perceive the fragrance of goodness and righteousness.\" He then ordered the letter to be kept in an ivory chest and sent gifts along with a reply to the Prophet. Among these gifts were two maidens named \"Maria\" and her sister \"Sirīn,\" the daughters of Shimon.\nUpon arriving in Medina, the Prophet’s envoy handed over the two sisters to a lady named Umm Sulaym. The Messenger of Allah (PBUH) visited them and invited them to Islam. Both sisters, being wise and perceptive, embraced Islam in the same house. The Prophet freed them from slavery, and they are remembered as virtuous and committed women in early Islamic history. The Prophet married Sirīn to Ḥassān ibn Thābit, a renowned poet, and they had a son named ʿAbd al-Raḥman. The Prophet himself married Maria. Their life together continued from the end of the sixth year of Hijrah until the Prophet's death.\nThe Prophet (PBUH) housed Maria in one of the homes of Ḥārithah ibn al-Nuʿmān near the mosque. Maria, having grown up in the social environment of Alexandria, the most civilized land of that era, and raised in the governor's court, possessed both physical beauty and inner spiritual excellence. She showed immense love, respect, and admiration for the Prophet. The Prophet, recognizing that Maria had come from a foreign land and had no one in Medina, showed her great affection and kindness, especially as she was a faithful and virtuous woman.\nThis situation, however, sparked jealousy among some of the Prophet's other wives. Despite the Prophet's fair and gentle treatment of each wife and his diligent efforts to ensure they experienced no discomfort or distress, Maria's pregnancy and the subsequent mistreatment she received from some of the other wives led the Prophet to relocate her to Mashrabat, away from Medina. He then distanced himself from his other wives for a month and stayed with Maria in Mashrabat. The initial verses of Surah At-Tahrim were revealed in response to this situation involving the Prophet's wives, and some reports suggest that the verses of Ifk in Surah An-Nur also relate to Maria.\nThis separation was difficult for the newly arrived Maria and unpleasant for the Prophet himself. However, for the sake of his wives' peace of mind, the Prophet would sometimes forgo his own rights. Thus, for the last five years of his life, despite the distance, the Prophet regularly visited Maria.\nDespite the fact that Mashrabat had walls and a door, the Messenger of Allah (PBUH) appointed a servant as a guard for this place to ensure the safety of Maria, who was left alone and away from the Prophet. This servant continuously protected and watched over Mashrabat, to the extent that even the closest companions of the Prophet could not enter without his permission.\nIn the month of Dhu al-Hijjah in the eighth year of Hijrah, Maria the Copt gave birth to Ibrahim, the only son of the Messenger of Allah (PBUH), in Mashrabat. Salma, the wife of Abu Rafi’, assisted as the midwife, and thus, Abu Rafi’ was the first to bring the good news of his birth to the Prophet. In gratitude, the Prophet gifted a slave to Abu Rafi’ as a reward. On the seventh day of Ibrahim’s birth, the Prophet sacrificed a sheep (Aqiqah). They shaved the baby’s head, gave silver equal to the weight of his hair in charity, and buried the hair in the ground. On that day, the Prophet said, \"Now Gabriel has come down to me and said: Peace be upon you, O father of Ibrahim. So, I named my only son after my grandfather, Ibrahim.\" From then on, the garden became known as \"Mashrabat Umm Ibrahim.\"\nAfter Ibrahim’s birth, each of the Ansar’s wives requested the honor of nursing and caring for Ibrahim. This privilege was granted to a lady named Umm Burdah, the wife of Abu Sāif, who was a blacksmith and lived near Mashrabat. Sometimes, the wet nurse would bring Ibrahim to the Prophet in Medina, and after their meeting, take him back home. Occasionally, the Prophet himself would go to visit Ibrahim and Maria.\nAnas ibn Malik, the servant of the Prophet, says, \"I have never seen anyone more compassionate towards their children than the Messenger of Allah. When the wet nurse took care of Ibrahim, the Prophet would sometimes walk the long distance to Mashrabat to hold and kiss his son. Then he would hand him back to the nurse. One day, I went with the Prophet to Mashrabat. When we reached Abu Sāif’s house, it was filled with smoke. I quickly entered before the Prophet and informed Abu Sāif of his arrival. He immediately stopped his work and turned off the blacksmith’s furnace to prevent the smoke from bothering the Prophet. However, the Messenger of Allah entered the house regardless of the smoke, took his son in his arms, and held him close to his chest.\"\nA year and some months passed. Ibrahim fell ill and, in the month of Rabi’ al-Awwal in the tenth year of Hijrah, he passed away in Mashrabat Umm Ibrahim. In Ibrahim’s final moments, the Prophet sat beside him, and while tears flowed from his eyes, he said, \"Although parting with you is very painful and my heart is deeply grieved and my eyes are full of tears, I am content with the divine decree and say nothing but what pleases Allah.\"\nWhen they were shrouding the small body of the Prophet’s son, the Prophet said, \"Let me see him one last time.\" He then leaned over Ibrahim's body and wept so intensely that his shoulders and chin trembled with grief. One of the companions, seeing the Prophet in such a state, asked, \"O Messenger of Allah! You are a prophet! Why are you so distressed?\" The Prophet replied, \"This is a mercy and compassion that Allah places in the hearts of whomever He wills. Allah has mercy on His servants who have mercy and compassion in their hearts.\"\nAli (AS) placed Ibrahim’s body in a coffin and carried it on a horse to the Baqi' cemetery in Medina. The Messenger of Allah (PBUH), along with the people, prayed over him and, with a strained voice, said, \"In Paradise, there will be someone to nurse Ibrahim.\" During the burial, Ali (AS) entered the grave, leveled it, and buried Ibrahim. At this moment, the Prophet wept intensely. The Muslims, moved by his grief, wept so much that their cries were heard. The Prophet requested a water skin, and he sprinkled some water on the grave. Then he placed a stone marker on Ibrahim's grave.\nMaria, unable to bear the separation from the Prophet and her son, passed away in the month of Muharram, five years after the Prophet's demise, in Mashrabat. She was also buried in Baqi' beside her son Ibrahim's grave. After her burial, the area around her grave became the burial site for other wives of the Prophet.\nUp until the time of Imam Sadiq (AS), Mashrabat was preserved in its original state. However, after that, it was converted into a mosque and gradually became known among the people as the Mosque of Mashrabat. After the destruction of the tombs in the Baqi' cemetery, the Mosque of Mashrabat was also demolished and turned into a cemetery. Unfortunately, today there is no trace of Mashrabat, the Prophet's residence, or the mosque. Mashrabat Umm Ibrahim is located between two hospitals on Ali ibn Abi Talib Street in Medina, approximately 500 meters away from Al-Zahra Hospital.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 2,
+      "latitude": 24.451863636818,
+      "longitude": 39.632746630328,
+      "priority": 17
+    },
+    {
+      "id": 428,
+      "name": {
+        "en": "Rukn al-Yamani",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Rukn al-Yamani or the Southern Corner is one of the corners of the Kaaba, located towards the south and in the direction of Yemen. It is considered the most virtuous corner of the Kaaba after the Rukn al-Hajar al-Aswad (the Black Stone corner), and in narrations, it is described as one of the gates of Paradise.\nRecommended acts regarding Rukn al-Yamani include touching it, kissing it, embracing it, and reciting salawat (blessings on the Prophet), supplication, and repentance near it.\nAccording to some Shi'a scholars, the spot where the wall of the Kaaba split open to allow Fatima bint Asad (the mother of Imam Ali (a)) to enter, was beside the Rukn al-Yamani.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.423827768208,
+      "longitude": 39.825316789379,
+      "priority": 18
+    },
+    {
+      "id": 424,
+      "name": {
+        "en": "The Shami Corner",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "The Shami Corner or Western Corner is one of the corners of the Kaaba, located towards the west. A person performing Tawaf reaches this corner after passing the Hijr Ismail area. It is also called the Shami Corner, though some researchers state that this naming lacks historical precedent.\nIn hadith and jurisprudential sources, it is recommended to touch (Istilam), kiss, and supplicate at all the corners of the Kaaba, including the Western Corner.\nThe term Rukn means pillar or foundational corner in architecture. Since there are four pillars inside the Kaaba holding up its ceiling, each of the Kaaba’s four corners is called a Rukn.\nThe Western Corner is located on the west side of the Kaaba, and the person performing Tawaf reaches it after passing Hijr Ismail.\nThe distance between this corner and the Yemeni Corner (Rukn Yamani) is about 12 meters.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.423827768208,
+      "longitude": 39.825316789379,
+      "priority": 19
+    },
+    {
+      "id": 420,
+      "name": {
+        "en": "Iraqi Corner",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "The Northern Corner, or Iraqi Corner, is one of the four corners of the Kaaba, located approximately towards the north of Arabia, in the direction of Iraq. A person performing Tawaf (circumambulation) reaches the Hijr Ismail area after passing this corner.\nThe door of the Kaaba is situated between this corner and the Black Stone (Hajar al-Aswad) Corner.\nIn hadith and Islamic jurisprudence sources, it is recommended to touch (Istilam), kiss, and supplicate near all the corners of the Kaaba, including the Northern Corner.\nThe word Rukn in architecture means a pillar or foundational corner. Since there are four pillars inside the Kaaba holding up the ceiling at each of its four corners, each of these corners is referred to as a Rukn.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.423827768208,
+      "longitude": 39.825316789379,
+      "priority": 20
+    },
+    {
+      "id": 510,
+      "name": {
+        "en": "The Birthplace of the Prophet",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "The lineage of Muhammad (PBUH), the son of Abdullah bin Abdul-Muttalib, traces back to Ishmael (AS), the son of Abraham (AS), and ultimately to Adam (AS). His mother, Amina bint Wahb bin Abd Manaf, belonged to the Banu Zuhra clan of the Quraysh tribe, and the paternal and maternal lines of his parents converge at Abd Manaf. Amina was renowned for her nobility and chastity, being considered the most esteemed woman among the Banu Zuhra, to the extent that she was regarded as the foremost noblewoman of the Quraysh. At a time when having a daughter was seen as a source of shame among the Arabs, she held a special place of respect within her family. While Amina was pregnant, Abdullah, her husband, joined other Qurayshi merchants on a trade journey to Syria and fell ill upon his return. He passed away in Yathrib at the age of twenty-five, never having the opportunity to see his newborn son.\n\nThe father, mother, and ancestors of the Prophet (PBUH) were all believers in the one true God. The Prophet (PBUH) is reported to have said, \"God always transferred me from the loins of pure fathers to the wombs of pure mothers and never allowed me to be sullied by the filth of ignorance.\" Imam Ali (AS) also said about the ancestors of the Prophet (PBUH), \"God chose Muhammad (PBUH) from the lineage of the prophets, from the family of the best, from the land of Batha, and from among the glowing lamps in the darkness and the fountains of wisdom.\" Imam Sadiq (AS) narrated that the Prophet (PBUH) said, \"Abdul-Muttalib never worshipped idols and followed the religion of his father Abraham.\"\n\nWhen the Prophet (PBUH) was born, Amina (SA) heard a voice saying, \"Show Muhammad to the East and West and present him to the jinn and humans, birds, and beasts. Grant him the purity of Adam (AS), the tenderness of Noah (AS), the friendship of Abraham (AS), the language of Ishmael (AS), the perfection of Joseph (AS), the joy of Jacob (AS), the voice of David (AS), the asceticism of John (AS), and the generosity of Jesus (AS).\" Imam Sadiq (AS) also narrated, \"When the Prophet (PBUH) was born, the palaces of Persia and the castles of Syria were illuminated for Amina by a light that shone.\"\n\nAccording to the majority of Shia scholars, Muhammad (PBUH) was born on Friday, the 17th of Rabi' al-Awwal in the Year of the Elephant (the year when the army of Abraha, accompanied by elephants, came to destroy the Kaaba), which corresponds to 570 AD in Mecca. The Prophet (PBUH) is reported to have said, \"I am the result of my father Abraham's (AS) prayer and the one whose coming Jesus (AS) gave glad tidings of.\"\n\nThe birth of the Prophet (PBUH) brought about remarkable changes across the world, unprecedented before. Imam Sadiq (AS) narrated, \"At the time of the Prophet's birth, the arches of the palace of Khosrow in Ctesiphon trembled and several of its spires fell. The fire temple of Persia, which had been burning for a thousand years, was extinguished. The lake of Sawa dried up. Idols fell on their faces. No king remained whose crown did not topple, and on that day, their tongues were silenced. The magic of magicians was nullified and soothsayers lost their knowledge. With the birth of Jesus (AS), demons were barred from three heavens, and with the birth of the Prophet (PBUH), they were banned from all seven heavens. On that night, a light emerged from the land of Hijaz that spread to the East.\"\n\nAccording to popular reports, the Prophet (PBUH) was born in a house in the Sha'b of Abi Talib, which became known as \"Mawlid al-Nabi,\" the birthplace of the Prophet. When the Prophet (PBUH) migrated to Medina, this house was in the possession of Aqil, the son of Abu Talib, and later belonged to his descendants. Eventually, Khayzuran, the wife of Harun al-Rashid, purchased it. Muslims revered this place, especially holding ceremonies there on the night of the Prophet's birth. Despite historical challenges and changes, the birthplace of the Prophet continued to function as a small mosque for centuries and was maintained and renovated over the years. Reports from the sixth century onwards indicate that a marble monument adorned the site where the Prophet (PBUH) was born, and in the reconstruction in 1009 AH, a large dome and minaret were added to the mosque.\n\nMany historians, in their travels to Mecca, have described this place in detail in their travelogues, portraying it as a magnificent mosque that \"opens on Mondays in the month of Rabi' al-Awwal, the month of the Prophet's birth, and people flock there to gain blessings, creating a scene of resurrection in Mecca on that day.\" The mosque is described as a square structure with two arches and a high dome, with its interior decorated with a valuable carpet, a pulpit covered with silk fabrics, and a gilded door.\n\nIn 1343 AH (1924 AD), the birthplace of the Prophet was demolished, but due to the insistence of the then mayor of Mecca, it was decided to build a library there, now known as \"Maktabat Makkah al-Mukarramah.\" This site is located near the Masjid al-Haram at the end of Bab al-Safa and is paved with stone leading to the Mas'a. The library houses a vast collection of manuscripts, rare local and Islamic newspapers, and publications. This building is the only structure remaining in the open space behind the Mas'a, facing Mount Abu Qubais. Many scholars and prominent figures of Mecca have donated their books to this library, which are kept in specific sections named after them. A book has also been published about this library and its history. This book contains a painted picture of the old building of Mawlid al-Nabi, which appears to be unique, and unfortunately, apart from that, no photographs of the ancient structure of the Prophet's birthplace are available.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.424909994861,
+      "longitude": 39.829816664392,
+      "priority": 20
+    },
+    {
+      "id": 415,
+      "name": {
+        "en": "Al-Mustajar",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Al-Mustajar (Arabic: المستجار) is a part of the western wall of the Ka'ba, approximately 2 meters in length, located between the al-Rukn al-Yamani and the second door of the Ka'ba, which was sealed during the time of al-Hajjaj b. Yusuf al-Thaqafi. This section is at the back of the Ka'ba, directly opposite the current door of the Ka'ba.\nThe meaning of the word al-mustajar is 'refuge' or 'sanctuary.' This place is known for the acceptance of repentance and is recommended for supplication and prayer.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.423827768208,
+      "longitude": 39.825316789379,
+      "priority": 21
+    },
+    {
+      "id": 405,
+      "name": {
+        "en": "Lady Khadija's House",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Lady Khadija's House, (Arabic: دار السيدة خديجة, Dār al-Sayyida Khadīja), in Mecca, was the house where the Prophet(s) lived after marrying Lady Khadija until he migrated to Medina. This house was the birthplace of Lady Fatima(a) and other children of Khadija, and many Meccan verses of the Quran were also revealed to the Prophet(s) in that house, and also Khadija died in this house. Since the 6th/12th century, this place has been also known in sources as Lady Fatima's birthplace. Since then, there has been two domes in this house. One was called Qubbat al-Wahy and it was built on a room that was considered the place of worship of the Prophet(s) and the place where Gabriel descended on the Prophet. The other dome was built over a room that was said to be Lady Fatima's birthplace.\nIn the 14th/20th century, after House of Saud conquered Mecca, this house was destroyed and later a building for teaching the Quran was built in its place. During the demolition and excavation of this place to develop al-Masjid al-Haram in 1410/1989, the remains of the old building of Khadija's house were found under the soil. This place has disappeared today and its location is in the area of al-Masjid al-Haram.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.423898023823,
+      "longitude": 39.82533763658,
+      "priority": 22
+    },
+    {
+      "id": 409,
+      "name": {
+        "en": "Safa and Marwah",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Safa and Marwah are two small hills located on the eastern side of Masjid al-Haram. The distance between these two hills is called Mas'a, which is the place where one of the rites of Hajj and Umrah, known as Sa'i between Safa and Marwah, is performed.\nAccording to historical narrations, Hagar (Hājar), the wife of Prophet Abraham (Ibrāhīm), ran between these two hills in search of water for her son Ishmael (Ismā'īl).\nMount Safa was also the starting point of the public call to Islam by Prophet Muhammad (PBUH). On the day of the conquest of Mecca, the Prophet ascended this hill and announced the good news of the Muslims' victory to the people.\nThe names of these two hills are mentioned in the Qur'an, and Islamic narrations emphasize their significance as one of the symbols (Sha‘ā'ir) of Islam, and the great reward for performing Sa'i between them.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.422162884464,
+      "longitude": 39.827570701274,
+      "priority": 22
+    },
+    {
+      "id": 400,
+      "name": {
+        "en": "Masjid al-Jinn",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Masjid al-Jinn, also known as Masjid al-Haras, is one of the ancient mosques in Mecca, located near the Al-Hajun cemetery. It is famously believed that Surah Al-Jinn was revealed to the Prophet Muhammad (PBUH) at this location, or that the Prophet (PBUH) met with the jinn in this mosque. The exact date of the mosque's original construction is unknown, but since the 2nd century AH, it has been known by this name and has undergone multiple repairs and renovations over the years.\nIn its latest renovation under the Saudi government, the mosque was adorned with a golden dome and a large minaret.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.433572158861,
+      "longitude": 39.828945677239,
+      "priority": 23
+    },
+    {
+      "id": 391,
+      "name": {
+        "en": "Wadi Muhassir",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Wadi Muhassir is a region located between Muzdalifah and Mina, through which pilgrims pass during Hajj rituals. Muslim jurists have differed on whether this area is part of Mina or an independent region, but they all agree that offering a sacrifice there is valid, just like in Mina.\nOne of the rulings regarding Wadi Muhassir is that it is forbidden to pass through it before sunrise. This rule specifically applies to those who leave Muzdalifah heading to Mina on the morning of Eid al-Adha. It is also recommended for pilgrims to pass through this valley while hastening their pace.\nThere are signboards marking the boundaries of Wadi Muhassir, and its distance to Masjid al-Haram is 11 kilometers.\nAccording to Shiite and Sunni jurists, Wadi Muhassir lies outside both Mina and Muzdalifah, and these three areas follow consecutively in order: \"Mina\", \"Muhassir\", and \"Muzdalifah\".\nHowever, some jurists from both sects, based on certain narrations, consider Wadi Muhassir as part of Mina.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.401301470854,
+      "longitude": 39.89993900246,
+      "priority": 24
+    },
+    {
+      "id": 365,
+      "name": {
+        "en": "Al-Mash'ar",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Al-Mashʿar (Arabic: المشعر), also known as al-Mashʿar al-Ḥarām (المشعر الحرام) or Muzdalifa (Arabic: مزدلفة) is a region between 'Arafat and Mina which has a length of about four km and staying there on the morning of Eid al-Adha is one of the essentials of hajj. Most hajj pilgrims collect stones for ramy al-jamarat from this place.\nGathering of hajis in Muzdalifa and around its mosque\nThis land which is located inside the Haram is a small valley between 'Arafat and Mina with the size of about four km. There is a large mosque in this area called Muzdalifa Mosque. The primary size of this mosque has been 1700 square meters,[1] which reached 4000 square meters at the time of Abbasids. That time, the mosque did not have a roof and there was only a fence around it. After many times of reconstruction and expansion, now its rectangular size is about 6000 square meters.\nIn verses 198 and 199 of Sura al-Baqara, the name of Muzdalifa is mentioned as al-Mash'ar al-Haram and people have been asked to remember God in this place.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.3931593159,
+      "longitude": 39.937477592602,
+      "priority": 25
+    },
+    {
+      "id": 362,
+      "name": {
+        "en": "Mina",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Mina (Arabic: مِنَیٰ) is a plain located between the holy city of Mecca and al-Mash'ar al-Haram which is a part of Haram. From the morning of Eid al-Adha to two days later, pilgrims of hajj perform some rituals of hajj in this land. These rituals are: ramy al-jamarat, sacrificing, halq or taqsir, baytuta (stay at night) in Mina.\nVarious reasons have been reported for naming Mina (lit. wish). According to a report from Imam al-Rida (a), its name was taken from a phrase that the archangel Gabriel told Prophet Ibrahim (a): \"Wish whatever you want from your Lord!\" Ibrahim (a) asked God to send down a ram to be sacrificed instead of his son, Isma'il (a), and God fulfilled his wish.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.414588258565,
+      "longitude": 39.894795419578,
+      "priority": 26
+    },
+    {
+      "id": 356,
+      "name": {
+        "en": "Ramy al-Jamarat",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Ramy al-Jamarāt (Arabic: رمي الجمرات) (Throwing pebbles) is one of the compulsory acts of Hajj rituals and it consists of throwing seven pebbles at three walls (formerly obelisks) that symbolize Satan. The act is performed on the day of Eid al-Adha and the next two days in Mina. Ramy al-Jamarat is a symbolic emulation of the Prophet Ibrahim's act.\nJamara (pl. Jamarat and Jimar) is an Arabic word meaning: A piece of blazing fire, pebbles etc. In Islamic terminology, Jamarat or al-Jamart al-Thalath (three) are the name of three certain places in Mina. Jamarat are known by three obelisks (currently walls). They are called Jamarat because they are the place where thrown pebbles pile up or because the pebbles are thrown at them or because people gather around them. In addition, Ramy means to throw or to hurl.\nIt is discussed in jurisprudential texts that if Jamara means the standing pillar, the pebbles must hit the pillar; but if it means the place where the pebbles are piled at the bottom of the pillar, hitting the pillars is not necessary.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.420468534096,
+      "longitude": 39.870551226559,
+      "priority": 27
+    },
+    {
+      "id": 352,
+      "name": {
+        "en": "Al-Khayf Mosque",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Al-Khayf Mosque (Arabic:مسجد الخيف) is the most important mosque in the land of Mina in Mecca where the Prophet (s) performed prayer and delivered one of the speeches of Hajjat al-Wada' there. The name of this mosque has also been mentioned in al-Simat supplication. Today, this mosque which has been reconstructed in twenty five thousand square meter is open to those who make prayer only during the time of hajj.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.417613220101,
+      "longitude": 39.878448935407,
+      "priority": 28
+    },
+    {
+      "id": 346,
+      "name": {
+        "en": "Mount Noor Cave Hira",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Ḥirāʾ (Arabic: حراء) is one of the famous mountains in Mecca where the Prophet (s) has received his first revelation, resulting it's another name Jabal al-Nūr (the Light Mount). The mountain houses a cave known as cave of Hira' where the Prophet (s) used to spent great deal of time every year to engage himself in solitary worshiping before Islam (tahannuth) and it was there that he was honored with prophethood.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.458172409655,
+      "longitude": 39.859706662392,
+      "priority": 29
+    },
+    {
+      "id": 341,
+      "name": {
+        "en": "Mount Thawr",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Mount Thawr (Arabic: جبل ثور) is a famous mountain in Mecca. The fame of this mountain is because of the cave where the prophet (s) at the beginning of Hijra (the Immigration) in Laylat al-Mabit sought shelter there from the polytheists. Polytheists went to the door of the cave, but thanks to the divine assistance, they could not find the Prophet (s).",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.372822252137,
+      "longitude": 39.855523140272,
+      "priority": 30
+    },
+    {
+      "id": 337,
+      "name": {
+        "en": "Dhi Tuwa",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Dhī Ṭuwā (Arabic: ذي طُوی) is a place in Mecca within the limits of the haram. According to some Shiite hadiths, it is the place where Imam al-Mahdi (a) lives during his Occultation and the place from which he will reappear before his uprising.\nAccording to a hadith, before Imam al-Mahdi (a) begins his uprising from the Ka'ba, he will wait for his 313 companions in Dhi Tuwa. The place is mentioned in the Supplication of Nudba:\n\"I wish I knew where you are settled? and in which land to look for you? are you in Radwa? Or in some place else, or in Dhi Tuwa?\"\nDhi Tuwa was located one parasang away from Mecca. Today, it is located on the way to Tan'im within Mecca. It is said that Prophet Muhammad (s) spent the eve of the Conquest of Mecca in this area. A mosque was later built where the Prophet (s) had camped, but it was destroyed because of the expansion of Tan'im street. It is located on the north of Masjid al-Haram. Tuwa water well (bi'r Tuwa) is a well-known place in the area. It is said that the Prophet (s) performed a wudu' with the water of this well.",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.431738624078,
+      "longitude": 39.816602960543,
+      "priority": 31
+    },
+    {
+      "id": 385,
+      "name": {
+        "en": "Masjid al-Bay'ah (Mecca)",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Masjid al-Bay'ah (Bay'ah Mosque) is an ancient mosque in the city of Mecca, dating back to the 2nd century AH. This mosque is located near Jamarat al-Aqaba and outside the legal boundary of Mina. It is the place where the people of Yathrib pledged allegiance to the Prophet (s).\nAccording to an inscription on the western wall of Masjid al-Bay'ah, the mosque was built in 144 AH/761-2 by the order of Mansur Abbasi and was later renovated several times.\nWhen the people of Yathrib (Medina) became acquainted with Islam, during the days of Hajj, at the Jamarat al-Aqabah, they pledged allegiance to the prophet(s) for the first time. After that, Islam spread in Medina. At the site of this event, which is known as the First Pledge of Aqabah, a mosque was built that became famous as \"Masjid al-Bay'ah\" (Mosque of the Pledge).In sources, other mosques are also referred to by the name Masjid al-Bay'ah:\nMasjid al-Ghanam, a mosque in Mecca, which was the place where the people of Mecca pledged allegiance to the Prophet (s).\nMasjid al-Jinn, a mosque in Mecca, which is the place where the jinn pledged allegiance to the Prophet (s).",
+        "ar": "",
+        "fa": ""
+      },
+      "cityId": 1,
+      "latitude": 21.424775119225,
+      "longitude": 39.867507288296,
+      "priority": 33
+    }
+  ],
+  "duaPlaceMappings": [
+    {
+      "dua_id": 1284,
+      "holy_place_id": 24
+    },
+    {
+      "dua_id": 1232,
+      "holy_place_id": 24
+    },
+    {
+      "dua_id": 1234,
+      "holy_place_id": 24
+    },
+    {
+      "dua_id": 1253,
+      "holy_place_id": 24
+    },
+    {
+      "dua_id": 1235,
+      "holy_place_id": 25
+    },
+    {
+      "dua_id": 1264,
+      "holy_place_id": 25
+    },
+    {
+      "dua_id": 1237,
+      "holy_place_id": 25
+    },
+    {
+      "dua_id": 1236,
+      "holy_place_id": 25
+    },
+    {
+      "dua_id": 1238,
+      "holy_place_id": 25
+    },
+    {
+      "dua_id": 1262,
+      "holy_place_id": 41
+    },
+    {
+      "dua_id": 1258,
+      "holy_place_id": 41
+    },
+    {
+      "dua_id": 1287,
+      "holy_place_id": 61
+    },
+    {
+      "dua_id": 1234,
+      "holy_place_id": 103
+    },
+    {
+      "dua_id": 1168,
+      "holy_place_id": 103
+    },
+    {
+      "dua_id": 1233,
+      "holy_place_id": 103
+    },
+    {
+      "dua_id": 1230,
+      "holy_place_id": 103
+    },
+    {
+      "dua_id": 1231,
+      "holy_place_id": 103
+    },
+    {
+      "dua_id": 1233,
+      "holy_place_id": 117
+    },
+    {
+      "dua_id": 1230,
+      "holy_place_id": 125
+    },
+    {
+      "dua_id": 1231,
+      "holy_place_id": 125
+    },
+    {
+      "dua_id": 1299,
+      "holy_place_id": 147
+    },
+    {
+      "dua_id": 1268,
+      "holy_place_id": 169
+    },
+    {
+      "dua_id": 1349,
+      "holy_place_id": 169
+    },
+    {
+      "dua_id": 1276,
+      "holy_place_id": 174
+    },
+    {
+      "dua_id": 1258,
+      "holy_place_id": 174
+    },
+    {
+      "dua_id": 1277,
+      "holy_place_id": 192
+    },
+    {
+      "dua_id": 1274,
+      "holy_place_id": 197
+    },
+    {
+      "dua_id": 1233,
+      "holy_place_id": 197
+    },
+    {
+      "dua_id": 1042,
+      "holy_place_id": 451
+    },
+    {
+      "dua_id": 1265,
+      "holy_place_id": 478
+    },
+    {
+      "dua_id": 1230,
+      "holy_place_id": 478
+    },
+    {
+      "dua_id": 1233,
+      "holy_place_id": 478
+    },
+    {
+      "dua_id": 1240,
+      "holy_place_id": 485
+    },
+    {
+      "dua_id": 1174,
+      "holy_place_id": 485
+    },
+    {
+      "dua_id": 1230,
+      "holy_place_id": 485
+    },
+    {
+      "dua_id": 1231,
+      "holy_place_id": 485
+    },
+    {
+      "dua_id": 991,
+      "holy_place_id": 489
+    },
+    {
+      "dua_id": 1246,
+      "holy_place_id": 489
+    },
+    {
+      "dua_id": 1255,
+      "holy_place_id": 489
+    },
+    {
+      "dua_id": 1233,
+      "holy_place_id": 489
+    },
+    {
+      "dua_id": 1230,
+      "holy_place_id": 489
+    },
+    {
+      "dua_id": 1231,
+      "holy_place_id": 489
+    },
+    {
+      "dua_id": 1244,
+      "holy_place_id": 495
+    },
+    {
+      "dua_id": 1230,
+      "holy_place_id": 495
+    },
+    {
+      "dua_id": 1231,
+      "holy_place_id": 495
+    },
+    {
+      "dua_id": 1233,
+      "holy_place_id": 495
+    },
+    {
+      "dua_id": 1230,
+      "holy_place_id": 505
+    },
+    {
+      "dua_id": 1231,
+      "holy_place_id": 505
+    },
+    {
+      "dua_id": 1243,
+      "holy_place_id": 505
+    },
+    {
+      "dua_id": 1242,
+      "holy_place_id": 505
+    },
+    {
+      "dua_id": 1284,
+      "holy_place_id": 519
+    },
+    {
+      "dua_id": 1233,
+      "holy_place_id": 519
+    },
+    {
+      "dua_id": 1230,
+      "holy_place_id": 519
+    },
+    {
+      "dua_id": 1231,
+      "holy_place_id": 519
+    },
+    {
+      "dua_id": 1231,
+      "holy_place_id": 526
+    },
+    {
+      "dua_id": 1233,
+      "holy_place_id": 526
+    },
+    {
+      "dua_id": 1279,
+      "holy_place_id": 526
+    },
+    {
+      "dua_id": 1152,
+      "holy_place_id": 526
+    },
+    {
+      "dua_id": 1283,
+      "holy_place_id": 526
+    },
+    {
+      "dua_id": 1282,
+      "holy_place_id": 526
+    },
+    {
+      "dua_id": 1280,
+      "holy_place_id": 526
+    },
+    {
+      "dua_id": 1239,
+      "holy_place_id": 529
+    },
+    {
+      "dua_id": 1173,
+      "holy_place_id": 529
+    },
+    {
+      "dua_id": 1230,
+      "holy_place_id": 529
+    },
+    {
+      "dua_id": 1231,
+      "holy_place_id": 529
+    },
+    {
+      "dua_id": 1233,
+      "holy_place_id": 529
+    }
+  ],
+  "hajjAmaals": [
+    {
+      "id": 1,
+      "type": "TAMATOU",
+      "title": {
+        "en": "Umrah Tamattu",
+        "ar": "",
+        "fa": ""
+      },
+      "subtitle": {
+        "en": " which is done after the Sa’i between Safa and Marwah.",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Taqsir means trimming a small amount of hair and nails",
+        "ar": "",
+        "fa": ""
+      },
+      "priority": 5
+    },
+    {
+      "id": 6,
+      "type": "MOFRATHE",
+      "title": {
+        "en": "Umrah Mofradah",
+        "ar": "",
+        "fa": ""
+      },
+      "subtitle": {
+        "en": "Tawaf al-Nisa",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Tawaf al-Nisa’ is the act of circling the Kaaba seven times with the intention of Tawaf al-Nisa’. It is performed after Taqsir (trimming the hair) or Halq (shaving the head).",
+        "ar": "",
+        "fa": ""
+      },
+      "priority": 6
+    },
+    {
+      "id": 2,
+      "type": "TAMATOU",
+      "title": {
+        "en": "Hajj Tamattu",
+        "ar": "",
+        "fa": ""
+      },
+      "subtitle": {
+        "en": " which is the time for the Maghrib prayer",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "It means staying in the plain of Arafat. Its time is from noon on the ninth of Dhu al-Hijjah (the Day of Arafah) until the lawful sunset",
+        "ar": "",
+        "fa": ""
+      },
+      "priority": 7
+    },
+    {
+      "id": 3,
+      "type": "TAMATOU",
+      "title": {
+        "en": "Hajj Tamattu",
+        "ar": "",
+        "fa": ""
+      },
+      "subtitle": {
+        "en": "10th of Dhu al-Hijjah: Staying in Muzdalifah (Mash'ar)",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "It means staying in Muzdalifah. The time for this act is from the dawn of the tenth of Dhu al-Hijjah (Eid al-Adha) until sunrise.",
+        "ar": "",
+        "fa": ""
+      },
+      "priority": 8
+    },
+    {
+      "id": 4,
+      "type": "TAMATOU",
+      "title": {
+        "en": "Hajj Tamattu",
+        "ar": "",
+        "fa": ""
+      },
+      "subtitle": {
+        "en": " one must keep the Kaaba to their left side at all times.",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "Tawaf is the act of circumambulating the Kaaba seven times in Masjid al-Haram.    It is obligatory that the seven rounds begin and end at the corner of the Kaaba where the Black Stone (Hajar al-Aswad) is located. While performing Tawaf",
+        "ar": "",
+        "fa": ""
+      },
+      "priority": 12
+    },
+    {
+      "id": 5,
+      "type": "TAMATOU",
+      "title": {
+        "en": "Hajj Tamattu",
+        "ar": "",
+        "fa": ""
+      },
+      "subtitle": {
+        "en": " and it must be performed with the intention of Tawaf al-Nisa’.",
+        "ar": "",
+        "fa": ""
+      },
+      "description": {
+        "en": "The prayer is performed behind Maqam Ibrahim (a). The prayer of Tawaf al-Nisa’ is like the prayer of Tawaf",
+        "ar": "",
+        "fa": ""
+      },
+      "priority": 16
+    }
+  ]
+}
