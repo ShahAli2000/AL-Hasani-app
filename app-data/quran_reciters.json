@@ -1,0 +1,258 @@
+[
+  {
+    "id": "Alafasy_128kbps",
+    "name": "Mishary Rashid Alafasy",
+    "nameAr": "مشاري راشد العفاسي",
+    "nameFa": "مشاری راشد العفاسی"
+  },
+  {
+    "id": "Husary_128kbps",
+    "name": "Mahmoud Khalil Al-Husary",
+    "nameAr": "محمود خليل الحصري",
+    "nameFa": "محمود خلیل الحصری"
+  },
+  {
+    "id": "Minshawi_Murattal_128kbps",
+    "name": "Mohamed Siddiq Al-Minshawi",
+    "nameAr": "محمد صديق المنشاوي",
+    "nameFa": "محمد صدیق المنشاوی"
+  },
+  {
+    "id": "Abdul_Basit_Murattal_192kbps",
+    "name": "Abdul Basit Abdul Samad",
+    "nameAr": "عبد الباسط عبد الصمد",
+    "nameFa": "عبدالباسط عبدالصمد"
+  },
+  {
+    "id": "Abdurrahman_as-Sudais_192kbps",
+    "name": "Abdurrahman As-Sudais",
+    "nameAr": "عبد الرحمن السديس",
+    "nameFa": "عبدالرحمن السدیس"
+  },
+  {
+    "id": "Saood_ash-Shuraym_128kbps",
+    "name": "Saud Ash-Shuraim",
+    "nameAr": "سعود الشريم",
+    "nameFa": "سعود الشریم"
+  },
+  {
+    "id": "Hani_Rifai_192kbps",
+    "name": "Hani Ar-Rifai",
+    "nameAr": "هاني الرفاعي",
+    "nameFa": "هانی الرفاعی"
+  },
+  {
+    "id": "Abu_Bakr_Ash-Shaatree_128kbps",
+    "name": "Abu Bakr Ash-Shatri",
+    "nameAr": "أبو بكر الشاطري",
+    "nameFa": "ابوبکر الشاطری"
+  },
+  {
+    "id": "MaherAlMuworkeaqly128kbps",
+    "name": "Maher Al-Muaiqly",
+    "nameAr": "ماهر المعيقلي",
+    "nameFa": "ماهر المعیقلی"
+  },
+  {
+    "id": "Parhizgar_48kbps",
+    "name": "Shahriar Parhizgar",
+    "nameAr": "شهريار بارهيزقار",
+    "nameFa": "شهریار پرهیزگار"
+  },
+  {
+    "id": "Ibrahim_Akhdar_32kbps",
+    "name": "Ibrahim Al-Akhdar",
+    "nameAr": "إبراهيم الأخضر",
+    "nameFa": "ابراهیم الاخضر"
+  },
+  {
+    "id": "Ahmed_ibn_Ali_al-Ajamy_128kbps_ketaballah.net",
+    "name": "Ahmed Al-Ajamy",
+    "nameAr": "أحمد العجمي",
+    "nameFa": "احمد العجمی"
+  },
+  {
+    "id": "al-minshawi",
+    "name": "Al-Minshawi",
+    "nameAr": "محمد المنشاوی",
+    "nameFa": "محمد منشاوی",
+    "directoryName": "/Menshawi_16kbps",
+    "baseUrl": "https://s3-islam-quran-data.s3.eu-west-2.amazonaws.com/Menshawi_16kbps/"
+  },
+  {
+    "id": "saad-al-ghamdi",
+    "name": "Saad Al-Ghamdi",
+    "nameAr": "سعد الغامدی",
+    "nameFa": "سعد الغامدی",
+    "directoryName": "/Ghamadi_40kbps",
+    "baseUrl": "https://s3-islam-quran-data.s3.eu-west-2.amazonaws.com/Ghamadi_40kbps/"
+  },
+  {
+    "id": "sheikh-al-shatri",
+    "name": "Sheikh Al-Shatri",
+    "nameAr": "شیخ الشاطری",
+    "nameFa": "شیخ شاطری",
+    "directoryName": "/Abu%20Bakr%20Ash-Shaatree_128kbps",
+    "baseUrl": "https://s3-islam-quran-data.s3.eu-west-2.amazonaws.com/Abu_Bakr_Ash-Shaatree_64kbps/"
+  },
+  {
+    "id": "rashed-al-afasy",
+    "name": "Rashed Al-Afasy",
+    "nameAr": "راشد العفاسی",
+    "nameFa": "راشد العفاسی",
+    "directoryName": "/Alafasy_64kbps",
+    "baseUrl": "https://s3-islam-quran-data.s3.eu-west-2.amazonaws.com/Alafasy_64kbps/"
+  },
+  {
+    "id": "saud-shuraim",
+    "name": "Saud Shuraim",
+    "nameAr": "سعود الشریم",
+    "nameFa": "سعود الشریم",
+    "directoryName": "/Abu_Bakr_Ash-Shaatree_64kbps",
+    "baseUrl": "https://s3-islam-quran-data.s3.eu-west-2.amazonaws.com/Abu_Bakr_Ash-Shaatree_64kbps/"
+  },
+  {
+    "id": "mohammad-ayyub",
+    "name": "Mohammad Ayyub",
+    "nameAr": "محمد الایوب",
+    "nameFa": "محمد الایوب",
+    "directoryName": "/Muhammad_Ayyoub_64kbps",
+    "baseUrl": "https://s3-islam-quran-data.s3.eu-west-2.amazonaws.com/Muhammad_Ayyoub_64kbps/"
+  },
+  {
+    "id": "ahmad-ajmy",
+    "name": "Ahmad Ajmy",
+    "nameAr": "احمد العجمی",
+    "nameFa": "احمد العجمی",
+    "directoryName": "/Ahmed_ibn_Ali_al-Ajamy_64kbps_QuranExplorer.Com",
+    "baseUrl": "https://s3-islam-quran-data.s3.eu-west-2.amazonaws.com/Ahmed_ibn_Ali_al-Ajamy_64kbps_QuranExplorer.Com/"
+  },
+  {
+    "id": "ali-al-hudhaifi",
+    "name": "Ali Al-Hudhaifi",
+    "nameAr": "علی الحذیفی",
+    "nameFa": "علی الحذیفی",
+    "directoryName": "/Hudhaify_64kbps",
+    "baseUrl": "https://s3-islam-quran-data.s3.eu-west-2.amazonaws.com/Hudhaify_64kbps/"
+  },
+  {
+    "id": "abdulbasit",
+    "name": "Abdulbasit",
+    "nameAr": "عبدالباسط",
+    "nameFa": "عبدالباسط",
+    "directoryName": "/AbdulSamad_64kbps_QuranExplorer.Com",
+    "baseUrl": "https://s3-islam-quran-data.s3.eu-west-2.amazonaws.com/AbdulSamad_64kbps_QuranExplorer.Com/"
+  },
+  {
+    "id": "sheikh-al-husary",
+    "name": "Sheikh Al-Husary",
+    "nameAr": "شیخ الحصری",
+    "nameFa": "شیخ الحصری",
+    "directoryName": "/Husary_64kbps",
+    "baseUrl": "https://s3-islam-quran-data.s3.eu-west-2.amazonaws.com/Husary_64kbps/"
+  },
+  {
+    "id": "abdullah-basfar",
+    "name": "Abdullah Basfar",
+    "nameAr": "عبدالله بصفر",
+    "nameFa": "عبدالله بصفر",
+    "directoryName": "/Abdullah_Basfar_64kbps",
+    "baseUrl": "https://s3-islam-quran-data.s3.eu-west-2.amazonaws.com/Abdullah_Basfar_64kbps/"
+  },
+  {
+    "id": "abdul-rahman-al-sudais",
+    "name": "Abdul Rahman Al-Sudais",
+    "nameAr": "عبدالرحمن السدیس",
+    "nameFa": "عبدالرحمن السدیس",
+    "directoryName": "/Abdurrahmaan_As-Sudais_64kbps",
+    "baseUrl": "https://s3-islam-quran-data.s3.eu-west-2.amazonaws.com/Abdurrahmaan_As-Sudais_64kbps/"
+  },
+  {
+    "id": "maher-muaiqly",
+    "name": "Maher Muaiqly",
+    "nameAr": "ماهر المعیقلی",
+    "nameFa": "ماهر المعیقلی",
+    "directoryName": "/Maher_AlMuaiqly_64kbps",
+    "baseUrl": "https://s3-islam-quran-data.s3.eu-west-2.amazonaws.com/Maher_AlMuaiqly_64kbps/"
+  },
+  {
+    "id": "mohammad-tablawi",
+    "name": "Mohammad Tablawi",
+    "nameAr": "محمد الطبلاوی",
+    "nameFa": "محمد الطبلاوی",
+    "directoryName": "/Mohammad_al_Tablaway_64kbps",
+    "baseUrl": "https://s3-islam-quran-data.s3.eu-west-2.amazonaws.com/Mohammad_al_Tablaway_64kbps/"
+  },
+  {
+    "id": "hani-refai",
+    "name": "Hani Refai",
+    "nameAr": "هانی الرفاعی",
+    "nameFa": "هانی الرفاعی",
+    "directoryName": "/Hani_Rifai_64kbps",
+    "baseUrl": "https://s3-islam-quran-data.s3.eu-west-2.amazonaws.com/Hani_Rifai_64kbps/"
+  },
+  {
+    "id": "shariar-pargizgar",
+    "name": "shariar pargizgar",
+    "nameAr": "شهریار پرهیزکار",
+    "nameFa": "شهریار پرهیزگار",
+    "directoryName": "/Parhizgar_48kbps",
+    "baseUrl": "https://s3-islam-quran-data.s3.eu-west-2.amazonaws.com/Parhizgar_48kbps/"
+  },
+  {
+    "id": "karim-mansoori",
+    "name": "Karim Mansoori",
+    "nameAr": "کریم منصوری",
+    "nameFa": "کریم منصوری",
+    "directoryName": "/Karim_Mansoori_40kbps",
+    "baseUrl": "https://s3-islam-quran-data.s3.eu-west-2.amazonaws.com/Karim_Mansoori_40kbps/"
+  },
+  {
+    "id": "khalefa-tunaiji",
+    "name": "khalefa Tunaiji",
+    "nameAr": "خلیفه الطنیجی",
+    "nameFa": "خلیفه الطنیجی",
+    "directoryName": "/khalefa_al_tunaiji_64kbps",
+    "baseUrl": "https://s3-islam-quran-data.s3.eu-west-2.amazonaws.com/khalefa_al_tunaiji_64kbps/"
+  },
+  {
+    "id": "ali-qarai-english",
+    "name": "Ali Qarai (English)",
+    "nameAr": "علی قرائی انجلیزی",
+    "nameFa": "علی قرائی (انگلیسی)",
+    "directoryName": "/qarai",
+    "baseUrl": "https://s3-islam-quran-data.s3.eu-west-2.amazonaws.com/qarai/"
+  },
+  {
+    "id": "ibrahim-walk-english",
+    "name": "Ibrahim Walk (English)",
+    "nameAr": "ابراهیم واک انجلیزی",
+    "nameFa": "ابراهیم واک (انگلیسی)",
+    "directoryName": "/Ibrahim_Walk_192kbps_TEST",
+    "baseUrl": "https://s3-islam-quran-data.s3.eu-west-2.amazonaws.com/Ibrahim_Walk_192kbps_TEST/"
+  },
+  {
+    "id": "makarem-persian",
+    "name": "Makarem (Persian)",
+    "nameAr": "مکارم شیرازی الفارسیه",
+    "nameFa": "آیت الله مکارم (فارسی)",
+    "directoryName": "/Makarem_Kabiri_16Kbps",
+    "baseUrl": "https://s3-islam-quran-data.s3.eu-west-2.amazonaws.com/Makarem_Kabiri_16Kbps/"
+  },
+  {
+    "id": "shamshad-ali-urdu",
+    "name": "Shamshad Ali (Urdu)",
+    "nameAr": "شمشاد علی خان",
+    "nameFa": "شمشاد علی (اردو)",
+    "directoryName": "/urdu_shamshad_ali_khan_46kbps",
+    "baseUrl": "https://s3-islam-quran-data.s3.eu-west-2.amazonaws.com/urdu_shamshad_ali_khan_46kbps/"
+  },
+  {
+    "id": "motaz-aghaei",
+    "name": "motaz aghaei",
+    "nameAr": "معتز اقائی",
+    "nameFa": "معتز اقائی",
+    "directoryName": "/MotazAghaei",
+    "baseUrl": "https://s3-islam-quran-data.s3.eu-west-2.amazonaws.com/MotazAghaei/"
+  }
+]
