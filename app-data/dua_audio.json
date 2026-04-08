@@ -1,68 +1,27 @@
 {
   "dua-kumayl": {
-    "ali-fani": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/ali-fani/dua-kumayl.mp3",
-    "abather-halwachi": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/abather-halwachi/dua-kumayl.mp3",
-    "sipah-masoomeen": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/sipah-masoomeen/dua-kumayl.mp3"
+    "ali-fani": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/ali-fani/dua-kumayl.mp3"
   },
   "dua-tawassul": {
-    "ali-fani": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/ali-fani/dua-tawassul.mp3",
-    "abather-halwachi": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/abather-halwachi/dua-tawassul.mp3",
-    "sipah-masoomeen": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/sipah-masoomeen/dua-tawassul.mp3"
+    "ali-fani": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/ali-fani/dua-tawassul.mp3"
   },
   "dua-ahad": {
-    "ali-fani": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/ali-fani/dua-ahad.mp3",
-    "sipah-masoomeen": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/sipah-masoomeen/dua-ahad.mp3"
-  },
-  "dua-sabah": {
-    "abather-halwachi": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/abather-halwachi/dua-sabah.mp3",
-    "sipah-masoomeen": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/sipah-masoomeen/dua-sabah.mp3"
-  },
-  "dua-simaat": {
-    "abather-halwachi": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/abather-halwachi/dua-simaat.mp3",
-    "sipah-masoomeen": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/sipah-masoomeen/dua-simaat.mp3"
-  },
-  "dua-nudba": {
-    "abather-halwachi": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/abather-halwachi/dua-nudba.mp3",
-    "sipah-masoomeen": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/sipah-masoomeen/dua-nudba.mp3"
+    "ali-fani": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/ali-fani/dua-ahad.mp3"
   },
   "dua-faraj": {
-    "ali-fani": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/ali-fani/dua-faraj.mp3",
-    "sipah-masoomeen": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/sipah-masoomeen/dua-faraj.mp3"
-  },
-  "dua-mashlool": {
-    "sipah-masoomeen": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/sipah-masoomeen/dua-mashlool.mp3"
-  },
-  "dua-mujeer": {
-    "abather-halwachi": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/abather-halwachi/dua-mujeer.mp3",
-    "sipah-masoomeen": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/sipah-masoomeen/dua-mujeer.mp3"
+    "ali-fani": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/ali-fani/dua-faraj.mp3"
   },
   "dua-iftitah": {
-    "ali-fani": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/ali-fani/dua-iftitah.mp3",
-    "abather-halwachi": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/abather-halwachi/dua-iftitah.mp3",
-    "sipah-masoomeen": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/sipah-masoomeen/dua-iftitah.mp3"
-  },
-  "dua-jawshan-kabeer": {
-    "sipah-masoomeen": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/sipah-masoomeen/dua-jawshan-kabeer.mp3"
-  },
-  "dua-jawshan-sagheer": {
-    "sipah-masoomeen": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/sipah-masoomeen/dua-jawshan-sagheer.mp3"
-  },
-  "dua-abu-hamza-thumali": {
-    "abather-halwachi": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/abather-halwachi/dua-abu-hamza-thumali.mp3"
+    "ali-fani": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/ali-fani/dua-iftitah.mp3"
   },
   "hadith-kisa": {
-    "ali-fani": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/ali-fani/hadith-kisa.mp3",
-    "abather-halwachi": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/abather-halwachi/hadith-kisa.mp3"
+    "ali-fani": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/ali-fani/hadith-kisa.mp3"
   },
   "munajat-imam-ali-as": {
     "ali-fani": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/ali-fani/munajat-imam-ali-as.mp3"
   },
   "dua-alqama": {
-    "ali-fani": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/ali-fani/dua-alqama.mp3",
-    "sipah-masoomeen": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/sipah-masoomeen/dua-alqama.mp3"
-  },
-  "dua-hazeen": {
-    "sipah-masoomeen": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/sipah-masoomeen/dua-hazeen.mp3"
+    "ali-fani": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/ali-fani/dua-alqama.mp3"
   },
   "ziyarat-jamia-kabira": {
     "ali-fani": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/ali-fani/ziyarat-jamia-kabira.mp3"
