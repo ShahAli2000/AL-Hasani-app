@@ -1,0 +1,566 @@
+[
+  {
+    "id": "dua-kumayl",
+    "name": "Dua Kumayl",
+    "category": "major",
+    "segmentCount": 249
+  },
+  {
+    "id": "dua-tawassul",
+    "name": "Dua Tawassul",
+    "category": "major",
+    "segmentCount": 225
+  },
+  {
+    "id": "dua-ahad",
+    "name": "Dua Ahad",
+    "category": "major",
+    "segmentCount": 80
+  },
+  {
+    "id": "dua-sabah",
+    "name": "Dua Sabah",
+    "category": "major",
+    "segmentCount": 111
+  },
+  {
+    "id": "dua-simaat",
+    "name": "Dua Simaat",
+    "category": "major",
+    "segmentCount": 186
+  },
+  {
+    "id": "dua-nudba",
+    "name": "Dua Nudba",
+    "category": "major",
+    "segmentCount": 363
+  },
+  {
+    "id": "dua-faraj",
+    "name": "Dua Faraj",
+    "category": "major",
+    "segmentCount": 49
+  },
+  {
+    "id": "dua-mashlool",
+    "name": "Dua Mashlool",
+    "category": "major",
+    "segmentCount": 261
+  },
+  {
+    "id": "dua-mujeer",
+    "name": "Dua Mujeer",
+    "category": "major",
+    "segmentCount": 277
+  },
+  {
+    "id": "dua-adeelah",
+    "name": "Dua Adeelah",
+    "category": "major",
+    "segmentCount": 134
+  },
+  {
+    "id": "dua-iftitah",
+    "name": "Dua Iftitah",
+    "category": "major",
+    "segmentCount": 236
+  },
+  {
+    "id": "dua-yastasheer",
+    "name": "Dua Yastasheer",
+    "category": "major",
+    "segmentCount": 139
+  },
+  {
+    "id": "dua-jawshan-kabeer",
+    "name": "Dua Jawshan Kabeer",
+    "category": "major",
+    "segmentCount": 1423
+  },
+  {
+    "id": "dua-jawshan-sagheer",
+    "name": "Dua Jawshan Sagheer",
+    "category": "major",
+    "segmentCount": 503
+  },
+  {
+    "id": "dua-abu-hamza-thumali",
+    "name": "Dua Abu Hamza Thumali",
+    "category": "major",
+    "segmentCount": 670
+  },
+  {
+    "id": "hadith-kisa",
+    "name": "Hadith Kisa",
+    "category": "major",
+    "segmentCount": 118
+  },
+  {
+    "id": "dua-alqama",
+    "name": "Dua Alqama",
+    "category": "major",
+    "segmentCount": 191
+  },
+  {
+    "id": "munajat-imam-ali-as",
+    "name": "Munajat Imam Ali (as)",
+    "category": "major",
+    "segmentCount": 104
+  },
+  {
+    "id": "dua-kayfa-adooka",
+    "name": "Dua Kayfa Adooka",
+    "category": "major",
+    "segmentCount": 9
+  },
+  {
+    "id": "dua-akhasi-sifatik",
+    "name": "Dua Akhasi Sifatik",
+    "category": "major",
+    "segmentCount": 17
+  },
+  {
+    "id": "dua-ya-man-adharal-jameel",
+    "name": "Dua Ya Man Adharal Jameel",
+    "category": "major",
+    "segmentCount": 13
+  },
+  {
+    "id": "dua-saif-saghir",
+    "name": "Dua Saif Saghir",
+    "category": "major",
+    "segmentCount": 49
+  },
+  {
+    "id": "dua-aliya-mazameen",
+    "name": "Dua Aliya Mazameen",
+    "category": "major",
+    "segmentCount": 216
+  },
+  {
+    "id": "dua-sad-subhan",
+    "name": "Dua Sad Subhan",
+    "category": "major",
+    "segmentCount": 58
+  },
+  {
+    "id": "dua-noor-kabir",
+    "name": "Dua Noor Kabir",
+    "category": "major",
+    "segmentCount": 201
+  },
+  {
+    "id": "dua-ya-shahida-kulle-najwa",
+    "name": "Dua Ya Shahida Kulle Najwa",
+    "category": "major",
+    "segmentCount": 267
+  },
+  {
+    "id": "dua-asharaat",
+    "name": "Dua Asharaat",
+    "category": "major",
+    "segmentCount": 170
+  },
+  {
+    "id": "dua-man-taabba",
+    "name": "Dua Man Taabba",
+    "category": "major",
+    "segmentCount": 52
+  },
+  {
+    "id": "salwaat-zarrab-isfahani",
+    "name": "Salwaat Zarrab Isfahani",
+    "category": "salawaat",
+    "segmentCount": 167
+  },
+  {
+    "id": "dua-hazeen",
+    "name": "Dua Hazeen",
+    "category": "major",
+    "segmentCount": 30
+  },
+  {
+    "id": "dua-al-itisam",
+    "name": "Dua Al-Itisam",
+    "category": "major",
+    "segmentCount": 39
+  },
+  {
+    "id": "dua-abaraat",
+    "name": "Dua Abaraat",
+    "category": "major",
+    "segmentCount": 227
+  },
+  {
+    "id": "dua-alavi-misri",
+    "name": "Dua Alavi Misri",
+    "category": "major",
+    "segmentCount": 244
+  },
+  {
+    "id": "dua-nahjulbalagha",
+    "name": "Dua Nahjulbalagha",
+    "category": "major",
+    "segmentCount": 43
+  },
+  {
+    "id": "salat-jafar-tayyar",
+    "name": "Salat Jafar Tayyar",
+    "category": "salawaat",
+    "segmentCount": 94
+  },
+  {
+    "id": "dua-sabasab",
+    "name": "Dua Sabasab",
+    "category": "major",
+    "segmentCount": 200
+  },
+  {
+    "id": "dua-hareeq",
+    "name": "Dua Hareeq",
+    "category": "major",
+    "segmentCount": 327
+  },
+  {
+    "id": "dua-ganjularsh",
+    "name": "Dua GanjulArsh",
+    "category": "major",
+    "segmentCount": 104
+  },
+  {
+    "id": "dua-amaan",
+    "name": "Dua Amaan",
+    "category": "major",
+    "segmentCount": 38
+  },
+  {
+    "id": "durood-e-toosi",
+    "name": "Durood-e-Toosi",
+    "category": "salawaat",
+    "segmentCount": 42
+  },
+  {
+    "id": "general-need-duas",
+    "name": "General Need Duas",
+    "category": "special_needs",
+    "segmentCount": 938
+  },
+  {
+    "id": "rizq-sustenance-duas",
+    "name": "Rizq / Sustenance Duas",
+    "category": "special_needs",
+    "segmentCount": 209
+  },
+  {
+    "id": "curing-ailments-duas",
+    "name": "Curing Ailments Duas",
+    "category": "special_needs",
+    "segmentCount": 537
+  },
+  {
+    "id": "overcoming-worries-duas",
+    "name": "Overcoming Worries Duas",
+    "category": "special_needs",
+    "segmentCount": 256
+  },
+  {
+    "id": "grief-fear-duas",
+    "name": "Grief & Fear Duas",
+    "category": "special_needs",
+    "segmentCount": 263
+  },
+  {
+    "id": "seeking-forgiveness-duas",
+    "name": "Seeking Forgiveness Duas",
+    "category": "special_needs",
+    "segmentCount": 57
+  },
+  {
+    "id": "evil-repelling-duas",
+    "name": "Evil Repelling Duas",
+    "category": "special_needs",
+    "segmentCount": 345
+  },
+  {
+    "id": "short-powerful-duas",
+    "name": "Short Powerful Duas",
+    "category": "special_needs",
+    "segmentCount": 81
+  },
+  {
+    "id": "morning-evening-duas",
+    "name": "Morning & Evening Duas",
+    "category": "special_needs",
+    "segmentCount": 345
+  },
+  {
+    "id": "sunset-duas",
+    "name": "Sunset Duas",
+    "category": "special_needs",
+    "segmentCount": 51
+  },
+  {
+    "id": "hourly-duas",
+    "name": "Hourly Duas",
+    "category": "special_needs",
+    "segmentCount": 211
+  },
+  {
+    "id": "bedtime-duas",
+    "name": "Bedtime Duas",
+    "category": "special_needs",
+    "segmentCount": 96
+  },
+  {
+    "id": "graveyard-visit-duas",
+    "name": "Graveyard Visit Duas",
+    "category": "special_needs",
+    "segmentCount": 32
+  },
+  {
+    "id": "fajr-taqeebaat",
+    "name": "Fajr Taqeebaat",
+    "category": "taqeebat",
+    "segmentCount": 236
+  },
+  {
+    "id": "dhuhr-asr-taqeebaat",
+    "name": "Dhuhr & Asr Taqeebaat",
+    "category": "taqeebat",
+    "segmentCount": 192
+  },
+  {
+    "id": "maghrib-isha-taqeebaat",
+    "name": "Maghrib & Isha Taqeebaat",
+    "category": "taqeebat",
+    "segmentCount": 349
+  },
+  {
+    "id": "common-taqeebat",
+    "name": "Common Taqeebat",
+    "category": "taqeebat",
+    "segmentCount": 373
+  },
+  {
+    "id": "salaat-ghufaylah",
+    "name": "Salaat Ghufaylah",
+    "category": "taqeebat",
+    "segmentCount": 28
+  },
+  {
+    "id": "sajda-shukr",
+    "name": "Sajda Shukr",
+    "category": "taqeebat",
+    "segmentCount": 134
+  },
+  {
+    "id": "tahajjud-salaat",
+    "name": "Tahajjud Salaat",
+    "category": "taqeebat",
+    "segmentCount": 253
+  },
+  {
+    "id": "after-adhan-duas",
+    "name": "After Adhan Duas",
+    "category": "taqeebat",
+    "segmentCount": 168
+  },
+  {
+    "id": "saturday-duas",
+    "name": "Saturday Duas",
+    "category": "weekday",
+    "segmentCount": 364
+  },
+  {
+    "id": "sunday-duas",
+    "name": "Sunday Duas",
+    "category": "weekday",
+    "segmentCount": 310
+  },
+  {
+    "id": "monday-duas",
+    "name": "Monday Duas",
+    "category": "weekday",
+    "segmentCount": 306
+  },
+  {
+    "id": "tuesday-duas",
+    "name": "Tuesday Duas",
+    "category": "weekday",
+    "segmentCount": 249
+  },
+  {
+    "id": "wednesday-duas",
+    "name": "Wednesday Duas",
+    "category": "weekday",
+    "segmentCount": 296
+  },
+  {
+    "id": "thursday-duas",
+    "name": "Thursday Duas",
+    "category": "weekday",
+    "segmentCount": 257
+  },
+  {
+    "id": "thursday-night-duas",
+    "name": "Thursday Night Duas",
+    "category": "weekday",
+    "segmentCount": 386
+  },
+  {
+    "id": "friday-special",
+    "name": "Friday Special",
+    "category": "weekday",
+    "segmentCount": 844
+  },
+  {
+    "id": "ziyarat-jamia-kabira",
+    "name": "Ziyarat Jamia Kabira",
+    "category": "ziyarat",
+    "segmentCount": 412
+  },
+  {
+    "id": "ziyarat-aleyasin",
+    "name": "Ziyarat Aleyasin",
+    "category": "ziyarat",
+    "segmentCount": 77
+  },
+  {
+    "id": "dua-after-ziyarat-aleyasin",
+    "name": "Dua after Ziyarat Aleyasin",
+    "category": "ziyarat",
+    "segmentCount": 75
+  },
+  {
+    "id": "ziyarat-warith",
+    "name": "Ziyarat Warith",
+    "category": "ziyarat",
+    "segmentCount": 209
+  },
+  {
+    "id": "ziyarat-ashura",
+    "name": "Ziyarat Ashura",
+    "category": "ziyarat",
+    "segmentCount": 136
+  },
+  {
+    "id": "ziyarat-ameenullah",
+    "name": "Ziyarat Ameenullah",
+    "category": "ziyarat",
+    "segmentCount": 67
+  },
+  {
+    "id": "daily-ziyarat-imam-mahdi",
+    "name": "Daily Ziyarat Imam Mahdi",
+    "category": "ziyarat",
+    "segmentCount": 34
+  },
+  {
+    "id": "ziyarat-imam-mahdi",
+    "name": "Ziyarat Imam Mahdi",
+    "category": "ziyarat",
+    "segmentCount": 38
+  },
+  {
+    "id": "ziyarat-imam-hussain-arafah",
+    "name": "Ziyarat Imam Hussain Arafah",
+    "category": "ziyarat",
+    "segmentCount": 203
+  },
+  {
+    "id": "short-duas-imam-mahdi",
+    "name": "Short Duas Imam Mahdi",
+    "category": "special_needs",
+    "segmentCount": 111
+  },
+  {
+    "id": "isteghasa-imam-mahdi",
+    "name": "Isteghasa Imam Mahdi",
+    "category": "special_needs",
+    "segmentCount": 66
+  },
+  {
+    "id": "ss07-worrisome-task",
+    "name": "SS07 - Worrisome Task",
+    "category": "sahifa",
+    "segmentCount": 67
+  },
+  {
+    "id": "ss08-refuge-from-hateful-things",
+    "name": "SS08 - Refuge from Hateful Things",
+    "category": "sahifa",
+    "segmentCount": 60
+  },
+  {
+    "id": "ss15-when-sick",
+    "name": "SS15 - When Sick",
+    "category": "sahifa",
+    "segmentCount": 57
+  },
+  {
+    "id": "ss20-noble-traits-makarem-akhlaq",
+    "name": "SS20 - Noble Traits (Makarem Akhlaq)",
+    "category": "sahifa",
+    "segmentCount": 217
+  },
+  {
+    "id": "ss24-prayer-for-parents",
+    "name": "SS24 - Prayer for Parents",
+    "category": "sahifa",
+    "segmentCount": 158
+  },
+  {
+    "id": "ss25-prayer-for-children",
+    "name": "SS25 - Prayer for Children",
+    "category": "sahifa",
+    "segmentCount": 148
+  },
+  {
+    "id": "ss31-repentance",
+    "name": "SS31 - Repentance",
+    "category": "sahifa",
+    "segmentCount": 263
+  },
+  {
+    "id": "munajaat-taibeen-repenters",
+    "name": "Munajaat Taibeen (Repenters)",
+    "category": "munajat",
+    "segmentCount": 52
+  },
+  {
+    "id": "munajaat-khaifeen-fearful",
+    "name": "Munajaat Khaifeen (Fearful)",
+    "category": "munajat",
+    "segmentCount": 43
+  },
+  {
+    "id": "munajaat-rajeen-hopeful",
+    "name": "Munajaat Rajeen (Hopeful)",
+    "category": "munajat",
+    "segmentCount": 40
+  },
+  {
+    "id": "munajaat-shakireen-thankful",
+    "name": "Munajaat Shakireen (Thankful)",
+    "category": "munajat",
+    "segmentCount": 45
+  },
+  {
+    "id": "munajaat-arifeen-knowers",
+    "name": "Munajaat Arifeen (Knowers)",
+    "category": "munajat",
+    "segmentCount": 42
+  },
+  {
+    "id": "munajaat-zahideen-abstainers",
+    "name": "Munajaat Zahideen (Abstainers)",
+    "category": "munajat",
+    "segmentCount": 27
+  },
+  {
+    "id": "sahifa-prophet-muhammad-saws",
+    "name": "Sahifa - Prophet Muhammad (saws)",
+    "category": "sahifa_prophet",
+    "segmentCount": 991
+  }
+]

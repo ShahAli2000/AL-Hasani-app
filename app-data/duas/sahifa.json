@@ -1,0 +1,5469 @@
+[
+  {
+    "id": "ss07-worrisome-task",
+    "name": "SS07 - Worrisome Task",
+    "category": "sahifa",
+    "segmentCount": 30,
+    "url": "https://www.duas.org/mobile/sahifasajjadia-dua7-worrisome-task.html",
+    "segments": [
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "His Supplication when Faced with a Worrisome Task"
+        }
+      },
+      {
+        "number": 1,
+        "type": "content",
+        "arabic": "يَا مَنْ تُحَلُّ بِهِ عُقَدُ الْمَكَارِهِ،",
+        "transliteration": "ya man tuḥallu bihi ʿuqadu l-makārih,",
+        "translation": {
+          "en": "O You by Whom the knots of difficulties are undone,"
+        }
+      },
+      {
+        "number": 2,
+        "type": "content",
+        "arabic": "وَيَا مَنْ يُفْثَأُ بِهِ حَدُّ الشَّدَائِدِ،",
+        "transliteration": "wa ya man yufthaʾu bihi ḥaddu l-shadāʾid,",
+        "translation": {
+          "en": "And O You by Whom the extremes of hardships are removed,"
+        }
+      },
+      {
+        "number": 3,
+        "type": "content",
+        "arabic": "وَيَا مَنْ يُلْتَمَسُ مِنْهُ الْمَخْرَجُ إِلَى رَوْحِ الْفَرَجِ،",
+        "transliteration": "wa ya man yultamasu minhu al-makhraju ilā rawḥi l-faraj,",
+        "translation": {
+          "en": "And O You from Whom a way to relief is sought,"
+        }
+      },
+      {
+        "number": 4,
+        "type": "content",
+        "arabic": "ذَلَّتْ لِقُدْرَتِكَ الصِّعَابُ،",
+        "transliteration": "dhallat li-qudratika al-ṣiʿāb,",
+        "translation": {
+          "en": "The difficulties have yielded to Your power,"
+        }
+      },
+      {
+        "number": 5,
+        "type": "content",
+        "arabic": "وَتَسَبَّبَتْ بِلُطْفِكَ الْأَسْبَابُ،",
+        "transliteration": "wa tasabbabat bi-luṭfika al-asbāb,",
+        "translation": {
+          "en": "And the means have been facilitated by Your kindness,"
+        }
+      },
+      {
+        "number": 6,
+        "type": "content",
+        "arabic": "وَجَرَى بِقُدْرَتِكَ الْقَضَاءُ،",
+        "transliteration": "wa jarā bi-qudratika al-qaḍāʾ,",
+        "translation": {
+          "en": "And by Your power, the decree proceeds,"
+        }
+      },
+      {
+        "number": 7,
+        "type": "content",
+        "arabic": "وَمَضَتْ عَلَى إِرَادَتِكَ الْأَشْيَاءُ،",
+        "transliteration": "wa maḍat ʿalā irādatika al-ashyāʾ,",
+        "translation": {
+          "en": "And all things move according to Your will,"
+        }
+      },
+      {
+        "number": 8,
+        "type": "content",
+        "arabic": "فَهِيَ بِمَشِيَّتِكَ دُونَ قَوْلِكَ مُؤْتَمِرَةٌ،",
+        "transliteration": "fahiya bi-mashīyatika dūna qawlik muʾtamarah,",
+        "translation": {
+          "en": "So by Your command, they act without speaking,"
+        }
+      },
+      {
+        "number": 9,
+        "type": "content",
+        "arabic": "وَبِإِرَادَتِكَ دُونَ نَهْيِكَ مُنْزَجِرَةٌ،",
+        "transliteration": "wa bi-irādatika dūna nahyika munzajirah,",
+        "translation": {
+          "en": "And by Your will, they are restrained without Your prohibition,"
+        }
+      },
+      {
+        "number": 10,
+        "type": "content",
+        "arabic": "أَنْتَ الْمَدْعُوُّ لِلْمُهِمَّاتِ،",
+        "transliteration": "anta al-madʿū li-l-muhimmāt,",
+        "translation": {
+          "en": "You are the one called upon for important matters,"
+        }
+      },
+      {
+        "number": 11,
+        "type": "content",
+        "arabic": "وَأَنْتَ الْمَفْزَعُ فِي الْمُلِمَّاتِ،",
+        "transliteration": "wa anta al-mafzaʿu fī al-mulimmāt,",
+        "translation": {
+          "en": "And You are the refuge in calamities,"
+        }
+      },
+      {
+        "number": 12,
+        "type": "content",
+        "arabic": "لَا يَنْدَفِعُ مِنْهَا إِلَّا مَا دَفَعْتَ،",
+        "transliteration": "lā yandafiʿu minhā illā mā dafaʿta,",
+        "translation": {
+          "en": "Nothing is removed from them except by Your removal,"
+        }
+      },
+      {
+        "number": 13,
+        "type": "content",
+        "arabic": "وَلَا يَنْكَشِفُ مِنْهَا إِلَّا مَا كَشَفْتَ،",
+        "transliteration": "wa lā yankashifu minhā illā mā kashfta,",
+        "translation": {
+          "en": "Nothing is revealed from them except what You unveil,"
+        }
+      },
+      {
+        "number": 14,
+        "type": "content",
+        "arabic": "وَقَدْ نَزَلَ بِي يَا رَبِّ مَا قَدْ تَكَأدَنيَّ ثِقْلُهُ،",
+        "transliteration": "wa qad nazala bī yā rabbi mā qad takaʾadaniyya thiqluhu,",
+        "translation": {
+          "en": "Indeed, O Lord, what has befallen me is almost unbearable,"
+        }
+      },
+      {
+        "number": 15,
+        "type": "content",
+        "arabic": "وَأَلَمَّ بِي مَا قَدْ بَهَظَنِي حَمْلُهُ،",
+        "transliteration": "wa allamma bī mā qad bahazani ḥamluhu,",
+        "translation": {
+          "en": "And the burden of it has caused me pain,"
+        }
+      },
+      {
+        "number": 16,
+        "type": "content",
+        "arabic": "فَصَلِّ عَلَى مُحَمَّدٍ وَآلِهِ،",
+        "transliteration": "fa-ṣalli ʿalā Muḥammadin wa-Ālihi,",
+        "translation": {
+          "en": "So bless Muhammad and his family,"
+        }
+      },
+      {
+        "number": 17,
+        "type": "content",
+        "arabic": "وَافْتَحْ لِي يَا رَبِّ بَابَ الْفَرَجِ بِطَوْلِكَ،",
+        "transliteration": "wa-iftaḥ lī yā rabbi bāba al-faraj bi-ṭawlik,",
+        "translation": {
+          "en": "And open for me, O Lord, the door of relief by Your power,"
+        }
+      },
+      {
+        "number": 18,
+        "type": "content",
+        "arabic": "وَاكْسِرْ عَنِّي سُلْطَانَ الْهَمِّ بِحَوْلِكَ،",
+        "transliteration": "wa-aksir ʿannī sulṭāna al-hammi bi-ḥawlik,",
+        "translation": {
+          "en": "And break from me the power of distress by Your strength,"
+        }
+      },
+      {
+        "number": 19,
+        "type": "content",
+        "arabic": "وَأَنِلْنِي حُسْنَ النَّظَرِ فِيمَا شَكَوْتُ،",
+        "transliteration": "wa-anilnī ḥusna al-naẓari fīmā shakawtu,",
+        "translation": {
+          "en": "And grant me good perception in what I complain of,"
+        }
+      },
+      {
+        "number": 20,
+        "type": "content",
+        "arabic": "وَأَذِقْنِي حَلَاوَةَ الصُّنْعِ فِيمَا سَأَلْتُ،",
+        "transliteration": "wa-adhhiqnī ḥalāwata al-ṣunʿi fīmā sa'altu,",
+        "translation": {
+          "en": "And let me taste the sweetness of good deeds in what I ask,"
+        }
+      },
+      {
+        "number": 21,
+        "type": "content",
+        "arabic": "وَهَبْ لِي مِنْ لَدُنْكَ رَحْمَةً وَفَرَجاً هَنِيئاً،",
+        "transliteration": "wa-hab lī min ladunka raḥmatan wa-farajan hanīʾan,",
+        "translation": {
+          "en": "And grant me from You mercy and a joyful relief,"
+        }
+      },
+      {
+        "number": 22,
+        "type": "content",
+        "arabic": "وَاجْعَلْ لِي مِنْ عِنْدِكَ مَخْرَجاً وَحِيّاً،",
+        "transliteration": "wa-jʿal lī min ʿindik makhrajan wa-ḥiyyan,",
+        "translation": {
+          "en": "And make for me from You a way out and guidance,"
+        }
+      },
+      {
+        "number": 23,
+        "type": "content",
+        "arabic": "وَلَا تَشْغَلْنِي بِالاهْتِمَامِ عَنْ تَعَاهُدِ فُرُوضِكَ وَاسْتِعْمَالِ سُنَّتِكَ،",
+        "transliteration": "wa-lā tashghalnī bil-ihtimām ʿan taʿāhudi furūḍika wa-istiʿmāli sunnatika,",
+        "translation": {
+          "en": "And do not occupy me with concern away from fulfilling Your obligations and following Your Sunnah,"
+        }
+      },
+      {
+        "number": 24,
+        "type": "content",
+        "arabic": "فَقَدْ ضِقْتُ لِمَا نَزَلَ بِي يَا رَبِّ ذَرْعاً،",
+        "transliteration": "fa-qad ḍiqqtu limā nazala bī yā rabbi dharʿan,",
+        "translation": {
+          "en": "Indeed, I am constrained by what has befallen me, O Lord,"
+        }
+      },
+      {
+        "number": 25,
+        "type": "content",
+        "arabic": "وَامْتَلَأْتُ بِحَمْلِ مَا حَدَثَ عَلَيَّ هَمّاً،",
+        "transliteration": "wa-imtalātu bi-ḥamli mā ḥadatha ʿalayya hamman,",
+        "translation": {
+          "en": "And I am filled with the burden of what has occurred to me,"
+        }
+      },
+      {
+        "number": 26,
+        "type": "content",
+        "arabic": "وَأَنْتَ الْقَادِرُ عَلَى كَشْفِ مَا مُنِيتُ بِهِ،",
+        "transliteration": "wa-anta al-qādiru ʿalā kashfi mā munītu bihi,",
+        "translation": {
+          "en": "And You are capable of removing what I am afflicted with,"
+        }
+      },
+      {
+        "number": 27,
+        "type": "content",
+        "arabic": "وَدَفْعِ مَا وَقَعْتُ فِيهِ،",
+        "transliteration": "wa-dafʿi mā waqaʿtu fīhi,",
+        "translation": {
+          "en": "And of averting what has befallen me,"
+        }
+      },
+      {
+        "number": 28,
+        "type": "content",
+        "arabic": "فَافْعَلْ بِي ذَلِكَ وَإِنْ لَمْ أَسْتَوْجِبْهُ مِنْكَ،",
+        "transliteration": "fa-ifʿal bī dhālika wa-in lam astawjibhu minka,",
+        "translation": {
+          "en": "So do this for me even if I have not deserved it from You,"
+        }
+      },
+      {
+        "number": 29,
+        "type": "content",
+        "arabic": "يَا ذَا الْعَرْشِ الْعَظِيمِ.",
+        "transliteration": "yā dhā al-ʿarshi al-ʿaẓīm,",
+        "translation": {
+          "en": "O Possessor of the Great Throne.\""
+        }
+      }
+    ]
+  },
+  {
+    "id": "ss08-refuge-from-hateful-things",
+    "name": "SS08 - Refuge from Hateful Things",
+    "category": "sahifa",
+    "segmentCount": 31,
+    "url": "https://www.duas.org/mobile/sahifasajjadia-dua8-refuge-from-hateful-things.html",
+    "segments": [
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "His Supplication in Seeking Refuge from Hateful Things"
+        }
+      },
+      {
+        "number": 1,
+        "type": "content",
+        "arabic": "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَآلِهِ،",
+        "transliteration": "allāhumma ṣalli ʿalā Muḥammadin wa-Ālihi,",
+        "translation": {
+          "en": "O Allah, bless Muhammad and his family,"
+        }
+      },
+      {
+        "number": 2,
+        "type": "content",
+        "arabic": "أَللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ هَيَجَانِ الْحِرْصِ",
+        "transliteration": "Allāhumma innī a‘ūdhū bika min hayajāni al-ḥirṣi",
+        "translation": {
+          "en": "O Allah, I seek refuge in You from the fervor of greed"
+        }
+      },
+      {
+        "number": 3,
+        "type": "content",
+        "arabic": "وَسَوْرَةِ الْغَضَبِ وَغَلَبَةِ الْحَسَدِ وَضَعْفِ الصَّبْرِ",
+        "transliteration": "Wa sawrati al-ghaḍabi wa ghalabati al-ḥasadi wa ḍa‘fi aṣ-ṣabri",
+        "translation": {
+          "en": "And the surge of anger, the dominance of envy, and the weakness of patience"
+        }
+      },
+      {
+        "number": 4,
+        "type": "content",
+        "arabic": "وَقِلَّةِ الْقَنَاعَةِ وَشَكَاسَةِ الْخُلُقِ",
+        "transliteration": "Wa qillati al-qanā‘ati wa shakāsati al-khuluqi",
+        "translation": {
+          "en": "And the lack of contentment, and the harshness of character"
+        }
+      },
+      {
+        "number": 5,
+        "type": "content",
+        "arabic": "وَإِلْحَاحِ الشَّهْوَةِ وَمَلَكَةِ الْحَمِيَّةِ",
+        "transliteration": "Wa ilḥāḥi ash-shahwati wa malakati al-ḥamiyyati",
+        "translation": {
+          "en": "And the insistence of desire, and the habit of zeal"
+        }
+      },
+      {
+        "number": 6,
+        "type": "content",
+        "arabic": "وَمُتَابَعَةِ الْهَوَى وَمُخَالَفَةِ الْهُدَى",
+        "transliteration": "Wa mutāba‘ati al-hawā wa mukhālafati al-hudā",
+        "translation": {
+          "en": "And following whims, and opposing guidance"
+        }
+      },
+      {
+        "number": 7,
+        "type": "content",
+        "arabic": "وَسِنَةِ الْغَفْلَةِ وَتَعَاطِي الْكُلْفَةِ",
+        "transliteration": "Wa sinati al-ghaflati wa ta‘āṭi al-kulfati",
+        "translation": {
+          "en": "And the slumber of heedlessness, and undertaking burdens"
+        }
+      },
+      {
+        "number": 8,
+        "type": "content",
+        "arabic": "وَإِيثَارِ الْبَاطِلِ عَلَى الْحَقِّ وَالْإِصْرَارِ عَلَى الْمَأْثَمِ",
+        "transliteration": "Wa īthāri al-bāṭili ‘alā al-ḥaqqi wa al-iṣrāri ‘alā al-ma’thami",
+        "translation": {
+          "en": "And preferring falsehood over truth, and persisting in sin"
+        }
+      },
+      {
+        "number": 9,
+        "type": "content",
+        "arabic": "وَاسْتِصْغَارِ الْمَعْصِيَةِ وَاسْتِكْثَارِ الطَّاعَةِ",
+        "transliteration": "Wa istiṣghāri al-ma‘ṣiyati wa istikthāri aṭ-ṭā‘ati",
+        "translation": {
+          "en": "And belittling disobedience, and exaggerating obedience"
+        }
+      },
+      {
+        "number": 10,
+        "type": "content",
+        "arabic": "وَمُبَاهَاةِ الْمُكْثِرِينَ وَالْإِزْرَاءِ بِالْمُقِلِّينَ",
+        "transliteration": "Wa mubāhāti al-mukthirīna wa al-izrā’i bil-muqillīna",
+        "translation": {
+          "en": "And vying with the wealthy, and showing contempt to the poor"
+        }
+      },
+      {
+        "number": 11,
+        "type": "content",
+        "arabic": "وَسُوءِ الْوِلَايَةِ لِمَنْ تَحْتَ أَيْدِينَا",
+        "transliteration": "Wa sū’i al-wilāyati liman taḥta aydīnā",
+        "translation": {
+          "en": "And poor guardianship over those under our care"
+        }
+      },
+      {
+        "number": 12,
+        "type": "content",
+        "arabic": "وَتَرْكِ الشُّكْرِ لِمَنِ اصْطَنَعَ الْعَارِفَةَ عِنْدَنَا",
+        "transliteration": "Wa tarki ash-shukri limani aṣṭana‘a al-‘ārifata ‘indanā",
+        "translation": {
+          "en": "And neglecting gratitude to those who showed kindness to us"
+        }
+      },
+      {
+        "number": 13,
+        "type": "content",
+        "arabic": "أَوْ أَنْ نَعْضُدَ ظَالِمًا أَوْ نَخْذُلَ مَلْهُوفًا",
+        "transliteration": "Aw an na‘ḍuda ẓāliman aw nakhdhula malhūfan",
+        "translation": {
+          "en": "Or supporting an oppressor, or abandoning the distressed"
+        }
+      },
+      {
+        "number": 14,
+        "type": "content",
+        "arabic": "أَوْ نَرُومَ مَا لَيْسَ لَنَا بِحَقٍّ",
+        "transliteration": "Aw narūma mā laysa lanā biḥaqqin",
+        "translation": {
+          "en": "Or seeking what is not rightfully ours"
+        }
+      },
+      {
+        "number": 15,
+        "type": "content",
+        "arabic": "أَوْ نَقُولَ فِي الْعِلْمِ بِغَيْرِ عِلْمٍ",
+        "transliteration": "Aw naqūla fī al-‘ilmi bighayri ‘ilmin",
+        "translation": {
+          "en": "Or speaking about knowledge without knowledge"
+        }
+      },
+      {
+        "number": 16,
+        "type": "content",
+        "arabic": "وَنَعُوذُ بِكَ أَنْ نَنْطَوِيَ عَلَى غِشِّ أَحَدٍ",
+        "transliteration": "Wa na‘ūdhū bika an nantawiya ‘alā ghishshi aḥadin",
+        "translation": {
+          "en": "And we seek refuge in You from harboring deceit against anyone"
+        }
+      },
+      {
+        "number": 17,
+        "type": "content",
+        "arabic": "وَأَنْ نُعْجَبَ بِأَعْمَالِنَا وَنَمُدَّ فِي آمَالِنَا",
+        "transliteration": "Wa an nu‘jaba bi-a‘mālinā wa namudda fī āmālinā",
+        "translation": {
+          "en": "And from being pleased with our deeds, and prolonging our hopes"
+        }
+      },
+      {
+        "number": 18,
+        "type": "content",
+        "arabic": "وَنَعُوذُ بِكَ مِنْ سُوءِ السَّرِيرَةِ وَاحْتِقَارِ الصَّغِيرَةِ",
+        "transliteration": "Wa na‘ūdhū bika min sū’i as-sarīrati wa iḥtiqāri aṣ-ṣaghīrati",
+        "translation": {
+          "en": "And we seek refuge in You from evil intentions and belittling small sins"
+        }
+      },
+      {
+        "number": 19,
+        "type": "content",
+        "arabic": "وَأَنْ يَسْتَحْوِذَ عَلَيْنَا الشَّيْطَانُ",
+        "transliteration": "Wa an yastaḥwidha ‘alaynā ash-shayṭānu",
+        "translation": {
+          "en": "And from Satan gaining control over us"
+        }
+      },
+      {
+        "number": 20,
+        "type": "content",
+        "arabic": "أَوْ يَنْكُبَنَا الزَّمَانُ أَوْ يَتَهَضَّمَنَا السُّلْطَانُ",
+        "transliteration": "Aw yankubanā az-zamānu aw yatahaḍḍamanā as-sulṭānu",
+        "translation": {
+          "en": "Or from time afflicting us, or the ruler oppressing us"
+        }
+      },
+      {
+        "number": 21,
+        "type": "content",
+        "arabic": "وَنَعُوذُ بِكَ مِنْ تَنَاوُلِ الْإِسْرَافِ وَمِنْ فِقْدَانِ الْكَفَافِ",
+        "transliteration": "Wa na‘ūdhū bika min tanāwuli al-isrāfi wa min fiqdāni al-kafāfi",
+        "translation": {
+          "en": "And we seek refuge in You from indulging in excess and lacking sufficiency"
+        }
+      },
+      {
+        "number": 22,
+        "type": "content",
+        "arabic": "وَنَعُوذُ بِكَ مِنْ شَمَاتَةِ الْأَعْدَاءِ وَمِنَ الْفَقْرِ إِلَى الْأَكْفَاءِ",
+        "transliteration": "Wa na‘ūdhū bika min shamātati al-a‘dā’i wa mina al-faqri ilā al-akfā’i",
+        "translation": {
+          "en": "And from the gloating of enemies and poverty among peers"
+        }
+      },
+      {
+        "number": 23,
+        "type": "content",
+        "arabic": "وَمِنْ مَعِيشَةٍ فِي شِدَّةٍ وَمَيْتَةٍ عَلَى غَيْرِ عُدَّةٍ",
+        "transliteration": "Wa min ma‘īshatin fī shiddatin wa maytatin ‘alā ghayri ‘uddatin",
+        "translation": {
+          "en": "And from a life of hardship and a death without preparation"
+        }
+      },
+      {
+        "number": 24,
+        "type": "content",
+        "arabic": "وَنَعُوذُ بِكَ مِنَ الْحَسْرَةِ الْعُظْمَى",
+        "transliteration": "Wa na‘ūdhū bika mina al-ḥasrati al-‘uẓmā",
+        "translation": {
+          "en": "And we seek refuge in You from the greatest regret"
+        }
+      },
+      {
+        "number": 25,
+        "type": "content",
+        "arabic": "وَالْمُصِيبَةِ الْكُبْرَى وَأَشْقَى الشَّقَاءِ وَسُوءِ الْمَآبِ",
+        "transliteration": "Wa al-muṣībati al-kubrā wa ashqā ash-shaqā’i wa sū’i al-ma’ābi",
+        "translation": {
+          "en": "And the greatest calamity, the worst misery, and a bad end"
+        }
+      },
+      {
+        "number": 26,
+        "type": "content",
+        "arabic": "وَحِرْمَانِ الثَّوَابِ وَحُلُولِ الْعِقَابِ",
+        "transliteration": "Wa ḥirmāni ath-thawābi wa ḥulūli al-‘iqābi",
+        "translation": {
+          "en": "And deprivation of reward and the onset of punishment"
+        }
+      },
+      {
+        "number": 27,
+        "type": "content",
+        "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَآلِهِ",
+        "transliteration": "Allāhumma ṣalli ‘alā Muḥammadin wa ālihi",
+        "translation": {
+          "en": "O Allah, send blessings upon Muhammad and his family"
+        }
+      },
+      {
+        "number": 28,
+        "type": "content",
+        "arabic": "وَأَعِذْنِي مِنْ كُلِّ ذَلِكَ بِرَحْمَتِكَ",
+        "transliteration": "Wa a‘idhni min kulli dhālika biraḥmatika",
+        "translation": {
+          "en": "And protect me from all of this by Your mercy"
+        }
+      },
+      {
+        "number": 29,
+        "type": "content",
+        "arabic": "وَجَمِيعَ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ",
+        "transliteration": "Wa jamī‘a al-mu’minīna wa al-mu’mināti",
+        "translation": {
+          "en": "And all the believing men and believing women"
+        }
+      },
+      {
+        "number": 30,
+        "type": "content",
+        "arabic": "يَا أَرْحَمَ الرَّاحِمِينَ",
+        "transliteration": "Yā arḥama ar-rāḥimīna",
+        "translation": {
+          "en": "O Most Merciful of the merciful"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ss15-when-sick",
+    "name": "SS15 - When Sick",
+    "category": "sahifa",
+    "segmentCount": 28,
+    "url": "https://www.duas.org/mobile/sahifasajjadia-dua15-when-sick.html",
+    "segments": [
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "His Supplication when Sick"
+        }
+      },
+      {
+        "number": 1,
+        "type": "content",
+        "arabic": "أَللَّهُمَّ لَكَ الْحَمْدُ عَلَى مَا لَمْ أَزَلْ أَتَصَرَّفُ فِيهِ مِنْ سَلَامَةِ بَدَنِي",
+        "transliteration": "Allāhumma laka al-ḥamdu ‘alā mā lam azal atasarrafu fīhi min salāmati badanī",
+        "translation": {
+          "en": "O Allah, praise be to You for the health of my body that I continue to enjoy."
+        }
+      },
+      {
+        "number": 2,
+        "type": "content",
+        "arabic": "وَلَكَ الْحَمْدُ عَلَى مَا أَحْدَثْتَ بِي مِنْ عِلَّةٍ فِي جَسَدِي",
+        "transliteration": "Wa laka al-ḥamdu ‘alā mā aḥdathta bī min ‘illatin fī jasadī",
+        "translation": {
+          "en": "And praise be to You for the illness You brought upon my body."
+        }
+      },
+      {
+        "number": 3,
+        "type": "content",
+        "arabic": "فَمَا أَدْرِي يَا إِلَهِي أَيُّ الْحَالَيْنِ أَحَقُّ بِالشُّكْرِ لَكَ",
+        "transliteration": "Famā adrī yā ilāhī ayyu al-ḥālayni aḥaqqu bi-ash-shukri laka",
+        "translation": {
+          "en": "For I know not, O my God, which of the two states is more worthy of gratitude to You,"
+        }
+      },
+      {
+        "number": 4,
+        "type": "content",
+        "arabic": "وَأَيُّ الْوَقْتَيْنِ أَوْلَى بِالْحَمْدِ لَكَ",
+        "transliteration": "Wa ayyu al-waqtayni awlā bi-al-ḥamdi laka",
+        "translation": {
+          "en": "and which of the two times is more deserving of praise to You:"
+        }
+      },
+      {
+        "number": 5,
+        "type": "content",
+        "arabic": "أَوَقْتُ الصِّحَّةِ الَّتِي هَنَّأْتَنِي فِيهَا طَيِّبَاتِ رِزْقِكَ",
+        "transliteration": "Awaqtu aṣ-ṣiḥḥati allatī hanna’tanī fīhā ṭayyibāti rizqika",
+        "translation": {
+          "en": "The time of health, in which You delighted me with the good provisions,"
+        }
+      },
+      {
+        "number": 6,
+        "type": "content",
+        "arabic": "وَنَشَّطْتَنِي بِهَا لِابْتِغَاءِ مَرْضَاتِكَ وَفَضْلِكَ",
+        "transliteration": "Wa nashshaṭtanī bihā li-ibtighā’i marḍātika wa faḍlika",
+        "translation": {
+          "en": "and energized me with it to seek Your pleasure and Your favor,"
+        }
+      },
+      {
+        "number": 7,
+        "type": "content",
+        "arabic": "وَقَوَّيْتَنِي مَعَهَا عَلَى مَا وَفَّقْتَنِي لَهُ مِنْ طَاعَتِكَ",
+        "transliteration": "Wa qawwaytanī ma‘ahā ‘alā mā waffaqtanī lahu min ṭā‘atika",
+        "translation": {
+          "en": "and strengthened me with it for what You enabled me to do of Your obedience?"
+        }
+      },
+      {
+        "number": 8,
+        "type": "content",
+        "arabic": "أَمْ وَقْتُ الْعِلَّةِ الَّتِي مَحَّصْتَنِي بِهَا",
+        "transliteration": "Am waqtu al-‘illati allatī maḥḥaṣtanī bihā",
+        "translation": {
+          "en": "Or the time of illness, by which You purified me,"
+        }
+      },
+      {
+        "number": 9,
+        "type": "content",
+        "arabic": "وَالنِّعَمِ الَّتِي أَتْحَفْتَنِي بِهَا تَخْفِيفًا لِمَا ثَقُلَ بِهِ عَلَى ظَهْرِي مِنَ الْخَطِيئَاتِ",
+        "transliteration": "Wa an-ni‘ami allatī atḥaftanī bihā takhfīfan limā thaqula bihi ‘alā ẓahrī mina al-khaṭī’āti",
+        "translation": {
+          "en": "and the blessings You bestowed upon me to lighten what weighed heavily on my back of sins,"
+        }
+      },
+      {
+        "number": 10,
+        "type": "content",
+        "arabic": "وَتَطْهِيرًا لِمَا انْغَمَسْتُ فِيهِ مِنَ السَّيِّئَاتِ",
+        "transliteration": "Wa taṭhīran limā anghamastu fīhi mina as-sayyi’āti",
+        "translation": {
+          "en": "and to purify what I indulged in of misdeeds,"
+        }
+      },
+      {
+        "number": 11,
+        "type": "content",
+        "arabic": "وَتَنْبِيهًا لِتَنَاوُلِ التَّوْبَةِ",
+        "transliteration": "Wa tanbīhan litanāwuli at-tawbati",
+        "translation": {
+          "en": "and as a reminder to seek repentance,"
+        }
+      },
+      {
+        "number": 12,
+        "type": "content",
+        "arabic": "وَتَذْكِيرًا لِمَحْوِ الْحَوْبَةِ بِقَدِيمِ النِّعْمَةِ",
+        "transliteration": "Wa tadhkīran limaḥwi al-ḥawbati biqadīmi an-ni‘mati",
+        "translation": {
+          "en": "and a reminder to erase sins with Your longstanding grace?"
+        }
+      },
+      {
+        "number": 13,
+        "type": "content",
+        "arabic": "وَفِي خِلَالِ ذَلِكَ مَا كَتَبَ لِيَ الْكَاتِبَانِ مِنْ زَكِيِّ الْأَعْمَالِ",
+        "transliteration": "Wa fī khilāli dhālika mā kataba liya al-kātibāni min zakiyyi al-a‘māli",
+        "translation": {
+          "en": "And amidst that, what the two angels recorded for me of pure deeds,"
+        }
+      },
+      {
+        "number": 14,
+        "type": "content",
+        "arabic": "مَا لَا قَلْبٌ فَكَّرَ فِيهِ وَلَا لِسَانٌ نَطَقَ بِهِ وَلَا جَارِحَةٌ تَكَلَّفَتْهُ",
+        "transliteration": "Mā lā qalbun fakkara fīhi wa lā lisānun naṭaqa bihi wa lā jāriḥatun takallafathu",
+        "translation": {
+          "en": "which no heart conceived, nor tongue uttered, nor limb undertook,"
+        }
+      },
+      {
+        "number": 15,
+        "type": "content",
+        "arabic": "بَلْ إِفْضَالًا مِنْكَ عَلَيَّ وَإِحْسَانًا مِنْ صَنِيعِكَ إِلَيَّ",
+        "transliteration": "Bal ifḍālan minka ‘alayya wa iḥsānan min ṣanī‘ika ilayya",
+        "translation": {
+          "en": "but as a favor from You upon me, and kindness from Your doing toward me."
+        }
+      },
+      {
+        "number": 16,
+        "type": "content",
+        "arabic": "أَللَّهُمَّ فَصَلِّ عَلَى مُحَمَّدٍ وَآلِهِ",
+        "transliteration": "Allāhumma faṣalli ‘alā Muḥammadin wa ālihi",
+        "translation": {
+          "en": "O Allah, send blessings on Muhammad and his family,"
+        }
+      },
+      {
+        "number": 17,
+        "type": "content",
+        "arabic": "وَحَبِّبْ إِلَيَّ مَا رَضِيتَ لِي",
+        "transliteration": "Wa ḥabbib ilayya mā raḍīta lī",
+        "translation": {
+          "en": "and make beloved to me what You have decreed for me,"
+        }
+      },
+      {
+        "number": 18,
+        "type": "content",
+        "arabic": "وَيَسِّرْ لِي مَا أَحْلَلْتَ بِي",
+        "transliteration": "Wa yassir lī mā aḥlalta bī",
+        "translation": {
+          "en": "and ease for me what You have brought upon me,"
+        }
+      },
+      {
+        "number": 19,
+        "type": "content",
+        "arabic": "وَطَهِّرْنِي مِنْ دَنَسِ مَا أَسْلَفْتُ",
+        "transliteration": "Wa ṭahhirnī min danasi mā aslaftu",
+        "translation": {
+          "en": "and purify me from the taint of what I have committed,"
+        }
+      },
+      {
+        "number": 20,
+        "type": "content",
+        "arabic": "وَامْحُ عَنِّي شَرَّ مَا قَدَّمْتُ",
+        "transliteration": "Wa imḥu ‘annī sharra mā qaddamtu",
+        "translation": {
+          "en": "and erase from me the evil of what I have sent forth."
+        }
+      },
+      {
+        "number": 21,
+        "type": "content",
+        "arabic": "وَأَوْجِدْنِي حَلَاوَةَ الْعَافِيَةِ",
+        "transliteration": "Wa awjidnī ḥalāwata al-‘āfiyati",
+        "translation": {
+          "en": "And grant me the sweetness of well-being,"
+        }
+      },
+      {
+        "number": 22,
+        "type": "content",
+        "arabic": "وَأَذِقْنِي بَرْدَ السَّلَامَةِ",
+        "transliteration": "Wa adhiqnī barda as-salāmati",
+        "translation": {
+          "en": "and let me taste the coolness of safety."
+        }
+      },
+      {
+        "number": 23,
+        "type": "content",
+        "arabic": "وَاجْعَلْ مَخْرَجِي عَنْ عِلَّتِي إِلَى عَفْوِكَ",
+        "transliteration": "Wa ij‘al makhrajī ‘an ‘illatī ilā ‘afwika",
+        "translation": {
+          "en": "And make my escape from my illness to Your pardon,"
+        }
+      },
+      {
+        "number": 24,
+        "type": "content",
+        "arabic": "وَمُتَحَوَّلِي عَنْ صَرْعَتِي إِلَى تَجَاوُزِكَ",
+        "transliteration": "Wa mutaḥawwalī ‘an ṣar‘atī ilā tajāwuzika",
+        "translation": {
+          "en": "and my transition from my affliction to Your forbearance,"
+        }
+      },
+      {
+        "number": 25,
+        "type": "content",
+        "arabic": "وَخَلَاصِي مِنْ كَرْبِي إِلَى رَوْحِكَ",
+        "transliteration": "Wa khalāṣī min karbī ilā rawḥika",
+        "translation": {
+          "en": "and my deliverance from my distress to Your relief,"
+        }
+      },
+      {
+        "number": 26,
+        "type": "content",
+        "arabic": "وَسَلَامَتِي مِنْ هَذِهِ الشِّدَّةِ إِلَى فَرَجِكَ",
+        "transliteration": "Wa salāmatī min hādhihi ash-shiddati ilā farajika",
+        "translation": {
+          "en": "and my safety from this hardship to Your ease."
+        }
+      },
+      {
+        "number": 27,
+        "type": "content",
+        "arabic": "إِنَّكَ الْمُتَفَضِّلُ بِالْإِحْسَانِ الْمُتَطَوِّلُ بِالِامْتِنَانِ الْوَهَّابُ الْكَرِيمُ ذُو الْجَلَالِ وَالْإِكْرَامِ",
+        "transliteration": "Innaka al-mutafaḍḍilu bi-al-iḥsāni al-mutaṭawwilu bi-al-imtināni al-wahhābu al-karīmu dhū al-jalāli wa al-ikrāmi",
+        "translation": {
+          "en": "For You are the Benefactor with kindness, the Bountiful with grace, the Generous Giver, Possessor of majesty and honor."
+        }
+      }
+    ]
+  },
+  {
+    "id": "ss20-noble-traits-makarem-akhlaq",
+    "name": "SS20 - Noble Traits (Makarem Akhlaq)",
+    "category": "sahifa",
+    "segmentCount": 217,
+    "url": "https://www.duas.org/mobile/sahifasajjadia-dua20-makarem-akhlaq-noble-traits.html",
+    "segments": [
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "His Supplication for Noble Moral Traits (Makarem al-Akhlaq)"
+        }
+      },
+      {
+        "number": 1,
+        "type": "content",
+        "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+        "transliteration": "bis-mil-lahir-rahmamnir-rahim",
+        "translation": {
+          "en": "In the Name of Allah, the All-merciful, the All-compassionate"
+        }
+      },
+      {
+        "number": 2,
+        "type": "content",
+        "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَّآلِهِ",
+        "transliteration": "allahumma sal-li a'la muhammadiw-wa a-lih",
+        "translation": {
+          "en": "O Allah, bless Muhammad and his Household,"
+        }
+      },
+      {
+        "number": 3,
+        "type": "content",
+        "arabic": "وَبَلِّغْ بِإِيمَانِي أَكْمَلَ الإِيمَانِ",
+        "transliteration": "wa bal-ligh bi-imani ak-malal-iman",
+        "translation": {
+          "en": "cause my faith to reach the most perfect faith,"
+        }
+      },
+      {
+        "number": 4,
+        "type": "content",
+        "arabic": "وَاجْعَلْ يَقِينِي أَفْضَلَ الْيَقِينِ",
+        "transliteration": "waj-a'l yaqini af-zalal-yaqin",
+        "translation": {
+          "en": "make my certainty the most excellent certainty,"
+        }
+      },
+      {
+        "number": 5,
+        "type": "content",
+        "arabic": "وَانتَهِ بِنِيَّتِي إِلَى أَحْسَنِ النِّيَّاتِ، وَبِعَمَلِي إِلَى أَحْسَنِ الأَعْمَاِل",
+        "transliteration": "wantahi bi-ni-yati ila ah-san-ni-yati wa bi-a'mali ila ah-sanil-a'-mal",
+        "translation": {
+          "en": "and take my intention to the best of intentions, and my works to the best of works!"
+        }
+      },
+      {
+        "number": 6,
+        "type": "content",
+        "arabic": "اللَّهُمَّ",
+        "transliteration": "allahumma",
+        "translation": {
+          "en": "O Allah,"
+        }
+      },
+      {
+        "number": 7,
+        "type": "content",
+        "arabic": "وَفِّرْ بِلُطْفِكَ نِيَّتِي",
+        "transliteration": "waf-fir bilut-fika ni-yati",
+        "translation": {
+          "en": "complete my intention through Your gentleness,"
+        }
+      },
+      {
+        "number": 8,
+        "type": "content",
+        "arabic": "وَصَحِّحْ بِمَا عِندَكَ يَقِينِي",
+        "transliteration": "wa sah-hih bima i'ndaka yaqini",
+        "translation": {
+          "en": "rectify my certainty through what is with You,"
+        }
+      },
+      {
+        "number": 9,
+        "type": "content",
+        "arabic": "وَاسْتَصْلِحْ بِقُدْرَتِكَ مَا فَسَدَ مِنِّي",
+        "transliteration": "was-tas-lih biqud-ratika ma fasada min-ni",
+        "translation": {
+          "en": "And set right what is corrupt in me through Your power!"
+        }
+      },
+      {
+        "number": 10,
+        "type": "content",
+        "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَّآلِهِ",
+        "transliteration": "allahumma sal-li a'la muhammadiw-wa a-lih",
+        "translation": {
+          "en": "O Allah, bless Muhammad and his Household,"
+        }
+      },
+      {
+        "number": 11,
+        "type": "content",
+        "arabic": "وَاكْفِنِي مَا يَشْغَلُنِي الإِهْتِمَامُ بِهِ",
+        "transliteration": "wak-fini ma yash-ghalunil-ih-timamu bih",
+        "translation": {
+          "en": "spare me the concerns which distract me,"
+        }
+      },
+      {
+        "number": 12,
+        "type": "content",
+        "arabic": "وَاسْتَعْمِلْنِي بِمَا تَسْألُنِي غَداً عَنْهُ",
+        "transliteration": "was-ta'-mil-ni bima tas-aluni ghadan a'n-h",
+        "translation": {
+          "en": "employ me in that about which You will ask me tomorrow,"
+        }
+      },
+      {
+        "number": 13,
+        "type": "content",
+        "arabic": "وَاسْتَفْرِغْ أَيَّامِي فِيمَا خَلَقْتَنِي لَهُ",
+        "transliteration": "was-taf-righ ay-yami fima khalaq-tani lah",
+        "translation": {
+          "en": "And let me pass my days in that for which You hast created me!"
+        }
+      },
+      {
+        "number": 14,
+        "type": "content",
+        "arabic": "وَاغْنِنِي وَأَوْسِعْ عَلَيَّ فِي رِزْقِكَ",
+        "transliteration": "wa agh-nini wa aw-sia' a'lay-ya fi rizqik",
+        "translation": {
+          "en": "Free me from need, and expand Your provision toward me,"
+        }
+      },
+      {
+        "number": 15,
+        "type": "content",
+        "arabic": "وَلا تَفْتِنِّي بِالنَّظَرِ",
+        "transliteration": "wa-la taf-tin-ni bin-nazar",
+        "translation": {
+          "en": "And tempt me not with ingratitude!"
+        }
+      },
+      {
+        "number": 16,
+        "type": "content",
+        "arabic": "وَأَعِزَّنِي وَلا تَبْتَلِيَنِّي بِالْكِبْرِ",
+        "transliteration": "wa ai'z-za ni wa-la tab-tali-yani-y bil-kib-r",
+        "translation": {
+          "en": "Exalt me and afflict me not with pride!"
+        }
+      },
+      {
+        "number": 17,
+        "type": "content",
+        "arabic": "وَعَبِّدْنِي لَكَ وَلا تُفْسِدْ عِبِادَتِي بِالعُجْبِ",
+        "transliteration": "wa a'b-bid-ni laka wa-la tuf-sid i'bidati bil-u'j-b",
+        "translation": {
+          "en": "Make me worship You and corrupt not my worship with self-admiration!"
+        }
+      },
+      {
+        "number": 18,
+        "type": "content",
+        "arabic": "وَأَجْرِ لِلنَّاسِ عَلَى يَدَيَّ الْخَيْرَ وَلا تَمْحَقْهُ بِالْمَنِّ",
+        "transliteration": "wa aj-ri lin-nasi a'la yaday-yal-khayra wa-la tam-haq-hu bil-man-n",
+        "translation": {
+          "en": "Let good flow out from my hands upon the people and efface it not by my making them feel obliged!"
+        }
+      },
+      {
+        "number": 19,
+        "type": "content",
+        "arabic": "وَهَبْ لِي مَعَاِلي الأَخْلاَقِ",
+        "transliteration": "wa hab liya ma'ali-yal-akh-laq",
+        "translation": {
+          "en": "Give me the highest moral traits"
+        }
+      },
+      {
+        "number": 20,
+        "type": "content",
+        "arabic": "وَاعْصِمْنِي مِنَ الْفَخْرِ",
+        "transliteration": "wa a'-sim-ni minal-fakh-r",
+        "translation": {
+          "en": "And preserve me from vainglory!"
+        }
+      },
+      {
+        "number": 21,
+        "type": "content",
+        "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَّآلِهِ",
+        "transliteration": "allahumma sal-li a'la muhammadiw-wa a-lih",
+        "translation": {
+          "en": "O Allah, bless Muhammad and his Household,"
+        }
+      },
+      {
+        "number": 22,
+        "type": "content",
+        "arabic": "وَلا تَرْفَعْنِي فِي النَّاسِ دَرَجَةً إِلا حَطَطْتَنِي عِندَ نَفْسِي مِثْلَهَا",
+        "transliteration": "wa la tar-fa'-ni fin-nasi darajatan il-la hatat-tani i'nda naf-si mith-laha",
+        "translation": {
+          "en": "raise me not a single degree before the people without lowering me its like in myself"
+        }
+      },
+      {
+        "number": 23,
+        "type": "content",
+        "arabic": "وَلا تُحْدِثْ لِي عِزّاً ظَاهِراً إِلاَّ أَحْدَثْتَ لِي ذِلَّةً بَاطِنَةً عِندَ نَفْسِي بِقَدَرِهَا",
+        "transliteration": "wa-la tuh-dith li i'z-zan zahiran il-la ah-dath-ta li dhil-latam batinatan i'nda naf-si biqadariha",
+        "translation": {
+          "en": "And bring about no outward exaltation for me without an inward abasement in myself to the same measure!"
+        }
+      },
+      {
+        "number": 24,
+        "type": "content",
+        "arabic": "اللَّهُمَّ صَلِّ عَلى مُحَمَّدٍ وَّآلِ مُحَمَّدٍ",
+        "transliteration": "allahumma sal-li a'la muhammadiw-wa a-li muhammad",
+        "translation": {
+          "en": "O Allah, bless Muhammad and Muhammad's Household,"
+        }
+      },
+      {
+        "number": 25,
+        "type": "content",
+        "arabic": "وَمَتِّعْنِي بِهُدَىً صَاِلحٍ لا أَسْتَبْدِلُ بِهِ،",
+        "transliteration": "wa mat-tia'-ni bihudan salihil-la as-tabdilu bih",
+        "translation": {
+          "en": "give me to enjoy a sound guidance which I seek not to replace,"
+        }
+      },
+      {
+        "number": 26,
+        "type": "content",
+        "arabic": "وَطَرِيقَةِ حَقٍّ لا أَزِيغُ عَنْهَا،",
+        "transliteration": "wa tariqati haq-qil-la azighu a'n-ha",
+        "translation": {
+          "en": "a path of truth from which I swerve not,"
+        }
+      },
+      {
+        "number": 27,
+        "type": "content",
+        "arabic": "وَنِيَّةِ رَشْدٍ لا أَشُكُّ فِيهَا",
+        "transliteration": "wa ni-yati rush-dil-la ashuk-ku fiha",
+        "translation": {
+          "en": "And an intention of right conduct in which I have no doubts!"
+        }
+      },
+      {
+        "number": 28,
+        "type": "content",
+        "arabic": "وَعَمِّرْنِي مَا كَانَ عُمْرِي بِذْلَةً فِي طَاعَتِكَ، فَإِذَا كَانَ عُمْرِي مَرْتَعاً لِلشَّيْطَانِ فَاقْبِضْنِي إِلَيْكَ، قَبْلَ أَن يَّسْبِقَ مَقْتُكَ إِلَيَّ، أَوْ يَسْتَحْكِمَ غَضَبُكَ عَلَيَّ",
+        "transliteration": "wa a'mmir-ni ma kana u'm-ri bidhlatan fi ta'tika fa-idha kana u'm-ri mar-ta'al-lish-shaytani faq-bizni ilayka qab-la ayyasbiqa maq-tuka ilay-ya aw yas-tah-kima ghazabuka a'lay-ya",
+        "translation": {
+          "en": "Let me live as long as my life is a free gift in obeying You, but if my life should become a pasture for Satan, seize me to Yourself before Your hatred overtakes me or Your wrath against be becomes firm!"
+        }
+      },
+      {
+        "number": 29,
+        "type": "content",
+        "arabic": "اللَّهُمَّ",
+        "transliteration": "allahumma",
+        "translation": {
+          "en": "O Allah,"
+        }
+      },
+      {
+        "number": 30,
+        "type": "content",
+        "arabic": "لا تَدَعْ خِصْلَةً تُعَابُ مِنِّي إِلاَّ أَصْلَحْتَهَا",
+        "transliteration": "la tada' khas-latan tua'abu min-ni il-la as-lah-taha",
+        "translation": {
+          "en": "deposit in me no quality for which I will be faulted, unless You settest it right,"
+        }
+      },
+      {
+        "number": 31,
+        "type": "content",
+        "arabic": "وَلا عَائِبَةً أُؤَنَّبُ بِهَا إِلاَّ حَسَّنتَهَا،",
+        "transliteration": "wa-la a'a-ibatan uan-nabu biha il-la has-santaha",
+        "translation": {
+          "en": "no flaw for which I will be blamed, unless You makest it beautiful,"
+        }
+      },
+      {
+        "number": 32,
+        "type": "content",
+        "arabic": "وَلا أُكْرُومَةً فِيَّ نَاقِصَةً إِلاَّ أَتْمَمْتَهَا",
+        "transliteration": "wa-la uk-rumatan fi-ya naqisatan il-la at-mam-taha",
+        "translation": {
+          "en": "And no deficient noble trait, unless You completest it!"
+        }
+      },
+      {
+        "number": 33,
+        "type": "content",
+        "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَّآلِ مُحَمَّدٍ",
+        "transliteration": "allahumma sal-li a'la muhammadiw-wa a-li muhammad",
+        "translation": {
+          "en": "O Allah, bless Muhammad and Muhammad's Household,"
+        }
+      },
+      {
+        "number": 34,
+        "type": "content",
+        "arabic": "وَأَبْدِلْنِي مِنْ بُغْضَةِ أَهْلِ الشَّنَانَ الْمَحَبَّةَ",
+        "transliteration": "wa abdil-ni mim bugh-zati ah-lish-shinanil-mahab-bah",
+        "translation": {
+          "en": "and replace for me the animosity of the people of hatred with love,"
+        }
+      },
+      {
+        "number": 35,
+        "type": "content",
+        "arabic": "وَمِنْ حَسَدِ أَهْلِ الْبَغْيِ الْمَوَدَّةَ،",
+        "transliteration": "wa min hasadi ah-lil-bagh-yil-mawad-dah",
+        "translation": {
+          "en": "the envy of the people of insolence with affection,"
+        }
+      },
+      {
+        "number": 36,
+        "type": "content",
+        "arabic": "وَمِن ظِنَّةِ أَهْلِ الصَّلاَحِ الثِّقَةَ،",
+        "transliteration": "wa min zin-nati ah-lis-salahith-thiqah",
+        "translation": {
+          "en": "the suspicion of the people of righteousness with trust,"
+        }
+      },
+      {
+        "number": 37,
+        "type": "content",
+        "arabic": "وَمِنْ عَدَاوَةِ الأَدْنَيْنَ الْوَلايَةَ،",
+        "transliteration": "wa min a'dawatil-ad-naynal-walayah",
+        "translation": {
+          "en": "the enmity of those close with friendship,"
+        }
+      },
+      {
+        "number": 38,
+        "type": "content",
+        "arabic": "وَمِنْ عُقُوقِ ذَوِي الأَرْحَامِ الْمَبَرَّةَ،",
+        "transliteration": "wa min u'quqi dhawil-ar-hamil-mabar-rah",
+        "translation": {
+          "en": "the disrespect of womb relatives with devotion,"
+        }
+      },
+      {
+        "number": 39,
+        "type": "content",
+        "arabic": "وَمِنْ خِذْلانِ الأَقْرَبِينَ النُّصْرَةَ،",
+        "transliteration": "wa min khidhlanil-aq-rabinan-nus-rah",
+        "translation": {
+          "en": "the abandonment of relatives with help,"
+        }
+      },
+      {
+        "number": 40,
+        "type": "content",
+        "arabic": "وَمِنْ حُبِّ الْمُدَارِينَ تَصْحِيحَ الْمِقَةِ،",
+        "transliteration": "wa min hub-bil-mudarina tas-hihal-miqah",
+        "translation": {
+          "en": "the attachment of flatterers with love set right,"
+        }
+      },
+      {
+        "number": 41,
+        "type": "content",
+        "arabic": "وَمِن رَّدِّ الْمُلاَبِسِينَ كَرَمَ الْعِشْرَةِ،",
+        "transliteration": "wa mir-rad-dil-mulabisina karamal-i'sh-rah",
+        "translation": {
+          "en": "the rejection of fellows with generous friendliness,"
+        }
+      },
+      {
+        "number": 42,
+        "type": "content",
+        "arabic": "وَمِن مَّرَارَةِ خَوْفِ الظَّالِمِينَ حَلاَوَةَ الأَمنَةَ",
+        "transliteration": "wa mim-mararati khaw-fiz-zalimina halawatal-amnah",
+        "translation": {
+          "en": "And the bitterness of the fear of wrongdoers with the sweetness of security!"
+        }
+      },
+      {
+        "number": 43,
+        "type": "content",
+        "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَّآلِهِ",
+        "transliteration": "allahumma sal-li a'la muhammadiw-wa a-lih",
+        "translation": {
+          "en": "O Allah, bless Muhammad and his Household,"
+        }
+      },
+      {
+        "number": 44,
+        "type": "content",
+        "arabic": "وَاجْعَل لِّي يَداً عَلى مَن ظَلَمَنِي،",
+        "transliteration": "waj-a'l-li yadan a'la man zalamani",
+        "translation": {
+          "en": "appoint for me a hand against him who wrongs me,"
+        }
+      },
+      {
+        "number": 45,
+        "type": "content",
+        "arabic": "وَلِسَاناً عَلَى مَنْ خَاصَمَنِي،",
+        "transliteration": "wa lisanan a'la man khasamani",
+        "translation": {
+          "en": "a tongue against him who disputes with me,"
+        }
+      },
+      {
+        "number": 46,
+        "type": "content",
+        "arabic": "وَظَفَراً بِمَنْ عَانَدَنِي",
+        "transliteration": "wa zafaram biman a'anadani",
+        "translation": {
+          "en": "And a victory over him who stubbornly resists me!"
+        }
+      },
+      {
+        "number": 47,
+        "type": "content",
+        "arabic": "وَهَبْ لِي مَكْراً عَلَى مَن كَايَدَنِي،",
+        "transliteration": "wa hab li mak-ran a'la man kayadani",
+        "translation": {
+          "en": "Give me guile against him who schemes against me,"
+        }
+      },
+      {
+        "number": 48,
+        "type": "content",
+        "arabic": "وَقُدْرَةً عَلَى مَنِ اضْطَهَدَنِي،",
+        "transliteration": "wa qud-ratan a'la mani-ztahadani",
+        "translation": {
+          "en": "power over him who oppresses me,"
+        }
+      },
+      {
+        "number": 49,
+        "type": "content",
+        "arabic": "وَتَكْذِيباً لِمَن قَصَبَنِي،",
+        "transliteration": "wa tak-dhibal-liman qasabani",
+        "translation": {
+          "en": "refutation of him who reviles me,"
+        }
+      },
+      {
+        "number": 50,
+        "type": "content",
+        "arabic": "وَسَلاَمَةً مِّمَّن تَوَعَّدَنِي",
+        "transliteration": "wa salamatam-mimman tawa'-adani",
+        "translation": {
+          "en": "And safety from him who threatens me!"
+        }
+      },
+      {
+        "number": 51,
+        "type": "content",
+        "arabic": "وَوَفِّقْنِي لِطَاعَةِ مَن سَدَّدَنِي،",
+        "transliteration": "wa waf-fiq-ni lita'ti man sad-dadani",
+        "translation": {
+          "en": "Grant me success to obey him who points me straight"
+        }
+      },
+      {
+        "number": 52,
+        "type": "content",
+        "arabic": "وَمُتَابَعَةِ مَنْ أَرْشَدَنِي",
+        "transliteration": "wa mutaba'ti man ar-shadani",
+        "translation": {
+          "en": "And follow him who guides me right!"
+        }
+      },
+      {
+        "number": 53,
+        "type": "content",
+        "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَّآلِهِ",
+        "transliteration": "allahumma sal-li a'la muhammadiw-wa a-lih",
+        "translation": {
+          "en": "O Allah, bless Muhammad and his Household"
+        }
+      },
+      {
+        "number": 54,
+        "type": "content",
+        "arabic": "وَسَدِّدْنِي لأَنْ",
+        "transliteration": "wa sad-did-ni li-an",
+        "translation": {
+          "en": "and point me straight to"
+        }
+      },
+      {
+        "number": 55,
+        "type": "content",
+        "arabic": "أُعَارِضَ مَنْ غَشَّنِي بِالنُّصْحِ،",
+        "transliteration": "ua'ariza man ghash-shani bin-nus-h",
+        "translation": {
+          "en": "resist him who is dishonest toward me without counsel,"
+        }
+      },
+      {
+        "number": 56,
+        "type": "content",
+        "arabic": "وَأَجْزِي مَنْ هَجَرَنِي بِالْبِرِّ،",
+        "transliteration": "wa aj-ziya man hajarani bil-bir-r",
+        "translation": {
+          "en": "repay him who separates from me with gentle devotion,"
+        }
+      },
+      {
+        "number": 57,
+        "type": "content",
+        "arabic": "وَأُثِيبَ مَنْ حَرَمَنِي بِالْبَذْلِ،",
+        "transliteration": "wa uthiba man haramani bil-badhli",
+        "translation": {
+          "en": "reward him who deprives me with free giving,"
+        }
+      },
+      {
+        "number": 58,
+        "type": "content",
+        "arabic": "وَأُكَافِئَ مَن قَطَعَنِي بِالصِّلَةِ،",
+        "transliteration": "wa ukafi-a man qata'ni bis-silah",
+        "translation": {
+          "en": "recompense him who cuts me off with joining,"
+        }
+      },
+      {
+        "number": 59,
+        "type": "content",
+        "arabic": "وَأُخَاِلفَ مَنْ اغْتَابَنِي إِلَى حُسْنِ الذِّكْرِ،",
+        "transliteration": "wa ukhalifa mangh-tabani ila hus-nidh-dhik-r",
+        "translation": {
+          "en": "oppose him who slanders me with excellent mention,"
+        }
+      },
+      {
+        "number": 60,
+        "type": "content",
+        "arabic": "وَأَنْ أَشْكُرَ الْحَسَنَةَ،",
+        "transliteration": "wa an ash-kural-hasanah",
+        "translation": {
+          "en": "give thanks for good,"
+        }
+      },
+      {
+        "number": 61,
+        "type": "content",
+        "arabic": "وَأُغْضِي عَنِ السَّيِّئَةِ",
+        "transliteration": "wa ugh-ziya a'nis-say-yiwah",
+        "translation": {
+          "en": "And shut my eyes to evil!"
+        }
+      },
+      {
+        "number": 62,
+        "type": "content",
+        "arabic": "اللَّهُمَّ صَلِّ عَلى مُحَمَّدٍ وَّآلِهِ",
+        "transliteration": "allahumma sal-li a'la muhammadiw-wa a-lih",
+        "translation": {
+          "en": "O Allah, bless Muhammad and his Household,"
+        }
+      },
+      {
+        "number": 63,
+        "type": "content",
+        "arabic": "وَحَلِّنِي بِحِلْيَةِ الصَّاِلحِينَ",
+        "transliteration": "wa hal-lini bihil-yatis-salihin",
+        "translation": {
+          "en": "adorn me with the adornment of the righteous,"
+        }
+      },
+      {
+        "number": 64,
+        "type": "content",
+        "arabic": "وَأَلْبِسْنِي زِينَةَ المُتَّقِينَ فِي",
+        "transliteration": "wa al-bis-ni zinatal-mut-taqina fi",
+        "translation": {
+          "en": "And clothe me in the ornaments of the god-fearing, through:"
+        }
+      },
+      {
+        "number": 65,
+        "type": "content",
+        "arabic": "بَسْطِ الْعَدْلِ",
+        "transliteration": "bas-til-a'd-l",
+        "translation": {
+          "en": "spreading justice,"
+        }
+      },
+      {
+        "number": 66,
+        "type": "content",
+        "arabic": "وَكَظْمِ الْغَيْظِ",
+        "transliteration": "wa kazmil-ghayz",
+        "translation": {
+          "en": "restraining rage,"
+        }
+      },
+      {
+        "number": 67,
+        "type": "content",
+        "arabic": "وَإِطْفَاءِ النَّائِرَةِ",
+        "transliteration": "wa it-fa-in-na-irah",
+        "translation": {
+          "en": "quenching the flame of hate,"
+        }
+      },
+      {
+        "number": 68,
+        "type": "content",
+        "arabic": "وَضَمِّ أَهْلِ الْفُرْقَةِ",
+        "transliteration": "wa zammi ah-lil-fur-qah",
+        "translation": {
+          "en": "bringing together the people of separation,"
+        }
+      },
+      {
+        "number": 69,
+        "type": "content",
+        "arabic": "وَإِصْلاَحِ ذَاتِ الْبَيْنِ",
+        "transliteration": "wa is-lahi dhatil-bayn",
+        "translation": {
+          "en": "correcting discord,"
+        }
+      },
+      {
+        "number": 70,
+        "type": "content",
+        "arabic": "وَإِفْشِاءِ الْعَارِفَةِ",
+        "transliteration": "wa if-shia-il-a'arifah",
+        "translation": {
+          "en": "spreading about good behavior,"
+        }
+      },
+      {
+        "number": 71,
+        "type": "content",
+        "arabic": "وَسَتْرِ الْعَائِبَةِ",
+        "transliteration": "wa sat-ril-a'a-ibah",
+        "translation": {
+          "en": "covering faults,"
+        }
+      },
+      {
+        "number": 72,
+        "type": "content",
+        "arabic": "وَلِينِ الْعَرِيكَةِ",
+        "transliteration": "wa linil-a'rikah",
+        "translation": {
+          "en": "mildness of temper,"
+        }
+      },
+      {
+        "number": 73,
+        "type": "content",
+        "arabic": "وَخَفْضِ الْجَنَاحِ",
+        "transliteration": "wa khaf-zil-janah",
+        "translation": {
+          "en": "lowering the wing,"
+        }
+      },
+      {
+        "number": 74,
+        "type": "content",
+        "arabic": "وَحُسْنِ السِّيرَةِ",
+        "transliteration": "wa hus-nis-sirah",
+        "translation": {
+          "en": "beauty of conduct,"
+        }
+      },
+      {
+        "number": 75,
+        "type": "content",
+        "arabic": "وَسُكُونِ الرِّيحِ",
+        "transliteration": "wa sukunir-rih",
+        "translation": {
+          "en": "gravity of bearing,"
+        }
+      },
+      {
+        "number": 76,
+        "type": "content",
+        "arabic": "وَطِيبِ الْمُخَالَفَةِ",
+        "transliteration": "wa tibil-mukhalafah",
+        "translation": {
+          "en": "agreeableness in comportment,"
+        }
+      },
+      {
+        "number": 77,
+        "type": "content",
+        "arabic": "وَالسَّبْقِ إِلَى الْفَضِيلَةِ",
+        "transliteration": "was-sib-qi ilal-fazilah",
+        "translation": {
+          "en": "precedence in reaching excellence,"
+        }
+      },
+      {
+        "number": 78,
+        "type": "content",
+        "arabic": "وَإِيثَارِ التَّفَضُّلِ",
+        "transliteration": "wa itharit-tafaz-zul",
+        "translation": {
+          "en": "preferring bounteousness,"
+        }
+      },
+      {
+        "number": 79,
+        "type": "content",
+        "arabic": "وَتَرْكِ التَّعْيِيرِ",
+        "transliteration": "wa tar-kit-ta'-yir",
+        "translation": {
+          "en": "refraining from condemnation,"
+        }
+      },
+      {
+        "number": 80,
+        "type": "content",
+        "arabic": "وَالإِفْضَاِل عَلَى غَيْرِ الْمُسْتَحِقِّ",
+        "transliteration": "wal-if-zali a'la ghayril-mus-tahiq-q",
+        "translation": {
+          "en": "bestowing bounty on the undeserving,"
+        }
+      },
+      {
+        "number": 81,
+        "type": "content",
+        "arabic": "وَالْقَوْلِ بِالْحَقِّ وَإِنْ عَزَّ",
+        "transliteration": "wal-qaw-li bil-haq-qi wa in a'z-z",
+        "translation": {
+          "en": "speaking the truth, though it be painful,"
+        }
+      },
+      {
+        "number": 82,
+        "type": "content",
+        "arabic": "وَاسْتِقْلاَلِ الْخَيْرِ وَإِن كَثُرَ مِن قَوْلِي وَفِعْلِي",
+        "transliteration": "was-tiq-lalil-khayri wa in kathura min qaw-li wa fia'-li",
+        "translation": {
+          "en": "making little of the good in my words and deeds, though it be much,"
+        }
+      },
+      {
+        "number": 83,
+        "type": "content",
+        "arabic": "وَاسْتِكْثَارِ الْشَّرِ وَإِن قلَّ مِن قَوْلِي وَفِعْلِي",
+        "transliteration": "was-tik-tharish-shari wa in ql-la min qaw-li wa fia'-li",
+        "translation": {
+          "en": "And making much of the evil in my words and deeds, though it be little!"
+        }
+      },
+      {
+        "number": 84,
+        "type": "content",
+        "arabic": "وَأَكْمِلْ ذَلِكَ لِي",
+        "transliteration": "wa ak-mil dhalika li",
+        "translation": {
+          "en": "Perfect this for me through"
+        }
+      },
+      {
+        "number": 85,
+        "type": "content",
+        "arabic": "بِدَوَامِ الطَّاعَةِ،",
+        "transliteration": "bi-dawamit-ta'h",
+        "translation": {
+          "en": "lasting obedience,"
+        }
+      },
+      {
+        "number": 86,
+        "type": "content",
+        "arabic": "وَلُزُومِ الْجَمَاعَةِ،",
+        "transliteration": "wa luzumil-jama'h",
+        "translation": {
+          "en": "holding fast to the community,"
+        }
+      },
+      {
+        "number": 87,
+        "type": "content",
+        "arabic": "وَرَفْضِ أَهْلِ الْبِدَعِ، وَمُسْتَعْمِلِي الرَّأْيِ الْمُخْتَرَعِ",
+        "transliteration": "wa raf-zi ah-lil-bidai' wa mus-ta'-milir-ra-yil-mukh-tarai'",
+        "translation": {
+          "en": "And rejecting the people of innovation and those who act in accordance with original opinions."
+        }
+      },
+      {
+        "number": 88,
+        "type": "content",
+        "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَّآلِهِ",
+        "transliteration": "allahumma sal-li a'la muhammadiw-wa a-lih",
+        "translation": {
+          "en": "O Allah, bless Muhammad and his Household,"
+        }
+      },
+      {
+        "number": 89,
+        "type": "content",
+        "arabic": "وَاجْعَلْ أَوْسَعَ رِزْقِكَ عَلَيَّ إِذَا كَبِرْتُ،",
+        "transliteration": "waj-a'l aw-sa' rizqika a'lay-ya idha kabir-tu",
+        "translation": {
+          "en": "appoint for me Your widest provision in my old age"
+        }
+      },
+      {
+        "number": 90,
+        "type": "content",
+        "arabic": "وَأَقْوَى قُوَّتِكَ فِيَّ إِذَا نَصِبْتُ",
+        "transliteration": "wa aq-wa qu-watika fi-ya idha nasib-tu",
+        "translation": {
+          "en": "And Your strongest strength when I am exhausted,"
+        }
+      },
+      {
+        "number": 91,
+        "type": "content",
+        "arabic": "وَلا تَبْتَلِيَنِي بِالْكَسَلِ عَنْ عِبَادَتِكَ،",
+        "transliteration": "wa-la tab-tali-yani bil-kasali a'n i'badatika",
+        "translation": {
+          "en": "And try me not with laziness in worship of You,"
+        }
+      },
+      {
+        "number": 92,
+        "type": "content",
+        "arabic": "وَلا الْعَمى عَن سَبِيلِكَ،",
+        "transliteration": "wa lal-a'ma a'n sabilik",
+        "translation": {
+          "en": "blindness toward Your path,"
+        }
+      },
+      {
+        "number": 93,
+        "type": "content",
+        "arabic": "وَلا بِالتَّعَرُّضِ لِخِلاَفِ مَحَبَّتِكَ،",
+        "transliteration": "wa-la bit-ta'r-ruzi li-khilafi mahab-batika",
+        "translation": {
+          "en": "undertaking what opposes love for You,"
+        }
+      },
+      {
+        "number": 94,
+        "type": "content",
+        "arabic": "وَلا مُجَامَعَةِ مَن تَفَرَّقَ عَنْكَ،",
+        "transliteration": "wa-la mujama't man tafar-raqa a'nk",
+        "translation": {
+          "en": "joining with him who has separated himself from You,"
+        }
+      },
+      {
+        "number": 95,
+        "type": "content",
+        "arabic": "وَلا مُفَارَقَةِ مَنِ اجْتَمَعَ إِلَيْكَ",
+        "transliteration": "wa-la mufaraqat manij-tama' ilayk",
+        "translation": {
+          "en": "And separating from him who has joined himself to You!"
+        }
+      },
+      {
+        "number": 96,
+        "type": "content",
+        "arabic": "اللَّهُمَّ اجْعَلْنِي أَصُولُ بِكَ عِندَ الضَّرُورَةِ،",
+        "transliteration": "allahummaj-a'l-ni asulu bika i'ndaz-zarurah",
+        "translation": {
+          "en": "O Allah, make me leap to You in times of distress,"
+        }
+      },
+      {
+        "number": 97,
+        "type": "content",
+        "arabic": "وَأَسْألُكَ عِندَ الْحَاجَةِ،",
+        "transliteration": "wa as-aluka i'ndal-hajah",
+        "translation": {
+          "en": "ask from You in needs,"
+        }
+      },
+      {
+        "number": 98,
+        "type": "content",
+        "arabic": "وَأَتَضَرَّعُ إِلَيْكَ عِندَ الْمَسْكَنَةِ",
+        "transliteration": "wa atazar-rau' ilayka i'ndal-mas-kanah",
+        "translation": {
+          "en": "And plead to You in misery!"
+        }
+      },
+      {
+        "number": 99,
+        "type": "content",
+        "arabic": "وَلا تَفْتِنِّي بِالإِسْتِعَانَةِ بِغَيْرِكَ إِذَا اضْطُرِرْتُ،",
+        "transliteration": "wa-la taf-tin-ni bil-is-tia'anati bighayrika idhazturir-tu",
+        "translation": {
+          "en": "Tempt me not to seek help from other than You when I am distressed,"
+        }
+      },
+      {
+        "number": 100,
+        "type": "content",
+        "arabic": "وَلا بِالْخُضُوعِ لِسُؤَاِل غَيْرِكَ إِذَا افْتَقَرْتُ،",
+        "transliteration": "wa-la bil-khuzui' li-suali ghayrika idhaf-taqar-tu",
+        "translation": {
+          "en": "to humble myself in asking from someone else when I am poor,"
+        }
+      },
+      {
+        "number": 101,
+        "type": "content",
+        "arabic": "وَلا بِالتَّضَرُّعِ إِلَى مَن دُونِكَ إِذَارَهِبْتُ",
+        "transliteration": "wa-la bit-tazar-rui' ila man dunaka idharahib-tu",
+        "translation": {
+          "en": "or to plead with someone less than You when I fear,"
+        }
+      },
+      {
+        "number": 102,
+        "type": "content",
+        "arabic": "فَأَسْتَحِقُّ بِذَلِكَ خِذْلانَكَ وَمَنْعَكَ وَإِعْرَاضَكَ",
+        "transliteration": "fas-tahiq-qu bidhlika khidhlanaka wa man-a'ka wa ia'-razak",
+        "translation": {
+          "en": "for then I would deserve Your abandonment, Your withholding, and Your turning away,"
+        }
+      },
+      {
+        "number": 103,
+        "type": "content",
+        "arabic": "يَا أَرْحَمَ الرَّاحَمِينَ",
+        "transliteration": "ya ar-hamar-rahamin",
+        "translation": {
+          "en": "O Most Merciful of the merciful!"
+        }
+      },
+      {
+        "number": 104,
+        "type": "content",
+        "arabic": "اللَّهُمَّ اجْعَلْ مَا يُلْقِي الشَّيْطَانُ فِي رَوْعِي منِ التَّمَنِّي وَالتَّظَنِّي وَالْحَسَدِذِكْراً لِعَظَمَتِكَ، وَتَفَكُّراً فِي قُدْرَتِكَ، وَتَدْبِيراً عَلَى عَدُوِّكَ،",
+        "transliteration": "allahummaj-a'l ma yul-qish-shaytanu fi raw-e'e mint-taman-ni wat-tazan-ni wal-hasadidhik-ral-li-a'zamatika wa tafak-kuran fi qud-ratika wa tad-biran a'la a'du-wika",
+        "translation": {
+          "en": "O Allah, make the wishing, the doubt, and the envy which Satan throws into my heart a remembrance of Your mightiness, a reflection upon Your power, and a devising against Your enemy!"
+        }
+      },
+      {
+        "number": 105,
+        "type": "content",
+        "arabic": "وَمَا أَجْرَى عَلَى لِسَانِى مِن لَّفْظَةِ فُحْشٍ أَوْ هَجْرٍ أَوْ شَتْمِ عِرْضٍ أَوْ شَهَادَةِ بَاطِلٍ أَوِ اغْتِيَابِ مُؤْمِنٍ غَائِبٍ أَوْ سَبِّ حَاضِرٍ أَوْ مَا أَشْبَهَ ذَلِكَ،",
+        "transliteration": "wa ma aj-ra a'la li-sani mil-laf-zati fuh-shin aw haj-rin aw shat-mi i'r-zin aw shahadati batilin awigh-tiyabi mu-minin gha-ibin aw sab-bi hazirin aw ma ash-baha dhalika",
+        "translation": {
+          "en": "Make everything he causes to pass over my tongue - the indecent or ugly words, the maligning of good repute, the false witness, the speaking ill of an absent man of faith, or the reviling of one present, and all things similar—"
+        }
+      },
+      {
+        "number": 106,
+        "type": "content",
+        "arabic": "نُطْقاً بِالْحَمْدِ لَكَ،",
+        "transliteration": "nut-qam bial-ham-di lak",
+        "translation": {
+          "en": "a speech in praise of You,"
+        }
+      },
+      {
+        "number": 107,
+        "type": "content",
+        "arabic": "وَإِغْرَاقاً فِي الثَّنَاءِ عَلَيْكَ",
+        "transliteration": "wa igh-raqan fith-thana-i a'ilayk",
+        "translation": {
+          "en": "a pursual of eulogizing You,"
+        }
+      },
+      {
+        "number": 108,
+        "type": "content",
+        "arabic": "وَذَهَاباً فِي تَمْجِيدِكَ",
+        "transliteration": "wa dhahaban fi tam-jidik",
+        "translation": {
+          "en": "an excursion in magnifying You,"
+        }
+      },
+      {
+        "number": 109,
+        "type": "content",
+        "arabic": "وَشُكْراً لِّنِعْمَتِكَ",
+        "transliteration": "wa shuk-ral-linia'-matik",
+        "translation": {
+          "en": "a thanksgiving for Your favour,"
+        }
+      },
+      {
+        "number": 110,
+        "type": "content",
+        "arabic": "وَاعْتِرَافاً بِإِحْسَانِكَ",
+        "transliteration": "wa a'-tirafam biih-sanik",
+        "translation": {
+          "en": "an acknowledgment of Your beneficence,"
+        }
+      },
+      {
+        "number": 111,
+        "type": "content",
+        "arabic": "وَإِحْصَاءاً لِّمِنَنِكَ",
+        "transliteration": "wa ih-sa-al-li-minanik",
+        "translation": {
+          "en": "And an enumeration of Your kindness!"
+        }
+      },
+      {
+        "number": 112,
+        "type": "content",
+        "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَّآلِهِ",
+        "transliteration": "allahumma sal-li a'la muhammadiw-wa a-lih",
+        "translation": {
+          "en": "O Allah, bless Muhammad and his Household,"
+        }
+      },
+      {
+        "number": 113,
+        "type": "content",
+        "arabic": "وَلا أُظْلَمَنَّ وَأَنتَ مُطِيقٌ لِّلدَّفْعِ عَنِّي",
+        "transliteration": "wa-la uzlaman-na wa anta mutiqul-lid-daf-i' a'n-ni",
+        "translation": {
+          "en": "let me not be wronged, while You canst repel from me,"
+        }
+      },
+      {
+        "number": 114,
+        "type": "content",
+        "arabic": "وَلا أَظْلِمَنَّ وَأَنتَ الْقَادِرُ عَلى الْقَبْضِ مِنِّي",
+        "transliteration": "wa-la azliman-na wa antal-qadiru a'lil-qab-zi min-ni",
+        "translation": {
+          "en": "let me not do wrong, while You are powerful over holding me back,"
+        }
+      },
+      {
+        "number": 115,
+        "type": "content",
+        "arabic": "وَلا أَضِلَّنَّ وَقَدْ أَمْكَنَتْكَ هِدَايَتِي",
+        "transliteration": "wa-la azil-lan-na wa qad am-kanat-ka hidayati",
+        "translation": {
+          "en": "let me not be misguided, while You are able to guide me,"
+        }
+      },
+      {
+        "number": 116,
+        "type": "content",
+        "arabic": "وَلا أَفْتَقِرَنَّ وَمِنْ عِندِكَ وُسْعِي",
+        "transliteration": "wa-la af-taqiran-na wa min i'ndika wus-e'e",
+        "translation": {
+          "en": "let me not be poor, while with You is my plenty,"
+        }
+      },
+      {
+        "number": 117,
+        "type": "content",
+        "arabic": "وَلا أَطْغَيَنَّ وَمِنْ عِندِكَ وُجْدِي",
+        "transliteration": "wa-la at-ghayan-na wa min i'ndika wuj-di",
+        "translation": {
+          "en": "let me not be insolent, while from You comes my wealth!"
+        }
+      },
+      {
+        "number": 118,
+        "type": "content",
+        "arabic": "اللَّهُمَّ",
+        "transliteration": "allahumma",
+        "translation": {
+          "en": "O Allah,"
+        }
+      },
+      {
+        "number": 119,
+        "type": "content",
+        "arabic": "إِلَى مَغْفِرَتِكَ وَفَدتُّ",
+        "transliteration": "ila magh-firatika wafad-tu",
+        "translation": {
+          "en": "I come to Your forgiveness,"
+        }
+      },
+      {
+        "number": 120,
+        "type": "content",
+        "arabic": "وَإِلَى عَفْوِكَ قَصَدتُّ",
+        "transliteration": "wa ila a'f-wika qasad-tu",
+        "translation": {
+          "en": "I go straight to Your pardon,"
+        }
+      },
+      {
+        "number": 121,
+        "type": "content",
+        "arabic": "وَإِلَى تَجَاوُزِكَ اشْتَقْتُ",
+        "transliteration": "wa ila taja-wuzikash-taq-tu",
+        "translation": {
+          "en": "I yearn for Your forbearance,"
+        }
+      },
+      {
+        "number": 122,
+        "type": "content",
+        "arabic": "وَبِفَضْلِكَ وَثِقْتُ",
+        "transliteration": "wa bi-fazlika wathiq-tu",
+        "translation": {
+          "en": "And I trust in Your bounty,"
+        }
+      },
+      {
+        "number": 123,
+        "type": "content",
+        "arabic": "وَلَيْسَ عِندِي مَا يُوجِبُ لِي مَغْفِرَتَكَ",
+        "transliteration": "wa laysa i'ndi ma yujibu li magh-firatak",
+        "translation": {
+          "en": "but there is nothing with me to make me warrant but Your forgiveness,"
+        }
+      },
+      {
+        "number": 124,
+        "type": "content",
+        "arabic": "وَلا فِي عَمَلِي مَا أَسْتَحِقُّ بِهِ عَفْوَكَ",
+        "transliteration": "wa-la fi a'mali ma as-tahiq-qu bihi a'f-wak",
+        "translation": {
+          "en": "nothing in my works to make me merit but Your pardon,"
+        }
+      },
+      {
+        "number": 125,
+        "type": "content",
+        "arabic": "وَمَا لِي بَعْدَ أَنْ حَكَمْتُ عَلَى نَفْسِي إلاَّ فَضْلُكَ",
+        "transliteration": "wa ma li ba'-da an hakam-tu a'la naf-si il-la fazluka",
+        "translation": {
+          "en": "And nothing on my behalf after I judge my soul but Your bounty,"
+        }
+      },
+      {
+        "number": 126,
+        "type": "content",
+        "arabic": "فَصَلِّ عَلَى مُحَمَّدٍ وَّآلِهِ",
+        "transliteration": "fa-sal-li a'la muhammadiw-wa a-lihi",
+        "translation": {
+          "en": "O Allah, bless Muhammad and his Household"
+        }
+      },
+      {
+        "number": 127,
+        "type": "content",
+        "arabic": "وَتَفَضَّلْ عَلَيَّ اللَّهُمَّ",
+        "transliteration": "wa tafaz-zal a'layil allahumma",
+        "translation": {
+          "en": "O Allah, bestow Your bounty upon me!"
+        }
+      },
+      {
+        "number": 128,
+        "type": "content",
+        "arabic": "وَأَنطِقْنِي بِالْهُدَى",
+        "transliteration": "wa antiq-ni bial-huda",
+        "translation": {
+          "en": "make my speech be guidance,"
+        }
+      },
+      {
+        "number": 129,
+        "type": "content",
+        "arabic": "وَأَلْهِمْنِي التِّقْوَى",
+        "transliteration": "wa al-him-nit-tiq-wa",
+        "translation": {
+          "en": "inspire me with reverential fear,"
+        }
+      },
+      {
+        "number": 130,
+        "type": "content",
+        "arabic": "وَوَفِّقْنِي للَّتِي هِي أَزْكَى",
+        "transliteration": "wa waf-fiq-ni lil-lati hiya azka",
+        "translation": {
+          "en": "give me success in that which is most pure,"
+        }
+      },
+      {
+        "number": 131,
+        "type": "content",
+        "arabic": "وَاسْتَعْمِلْنِي بِمَا هُوَ أَرْضَى",
+        "transliteration": "was-ta'-mil-ni bima huwa ar-za",
+        "translation": {
+          "en": "And employ me in what is most pleasing to You!"
+        }
+      },
+      {
+        "number": 132,
+        "type": "content",
+        "arabic": "اللَّهُمَّ اسْلُكْ بِي الطَّرِيقَةَ الْمُثْلَى",
+        "transliteration": "allahummas-luk bi-yat-tariqatal-muth-la",
+        "translation": {
+          "en": "O Allah, let me tread the most exemplary path"
+        }
+      },
+      {
+        "number": 133,
+        "type": "content",
+        "arabic": "وَاجْعَلْنِي عَلَى مِلَّتِكَ أَمُوتُ وَأَحْيَا",
+        "transliteration": "waj-a'l-ni a'la mil-latika amutu wa ah-ya",
+        "translation": {
+          "en": "And make me live and die in Your creed!"
+        }
+      },
+      {
+        "number": 134,
+        "type": "content",
+        "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَّآلِهِ",
+        "transliteration": "allahumma sal-li a'la muhammadiw-wa a-lih",
+        "translation": {
+          "en": "O Allah, bless Muhammad and his Household,"
+        }
+      },
+      {
+        "number": 135,
+        "type": "content",
+        "arabic": "وَمَتِّعْنِي بِالإقْتِصَادِ",
+        "transliteration": "wa mat-tia'-ni bil-iq-tisad",
+        "translation": {
+          "en": "give me to enjoy moderation,"
+        }
+      },
+      {
+        "number": 136,
+        "type": "content",
+        "arabic": "وَاجْعَلْنِي مِنْ أَهْلِ السَّدَادِ،",
+        "transliteration": "waj-a'l-ni min ah-lis-sadad",
+        "translation": {
+          "en": "make me into one of the people of right behavior,"
+        }
+      },
+      {
+        "number": 137,
+        "type": "content",
+        "arabic": "وَمِنْ أَدِلَّةِ الرَّشَادِ،",
+        "transliteration": "wa min adil-latir-rashad",
+        "translation": {
+          "en": "the proofs of right conduct,"
+        }
+      },
+      {
+        "number": 138,
+        "type": "content",
+        "arabic": "وَمِن صَاِلحِي الْعِبَادِ",
+        "transliteration": "wa min salihil-i'bad",
+        "translation": {
+          "en": "And the servants of righteousness,"
+        }
+      },
+      {
+        "number": 139,
+        "type": "content",
+        "arabic": "وَارْزُقْنِي فَوْزَ الْمَعَادِ،",
+        "transliteration": "war-zuq-ni fawzal-ma'adi",
+        "translation": {
+          "en": "And provide me with triumph at the place of Return"
+        }
+      },
+      {
+        "number": 140,
+        "type": "content",
+        "arabic": "وَسَلاَمَةَ الْمِرْصَادِ",
+        "transliteration": "wa salamatal-mir-sad",
+        "translation": {
+          "en": "And safety from the Ambush!"
+        }
+      },
+      {
+        "number": 141,
+        "type": "content",
+        "arabic": "اللَّهُمَّ",
+        "transliteration": "allahumma",
+        "translation": {
+          "en": "O Allah,"
+        }
+      },
+      {
+        "number": 142,
+        "type": "content",
+        "arabic": "خُذْ لِنَفْسِكَ مِن نَّفْسِي مَا يُخَلِّصُهَا",
+        "transliteration": "khudh linaf-sika min-naf-si ma yukhal-lisuha",
+        "translation": {
+          "en": "take to Yourself from my soul what will purify it"
+        }
+      },
+      {
+        "number": 143,
+        "type": "content",
+        "arabic": "وَأَبْقِ لِنَفْسِي مِن نَّفْسِي مَا يُصْلِحُهَا،",
+        "transliteration": "wa ab-qi linaf-si min-naf-si ma yus-lihuha",
+        "translation": {
+          "en": "And leave for my soul that of my soul that will set it right,"
+        }
+      },
+      {
+        "number": 144,
+        "type": "content",
+        "arabic": "فَإِنَّ نَفْسِي هَاِلكَةً أَوْ تَعْصِمَهَا",
+        "transliteration": "fa-in-na naf-si halikatun aw ta'-simaha",
+        "translation": {
+          "en": "for my soul will perish unless You preservest it!"
+        }
+      },
+      {
+        "number": 145,
+        "type": "content",
+        "arabic": "اللَّهُمَّ",
+        "transliteration": "allahumma",
+        "translation": {
+          "en": "O Allah,"
+        }
+      },
+      {
+        "number": 146,
+        "type": "content",
+        "arabic": "أَنتَ عُدَّتِي إِنْ حَزِنتُ",
+        "transliteration": "anta u'd-dati in hazintu",
+        "translation": {
+          "en": "You are my stores when I sorrow,"
+        }
+      },
+      {
+        "number": 147,
+        "type": "content",
+        "arabic": "وَأَنتَ مُنتَجَعِي إِنْ حُرِمْتُ",
+        "transliteration": "wa anta muntajae'e in hurim-tu",
+        "translation": {
+          "en": "You are my recourse when I am deprived,"
+        }
+      },
+      {
+        "number": 148,
+        "type": "content",
+        "arabic": "وَبِكَ اسْتِغَاثَتِي إِن كُرِثْتُ",
+        "transliteration": "wa bikas-tigha-thati in kurith-tu",
+        "translation": {
+          "en": "from You I seek aid when troubled"
+        }
+      },
+      {
+        "number": 149,
+        "type": "content",
+        "arabic": "وَعِندَكَ مِمَّا فَاتَ خَلَفٌ،",
+        "transliteration": "wa i'ndaka mimma fata khalaf",
+        "translation": {
+          "en": "and with You is a substitute for everything gone by,"
+        }
+      },
+      {
+        "number": 150,
+        "type": "content",
+        "arabic": "وَلِمَا فَسَدَ صَلاَحٌ،",
+        "transliteration": "wa lima fasada salah",
+        "translation": {
+          "en": "a correction for everything corrupted,"
+        }
+      },
+      {
+        "number": 151,
+        "type": "content",
+        "arabic": "وَفِيمَا أَنكَرْتَ تَغْيِيرٌ",
+        "transliteration": "wa fima ankar-ta tagh-yir",
+        "translation": {
+          "en": "a change from everything You is approvest."
+        }
+      },
+      {
+        "number": 152,
+        "type": "content",
+        "arabic": "فَامْنُنْ عَلَيَّ قَبْلَ الْبَلاءِ بِالْعَافِيَةِ،",
+        "transliteration": "fam-nun a'lay-ya qab-lal-bala-i bil-a'afi-yah",
+        "translation": {
+          "en": "So show kindness to me with well-being before affliction,"
+        }
+      },
+      {
+        "number": 153,
+        "type": "content",
+        "arabic": "وَقَبْلَ الطَّلَبِ بِالْجِدَةِ،",
+        "transliteration": "wa qab-lat-talabi bial-jidah",
+        "translation": {
+          "en": "wealth before asking,"
+        }
+      },
+      {
+        "number": 154,
+        "type": "content",
+        "arabic": "وَقَبْلَ الضَّلاَلِ بِالرَّشَادِ",
+        "transliteration": "wa qab-laz-zalali bilr-rashad",
+        "translation": {
+          "en": "right conduct before misguidance;"
+        }
+      },
+      {
+        "number": 155,
+        "type": "content",
+        "arabic": "وَاكْفِنِي مَؤُونَةَ مَعَرَّةِ الْعِبَادِ",
+        "transliteration": "wak-fini ma’unata ma'r-ratil-i'badi",
+        "translation": {
+          "en": "suffice me against the burden of shame toward the servants,"
+        }
+      },
+      {
+        "number": 156,
+        "type": "content",
+        "arabic": "وَهَبْ لِي أَمْنَ يَوْمِ الْمَعَادِ",
+        "transliteration": "wa hab liya am-na yaw-mil-ma'ad",
+        "translation": {
+          "en": "give me security on the Day of Return,"
+        }
+      },
+      {
+        "number": 157,
+        "type": "content",
+        "arabic": "وَامْنَحْنِي حُسْنَ الإِرْشَادِ",
+        "transliteration": "wam-nah-ni hus-nal-ir-shad",
+        "translation": {
+          "en": "And grant me excellent right guidance!"
+        }
+      },
+      {
+        "number": 158,
+        "type": "content",
+        "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَّآلِهِ",
+        "transliteration": "allahumma sal-li a'la muhammadiw-wa a-lih",
+        "translation": {
+          "en": "O Allah, bless Muhammad and his Household,"
+        }
+      },
+      {
+        "number": 159,
+        "type": "content",
+        "arabic": "وَادْرَأْ عَنِّي بِلُطْفِكَ",
+        "transliteration": "wad-ra a'n-ni bi-lut-fik",
+        "translation": {
+          "en": "repel from me through Your gentleness,"
+        }
+      },
+      {
+        "number": 160,
+        "type": "content",
+        "arabic": "وَاغْذُنِي بِنِعْمَتِكَ",
+        "transliteration": "wagh-dhuni binia'-matik",
+        "translation": {
+          "en": "feed me through Your favour,"
+        }
+      },
+      {
+        "number": 161,
+        "type": "content",
+        "arabic": "وَأَصْلِحْنِي بِكَرَمِكَ",
+        "transliteration": "wa as-lih-ni bikaramik",
+        "translation": {
+          "en": "set me right through Your generosity,"
+        }
+      },
+      {
+        "number": 162,
+        "type": "content",
+        "arabic": "وَدَاوِنِي بِصُنعِكَ",
+        "transliteration": "wa dawini bisuni'k",
+        "translation": {
+          "en": "heal me through Your benefaction,"
+        }
+      },
+      {
+        "number": 163,
+        "type": "content",
+        "arabic": "وَأَظِلَّنِي فِي ذَرَاكَ",
+        "transliteration": "wa azil-lani fi dharak",
+        "translation": {
+          "en": "shade me in Your shelter,"
+        }
+      },
+      {
+        "number": 164,
+        "type": "content",
+        "arabic": "وَجَلِّلْنِي رِضَاكَ",
+        "transliteration": "wa jal-lil-ni rizak",
+        "translation": {
+          "en": "wrap me in Your good pleasure,"
+        }
+      },
+      {
+        "number": 165,
+        "type": "content",
+        "arabic": "وَوَفِّقْنِي إِذَا اشْتَكَلَتْ عَلَيَّ الأُمُورُ لأَهْدَاهَا،",
+        "transliteration": "wa waf-fiq-ni idhash-takalat a'lay-yal-umuru li-ah-daha",
+        "translation": {
+          "en": "And give me success to reach the most guided of affairs when affairs confuse me,"
+        }
+      },
+      {
+        "number": 166,
+        "type": "content",
+        "arabic": "وَإِذَا تَشَابَهَتِ الأَعْمَالُ لأَزْكَاهَا",
+        "transliteration": "wa idha tasha-bahatil-a'-malu li-azkaha",
+        "translation": {
+          "en": "the purest of works when works seem similar,"
+        }
+      },
+      {
+        "number": 167,
+        "type": "content",
+        "arabic": "وَإِذَا تَنَاقَضَتِ المِلَلُ لأَرْضَاهَا",
+        "transliteration": "wa idha tanaqazatil-milalu li-ar-zaha",
+        "translation": {
+          "en": "and the most pleasing to You of creeds when creeds conflict!"
+        }
+      },
+      {
+        "number": 168,
+        "type": "content",
+        "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَّآلِهِ",
+        "transliteration": "allahumma sal-li a'la muhammadiw-wa a-lih",
+        "translation": {
+          "en": "O Allah, bless Muhammad and his Household,"
+        }
+      },
+      {
+        "number": 169,
+        "type": "content",
+        "arabic": "وَتَوِّجْنِي بِالْكِفَايَةِ",
+        "transliteration": "wa taw-wij-ni bil-kifayah",
+        "translation": {
+          "en": "crown me with sufficiency,"
+        }
+      },
+      {
+        "number": 170,
+        "type": "content",
+        "arabic": "وَسُمْنِي حُسْنَ الْوِلاَيةِ",
+        "transliteration": "wa sum-ni hus-nal-wilayah",
+        "translation": {
+          "en": "place in me excellent guardianship"
+        }
+      },
+      {
+        "number": 171,
+        "type": "content",
+        "arabic": "وَهَبْ لِي صِدْقَ الْهِدَايَةِ",
+        "transliteration": "wa hab li sid-qal-hidayah",
+        "translation": {
+          "en": "give me to guide correctly ,"
+        }
+      },
+      {
+        "number": 172,
+        "type": "content",
+        "arabic": "وَلا تَفْتِنِّي بِالسَّعَةِ",
+        "transliteration": "wa-la taf-tin-ni bis-sa'ah",
+        "translation": {
+          "en": "tempt me not with plenty,"
+        }
+      },
+      {
+        "number": 173,
+        "type": "content",
+        "arabic": "وَامْنَحْنِي حُسْنَ الدَّعَةِ",
+        "transliteration": "wam-nah-ni hus-nad-da'ah",
+        "translation": {
+          "en": "grant me excellent ease,"
+        }
+      },
+      {
+        "number": 174,
+        "type": "content",
+        "arabic": "وَلا تَجْعَلْ عَيْشِي كَداًّ كَداًّ",
+        "transliteration": "wa-la taj-a'l a'yshi kad-dan kad-da",
+        "translation": {
+          "en": "make not my life toil and trouble,"
+        }
+      },
+      {
+        "number": 175,
+        "type": "content",
+        "arabic": "وَلا تَرُدَّ دُعَائِي عَلَيَّ رَدّاً",
+        "transliteration": "wa-la tarud-da dua'a-i a'lay-ya rad-da",
+        "translation": {
+          "en": "And refuse not my supplication in rejection,"
+        }
+      },
+      {
+        "number": 176,
+        "type": "content",
+        "arabic": "فَإِنِّي لا أَجْعَلُ لَكَ ضِدّاً",
+        "transliteration": "fa-in-ni la aj-a'lu laka zid-da",
+        "translation": {
+          "en": "for I make none rival to You"
+        }
+      },
+      {
+        "number": 177,
+        "type": "content",
+        "arabic": "وَلا أَدْعُو مَعَكَ نِدّاً",
+        "transliteration": "wa-la ad-o'o ma'ka nid-da",
+        "translation": {
+          "en": "And I supplicate none with You as equal!"
+        }
+      },
+      {
+        "number": 178,
+        "type": "content",
+        "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَّآلِهِ",
+        "transliteration": "allahumma sal-li a'la muhammadiw-wa a-lih",
+        "translation": {
+          "en": "O Allah, bless Muhammad and his Household,"
+        }
+      },
+      {
+        "number": 179,
+        "type": "content",
+        "arabic": "وَامْنَعْنِي مِنَ السَّرَفِ",
+        "transliteration": "wam-na'-ni minas-saraf",
+        "translation": {
+          "en": "hold me back from prodigality,"
+        }
+      },
+      {
+        "number": 180,
+        "type": "content",
+        "arabic": "وَحَصِّن رِّزْقِي مِنَ التَّلَفِ",
+        "transliteration": "wa has-sir-rizqi minat-talaf",
+        "translation": {
+          "en": "fortify my provision against ruin,"
+        }
+      },
+      {
+        "number": 181,
+        "type": "content",
+        "arabic": "وَوَفِّرْ مَلَكَتِي بِالْبَرَكَةِ فِيهِ",
+        "transliteration": "wa waf-fir malakati bil-barakati fih",
+        "translation": {
+          "en": "increase my possessions through blessing them,"
+        }
+      },
+      {
+        "number": 182,
+        "type": "content",
+        "arabic": "وَأَصِبْ بِي سَبِيلَ الْهِدَايَةِ لِلْبِرِّ فِيمَا أُنفِقُ مِنْهُ",
+        "transliteration": "wa asib bi sabilal-hidayati lil-bir-ri fima unfiqu minh",
+        "translation": {
+          "en": "And set me upon the path of guidance through piety in what I spend!"
+        }
+      },
+      {
+        "number": 183,
+        "type": "content",
+        "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَّآلِهِ",
+        "transliteration": "allahumma sal-li a'la muhammadiw-wa a-lih",
+        "translation": {
+          "en": "O Allah, bless Muhammad and his Household,"
+        }
+      },
+      {
+        "number": 184,
+        "type": "content",
+        "arabic": "وَاكْفِنِي مَؤُونَةَ الإكْتِسَابِ،",
+        "transliteration": "wak-fini ma’unatal-ik-tisab",
+        "translation": {
+          "en": "And spare me the burden of earning,"
+        }
+      },
+      {
+        "number": 185,
+        "type": "content",
+        "arabic": "وَارْزُقْنِي مِنْ غَيْرِ احْتِسَابٍ",
+        "transliteration": "warzuq-ni min ghayrih-tisab",
+        "translation": {
+          "en": "provide for me without reckoning,"
+        }
+      },
+      {
+        "number": 186,
+        "type": "content",
+        "arabic": "فَلا أَشْتَغِلَ عَنْ عِبَادَتِكَ بِالطَّلَبِ،",
+        "transliteration": "fa-la ash-taghila a'n i'badatika bit-talab",
+        "translation": {
+          "en": "lest I be distracted from Your worship through seeking"
+        }
+      },
+      {
+        "number": 187,
+        "type": "content",
+        "arabic": "وَلا أَحْتَمِلَ إِصْرَ تَبِعَاتِ الْمَكْسَبِ",
+        "transliteration": "wa-la ah-tamila is-ra tabia'atil-mak-sab",
+        "translation": {
+          "en": "And carry the load of earning's ill results!"
+        }
+      },
+      {
+        "number": 188,
+        "type": "content",
+        "arabic": "اللَّهُمَّ",
+        "transliteration": "allahumma",
+        "translation": {
+          "en": "O Allah,"
+        }
+      },
+      {
+        "number": 189,
+        "type": "content",
+        "arabic": "فَأَطْلِبْنِي بِقُدْرَتِكَ مَا أَطْلُبُ",
+        "transliteration": "fa-t-lib-ni bi-qud-ratika ma at-lubu",
+        "translation": {
+          "en": "bestow upon me what I seek through Your power"
+        }
+      },
+      {
+        "number": 190,
+        "type": "content",
+        "arabic": "وَأَجِرْنِي بِعِزَّتِكَ مِمَّا أَرْهَبُ",
+        "transliteration": "wa ajir-ni bi-i'z-zatika mim-ma ar-hab",
+        "translation": {
+          "en": "And grant me sanctuary from what I fear through Your might!"
+        }
+      },
+      {
+        "number": 191,
+        "type": "content",
+        "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَّآلِهِ",
+        "transliteration": "allahumma sal-li a'la muhammadiw-wa a-lih",
+        "translation": {
+          "en": "O Allah, bless Muhammad and his Household,"
+        }
+      },
+      {
+        "number": 192,
+        "type": "content",
+        "arabic": "وَصُن وَّجْهِي بِالْيَسَارِ،",
+        "transliteration": "wa suw-waj-hiya bil-yasar",
+        "translation": {
+          "en": "save my face through ease,"
+        }
+      },
+      {
+        "number": 193,
+        "type": "content",
+        "arabic": "وَلا تَبْتَذِلْ جَاهِي بِالإِقْتَارِ",
+        "transliteration": "wa-la tab-tadhil jahi bi-liq-tar",
+        "translation": {
+          "en": "And demean not my dignity through neediness,"
+        }
+      },
+      {
+        "number": 194,
+        "type": "content",
+        "arabic": "فَأَسْتَرْزِقَ أَهْلَ رِزْقِكَ،",
+        "transliteration": "fa-as-tarziqa ah-la rizqik",
+        "translation": {
+          "en": "lest I seek provision from those whom You hast provided"
+        }
+      },
+      {
+        "number": 195,
+        "type": "content",
+        "arabic": "وَأَسْتَعْطِي شِرَارَ خَلْقِكَ",
+        "transliteration": "wa as-ta'-ti shirara khal-qik",
+        "translation": {
+          "en": "And ask for bestowal from the worst of Your creatures!"
+        }
+      },
+      {
+        "number": 196,
+        "type": "content",
+        "arabic": "فَأَفْتَتِنَ بِحَمْدِ مَنْ أَعْطَانِي،",
+        "transliteration": "fa-af-tatina biham-di man a'-tani",
+        "translation": {
+          "en": "And Then I would be tried by praising him who gave to me"
+        }
+      },
+      {
+        "number": 197,
+        "type": "content",
+        "arabic": "وَأُبْتَلي بِذَمِّ مَن مَّنَعَنِي",
+        "transliteration": "wa ub-tala bidhammi mam-mana'ni",
+        "translation": {
+          "en": "afflicted with blaming him who held back from me,"
+        }
+      },
+      {
+        "number": 198,
+        "type": "content",
+        "arabic": "وَأَنتَ مِن دُونِهِمْ وَلِيُّ الإِعْطَاءِ وَالْمَنْعِ",
+        "transliteration": "wa anta min dunihim wali-yul-ia'-ta-i wal-man-i'",
+        "translation": {
+          "en": "While You— not they— art patron of giving and holding back"
+        }
+      },
+      {
+        "number": 199,
+        "type": "content",
+        "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَّآلِهِ",
+        "transliteration": "allahumma sal-li a'la muhammadiw-wa a-lih",
+        "translation": {
+          "en": "O Allah, bless Muhammad and his Household"
+        }
+      },
+      {
+        "number": 200,
+        "type": "content",
+        "arabic": "وَارْزُقْنِي صِحَّةً فِي عِبَادَةٍ،",
+        "transliteration": "warzuq-ni sih-hatan fi i'badah",
+        "translation": {
+          "en": "And provide me with soundness in worship,"
+        }
+      },
+      {
+        "number": 201,
+        "type": "content",
+        "arabic": "وَفَرَاغاً فِي زَهَادَةٍ،",
+        "transliteration": "wa faraghan fi zahadah",
+        "translation": {
+          "en": "detachment in renunciation,"
+        }
+      },
+      {
+        "number": 202,
+        "type": "content",
+        "arabic": "وَعِلْماً فِي اسْتِعْمَالٍ،",
+        "transliteration": "wa i'l-man fis-tia'-mal",
+        "translation": {
+          "en": "knowledge put into action,"
+        }
+      },
+      {
+        "number": 203,
+        "type": "content",
+        "arabic": "وَوَرَعاً فِي إِجْمَالٍ",
+        "transliteration": "wa wara'an fi ij-mal",
+        "translation": {
+          "en": "And abstinence in measure!"
+        }
+      },
+      {
+        "number": 204,
+        "type": "content",
+        "arabic": "اللَّهُمَّ اخْتِم بِعَفْوِكَ أَجَلِي",
+        "transliteration": "allahummakh-tim bia'f-wika ajali",
+        "translation": {
+          "en": "O Allah, seal my term with Your pardon,"
+        }
+      },
+      {
+        "number": 205,
+        "type": "content",
+        "arabic": "وَحَقِّقْ فِي رَجَاءِ رَحْمَتِكَ أَمَلِي",
+        "transliteration": "wa haq-qiq fi raja-i rah-matika amali",
+        "translation": {
+          "en": "verify my expectation in hoping for thy mercy,"
+        }
+      },
+      {
+        "number": 206,
+        "type": "content",
+        "arabic": "وَسَهِّلْ إِلَى بُلُوغِ رِضَاكَ سُبُلِي",
+        "transliteration": "wa sah-hil ila bulughi rizaka subuli",
+        "translation": {
+          "en": "smooth my paths to reach Your good pleasure,"
+        }
+      },
+      {
+        "number": 207,
+        "type": "content",
+        "arabic": "وَحَسِّن فِي جَمِيعِ أَحْوَاِلي عَمَلِي",
+        "transliteration": "wa has-sin fi jamii' ah-wali a'mali",
+        "translation": {
+          "en": "And make my works good in all my states!"
+        }
+      },
+      {
+        "number": 208,
+        "type": "content",
+        "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَّآلِهِ",
+        "transliteration": "allahumma sal-li a'la muhammadiw-wa a-lih",
+        "translation": {
+          "en": "O Allah, bless Muhammad and his Household,"
+        }
+      },
+      {
+        "number": 209,
+        "type": "content",
+        "arabic": "وَنَبِّهْنِي لِذِكْرِكَ فِي أَوْقَاتِ الْغَفْلَةِ",
+        "transliteration": "wa nab-bih-ni lidhik-rika fi aw-qatil-ghaf-lah",
+        "translation": {
+          "en": "Incite me to remember You in times of heedlessness,"
+        }
+      },
+      {
+        "number": 210,
+        "type": "content",
+        "arabic": "وَاسْتَعْمِلْنِي بِطَاعَتِكَ في أَيَّامِ الْمُهْلَةِ",
+        "transliteration": "was-ta'-mil-ni bita'tika fi ay-yamil-muh-lah",
+        "translation": {
+          "en": "employ me in Your obedience in days of disregard,"
+        }
+      },
+      {
+        "number": 211,
+        "type": "content",
+        "arabic": "وَانْهَجْ لِي إِلَى مَحَبَّتِكَ سَبِيلاً سَهْلَةً",
+        "transliteration": "wan-haj li ila mahab-batika sabilan sah-lah",
+        "translation": {
+          "en": "open a smooth road for me to Your love,"
+        }
+      },
+      {
+        "number": 212,
+        "type": "content",
+        "arabic": "أَكْمِلْ لِي بِهَا خَيْرَ الدُّنيَا وَالآخِرَةِ",
+        "transliteration": "ak-milu li biha khayrad-dunyawal-a-khirah",
+        "translation": {
+          "en": "And complete for me thereby the good of this world and the next!"
+        }
+      },
+      {
+        "number": 213,
+        "type": "content",
+        "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَّآلِهِ كَأَفْضَلِ مَا صَلَّيْتَ عَلَى أَحَدٍ مِّنْ خَلْقِكَ قَبْلَهُ وَأَنتَ مُصَلٍّ عَلى أَحَدٍ بَعْدَهُ",
+        "transliteration": "allahumma sal-li a'la muhammadiw-wa a-lihi ka-af-zali ma sal-layta a'la ahadim min khal-qika qab-lahu wa anta musal-lin a'la ahadim-ba'-dah",
+        "translation": {
+          "en": "O Allah, and bless Muhammad and his Household the best You hast blessed any of Your creatures before him and wilt bless any of them after him,"
+        }
+      },
+      {
+        "number": 214,
+        "type": "content",
+        "arabic": "وَآتِنَا فِي الدُّنْيَا حَسَنَةً وَّفِي الآخِرَةِ حَسَنَةً",
+        "transliteration": "wa a-tina fid-dunya hasanataw-wa fil-a-khirati hasanah",
+        "translation": {
+          "en": "And give to us in this world good, and in the next world good,"
+        }
+      },
+      {
+        "number": 215,
+        "type": "content",
+        "arabic": "وَقِنِي بِرَحْمَتِكَ عَذَابَ النَّارِ",
+        "transliteration": "wa qini birah-matika a'dhaban-nar",
+        "translation": {
+          "en": "And protect me through Your mercy from the chastisement of the Fire!"
+        }
+      },
+      {
+        "number": 216,
+        "type": "content",
+        "arabic": "إِنَّكَ عَلَى كُلِّ شَيٍْء قَدِيرٌ، وَهُوَ عَلَيْكَ يَسِيرٌ",
+        "transliteration": "in-naka a'la kul-li shay-in qadiruw-wahua a'ilayka yasir",
+        "translation": {
+          "en": "You are powerful over everything, and that is easy for You!"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ss24-prayer-for-parents",
+    "name": "SS24 - Prayer for Parents",
+    "category": "sahifa",
+    "segmentCount": 81,
+    "url": "https://www.duas.org/mobile/sahifasajjadia-dua24-prayer-for-parents.html",
+    "segments": [
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "His Supplication for his Parents"
+        }
+      },
+      {
+        "number": 1,
+        "type": "content",
+        "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّد عَبْـدِكَ وَرَسُولِـكَ",
+        "transliteration": "Allāhumma ṣalli ‘alā Muḥammadin ‘abdik wa rasūlik",
+        "translation": {
+          "en": "O Allah, send blessings upon Muhammad, Your servant and Your messenger,"
+        }
+      },
+      {
+        "number": 2,
+        "type": "content",
+        "arabic": "وَأَهْلِ بَيْتِهِ الطَّاهِرِينَ،",
+        "transliteration": "wa ahli baytihi aṭ-ṭāhirīn,",
+        "translation": {
+          "en": "and his pure family,"
+        }
+      },
+      {
+        "number": 3,
+        "type": "content",
+        "arabic": "وَاخْصُصْهُمْ بِأَفْضَلِ صَلَوَاتِكَ وَرَحْمَتِكَ",
+        "transliteration": "wa ikhṣuṣhum bi-afḍali ṣalawātika wa raḥmatik",
+        "translation": {
+          "en": "and single them out with the best of Your blessings, and Your mercy,"
+        }
+      },
+      {
+        "number": 4,
+        "type": "content",
+        "arabic": "وَبَرَكَاتِكَ وَسَلاَمِكَ،",
+        "transliteration": "wa barakātika wa salāmik,",
+        "translation": {
+          "en": "and Your favors, and Your peace."
+        }
+      },
+      {
+        "number": 5,
+        "type": "content",
+        "arabic": "وَاخْصُصِ اللَّهُمَّ وَالِدَيَّ بِالْكَرَامَةِ لَدَيْكَ،",
+        "transliteration": "wa ikhṣuṣi Allāhumma wālidayya bi-al-karāmati ladayk,",
+        "translation": {
+          "en": "And single out, O Allah, my parents with honor in Your presence,"
+        }
+      },
+      {
+        "number": 6,
+        "type": "content",
+        "arabic": "وَالصَّلاَةِ مِنْكَ يَا أَرْحَمَ الرَّاحِمِينَ.",
+        "transliteration": "wa aṣ-ṣalāti minka yā arḥama ar-rāḥimīn.",
+        "translation": {
+          "en": "and blessings from You, O Most Merciful of the merciful."
+        }
+      },
+      {
+        "number": 7,
+        "type": "content",
+        "arabic": "أللَّهُمَّ صَلِّ عَلَى مُحَمَّد وَآلِهِ",
+        "transliteration": "Allāhumma ṣalli ‘alā Muḥammadin wa ālih",
+        "translation": {
+          "en": "O Allah, send blessings upon Muhammad and his family,"
+        }
+      },
+      {
+        "number": 8,
+        "type": "content",
+        "arabic": "وَأَلْهِمْنِي عِلْمَ مَا يَجبُ لَهُمَا عَلَىَّ إلْهَاماً،",
+        "transliteration": "wa alhimnī ‘ilma mā yajibu lahumā ‘alayya ilhāmā,",
+        "translation": {
+          "en": "and inspire me with the knowledge of what is due to them from me, an inspiration,"
+        }
+      },
+      {
+        "number": 9,
+        "type": "content",
+        "arabic": "وَاجْمَعْ لِي عِلْمَ ذلِكَ كُلِّهِ تَمَامـاً،",
+        "transliteration": "wa ijma‘ lī ‘ilma dhālika kullihī tamāmā,",
+        "translation": {
+          "en": "and gather for me the complete knowledge of all of that,"
+        }
+      },
+      {
+        "number": 10,
+        "type": "content",
+        "arabic": "ثُمَّ اسْتَعْمِلْنِي بِمَا تُلْهِمُنِي مِنْـهُ،",
+        "transliteration": "thumma ista‘milnī bi-mā tulhimunī minh,",
+        "translation": {
+          "en": "then make me act according to what You inspire me with from it,"
+        }
+      },
+      {
+        "number": 11,
+        "type": "content",
+        "arabic": "وَوَفِّقْنِي لِلنُّفُوذِ فِيمَا تُبَصِّـرُنِيْ مِنْ عِلْمِهِ،",
+        "transliteration": "wa waffiqnī li-an-nufūdhi fīmā tubaṣṣirunī min ‘ilmih,",
+        "translation": {
+          "en": "and grant me success to penetrate what You give me insight into of its knowledge,"
+        }
+      },
+      {
+        "number": 12,
+        "type": "content",
+        "arabic": "حَتَّى لاَ يَفُوتَنِي اسْتِعْمَالُ شَيْء عَلَّمْتَنِيْهِ،",
+        "transliteration": "ḥattā lā yafūtanī isti‘mālu shay’in ‘allamtanīh,",
+        "translation": {
+          "en": "so that the practice of anything You have taught me does not escape me,"
+        }
+      },
+      {
+        "number": 13,
+        "type": "content",
+        "arabic": "وَلاَ تَثْقُلَ أَرْكَانِي عَنِ الْحُفُوفِ فِيمَا أَلْهَمْتَنِيهِ.",
+        "transliteration": "wa lā tathqula arkānī ‘ani al-ḥufūfi fīmā alhamtanīh.",
+        "translation": {
+          "en": "and my limbs do not become heavy in carrying out what You have inspired me with."
+        }
+      },
+      {
+        "number": 14,
+        "type": "content",
+        "arabic": "أللَّهُمَّ صَلِّ عَلَى مُحَمَّد وَآلِهِ كَمَا شَرَّفْتَنَا بِهِ",
+        "transliteration": "Allāhumma ṣalli ‘alā Muḥammadin wa ālih kamā sharraftanā bih",
+        "translation": {
+          "en": "O Allah, send blessings upon Muhammad and his family, just as You honored us through him,"
+        }
+      },
+      {
+        "number": 15,
+        "type": "content",
+        "arabic": "وَصَلِّ عَلَى مُحَمَّد وَآلِهِ",
+        "transliteration": "wa ṣalli ‘alā Muḥammadin wa ālih",
+        "translation": {
+          "en": "and send blessings upon Muhammad and his family,"
+        }
+      },
+      {
+        "number": 16,
+        "type": "content",
+        "arabic": "كَمَا أَوْجَبْتَ لَنَا الْحَقَّ عَلَى الْخَلْقِ بِسَبَبِهِ.",
+        "transliteration": "kamā awjabta lanā al-ḥaqqa ‘alā al-khalqi bi-sababih.",
+        "translation": {
+          "en": "just as You made incumbent upon the creation the right due to us because of him."
+        }
+      },
+      {
+        "number": 17,
+        "type": "content",
+        "arabic": "أللَّهُمَّ اجْعَلْنِي أَهَابُهُمَا هَيْبَةَ السُّلْطَانِ الْعَسُوفِ،",
+        "transliteration": "Allāhumma ij‘alnī ahābuhumā haybata as-sulṭāni al-‘asūf,",
+        "translation": {
+          "en": "O Allah, make me regard them with the awe of the fierce ruler,"
+        }
+      },
+      {
+        "number": 18,
+        "type": "content",
+        "arabic": "وَأَبَرُّهُمَا بِرَّ الأُمِّ الرَّؤُوفِ،",
+        "transliteration": "wa abarrhuma birra al-ummi ar-ra’ūf,",
+        "translation": {
+          "en": "and be more dutiful to them than the merciful mother,"
+        }
+      },
+      {
+        "number": 19,
+        "type": "content",
+        "arabic": "وَاجْعَلْ طَاعَتِي لِوَالِدَيَّ وَبِرِّيْ بِهِمَا",
+        "transliteration": "wa ij‘al ṭā‘atī li-wālidayya wa birrī bihimā",
+        "translation": {
+          "en": "and make my obedience to my parents and my dutifulness to them"
+        }
+      },
+      {
+        "number": 20,
+        "type": "content",
+        "arabic": "أَقَرَّ لِعَيْنِي مِنْ رَقْدَةِ الْوَسْنَانِ،",
+        "transliteration": "aqarra li-‘aynī min raqḍati al-wasnān,",
+        "translation": {
+          "en": "more delightful to my eyes than the sleep of the weary,"
+        }
+      },
+      {
+        "number": 21,
+        "type": "content",
+        "arabic": "وَأَثْلَجَ لِصَدْرِي مِنْ شَرْبَةِ الظَّمْآنِ",
+        "transliteration": "wa athlaja li-ṣadrī min sharbati aẓ-ẓam’ān",
+        "translation": {
+          "en": "and cooler to my chest than the drink of the thirsty,"
+        }
+      },
+      {
+        "number": 22,
+        "type": "content",
+        "arabic": "حَتَّى أوثِرَ عَلَى هَوَايَ هَوَاهُمَا",
+        "transliteration": "ḥattā ūthira ‘alā hawāya hawāhumā",
+        "translation": {
+          "en": "so that I prefer their desire over my own desire,"
+        }
+      },
+      {
+        "number": 23,
+        "type": "content",
+        "arabic": "وَأُقَدِّمَ عَلَى رِضَاىَ رِضَاهُمَا",
+        "transliteration": "wa uqaddima ‘alā riḍāya riḍāhumā",
+        "translation": {
+          "en": "and place their pleasure before my own pleasure,"
+        }
+      },
+      {
+        "number": 24,
+        "type": "content",
+        "arabic": "وَأَسْتَكْثِرَ بِرَّهُمَا بِي وَإنْ قَلَّ",
+        "transliteration": "wa astakthira birrahumā bī wa in qall",
+        "translation": {
+          "en": "and consider my parents' kindness to me to be great, even if it is little,"
+        }
+      },
+      {
+        "number": 25,
+        "type": "content",
+        "arabic": "وَأَسْتَقِلَّ بِرِّي بِهِمَا وَإنْ كَثُرَ.",
+        "transliteration": "wa astaqilla birrī bihimā wa in kathur.",
+        "translation": {
+          "en": "and consider my dutifulness to them to be little, even if it is much."
+        }
+      },
+      {
+        "number": 26,
+        "type": "content",
+        "arabic": "أللَّهُمَّ خَفِّضْ لَهُمَا صَوْتِي، وَأَطِبْ لَهُمَا كَلاَمِي،",
+        "transliteration": "Allāhumma khaffiḍ lahumā ṣawtī, wa aṭib lahumā kalāmī,",
+        "translation": {
+          "en": "O Allah, lower my voice before them, and sweeten my speech for them,"
+        }
+      },
+      {
+        "number": 27,
+        "type": "content",
+        "arabic": "وَأَلِنْ لَهُمَا عَرِيْكَتِي، وَاعْطِفْ عَلَيْهِمَا قَلْبِي،",
+        "transliteration": "wa alin lahumā ‘arīkatī, wa a‘ṭif ‘alayhimā qalbī,",
+        "translation": {
+          "en": "and soften my nature for them, and incline my heart toward them,"
+        }
+      },
+      {
+        "number": 28,
+        "type": "content",
+        "arabic": "وَصَيِّرْنِي بِهِمَا رَفِيقاً، وَعَلَيْهِمَا شَفِيقاً.",
+        "transliteration": "wa ṣayyirnī bihimā rafīqan, wa ‘alayhimā shafīqan.",
+        "translation": {
+          "en": "and make me a gentle companion to them, and a compassionate person toward them."
+        }
+      },
+      {
+        "number": 29,
+        "type": "content",
+        "arabic": "أللَّهُمَّ اشْكُرْ لَهُمَا تَرْبِيَتِي وَأَثِبْهُمَا عَلَى تَكْرِمَتِي،",
+        "transliteration": "Allāhumma ushkur lahumā tarbiyatī wa athibhuma ‘alā takrimatī,",
+        "translation": {
+          "en": "O Allah, thank them for raising me, and reward them for honoring me,"
+        }
+      },
+      {
+        "number": 30,
+        "type": "content",
+        "arabic": "وَاحْفَظْ لَهُمَا مَا حَفِظَاهُ مِنِّي فِي صِغَرِي.",
+        "transliteration": "wa iḥfaẓ lahumā mā ḥafiẓāhu minnī fī ṣigharī.",
+        "translation": {
+          "en": "and preserve for them what they preserved of me in my childhood."
+        }
+      },
+      {
+        "number": 31,
+        "type": "content",
+        "arabic": "اللَّهُمَّ وَمَا مَسَّهُمَا مِنِّي مِنْ أَذَىً",
+        "transliteration": "Allāhumma wa mā massahumā minnī min adhā",
+        "translation": {
+          "en": "O Allah, and whatever harm touched them from me,"
+        }
+      },
+      {
+        "number": 32,
+        "type": "content",
+        "arabic": "أَوْ خَلَصَ إلَيْهِمَا عَنِّي مِنْ مَكْرُوه",
+        "transliteration": "aw khalaṣa ilayhimā ‘annī min makrūh",
+        "translation": {
+          "en": "or whatever unpleasant thing reached them from me,"
+        }
+      },
+      {
+        "number": 33,
+        "type": "content",
+        "arabic": "أَوْ ضَاعَ قِبَلِي لَهُمَا مِنْ حَقٍّ",
+        "transliteration": "aw ḍā‘a qibalī lahumā min ḥaqqin",
+        "translation": {
+          "en": "or whatever right of theirs was lost by me,"
+        }
+      },
+      {
+        "number": 34,
+        "type": "content",
+        "arabic": "فَاجْعَلْهُ حِطَّةً لِذُنُوبِهِمَا",
+        "transliteration": "fa-ij‘alhu ḥiṭṭatan li-dhunūbihimā",
+        "translation": {
+          "en": "then make it a means of relief for their sins,"
+        }
+      },
+      {
+        "number": 35,
+        "type": "content",
+        "arabic": "وَعُلُوّاً فِي دَرَجَاتِهِمَا",
+        "transliteration": "wa ‘uluwwan fī darajātihimā",
+        "translation": {
+          "en": "and a raise in their ranks,"
+        }
+      },
+      {
+        "number": 36,
+        "type": "content",
+        "arabic": "وَزِيَادَةً فِي حَسَنَاتِهِمَا",
+        "transliteration": "wa ziyādatan fī ḥasanātihimā",
+        "translation": {
+          "en": "and an increase in their good deeds,"
+        }
+      },
+      {
+        "number": 37,
+        "type": "content",
+        "arabic": "يَا مُبَدِّلَ السَّيِّئاتِ بِأَضْعَافِهَا مِنَ الْحَسَنَاتِ.",
+        "transliteration": "yā mubaddila as-sayyi’āti bi-aḍ‘āfihā mina al-ḥasanāt.",
+        "translation": {
+          "en": "O You who exchange bad deeds for many times their like in good deeds."
+        }
+      },
+      {
+        "number": 38,
+        "type": "content",
+        "arabic": "أللَّهُمَّ وَمَا تَعَدَّيَا عَلَيَّ فِيهِ مِنْ قَوْل،",
+        "transliteration": "Allāhumma wa mā ta‘addayā ‘alayya fīhi min qawl,",
+        "translation": {
+          "en": "O Allah, and whatever word they spoke that went beyond bounds against me,"
+        }
+      },
+      {
+        "number": 39,
+        "type": "content",
+        "arabic": "أَوْ أَسْرَفَا عَلَىَّ فِيْهِ مِنْ فِعْل،",
+        "transliteration": "aw asrafā ‘alayya fīhi min fi‘l,",
+        "translation": {
+          "en": "or whatever action they were excessive in against me,"
+        }
+      },
+      {
+        "number": 40,
+        "type": "content",
+        "arabic": "أَوْ ضَيَّعَاهُ لِي مِنْ حَقٍّ",
+        "transliteration": "aw ḍayya‘āhu lī min ḥaqqin",
+        "translation": {
+          "en": "or whatever right of mine they neglected,"
+        }
+      },
+      {
+        "number": 41,
+        "type": "content",
+        "arabic": "أَوْ قَصَّرا بِي عَنْهُ مِنْ وَاجِب",
+        "transliteration": "aw qaṣṣarā bī ‘anhu min wājib",
+        "translation": {
+          "en": "or whatever duty they fell short in towards me,"
+        }
+      },
+      {
+        "number": 42,
+        "type": "content",
+        "arabic": "فَقَدْ وَهَبْتُهُ وَجُدْتُ بِهِ عَلَيْهِمَا،",
+        "transliteration": "fa-qad wahabtuhu wa judtu bihi ‘alayhimā,",
+        "translation": {
+          "en": "I have forgiven it and granted it to them generously,"
+        }
+      },
+      {
+        "number": 43,
+        "type": "content",
+        "arabic": "وَرَغِبْتُ إلَيْكَ فِي وَضْعِ تَبِعَتِهِ عَنْهُمَا",
+        "transliteration": "wa raghibtu ilayka fī waḍ‘i tabi‘atihi ‘anhumā",
+        "translation": {
+          "en": "and I appeal to You to remove its accountability from them,"
+        }
+      },
+      {
+        "number": 44,
+        "type": "content",
+        "arabic": "فَإنِّي لا أَتَّهِمُهُمَا عَلَى نَفْسِي،",
+        "transliteration": "fa-innī lā attahimuhumā ‘alā nafsī,",
+        "translation": {
+          "en": "for I do not accuse them regarding myself,"
+        }
+      },
+      {
+        "number": 45,
+        "type": "content",
+        "arabic": "وَلاَ أَسْتَبْطِئُهُمَا فِي بِرِّي،",
+        "transliteration": "wa lā astabṭi’uhumā fī birrī,",
+        "translation": {
+          "en": "nor do I consider them slow in their kindness to me,"
+        }
+      },
+      {
+        "number": 46,
+        "type": "content",
+        "arabic": "وَلا أكْرَهُ مَا تَوَلَّياهُ مِنْ أَمْرِي يَا رَبِّ",
+        "transliteration": "wa lā akrahu mā tawallayāhu min amrī yā Rabb",
+        "translation": {
+          "en": "nor do I dislike what they undertook concerning my affairs, O Lord."
+        }
+      },
+      {
+        "number": 47,
+        "type": "content",
+        "arabic": "فَهُمَا أَوْجَبُ حَقّاً عَلَيَّ،",
+        "transliteration": "fa-humā awjabu ḥaqqan ‘alayy,",
+        "translation": {
+          "en": "For they have the most incumbent right over me,"
+        }
+      },
+      {
+        "number": 48,
+        "type": "content",
+        "arabic": "وَأَقْدَمُ إحْسَانـاً إلَيَّ",
+        "transliteration": "wa aqdamu iḥsānan ilayy",
+        "translation": {
+          "en": "and the oldest kindness towards me,"
+        }
+      },
+      {
+        "number": 49,
+        "type": "content",
+        "arabic": "وَأَعْظَمُ مِنَّةً لَـدَيَّ",
+        "transliteration": "wa a‘ẓamu minnatan ladayy",
+        "translation": {
+          "en": "and the greatest favor with me—"
+        }
+      },
+      {
+        "number": 50,
+        "type": "content",
+        "arabic": "مِنْ أَنْ أقَاصَّهُمَا بِعَدْل،",
+        "transliteration": "min an uqāṣṣahumā bi-‘adl,",
+        "translation": {
+          "en": "than for me to take retribution from them with justice,"
+        }
+      },
+      {
+        "number": 51,
+        "type": "content",
+        "arabic": "أَوْ أُجَازِيَهُمَا عَلَى مِثْل،",
+        "transliteration": "aw ujāziyahumā ‘alā mithl,",
+        "translation": {
+          "en": "or reward them in kind."
+        }
+      },
+      {
+        "number": 52,
+        "type": "content",
+        "arabic": "أَيْنَ إذاً يَا إلهِيْ طُولُ شُغْلِهِمَا بِتَرْبِيَتِي ؟",
+        "transliteration": "ayna idhan yā Ilāhī ṭūlu shughlihimā bi-tarbiyatī?",
+        "translation": {
+          "en": "Where then, O my God, is the long effort of their raising me?"
+        }
+      },
+      {
+        "number": 53,
+        "type": "content",
+        "arabic": "وَأَيْنَ شِدَّةُ تَعَبِهِمَا فِي حِرَاسَتِيْ ؟",
+        "transliteration": "wa ayna shiddatu ta‘abihimā fī ḥirāsatī?",
+        "translation": {
+          "en": "And where is the intensity of their toil in guarding me?"
+        }
+      },
+      {
+        "number": 54,
+        "type": "content",
+        "arabic": "وَأَيْنَ إقْتَارُهُمَا عَلَى أَنْفُسِهِمَا لِلتَّوْسِعَةِ عَلَيَّ؟",
+        "transliteration": "wa ayna iqtāruhumā ‘alā anfusihimā li-at-tawsi‘ati ‘alayy?",
+        "translation": {
+          "en": "And where is their scarcity for themselves in order to provide abundantly for me?"
+        }
+      },
+      {
+        "number": 55,
+        "type": "content",
+        "arabic": "هَيْهَاتَ مَا يَسْتَوْفِيَانِ مِنِّي حَقَّهُمَا،",
+        "transliteration": "hayhāta mā yastawfiyāni minnī ḥaqqahumā,",
+        "translation": {
+          "en": "Far be it! They cannot exhaust their right from me,"
+        }
+      },
+      {
+        "number": 56,
+        "type": "content",
+        "arabic": "وَلاَ اُدْرِكُ مَا يَجِبُ عَلَيَّ لَهُمَا",
+        "transliteration": "wa lā udriku mā yajibu ‘alayya lahumā",
+        "translation": {
+          "en": "nor can I reach what is incumbent upon me for them,"
+        }
+      },
+      {
+        "number": 57,
+        "type": "content",
+        "arabic": "وَلا أَنَا بِقَاض وَظِيفَةَ خِدْمَتِهِمَا.",
+        "transliteration": "wa lā anā bi-qāḍin waẓīfata khidmatihimā.",
+        "translation": {
+          "en": "and I am not one who can fulfill the duty of serving them."
+        }
+      },
+      {
+        "number": 58,
+        "type": "content",
+        "arabic": "فَصَلِّ عَلَى مُحَمَّد وَآلِهِ",
+        "transliteration": "fa-ṣalli ‘alā Muḥammadin wa ālih",
+        "translation": {
+          "en": "So send blessings upon Muhammad and his family,"
+        }
+      },
+      {
+        "number": 59,
+        "type": "content",
+        "arabic": "وَأَعِنِّي يَا خَيْرَ مَنِ اسْتُعِينَ بِهِ.",
+        "transliteration": "wa a‘innī yā khayra mani istu‘īna bih.",
+        "translation": {
+          "en": "and help me, O Best of those whose help is sought."
+        }
+      },
+      {
+        "number": 60,
+        "type": "content",
+        "arabic": "وَوَفِّقْنِي يَا أَهْدَى مَنْ رُغِبَ إلَيْهِ،",
+        "transliteration": "wa waffiqnī yā ahdā man rughiba ilayh,",
+        "translation": {
+          "en": "And grant me success, O Most Guiding of those desired,"
+        }
+      },
+      {
+        "number": 61,
+        "type": "content",
+        "arabic": "وَلاَ تَجْعَلْنِي فِي أَهْلِ الْعُقُوقِ لِلآباءِوَالأُمَّهاتِ",
+        "transliteration": "wa lā taj‘alnī fī ahli al-‘uqūqi li-al-ābā’i wa al-ummahāt",
+        "translation": {
+          "en": "and do not place me among the people of disobedience to fathers and mothers"
+        }
+      },
+      {
+        "number": 62,
+        "type": "content",
+        "arabic": "يَوْمَ تُجْزى كُلُّ نَفْس بِمَا كَسَبَتْ وَهُمْ لاَيُظْلَمُونَ.",
+        "transliteration": "yawma tujzā kullu nafsin bi-mā kasabat wa hum lā yuẓlamūn.",
+        "translation": {
+          "en": "on the Day every soul is recompensed for what it earned, and they will not be wronged."
+        }
+      },
+      {
+        "number": 63,
+        "type": "content",
+        "arabic": "أللَّهُمَّ صَلِّ عَلَى مُحَمَّد وَآلِـهِ وَذُرِّيَّتِهِ،",
+        "transliteration": "Allāhumma ṣalli ‘alā Muḥammadin wa ālihī wa dhurrīyatih,",
+        "translation": {
+          "en": "O Allah, send blessings upon Muhammad and his family and his descendants,"
+        }
+      },
+      {
+        "number": 64,
+        "type": "content",
+        "arabic": "وَاخْصُصْ أَبَوَيَّ بِأَفْضَلِ مَا خَصَصْتَ بِهِ",
+        "transliteration": "wa ikhṣuṣ abawayya bi-afḍali mā khaṣaṣta bih",
+        "translation": {
+          "en": "and single out my parents with the best of what You singled out"
+        }
+      },
+      {
+        "number": 65,
+        "type": "content",
+        "arabic": "آبَاءَ عِبَادِكَ الْمُؤْمِنِينَ وَاُمَّهَاتِهِمْ يَا أَرْحَمَ الـرَّاحِمِينَ.",
+        "transliteration": "ābā’a ‘ibādika al-mu’minīna wa ummahātihim yā arḥama ar-rāḥimīn.",
+        "translation": {
+          "en": "the fathers of Your believing servants and their mothers, O Most Merciful of the merciful."
+        }
+      },
+      {
+        "number": 66,
+        "type": "content",
+        "arabic": "أللَّهُمَّ لاَ تُنْسِنِي ذِكْرَهُمَا فِي أَدْبَارِ صَلَوَاتِي",
+        "transliteration": "Allāhumma lā tunsīnī dhikrahumā fī adbāri ṣalawātī",
+        "translation": {
+          "en": "O Allah, do not make me forget their remembrance at the conclusions of my prayers,"
+        }
+      },
+      {
+        "number": 67,
+        "type": "content",
+        "arabic": "وَفِي أَناً مِنْ آناءِ لَيْلِي،",
+        "transliteration": "wa fī anan min ānā’i laylī,",
+        "translation": {
+          "en": "and in any part of the moments of my night,"
+        }
+      },
+      {
+        "number": 68,
+        "type": "content",
+        "arabic": "وَفِي كُلِّ سَاعَة مِنْ سَاعَاتِ نَهَارِي.",
+        "transliteration": "wa fī kulli sā‘atin min sā‘āti nahārī.",
+        "translation": {
+          "en": "and in every hour of the hours of my day."
+        }
+      },
+      {
+        "number": 69,
+        "type": "content",
+        "arabic": "أللَّهُمَّ صَلِّ عَلَى مُحَمَّد وَآلِهِ",
+        "transliteration": "Allāhumma ṣalli ‘alā Muḥammadin wa ālih",
+        "translation": {
+          "en": "O Allah, send blessings upon Muhammad and his family,"
+        }
+      },
+      {
+        "number": 70,
+        "type": "content",
+        "arabic": "وَاغْفِرْ لِي بِدُعَائِي لَهُمَا،",
+        "transliteration": "wa ighfir lī bi-du‘ā’ī lahumā,",
+        "translation": {
+          "en": "and forgive me through my prayer for them,"
+        }
+      },
+      {
+        "number": 71,
+        "type": "content",
+        "arabic": "وَاغْفِرْ لَهُمَـا بِبِرِّهِمَـا بِي،",
+        "transliteration": "wa ighfir lahumā bi-birrihimā bī,",
+        "translation": {
+          "en": "and forgive them through their dutifulness to me,"
+        }
+      },
+      {
+        "number": 72,
+        "type": "content",
+        "arabic": "مَغْفِرَةً حَتْمـاً",
+        "transliteration": "maghfiratan ḥatmā",
+        "translation": {
+          "en": "a definite forgiveness,"
+        }
+      },
+      {
+        "number": 73,
+        "type": "content",
+        "arabic": "وَارْضَ عَنْهُمَا بِشَفَاعَتِي لَهُمَا رِضَىً عَزْماً،",
+        "transliteration": "wa irḍa ‘anhumā bi-shafā‘atī lahumā riḍan ‘azmā,",
+        "translation": {
+          "en": "and be pleased with them through my intercession for them, a resolute pleasure,"
+        }
+      },
+      {
+        "number": 74,
+        "type": "content",
+        "arabic": "وَبَلِّغْهُمَا بِالْكَرَامَةِ مَوَاطِنَ السَّلاَمَةِ.",
+        "transliteration": "wa ballighhumā bi-al-karāmati mawāṭina as-salāmah.",
+        "translation": {
+          "en": "and convey them with honor to the abodes of peace."
+        }
+      },
+      {
+        "number": 75,
+        "type": "content",
+        "arabic": "أللَّهُمَّ وَإنْ سَبَقَتْ مَغْفِرَتُكَ لَهُمَا فَشَفِّعْهُمَا فِيَّ،",
+        "transliteration": "Allāhumma wa in sabaqat maghfiratuka lahumā fa-shaffi‘humā fiyy,",
+        "translation": {
+          "en": "O Allah, if Your forgiveness preceded them, then make them intercede for me,"
+        }
+      },
+      {
+        "number": 76,
+        "type": "content",
+        "arabic": "وَإنْ سَبَقَتْ مَغْفِرَتُـكَ لِي فَشَفِّعْنِي فِيْهِمَا،",
+        "transliteration": "wa in sabaqat maghfiratuka lī fa-shaffi‘nī fīhimā,",
+        "translation": {
+          "en": "and if Your forgiveness preceded me, then make me intercede for them,"
+        }
+      },
+      {
+        "number": 77,
+        "type": "content",
+        "arabic": "حَتّى نَجْتَمِعَ بِرَأفَتِكَ فِي دَارِ كَرَامَتِكَ",
+        "transliteration": "ḥattā najtami‘a bi-ra’fatika fī dāri karāmatik",
+        "translation": {
+          "en": "so that we may gather by Your compassion in the abode of Your honor,"
+        }
+      },
+      {
+        "number": 78,
+        "type": "content",
+        "arabic": "وَمَحَلِّ مَغْفِرَتِكَ وَرَحْمَتِكَ،",
+        "transliteration": "wa maḥalli maghfiratika wa raḥmatik,",
+        "translation": {
+          "en": "and the place of Your forgiveness and Your mercy."
+        }
+      },
+      {
+        "number": 79,
+        "type": "content",
+        "arabic": "إنَّكَ ذُو الْفَضْلِ الْعَظِيمِ وَالْمَنِّ الْقَدِيْمِ",
+        "transliteration": "innaka dhū al-faḍli al-‘aẓīmi wa al-manni al-qadīm",
+        "translation": {
+          "en": "Truly, You are the Possessor of immense favor and ancient bounty,"
+        }
+      },
+      {
+        "number": 80,
+        "type": "content",
+        "arabic": "وَأَنْتَ أَرْحَمُ الرَّاحِمِينَ.",
+        "transliteration": "wa anta arḥamu ar-rāḥimīn.",
+        "translation": {
+          "en": "and You are the Most Merciful of the merciful."
+        }
+      }
+    ]
+  },
+  {
+    "id": "ss25-prayer-for-children",
+    "name": "SS25 - Prayer for Children",
+    "category": "sahifa",
+    "segmentCount": 83,
+    "url": "https://www.duas.org/mobile/sahifasajjadia-dua25-prayer-for-children.html",
+    "segments": [
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "His Supplication for his Children"
+        }
+      },
+      {
+        "number": 1,
+        "type": "content",
+        "arabic": "أَللَّهُمَّ وَمُنَّ عَلَيَّ بِبَقَاءِ وُلْدِي،",
+        "transliteration": "Allāhumma wa munn ‘alayya bi-baqā’i wildī,",
+        "translation": {
+          "en": "O Allah, and bestow upon me the favor of the survival of my children,"
+        }
+      },
+      {
+        "number": 2,
+        "type": "content",
+        "arabic": "وَبِإصْلاَحِهِمْ لِي، وَبِإمْتَاعِي بِهِمْ.",
+        "transliteration": "wa bi-iṣlāḥihim lī, wa bi-imtā‘ī bihim.",
+        "translation": {
+          "en": "and their righteousness towards me, and my enjoyment of them."
+        }
+      },
+      {
+        "number": 3,
+        "type": "content",
+        "arabic": "إلهِي أمْدُدْ لِي فِي أَعْمَارِهِمْ،",
+        "transliteration": "Ilāhī umdud lī fī a‘mārihim,",
+        "translation": {
+          "en": "My God, prolong their lifespans for me,"
+        }
+      },
+      {
+        "number": 4,
+        "type": "content",
+        "arabic": "وَزِدْ لِي فِي آجَالِهِمْ،",
+        "transliteration": "wa zid lī fī ājālihim,",
+        "translation": {
+          "en": "and increase their appointed times for me,"
+        }
+      },
+      {
+        "number": 5,
+        "type": "content",
+        "arabic": "وَرَبِّ لِي صَغِيرَهُمْ",
+        "transliteration": "wa rabbī lī ṣaghīrahum",
+        "translation": {
+          "en": "and raise their young ones for me,"
+        }
+      },
+      {
+        "number": 6,
+        "type": "content",
+        "arabic": "وَقَوِّ لِي ضَعِيْفَهُمْ،",
+        "transliteration": "wa qawwi lī ḍa‘īfahum,",
+        "translation": {
+          "en": "and strengthen their weak ones for me,"
+        }
+      },
+      {
+        "number": 7,
+        "type": "content",
+        "arabic": "وَأَصِحَّ لِي أَبْدَانَهُمْ وَأَدْيَانَهُمْ وَأَخْلاَقَهُمْ ،",
+        "transliteration": "wa aṣiḥḥa lī abdānahum wa adyānahum wa akhlāqahum,",
+        "translation": {
+          "en": "and make their bodies, their religions, and their characters sound for me,"
+        }
+      },
+      {
+        "number": 8,
+        "type": "content",
+        "arabic": "وَعَافِهِمْ فِي أَنْفُسِهِمْ وَفِي جَوَارِحِهِمْ",
+        "transliteration": "wa ‘āfihim fī anfusihim wa fī jawāriḥihim",
+        "translation": {
+          "en": "and grant them well-being in their souls and in their limbs,"
+        }
+      },
+      {
+        "number": 9,
+        "type": "content",
+        "arabic": "وَفِي كُلِّ مَا عُنِيْتُ بِهِ مِنْ أَمْرِهِمْ،",
+        "transliteration": "wa fī kulli mā ‘unītu bihi min amrihim,",
+        "translation": {
+          "en": "and in everything concerning their affairs that I care about."
+        }
+      },
+      {
+        "number": 10,
+        "type": "content",
+        "arabic": "وَأَدْرِرْ لِي وَعَلَى يَـدِي أَرْزَاقَهُمْ،",
+        "transliteration": "wa adrir lī wa ‘alā yadī arzāqahum,",
+        "translation": {
+          "en": "And abundantly provide their sustenance for me, and by my hand,"
+        }
+      },
+      {
+        "number": 11,
+        "type": "content",
+        "arabic": "وَاجْعَلْهُمْ أَبْرَاراً أَتْقِيَاءَ بُصَراءَ سَامِعِينَ",
+        "transliteration": "wa ij‘alhum abrāran atqiyā’a buṣarā’a sāmi‘īn",
+        "translation": {
+          "en": "and make them righteous, pious, insightful, listening,"
+        }
+      },
+      {
+        "number": 12,
+        "type": "content",
+        "arabic": "مُطِيعِينَ لَكَ وَلأوْلِيَائِكَ مُحِبِّينَ مُنَاصِحِينَ،",
+        "transliteration": "muṭī‘īna laka wa li-awliyā’ika muḥibbīna munāṣiḥīn,",
+        "translation": {
+          "en": "obedient to You and Your friends, loving, sincere advisors,"
+        }
+      },
+      {
+        "number": 13,
+        "type": "content",
+        "arabic": "وَلِجَمِيْعِ أَعْدَآئِكَ مُعَانِدِينَ وَمُبْغِضِينَ آمِينَ.",
+        "transliteration": "wa li-jamī‘i a‘dā’ika mu‘ānidīna wa mubghiḍīn. Āmīn.",
+        "translation": {
+          "en": "and stubborn and hateful toward all Your enemies. Amen."
+        }
+      },
+      {
+        "number": 14,
+        "type": "content",
+        "arabic": "أَللَّهُمَّ اشْدُدْ بِهِمْ عَضُدِي،",
+        "transliteration": "Allāhumma ushdud bihim ‘aḍudī,",
+        "translation": {
+          "en": "O Allah, strengthen my arm with them,"
+        }
+      },
+      {
+        "number": 15,
+        "type": "content",
+        "arabic": "وَأَقِمْ بِهِمْ أَوَدِيْ،",
+        "transliteration": "wa aqim bihim awadī,",
+        "translation": {
+          "en": "and straighten my crookedness with them,"
+        }
+      },
+      {
+        "number": 16,
+        "type": "content",
+        "arabic": "وَكَثِّرْ بِهِمْ عَدَدِي،",
+        "transliteration": "wa kaththir bihim ‘adadī,",
+        "translation": {
+          "en": "and increase my number with them,"
+        }
+      },
+      {
+        "number": 17,
+        "type": "content",
+        "arabic": "وَزَيِّنْ بِهِمْ مَحْضَرِي،",
+        "transliteration": "wa zayyin bihim maḥḍarī,",
+        "translation": {
+          "en": "and adorn my presence with them,"
+        }
+      },
+      {
+        "number": 18,
+        "type": "content",
+        "arabic": "وَأَحْييِ بِهِمْ ذِكْرِي،",
+        "transliteration": "wa aḥyī bihim dhikrī,",
+        "translation": {
+          "en": "and revive my mention with them,"
+        }
+      },
+      {
+        "number": 19,
+        "type": "content",
+        "arabic": "وَاكْفِنِي بِهِمْ فِي غَيْبَتِي",
+        "transliteration": "wa ikfinī bihim fī ghaybatī",
+        "translation": {
+          "en": "and suffice me with them in my absence,"
+        }
+      },
+      {
+        "number": 20,
+        "type": "content",
+        "arabic": "وَأَعِنِّي بِهِمْ عَلَى حَاجَتِي،",
+        "transliteration": "wa a‘innī bihim ‘alā ḥājatī,",
+        "translation": {
+          "en": "and assist me with them in my need,"
+        }
+      },
+      {
+        "number": 21,
+        "type": "content",
+        "arabic": "وَاجْعَلْهُمْ لِي مُحِبِّينَ، وَعَلَيَّ حَدِبِينَ",
+        "transliteration": "wa ij‘alhum lī muḥibbīna, wa ‘alayya ḥadibīn",
+        "translation": {
+          "en": "and make them loving towards me, and kind towards me,"
+        }
+      },
+      {
+        "number": 22,
+        "type": "content",
+        "arabic": "مُقْبِلِينَ مُسْتَقِيمِينَ لِيْ،",
+        "transliteration": "muqbilīna mustaqīmīna lī,",
+        "translation": {
+          "en": "approaching, upright towards me,"
+        }
+      },
+      {
+        "number": 23,
+        "type": "content",
+        "arabic": "مُطِيعِينَ غَيْرَ عَاصِينَ",
+        "transliteration": "muṭī‘īna ghayra ‘āṣīn",
+        "translation": {
+          "en": "obedient, not rebellious,"
+        }
+      },
+      {
+        "number": 24,
+        "type": "content",
+        "arabic": "وَلاَ عَاقِّينَ وَلا مُخَالِفِينَ وَلاَ خـاطِئِينَ،",
+        "transliteration": "wa lā ‘āqqīn wa lā mukhālifīna wa lā khāṭi’īn,",
+        "translation": {
+          "en": "nor undutiful, nor dissenting, nor sinning."
+        }
+      },
+      {
+        "number": 25,
+        "type": "content",
+        "arabic": "وَأَعِنِّي عَلَى تَرْبِيَتِهِمْ وَتَأدِيْبِهِمْ وَبِرِّهِمْ،",
+        "transliteration": "wa a‘innī ‘alā tarbiyatihim wa ta’dībihim wa birrihim,",
+        "translation": {
+          "en": "And assist me in raising them, educating them, and being dutiful to them."
+        }
+      },
+      {
+        "number": 26,
+        "type": "content",
+        "arabic": "وَهَبْ لِيْ مِنْ لَدُنْكَ مَعَهُمْ أَوْلاداً ذُكُوراً ،",
+        "transliteration": "wa hab lī min ladunka ma‘ahum awlādan dhukūrā,",
+        "translation": {
+          "en": "And grant me from Your presence, along with them, male children,"
+        }
+      },
+      {
+        "number": 27,
+        "type": "content",
+        "arabic": "وَاجْعَلْ ذَلِكَ خَيْراً لي",
+        "transliteration": "wa ij‘al dhālika khayran lī",
+        "translation": {
+          "en": "and make that good for me,"
+        }
+      },
+      {
+        "number": 28,
+        "type": "content",
+        "arabic": "وَاجْعَلْهُمْ لِي عَوناً عَلَى مَا سَأَلْتُكَ،",
+        "transliteration": "wa ij‘alhum lī ‘awnan ‘alā mā sa’altuk,",
+        "translation": {
+          "en": "and make them a help for me in what I asked You for."
+        }
+      },
+      {
+        "number": 29,
+        "type": "content",
+        "arabic": "وَأَعِذْنِي وَذُرِّيَّتِي مِنَ الشَّيْطَانِ الرَّجِيمِ،",
+        "transliteration": "Wa a‘idhnī wa dhurrīyatī mina ash-shayṭāni ar-rajīm,",
+        "translation": {
+          "en": "And grant me and my descendants refuge from the accursed Satan,"
+        }
+      },
+      {
+        "number": 30,
+        "type": "content",
+        "arabic": "فَإنَّكَ خَلَقْتَنَا وَأَمَرْتَنَا وَنَهَيْتَنَا",
+        "transliteration": "fa-innaka khalaqtanā wa amartanā wa nahaytanā",
+        "translation": {
+          "en": "for You created us, and commanded us, and forbade us,"
+        }
+      },
+      {
+        "number": 31,
+        "type": "content",
+        "arabic": "وَرَغّبْتَنَا فِي ثَوَابِ مَا أَمَرْتَنَا وَرَهَّبْتَنَا عِقَابَهُ،",
+        "transliteration": "wa raghhabtanā fī thawābi mā amartanā wa rahhabtanā ‘iqābah,",
+        "translation": {
+          "en": "and made us desire the reward for what You commanded us and made us fear its punishment,"
+        }
+      },
+      {
+        "number": 32,
+        "type": "content",
+        "arabic": "وَجَعَلْتَ لَنَا عَدُوّاً يَكِيدُنَا،",
+        "transliteration": "wa ja‘alta lanā ‘aduwwan yakīdunā,",
+        "translation": {
+          "en": "and made for us an enemy who plots against us,"
+        }
+      },
+      {
+        "number": 33,
+        "type": "content",
+        "arabic": "سَلَّطْتَهُ مِنَّا عَلَى مَا لَمْ تُسَلِّطْنَا عَلَيْهِ مِنْهُ،",
+        "transliteration": "sallaṭtahu minnā ‘alā mā lam tusalliṭnā ‘alayhi minh,",
+        "translation": {
+          "en": "whom You have empowered over us in a way that You have not empowered us over him,"
+        }
+      },
+      {
+        "number": 34,
+        "type": "content",
+        "arabic": "أَسْكَنْتَهُ صُدُورَنَا، وَأَجْرَيْتَهُ مَجَارِيَ دِمَائِنَا،",
+        "transliteration": "askantahu ṣudūranā, wa ajraytahu majāriya dimā’inā,",
+        "translation": {
+          "en": "You housed him in our hearts, and made him flow in the streams of our blood,"
+        }
+      },
+      {
+        "number": 35,
+        "type": "content",
+        "arabic": "لاَ يَغْفُلُ إنْ غَفَلْنَا، وَلاَ يَنْسَى إنْ نَسِينَا،",
+        "transliteration": "lā yaghfulu in ghafalnā, wa lā yansā in nasīnā,",
+        "translation": {
+          "en": "he does not become heedless if we become heedless, nor does he forget if we forget."
+        }
+      },
+      {
+        "number": 36,
+        "type": "content",
+        "arabic": "يُؤْمِنُنَا عِقَابَكَ، وَيَخَوِّفُنَا بِغَيْرِكَ،",
+        "transliteration": "yu’minunā ‘iqābak, wa yukhawwifunā bi-ghayrik,",
+        "translation": {
+          "en": "He makes us feel safe from Your punishment, and frightens us with others besides You."
+        }
+      },
+      {
+        "number": 37,
+        "type": "content",
+        "arabic": "إنْ هَمَمْنَا بِفَاحِشَة شَجَّعَنَا عَلَيْهَا،",
+        "transliteration": "in hamamnā bi-fāḥishatin shajja‘anā ‘alayhā,",
+        "translation": {
+          "en": "If we intend a wicked deed, he encourages us to do it,"
+        }
+      },
+      {
+        "number": 38,
+        "type": "content",
+        "arabic": "وَإنْ هَمَمْنَا بِعَمَل صَالِح ثَبَّطْنَا عَنْهُ،",
+        "transliteration": "wa in hamamnā bi-‘amalin ṣāliḥin thabbaṭanā ‘anh,",
+        "translation": {
+          "en": "and if we intend a righteous deed, he discourages us from it."
+        }
+      },
+      {
+        "number": 39,
+        "type": "content",
+        "arabic": "يَتَعَرَّضُ لَنَا بِالشَّهَوَاتِ،",
+        "transliteration": "yata‘arraḍu lanā bi-ash-shahawāt,",
+        "translation": {
+          "en": "He exposes us to lusts,"
+        }
+      },
+      {
+        "number": 40,
+        "type": "content",
+        "arabic": "وَيَنْصِبُ لَنَا بِالشَّبُهَاتِ،",
+        "transliteration": "wa yanṣibu lanā bi-ash-shubuhāt,",
+        "translation": {
+          "en": "and sets up doubts for us."
+        }
+      },
+      {
+        "number": 41,
+        "type": "content",
+        "arabic": "إنْ وَعَدَنَا كَذَبَنَا",
+        "transliteration": "in wa‘adanā kadhabanā",
+        "translation": {
+          "en": "If he promises us, he lies to us,"
+        }
+      },
+      {
+        "number": 42,
+        "type": "content",
+        "arabic": "وَإنْ مَنَّانا، أَخْلَفَنَا",
+        "transliteration": "wa in mannānā, akhlafanā",
+        "translation": {
+          "en": "and if he gives us hope, he breaks his promise."
+        }
+      },
+      {
+        "number": 43,
+        "type": "content",
+        "arabic": "وَإلاّ تَصْرِفْ عَنَّا كَيْدَهُ يُضِلَّنَا،",
+        "transliteration": "wa illā taṣrif ‘annā kaydahu yuḍillunā,",
+        "translation": {
+          "en": "And unless You turn his plot away from us, he will mislead us,"
+        }
+      },
+      {
+        "number": 44,
+        "type": "content",
+        "arabic": "وَإلاّ تَقِنَا خَبالَهُ يَسْتَزِلَّنَا.",
+        "transliteration": "wa illā taqinā khabālahu yastazillunā.",
+        "translation": {
+          "en": "and unless You guard us from his corruption, he will make us stumble."
+        }
+      },
+      {
+        "number": 45,
+        "type": "content",
+        "arabic": "أَللَّهُمَّ فَاقْهَرْ سُلْطَانَهُ عَنَّا بِسُلْطَانِكَ",
+        "transliteration": "Allāhumma fa-aqhar sulṭānahu ‘annā bi-sulṭānik",
+        "translation": {
+          "en": "O Allah, then subdue his authority over us with Your authority,"
+        }
+      },
+      {
+        "number": 46,
+        "type": "content",
+        "arabic": "حَتَّى تَحْبِسَهُ عَنَّا بِكَثْرَةِ الدُّعَاءِ لَكَ،",
+        "transliteration": "ḥattā taḥbisahu ‘annā bi-kathrati ad-du‘ā’i lak,",
+        "translation": {
+          "en": "until You restrain him from us through the abundance of our prayer to You,"
+        }
+      },
+      {
+        "number": 47,
+        "type": "content",
+        "arabic": "فَنُصْبحَ مِنْ كَيْدِهِ فِي الْمَعْصُومِينَ بِكَ.",
+        "transliteration": "fa-nuṣbiḥa min kaydihi fī al-ma‘ṣūmīna bik.",
+        "translation": {
+          "en": "so that we become, from his plotting, among those protected by You."
+        }
+      },
+      {
+        "number": 48,
+        "type": "content",
+        "arabic": "أَللَّهُمَّ أَعْطِنِي كُلَّ سُؤْلِي،",
+        "transliteration": "Allāhumma a‘ṭinī kulla su’lī,",
+        "translation": {
+          "en": "O Allah, grant me every request of mine,"
+        }
+      },
+      {
+        "number": 49,
+        "type": "content",
+        "arabic": "وَاقْضِ لِي حَوَائِجِي،",
+        "transliteration": "waqḍi lī ḥawā’ijī,",
+        "translation": {
+          "en": "and fulfill my needs for me,"
+        }
+      },
+      {
+        "number": 50,
+        "type": "content",
+        "arabic": "وَلاَ تَمْنَعْنِي الإجَابَةَ وَقَدْ ضَمِنْتَهَا لِي،",
+        "transliteration": "wa lā tamna‘nī al-ijābata wa qad ḍamintahā lī,",
+        "translation": {
+          "en": "and do not withhold the answer from me, for You have guaranteed it to me,"
+        }
+      },
+      {
+        "number": 51,
+        "type": "content",
+        "arabic": "وَلا تَحْجُبْ دُعَائِي عَنْكَ وَقَدْ أَمَرْتَنِي بِهِ،",
+        "transliteration": "wa lā taḥjub du‘ā’ī ‘anka wa qad amartanī bih,",
+        "translation": {
+          "en": "and do not veil my supplication from You, for You have commanded me to make it,"
+        }
+      },
+      {
+        "number": 52,
+        "type": "content",
+        "arabic": "وَامْنُنْ عَلَيَّ بِكُلِّ مَا يُصْلِحُنِيْ",
+        "transliteration": "wa umnun ‘alayya bi-kulli mā yuṣliḥunī",
+        "translation": {
+          "en": "and favor me with everything that rectifies me"
+        }
+      },
+      {
+        "number": 53,
+        "type": "content",
+        "arabic": "فِيْ دُنْيَايَ وَآخِرَتِي",
+        "transliteration": "fī dunyāya wa ākhiratī",
+        "translation": {
+          "en": "in my world and my Hereafter,"
+        }
+      },
+      {
+        "number": 54,
+        "type": "content",
+        "arabic": "مَا ذَكَرْتُ مِنْهُ وَمَـا نَسِيتُ،",
+        "transliteration": "mā dhakartu minhu wa mā nasīt,",
+        "translation": {
+          "en": "of what I remembered of it and what I forgot,"
+        }
+      },
+      {
+        "number": 55,
+        "type": "content",
+        "arabic": "أَوْ أَظْهَـرتُ أَوْ أَخْفَيْتُ،",
+        "transliteration": "aw aẓhartu aw akhfayt,",
+        "translation": {
+          "en": "or revealed or concealed,"
+        }
+      },
+      {
+        "number": 56,
+        "type": "content",
+        "arabic": "أَوْ أَعْلَنْتُ أَوْ أَسْرَرْتُ،",
+        "transliteration": "aw a‘lantu aw asrart,",
+        "translation": {
+          "en": "or announced or kept secret."
+        }
+      },
+      {
+        "number": 57,
+        "type": "content",
+        "arabic": "وَاجْعَلْنِي فِي جَمِيعِ ذلِكَ مِنَ الْمُصْلِحِينَ بِسُؤَالِي إيَّـاكَ،",
+        "transliteration": "wa ij‘alnī fī jamī‘i dhālika mina al-muṣliḥīna bi-su’ālī iyyāk,",
+        "translation": {
+          "en": "And make me, in all of that, among those who are rectified by asking You,"
+        }
+      },
+      {
+        "number": 58,
+        "type": "content",
+        "arabic": "الْمُنْجِحِينَ بِالـطَّلَبِ إلَيْـكَ،",
+        "transliteration": "al-munjiḥīna bi-aṭ-ṭalabi ilayk,",
+        "translation": {
+          "en": "those who succeed by seeking from You,"
+        }
+      },
+      {
+        "number": 59,
+        "type": "content",
+        "arabic": "غَيْـرِ الْمَمْنُوعِينَ بِالتَّوَكُّلِ عَلَيْكَ،",
+        "transliteration": "ghayri al-mamnū‘īna bi-at-tawakkuli ‘alayk,",
+        "translation": {
+          "en": "those who are not denied due to reliance upon You,"
+        }
+      },
+      {
+        "number": 60,
+        "type": "content",
+        "arabic": "الْمُعَوَّدِينَ بِالتَّعَوُّذِ بِكَ،",
+        "transliteration": "al-mu‘awwadīna bi-at-ta‘awwudhi bik,",
+        "translation": {
+          "en": "those accustomed to seeking refuge in You,"
+        }
+      },
+      {
+        "number": 61,
+        "type": "content",
+        "arabic": "الرَّابِحِينَ فِي التِّجَارَةِ عَلَيْـكَ،",
+        "transliteration": "ar-rābiḥīna fī at-tijārati ‘alayk,",
+        "translation": {
+          "en": "those who profit in the trade with You,"
+        }
+      },
+      {
+        "number": 62,
+        "type": "content",
+        "arabic": "الْمُجَارِيْنَ بِعِـزِّكَ،",
+        "transliteration": "al-mujārīna bi-‘izzik,",
+        "translation": {
+          "en": "those granted protection by Your might,"
+        }
+      },
+      {
+        "number": 63,
+        "type": "content",
+        "arabic": "الْمُـوَسَّـعِ عَلَيْهِمُ الـرِّزْقُ الْحَـلاَلُ",
+        "transliteration": "al-muwassa‘i ‘alayhimu ar-rizqu al-ḥalālu",
+        "translation": {
+          "en": "those for whom lawful sustenance is expanded"
+        }
+      },
+      {
+        "number": 64,
+        "type": "content",
+        "arabic": "مِنْ فَضْلِكَ الْوَاسِعِ بِجُودِكَ وَكَرَمِكَ،",
+        "transliteration": "min faḍlika al-wāsi‘i bi-jūdika wa karamik,",
+        "translation": {
+          "en": "from Your vast favor, by Your bounty and Your generosity,"
+        }
+      },
+      {
+        "number": 65,
+        "type": "content",
+        "arabic": "الْمُعَزِّينَ مِنَ الذُّلِّ بِكَ،",
+        "transliteration": "al-mu‘izzīna mina adh-dhulli bik,",
+        "translation": {
+          "en": "those granted honor from humiliation by You,"
+        }
+      },
+      {
+        "number": 66,
+        "type": "content",
+        "arabic": "وَالْمُجَارِينَ مِن الظُّلْمِ بِعَدْلِكَ،",
+        "transliteration": "wa al-mujārīna min aẓ-ẓulmi bi-‘adlik,",
+        "translation": {
+          "en": "and those protected from oppression by Your justice,"
+        }
+      },
+      {
+        "number": 67,
+        "type": "content",
+        "arabic": "وَالْمُعَافَيْنَ مِنَ الْبَلاءِ بِرَحْمَتِكَ،",
+        "transliteration": "wa al-mu‘āfayna mina al-balā’i bi-raḥmatik,",
+        "translation": {
+          "en": "and those granted well-being from affliction by Your mercy,"
+        }
+      },
+      {
+        "number": 68,
+        "type": "content",
+        "arabic": "وَالْمُغْنَيْنَ مِنَ الْفَقْرِ بِغِنَاكَ،",
+        "transliteration": "wa al-mughnayna mina al-faqr bi-ghināk,",
+        "translation": {
+          "en": "and those made rich from poverty by Your wealth,"
+        }
+      },
+      {
+        "number": 69,
+        "type": "content",
+        "arabic": "وَالْمَعْصومِينَ مِنَ الذُّنُوبِ وَالزَّلَلِ وَالْخَطَأِ بِتَقْوَاكَ،",
+        "transliteration": "wa al-ma‘ṣūmīna mina adh-dhunūbi wa az-zalali wa al-khaṭa’i bi-taqwāk,",
+        "translation": {
+          "en": "and those protected from sins, slipping, and error by Your piety (fear of You),"
+        }
+      },
+      {
+        "number": 70,
+        "type": "content",
+        "arabic": "وَالْمُوَفَّقِينَ لِلْخَيْرِ وَالرُّشْدِ وَالصَّوَابِ بِطَاعَتِكَ،",
+        "transliteration": "wa al-muwaffaqīna li-al-khayri wa ar-rushdi wa aṣ-ṣawābi bi-ṭā‘atik,",
+        "translation": {
+          "en": "and those granted success in goodness, right guidance, and correctness by Your obedience,"
+        }
+      },
+      {
+        "number": 71,
+        "type": "content",
+        "arabic": "وَالْمُحَالِ بَيْنَهُمْ وَبَيْنَ الذُّنُوبِ بِقُدْرَتِكَ،",
+        "transliteration": "wa al-muḥāli baynahum wa bayna adh-dhunūbi bi-qudratik,",
+        "translation": {
+          "en": "and those between whom and sins You interpose by Your power,"
+        }
+      },
+      {
+        "number": 72,
+        "type": "content",
+        "arabic": "التَّـارِكِينَ لِكُلِّ مَعْصِيَتِكَ،",
+        "transliteration": "at-tārikīna li-kulli ma‘ṣiyatik,",
+        "translation": {
+          "en": "those who abandon every act of disobedience to You,"
+        }
+      },
+      {
+        "number": 73,
+        "type": "content",
+        "arabic": "السَّاكِنِينَ فِي جِوَارِكَ.",
+        "transliteration": "as-sākinīna fī jiwārik.",
+        "translation": {
+          "en": "those dwelling in Your proximity."
+        }
+      },
+      {
+        "number": 74,
+        "type": "content",
+        "arabic": "أَللَّهُمَّ أَعْطِنَا جَمِيعَ ذلِكَ بِتَوْفِيقِكَ وَرَحْمَتِكَ",
+        "transliteration": "Allāhumma a‘ṭinā jamī‘a dhālika bi-tawfīqika wa raḥmatik",
+        "translation": {
+          "en": "O Allah, grant us all of that by Your success and Your mercy,"
+        }
+      },
+      {
+        "number": 75,
+        "type": "content",
+        "arabic": "وَأَعِذْنَا مِنْ عَذَابِ السَّعِيرِ،",
+        "transliteration": "wa a‘idhnā min ‘adhābi as-sa‘īr,",
+        "translation": {
+          "en": "and grant us refuge from the punishment of the Blazing Fire,"
+        }
+      },
+      {
+        "number": 76,
+        "type": "content",
+        "arabic": "وَأَعْطِ جَمِيعَ الْمُسْلِمِينَ وَالْمُسْلِمَـاتِ",
+        "transliteration": "wa a‘ṭi jamī‘a al-muslimīna wa al-muslimāt",
+        "translation": {
+          "en": "and grant all Muslim men and Muslim women,"
+        }
+      },
+      {
+        "number": 77,
+        "type": "content",
+        "arabic": "وَالْمُؤْمِنِيْنَ وَالْمُؤْمِنَاتِ مِثْلَ الَّذِي سَأَلْتُكَ لِنَفْسِي",
+        "transliteration": "wa al-mu’minīna wa al-mu’mināti mithla alladhī sa’altuka li-nafsī",
+        "translation": {
+          "en": "and believing men and believing women, the like of what I have asked You for myself"
+        }
+      },
+      {
+        "number": 78,
+        "type": "content",
+        "arabic": "وَلِوُلْدِي فِي عَاجِلِ الدُّنْيَا وَآجِلِ الآخِرَةِ،",
+        "transliteration": "wa li-wildī fī ‘ājili ad-dunyā wa ājili al-ākhirah,",
+        "translation": {
+          "en": "and for my children in the immediate world and the delayed Hereafter."
+        }
+      },
+      {
+        "number": 79,
+        "type": "content",
+        "arabic": "إنَّكَ قَرِيبٌ مُجِيبٌ سَمِيعٌ عَلِيمٌ",
+        "transliteration": "innaka qarībun mujībun samī‘un ‘alīm",
+        "translation": {
+          "en": "Truly, You are Near, Responsive, Hearing, Knowing,"
+        }
+      },
+      {
+        "number": 80,
+        "type": "content",
+        "arabic": "عَفُوٌّ غَفُـورٌ رَؤُوفٌ رَحِيمٌ.",
+        "transliteration": "‘afuwwun ghafūrun ra’ūfun raḥīm.",
+        "translation": {
+          "en": "Pardoning, Forgiving, Compassionate, Merciful."
+        }
+      },
+      {
+        "number": 81,
+        "type": "content",
+        "arabic": "وَآتِنَا فِي الدُّنْيَا حَسَنَةً",
+        "transliteration": "wa ātinā fī ad-dunyā ḥasanah",
+        "translation": {
+          "en": "And grant us goodness in the world"
+        }
+      },
+      {
+        "number": 82,
+        "type": "content",
+        "arabic": "وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ.",
+        "transliteration": "wa fī al-ākhirati ḥasanatan wa qinā ‘adhāba an-nār.",
+        "translation": {
+          "en": "and goodness in the Hereafter, and protect us from the punishment of the Fire."
+        }
+      }
+    ]
+  },
+  {
+    "id": "ss31-repentance",
+    "name": "SS31 - Repentance",
+    "category": "sahifa",
+    "segmentCount": 132,
+    "url": "https://www.duas.org/mobile/sahifasajjadia-dua31-repentance-tauba.html",
+    "segments": [
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "His Supplication in Repentance"
+        }
+      },
+      {
+        "number": 1,
+        "type": "content",
+        "arabic": "أَللَّهُمَّ يَا مَنْ لا يَصِفُهُ نَعْتُ الْوَاصِفِينَ ،",
+        "transliteration": "Allāhumma yā man lā yaṣifuhū na‘tu al-wāṣifīn,",
+        "translation": {
+          "en": "O God, O He Whom the description of the describers does not encompass,"
+        }
+      },
+      {
+        "number": 2,
+        "type": "content",
+        "arabic": "وَيَا مَنْ لاَ يُجَاوِزُهُ رَجَاءُ الرَّاجِينَ ،",
+        "transliteration": "wa yā man lā yujāwizuhū rajā’u ar-rājīn,",
+        "translation": {
+          "en": "O He Whom the hope of the hopeful does not pass by,"
+        }
+      },
+      {
+        "number": 3,
+        "type": "content",
+        "arabic": "وَيَا مَنْ لاَ يَضِيعُ لَدَيْهِ أَجْرُ الْمُحْسِنِينَ،",
+        "transliteration": "wa yā man lā yaḍī‘u ladayhī ajru al-muḥsinīn,",
+        "translation": {
+          "en": "O He with Whom the reward of the good-doers is not lost,"
+        }
+      },
+      {
+        "number": 4,
+        "type": "content",
+        "arabic": "وَيَا مَنْ هُوَ مُنْتَهَى خَوْفِ الْعَابِدِيْنَ،",
+        "transliteration": "wa yā man huwa muntahā khawfi al-‘ābidīn,",
+        "translation": {
+          "en": "O He Who is the utmost limit of the fear of the worshippers,"
+        }
+      },
+      {
+        "number": 5,
+        "type": "content",
+        "arabic": "وَيَا مَنْ هُوَ غَايَةُ خَشْيَةِ الْمُتَّقِينَ.",
+        "transliteration": "wa yā man huwa ghāyatu khashyati al-muttaqīn.",
+        "translation": {
+          "en": "O He Who is the goal of the reverence of the God-fearing."
+        }
+      },
+      {
+        "number": 6,
+        "type": "content",
+        "arabic": "هَذا مَقَامُ مَنْ تَدَاوَلَتْهُ أَيْدِي الذُّنُوبِ ،",
+        "transliteration": "Hadhā maqāmu man tadāwalathu aydī adh-dhunūb,",
+        "translation": {
+          "en": "This is the station of him whom the hands of sins have exchanged,"
+        }
+      },
+      {
+        "number": 7,
+        "type": "content",
+        "arabic": "وَقَادَتْهُ أَزِمَّةُ الْخَطَايَا ،",
+        "transliteration": "wa qādat-hu azimmatu al-khaṭāyā,",
+        "translation": {
+          "en": "and the reins of errors have led,"
+        }
+      },
+      {
+        "number": 8,
+        "type": "content",
+        "arabic": "وَاسْتَحْوَذَ عَلَيْهِ الشَّيْطَانُ،",
+        "transliteration": "wa istaḥwadha ‘alayhi ash-shayṭān,",
+        "translation": {
+          "en": "and Satan has overcome;"
+        }
+      },
+      {
+        "number": 9,
+        "type": "content",
+        "arabic": "فَقَصَّرَ عَمَّا أَمَرْتَ بِهِ تَفْرِيطَاً،",
+        "transliteration": "fa-qaṣṣara ‘ammā amarta bihī tafrīṭā,",
+        "translation": {
+          "en": "so he fell short in what You commanded by negligence,"
+        }
+      },
+      {
+        "number": 10,
+        "type": "content",
+        "arabic": "وَتَعَاطى مَا نَهَيْتَ عَنْهُ تَغْرِيراً،",
+        "transliteration": "wa ta‘āṭā mā nahayta ‘anhu taghrīrā,",
+        "translation": {
+          "en": "and he committed what You forbade by delusion,"
+        }
+      },
+      {
+        "number": 11,
+        "type": "content",
+        "arabic": "كَالْجاهِلِ بِقُدْرَتِكَ عَلَيْهِ،",
+        "transliteration": "ka-al-jāhili bi-qudratika ‘alayh,",
+        "translation": {
+          "en": "like him who is ignorant of Your power over him,"
+        }
+      },
+      {
+        "number": 12,
+        "type": "content",
+        "arabic": "أَوْ كَالْمُنْكِرِ فَضْلَ إحْسَانِكَ إلَيْهِ،",
+        "transliteration": "aw ka-al-munkiri faḍla iḥsānika ilayh,",
+        "translation": {
+          "en": "or like him who denies the favour of Your kindness to him."
+        }
+      },
+      {
+        "number": 13,
+        "type": "content",
+        "arabic": "حَتَّى إذَا انْفَتَحَ لَهُ بَصَرُ الْهُدَى،",
+        "transliteration": "Ḥattā idhā infataḥa lahū baṣaru al-hudā,",
+        "translation": {
+          "en": "Until when the sight of guidance opened to him,"
+        }
+      },
+      {
+        "number": 14,
+        "type": "content",
+        "arabic": "وَتَقَشَّعَتْ عَنْهُ سَحَائِبُ الْعَمَى أَحْصَى مَا ظَلَمَ بِهِ نَفْسَهُ،",
+        "transliteration": "wa taqashsha‘at ‘anhu saḥā’ibu al-‘amā aḥṣā mā ẓalama bihī nafsah,",
+        "translation": {
+          "en": "and the clouds of blindness cleared from him, he counted what he had wronged his soul with,"
+        }
+      },
+      {
+        "number": 15,
+        "type": "content",
+        "arabic": "وَفَكَّرَ فِيمَا خَالَفَ بِهِ رَبَّهُ،",
+        "transliteration": "wa fakkara fīmā khālafā bihī Rabbah,",
+        "translation": {
+          "en": "and he reflected upon what he had opposed his Lord with."
+        }
+      },
+      {
+        "number": 16,
+        "type": "content",
+        "arabic": "فَرَأى كَبِيْرَ عِصْيَانِهِ كَبِيْراً، وَجَلِيل مُخَالَفَتِهِ جَلِيْلاً،",
+        "transliteration": "Fa-ra’ā kabīra ‘iṣyānihī kabīrā, wa jalīla mukhālafatihī jalīlā,",
+        "translation": {
+          "en": "So he saw the enormity of his disobedience as immense, and the greatness of his opposition as great."
+        }
+      },
+      {
+        "number": 17,
+        "type": "content",
+        "arabic": "فَأَقْبَلَ نَحْوَكَ مُؤَمِّلاً لَكَ، مُسْتَحْيِيَاً مِنْكَ،",
+        "transliteration": "Fa-aqbala naḥwaka mu’ammilan lak, mustaḥyiyan mink,",
+        "translation": {
+          "en": "So he turned toward You, hopeful of You, ashamed before You,"
+        }
+      },
+      {
+        "number": 18,
+        "type": "content",
+        "arabic": "وَوَجَّهَ رَغْبَتَهُ إلَيْكَ ثِقَةً بِكَ،",
+        "transliteration": "wa wajjaha raghbatuhū ilayka thiqatan bik,",
+        "translation": {
+          "en": "and directed his desire toward You, trusting in You."
+        }
+      },
+      {
+        "number": 19,
+        "type": "content",
+        "arabic": "فَأَمَّكَ بِطَمَعِهِ يَقِيناً، وَقَصَدَكَ بِخَوْفِهِ إخْلاَصَاً،",
+        "transliteration": "Fa-ammakā bi-ṭama‘ihī yaqīnā, wa qaṣadaka bi-khawfihī ikhlāṣā,",
+        "translation": {
+          "en": "So he aimed at You with his greed, having certainty, and intended You with his fear, having sincerity."
+        }
+      },
+      {
+        "number": 20,
+        "type": "content",
+        "arabic": "قَدْ خَلاَ طَمَعُهُ مِنْ كُلِّ مَطْمُوع فِيهِ غَيْرِكَ،",
+        "transliteration": "Qad khalā ṭama‘uhū min kulli maṭmū‘in fīhi ghayrik,",
+        "translation": {
+          "en": "His greed has become devoid of every object of greed other than You,"
+        }
+      },
+      {
+        "number": 21,
+        "type": "content",
+        "arabic": "وَأَفْرَخَ رَوْعُهُ مِنْ كُلِّ مَحْذُور مِنْهُ سِوَاكَ،",
+        "transliteration": "wa afrakha raw‘uhū min kulli maḥdhūrin minhu siwāk,",
+        "translation": {
+          "en": "and his terror has settled from every object of dread other than You."
+        }
+      },
+      {
+        "number": 22,
+        "type": "content",
+        "arabic": "فَمَثَّلَ بَيْنَ يَدَيْـكَ مُتَضَرِّعـاً،",
+        "transliteration": "Fa-maththala bayna yadaykā mutaḍarri‘an,",
+        "translation": {
+          "en": "So he stood before You, imploring,"
+        }
+      },
+      {
+        "number": 23,
+        "type": "content",
+        "arabic": "وَغَمَّضَ بَصَرَهُ إلَى الأرْضِ مُتَخَشِّعَاً،",
+        "transliteration": "wa ghammaḍa baṣarahū ilā al-arḍi mutakhashshi‘an,",
+        "translation": {
+          "en": "and lowered his gaze to the ground, humble,"
+        }
+      },
+      {
+        "number": 24,
+        "type": "content",
+        "arabic": "وَطَأطَأَ رَأسَهُ لِعِزَّتِكَ مُتَذَلِّلاً،",
+        "transliteration": "wa ṭaṭa’a ra’sahū li-‘izzatika mutadhallilā,",
+        "translation": {
+          "en": "and bowed his head low to Your Might, submissive,"
+        }
+      },
+      {
+        "number": 25,
+        "type": "content",
+        "arabic": "وَأَبَثَّكَ مِنْ سِرِّهِ مَا أَنْتَ أَعْلَمُ بِهِ مِنْهُ خَضُوعاً،",
+        "transliteration": "wa abaththaka min sirrihī mā anta a‘lamu bihī minhu khuḍū‘ā,",
+        "translation": {
+          "en": "and scattered before You of his secret what You know better than him, in surrender,"
+        }
+      },
+      {
+        "number": 26,
+        "type": "content",
+        "arabic": "وَعَدَّدَ مِنْ ذُنُوبِهِ مَا أَنْتَ أَحْصَى لَهَا خُشُوعاً",
+        "transliteration": "wa ‘addada min dhunūbihī mā anta aḥṣā lahā khushū‘ā",
+        "translation": {
+          "en": "and enumerated of his sins what You have counted more exactly, in awe,"
+        }
+      },
+      {
+        "number": 27,
+        "type": "content",
+        "arabic": "وَاسْتَغَاثَ بِكَ مِنْ عَظِيمِ مَاوَقَعَ بِهِ فِي عِلْمِكَ",
+        "transliteration": "wa istaghātha bika min ‘aẓīmi mā waqa‘a bihī fī ‘ilmika",
+        "translation": {
+          "en": "and sought succour in You from the immensity of what has come to pass through him in Your knowledge,"
+        }
+      },
+      {
+        "number": 28,
+        "type": "content",
+        "arabic": "وَقَبِيحِ مَا فَضَحَهُ فِي حُكْمِكَ",
+        "transliteration": "wa qabīḥi mā faḍaḥahū fī ḥukmik",
+        "translation": {
+          "en": "and the ugliness of what has disgraced him in Your judgment,"
+        }
+      },
+      {
+        "number": 29,
+        "type": "content",
+        "arabic": "مِنْ ذُنُوبٍ أَدْبَرَتْ لَذَّاتُهَا فَذَهَبَتْ،",
+        "transliteration": "min dhunūbin adbarat ladhdhātuhā fa-dhahabat,",
+        "translation": {
+          "en": "of sins whose pleasures have passed and gone,"
+        }
+      },
+      {
+        "number": 30,
+        "type": "content",
+        "arabic": "وَأَقَامَتْ تَبِعَاتُهَا فَلَزِمَتْ،",
+        "transliteration": "wa aqāmat tabi‘ātuhā fa-lazimat,",
+        "translation": {
+          "en": "but whose consequences remain and have become incumbent."
+        }
+      },
+      {
+        "number": 31,
+        "type": "content",
+        "arabic": "لا يُنْكِرُ يَا إلهِي عَدْلَكَ إِنْ عَاقَبْتَهُ،",
+        "transliteration": "Lā yunkiru yā Ilāhī ‘adlak in ‘āqabtah,",
+        "translation": {
+          "en": "He does not deny, O my God, Your justice if You punish him,"
+        }
+      },
+      {
+        "number": 32,
+        "type": "content",
+        "arabic": "وَلا يَسْتَعْظِمُ عَفْوَكَ إِنْ عَفَوْتَ عَنْهُ وَرَحِمْتَهُ;",
+        "transliteration": "wa lā yasta‘ẓimu ‘afwaka in ‘afawta ‘anhu wa raḥimtah;",
+        "translation": {
+          "en": "nor does he consider Your pardon great if You pardon him and have mercy on him;"
+        }
+      },
+      {
+        "number": 33,
+        "type": "content",
+        "arabic": "لِأَنَّكَ الرَّبُّ الْكَرِيمُ",
+        "transliteration": "li-annaka ar-Rabbu al-Karīm",
+        "translation": {
+          "en": "because You are the Noble Lord"
+        }
+      },
+      {
+        "number": 34,
+        "type": "content",
+        "arabic": "الَّذِي لا يَتَعَاظَمُهُ غُفْرَانُ الذَّنْبِ الْعَظِيم.",
+        "transliteration": "alladhī lā yata‘āẓamuhū ghufrānu adh-dhambi al-‘aẓīm.",
+        "translation": {
+          "en": "Whom the forgiveness of the tremendous sin does not overwhelm."
+        }
+      },
+      {
+        "number": 35,
+        "type": "content",
+        "arabic": "أَللَّهُمَّ فَهَا أَنَا ذَا قَدْ جِئْتُكَ مُطِيعاً",
+        "transliteration": "Allāhumma fa-hā anā dhā qad ji’tuka muṭī‘an",
+        "translation": {
+          "en": "O God, behold, here I am, I have come to You obedient"
+        }
+      },
+      {
+        "number": 36,
+        "type": "content",
+        "arabic": "لِأَمْرِكَ فِيمَا أَمَرْتَ بِهِ مِنَ الدُّعَاءِ،",
+        "transliteration": "li-amrika fīmā amarta bihī min ad-du‘ā’,",
+        "translation": {
+          "en": "to Your command in what You commanded of supplication,"
+        }
+      },
+      {
+        "number": 37,
+        "type": "content",
+        "arabic": "مُتَنَجِّزاً وَعْدَكَ فِيمَا وَعَدْتَ بِهِ مِنَ الإجَابَةِ إِذْ تَقُولُ",
+        "transliteration": "mutanajjizan wa‘daka fīmā wa‘adta bihī min al-ijābah idh taqūl:",
+        "translation": {
+          "en": "fulfilling Your promise in what You promised of answer when You say:"
+        }
+      },
+      {
+        "number": 38,
+        "type": "content",
+        "arabic": "(اُدْعُونِي أَسْتَجِبْ لَكُمْ).",
+        "transliteration": "(ud‘ūnī astajib lakum).",
+        "translation": {
+          "en": "(\"Call upon Me; I will respond to you.\") [Qur'an 40: 60]"
+        }
+      },
+      {
+        "number": 39,
+        "type": "content",
+        "arabic": "أَللَّهُمَّ فَصَلِّ عَلَى مُحَمَّد وَآلِهِ",
+        "transliteration": "Allāhumma fa-ṣalli ‘alā Muḥammad wa ālih",
+        "translation": {
+          "en": "O God, so bless Muhammad and his Household"
+        }
+      },
+      {
+        "number": 40,
+        "type": "content",
+        "arabic": "وَالْقَنِي بِمَغْفِـرَتِكَ كَمَا لَقِيتُكَ بِإقْرَارِي",
+        "transliteration": "wa alqinī bi-maghfiratika kamā laqītuka bi-iqrārī",
+        "translation": {
+          "en": "and encounter me with Your forgiveness as I have encountered You with my confession,"
+        }
+      },
+      {
+        "number": 41,
+        "type": "content",
+        "arabic": "وَارْفَعْنِي عَنْ مَصَارِعِ الذُّنُوبِ كَمَا وَضَعْتُ لَكَ نَفْسِي",
+        "transliteration": "wa irfa‘nī ‘an maṣāri‘i adh-dhunūb kamā waḍa‘tu lakā nafsī",
+        "translation": {
+          "en": "and raise me up from the downfalls of sins as I have humbled myself before You,"
+        }
+      },
+      {
+        "number": 42,
+        "type": "content",
+        "arabic": "وَاسْتُرْنِي بِسِتْرِكَ كَمَا تَأَنَّيْتَنِي عَنِ الانْتِقَامِ مِنِّي.",
+        "transliteration": "wa usturnī bi-sitrika kamā ta’annaytanī ‘ani al-intiqām minnī.",
+        "translation": {
+          "en": "and cover me with Your covering as You have been deliberate in taking vengeance against me."
+        }
+      },
+      {
+        "number": 43,
+        "type": "content",
+        "arabic": "أَللَّهُمَّ وَثَبِّتْ فِي طَاعَتِكَ نِيَّتِيْ،",
+        "transliteration": "Allāhumma wa thabbit fī ṭā‘atika niyyatī,",
+        "translation": {
+          "en": "O God, and establish my intention in Your obedience,"
+        }
+      },
+      {
+        "number": 44,
+        "type": "content",
+        "arabic": "وَأَحْكِمْ فِي عِبَادَتِكَ بَصِيـرَتِي،",
+        "transliteration": "wa aḥkim fī ‘ibādatika baṣīratī,",
+        "translation": {
+          "en": "and confirm my insight in Your worship,"
+        }
+      },
+      {
+        "number": 45,
+        "type": "content",
+        "arabic": "وَوَفِّقْنِي مِنَ الأَعْمَالِ",
+        "transliteration": "wa waffiqnī mina al-a‘māl",
+        "translation": {
+          "en": "and grant me success in works"
+        }
+      },
+      {
+        "number": 46,
+        "type": "content",
+        "arabic": "لِمَا تَغْسِلُ بِهِ دَنَسَ الخَطَايَا عَنِّي،",
+        "transliteration": "li-mā taghsilu bihī danasa al-khaṭāyā ‘annī,",
+        "translation": {
+          "en": "by which You may wash the dirt of errors from me,"
+        }
+      },
+      {
+        "number": 47,
+        "type": "content",
+        "arabic": "وَتَوَفَّنِي عَلَى مِلَّتِكَ وَمِلَّةِ نَبِيِّكَ",
+        "transliteration": "wa tawaffanī ‘alā millatika wa millati nabiyyik",
+        "translation": {
+          "en": "and make me die on Your creed and the creed of Your Prophet"
+        }
+      },
+      {
+        "number": 48,
+        "type": "content",
+        "arabic": "مُحَمَّد عَلَيْهِ السَّـلامُ إذَا تَوَفَّيْتَنِي.",
+        "transliteration": "Muḥammad ‘alayhī as-salām idhā tawaffaytanī.",
+        "translation": {
+          "en": "Muḥammad, peace be upon him, when You make me die."
+        }
+      },
+      {
+        "number": 49,
+        "type": "content",
+        "arabic": "أَللَّهُمَّ إنِّي أَتُوبُ إلَيْـكَ فِي مَقَامِي هَذَا",
+        "transliteration": "Allāhumma innī atūbu ilayka fī maqāmī hādhā",
+        "translation": {
+          "en": "O God, I repent to You in this station of mine"
+        }
+      },
+      {
+        "number": 50,
+        "type": "content",
+        "arabic": "مِنْ كَبَائِرِ ذُنُوبِي وَصَغَائِرِهَا",
+        "transliteration": "min kabā’iri dhunūbī wa ṣaghā’irihā",
+        "translation": {
+          "en": "from the major sins of mine and the minor,"
+        }
+      },
+      {
+        "number": 51,
+        "type": "content",
+        "arabic": "وَبَوَاطِنِ سَيِّئآتِي وَظَوَاهِرِهَا،",
+        "transliteration": "wa bawāṭini sayyi’ātī wa ẓawāhirihā,",
+        "translation": {
+          "en": "and the hidden evil acts of mine and the manifest,"
+        }
+      },
+      {
+        "number": 52,
+        "type": "content",
+        "arabic": "وَسَوالِفِ زَلاَّتِي وَحَوَادِثِهَا،",
+        "transliteration": "wa sawālifi zallātī wa ḥawādithihā,",
+        "translation": {
+          "en": "and the past slips of mine and the recent,"
+        }
+      },
+      {
+        "number": 53,
+        "type": "content",
+        "arabic": "تَوْبَةَ مَنْ لا يُحَدِّثُ نَفْسَهُ بِمَعْصِيَةٍ",
+        "transliteration": "tawbata man lā yuḥaddithu nafsahū bi-ma‘ṣiyah",
+        "translation": {
+          "en": "the repentance of one who does not talk to himself of an act of disobedience"
+        }
+      },
+      {
+        "number": 54,
+        "type": "content",
+        "arabic": "وَلاَ يُضْمِرُ أَنْ يَعُودَ فِي خَطِيئَةٍ،",
+        "transliteration": "wa lā yuḍmiru an ya‘ūda fī khaṭī’ah,",
+        "translation": {
+          "en": "and does not hide the intention to return to an error."
+        }
+      },
+      {
+        "number": 55,
+        "type": "content",
+        "arabic": "وَقَدْ قُلْتَ يَا إلهِي فِي مُحْكَمِ كِتابِكَ",
+        "transliteration": "wa qad qulta yā Ilāhī fī muḥkami kitābika",
+        "translation": {
+          "en": "For You have said, O my God, in the firm text of Your Book,"
+        }
+      },
+      {
+        "number": 56,
+        "type": "content",
+        "arabic": "إنَّكَ تَقْبَلُ التَّوْبَةَ عَنْ عِبَادِكَ،",
+        "transliteration": "innaka taqbalu at-tawbata ‘an ‘ibādik,",
+        "translation": {
+          "en": "that You accept the repentance of Your servants,"
+        }
+      },
+      {
+        "number": 57,
+        "type": "content",
+        "arabic": "وَتَعْفُو عَنِ السَّيِّئاتِ، وَتُحِبُّ التَّوَّابِينَ،",
+        "transliteration": "wa ta‘fū ‘ani as-sayyi’āt, wa tuḥibbu at-tawwābīn,",
+        "translation": {
+          "en": "and pardon evil deeds, and love the repenters."
+        }
+      },
+      {
+        "number": 58,
+        "type": "content",
+        "arabic": "فَاقْبَلْ تَوْبَتِي كَمَا وَعَدْتَ وَأعْفُ عَنْ سَيِّئاتِي كَمَا ضَمِنْتَ،",
+        "transliteration": "Fa-iqbal tawbatī kamā wa‘adta wa u‘fu ‘an sayyi’ātī kamā ḍaminta,",
+        "translation": {
+          "en": "So accept my repentance as You promised, and pardon my evil deeds as You guaranteed,"
+        }
+      },
+      {
+        "number": 59,
+        "type": "content",
+        "arabic": "وَأَوْجِبْ لِي مَحَبَّتَكَ كَمَا شَـرَطْتَ،",
+        "transliteration": "wa awjib lī maḥabbatika kamā sharaṭt,",
+        "translation": {
+          "en": "and make Your love incumbent upon me as You stipulated,"
+        }
+      },
+      {
+        "number": 60,
+        "type": "content",
+        "arabic": "وَلَـكَ يَـا رَبِّ شَـرْطِي أَلاّ أَعُودَ فِي مَكْرُوهِكَ،",
+        "transliteration": "wa lakā yā Rabbi sharṭī allā a‘ūda fī makrūhik,",
+        "translation": {
+          "en": "And Yours, O Lord, is my stipulation that I will not return to what You dislike,"
+        }
+      },
+      {
+        "number": 61,
+        "type": "content",
+        "arabic": "وَضَمَانِي أَلاّ أَرْجِعَ فِي مَذْمُومِكَ،",
+        "transliteration": "wa ḍamānī allā arji‘a fī madhmūmik,",
+        "translation": {
+          "en": "and my guarantee that I will not revert to what You blame,"
+        }
+      },
+      {
+        "number": 62,
+        "type": "content",
+        "arabic": "وَعَهْدِي أَنْ أَهْجُرَ جَمِيعَ مَعَاصِيكَ.",
+        "transliteration": "wa ‘ahdī an ahjura jamī‘a ma‘āṣīk.",
+        "translation": {
+          "en": "and my covenant that I will abandon all acts of disobedience to You."
+        }
+      },
+      {
+        "number": 63,
+        "type": "content",
+        "arabic": "أَللَّهُمَّ إنَّكَ أَعْلَمُ بِمَا عَمِلْتُ فَاغْفِرْ لِي مَا عَلِمْتَ،",
+        "transliteration": "Allāhumma innaka a‘lamu bi-mā ‘amiltu fa-ighfir lī mā ‘alimt,",
+        "translation": {
+          "en": "O God, surely You know better what I have done, so forgive me what You know,"
+        }
+      },
+      {
+        "number": 64,
+        "type": "content",
+        "arabic": "وَاصْرِفْنِي بِقُدْرَتِكَ إلَى مَا أَحْبَبْتَ.",
+        "transliteration": "wa iṣrifnī bi-qudratika ilā mā aḥbabt.",
+        "translation": {
+          "en": "and divert me by Your power to what You love."
+        }
+      },
+      {
+        "number": 65,
+        "type": "content",
+        "arabic": "أَللَّهُمَّ وَعَلَيَّ تَبِعَاتٌ قَدْ حَفِظْتُهُنَّ،",
+        "transliteration": "Allāhumma wa ‘alayya tabi‘ātun qad ḥafiẓtuhunna,",
+        "translation": {
+          "en": "O God, and incumbent upon me are consequences that I have guarded,"
+        }
+      },
+      {
+        "number": 66,
+        "type": "content",
+        "arabic": "وَتَبِعَاتٌ قَدْ نَسيتُهُنَّ،",
+        "transliteration": "wa tabi‘ātun qad nasītuhunna,",
+        "translation": {
+          "en": "and consequences that I have forgotten,"
+        }
+      },
+      {
+        "number": 67,
+        "type": "content",
+        "arabic": "وَكُلُّهُنَّ بِعَيْنِكَ الَّتِي لاَ تَنَـامُ،",
+        "transliteration": "wa kulluhunna bi-‘aynika allatī lā tanām,",
+        "translation": {
+          "en": "and all of them are in Your eye that does not sleep,"
+        }
+      },
+      {
+        "number": 68,
+        "type": "content",
+        "arabic": "وَعِلْمِكَ الَّذِي لا يَنْسَى",
+        "transliteration": "wa ‘ilmika alladhī lā yansā",
+        "translation": {
+          "en": "and Your knowledge that does not forget;"
+        }
+      },
+      {
+        "number": 69,
+        "type": "content",
+        "arabic": "فَعَوِّضْ مِنْهَا أَهْلَهَا وَاحْطُطْ عَنّي وِزْرَهَا،",
+        "transliteration": "fa-‘awwiḍ minhā ahlahā waḥṭuṭ ‘annī wizrahā,",
+        "translation": {
+          "en": "so compensate their owners for them, and put down their burden from me,"
+        }
+      },
+      {
+        "number": 70,
+        "type": "content",
+        "arabic": "وَخَفِّفْ عَنِّي ثِقْلَهَا، وَاعْصِمْنِي مِنْ أَنْ اُقَارِفَ مِثْلَهَا.",
+        "transliteration": "wa khaffif ‘annī thiqlahā, wa i‘ṣimnī min an uqārifa mithlahā.",
+        "translation": {
+          "en": "and lighten their weight from me, and protect me from committing their like."
+        }
+      },
+      {
+        "number": 71,
+        "type": "content",
+        "arabic": "أَللَّهُمَّ وَإنَّهُ لاَ وَفَاءَ لِي بِالتَّوْبَةِ إلاَّ بِعِصْمَتِكَ،",
+        "transliteration": "Allāhumma wa innahū lā wafā’a lī bi-at-tawbati illā bi-‘iṣmatik,",
+        "translation": {
+          "en": "O God, surely there is no fulfillment for me in repentance save by Your protection,"
+        }
+      },
+      {
+        "number": 72,
+        "type": "content",
+        "arabic": "وَلا اسْتِمْسَاكَ بِي عَنِ الْخَطَايَا إلاَّ عَنْ قُوَّتِكَ،",
+        "transliteration": "wa lā istimsāka bī ‘ani al-khaṭāyā illā ‘an quwwatik,",
+        "translation": {
+          "en": "and no holding back for me from errors save by Your strength,"
+        }
+      },
+      {
+        "number": 73,
+        "type": "content",
+        "arabic": "فَقَوِّنِي بِقُوَّة كَافِيَة، وَتَوَلَّنِي بِعِصْمَة مَانِعَة.",
+        "transliteration": "fa-qawwinī bi-quwwatin kāfiyah, wa tawallanī bi-‘iṣmatin māni‘ah.",
+        "translation": {
+          "en": "so strengthen me with a sufficient power, and assume authority over me with a preventive protection."
+        }
+      },
+      {
+        "number": 74,
+        "type": "content",
+        "arabic": "أَللَّهُمَّ أَيُّما عَبْد تَابَ إلَيْكَ",
+        "transliteration": "Allāhumma ayyumā ‘abdin tāba ilayk",
+        "translation": {
+          "en": "O God, any servant who repents to You,"
+        }
+      },
+      {
+        "number": 75,
+        "type": "content",
+        "arabic": "وَهُوَ فِي عِلْمِ الْغَيْبِ عِنْدَكَ فَاسِخٌ لِتَوْبَتِهِ",
+        "transliteration": "wa huwa fī ‘ilmi al-ghayb ‘indak fāsikhun li-tawbatih",
+        "translation": {
+          "en": "while in the knowledge of the unseen with You he is one who will break his repentance"
+        }
+      },
+      {
+        "number": 76,
+        "type": "content",
+        "arabic": "وَعَائِدٌ فِي ذَنْبِهِ وَخَطِيئَتِهِ",
+        "transliteration": "wa ‘ā’idun fī dhanbihī wa khaṭī’atih",
+        "translation": {
+          "en": "and return to his sin and his error—"
+        }
+      },
+      {
+        "number": 77,
+        "type": "content",
+        "arabic": "فَإنِّي أَعُوذُ بِكَ أنْ أَكُوْنَ كَذلِكَ،",
+        "transliteration": "fa-innī a‘ūdhu bika an akūna kadhālik,",
+        "translation": {
+          "en": "surely I seek refuge in You from being like that."
+        }
+      },
+      {
+        "number": 78,
+        "type": "content",
+        "arabic": "فَاجْعَلْ تَوْبَتِي هَذِهِ تَوْبَةً لا أَحْتَاجُ بَعْدَهَا إلَى تَوْبَة،",
+        "transliteration": "Fa-ij‘al tawbatī hādhihī tawbatan lā aḥtāju ba‘dahā ilā tawbah,",
+        "translation": {
+          "en": "So make this repentance of mine a repentance after which I will not need a repentance,"
+        }
+      },
+      {
+        "number": 79,
+        "type": "content",
+        "arabic": "تَوْبَةً مُوجِبَةً لِمَحْوِ مَا سَلَفَ، وَالسَّلاَمَةِ فِيمَـا بَقِيَ.",
+        "transliteration": "tawbatan mūjibatan li-maḥwi mā salaf, wa as-salāmah fīmā baqī.",
+        "translation": {
+          "en": "a repentance that necessitates the wiping out of what has passed, and safety in what remains."
+        }
+      },
+      {
+        "number": 80,
+        "type": "content",
+        "arabic": "أَللَّهُمَّ إنِّي أَعْتَـذِرُ إلَيْـكَ مِنْ جَهْلِي،",
+        "transliteration": "Allāhumma innī a‘tadhiru ilayka min jahlī,",
+        "translation": {
+          "en": "O God, I apologize to You for my ignorance,"
+        }
+      },
+      {
+        "number": 81,
+        "type": "content",
+        "arabic": "وَأَسْتَـوْهِبُـكَ سُوْءَ فِعْلِي،",
+        "transliteration": "wa astawhibuka sū’a fi‘lī,",
+        "translation": {
+          "en": "and I ask You for a gift to cover my evil deed,"
+        }
+      },
+      {
+        "number": 82,
+        "type": "content",
+        "arabic": "فَـاضْمُمْنِي إلَى كَنَفِ رَحْمَتِكَ تَطَوُّلاً،",
+        "transliteration": "fa-aḍmum-nī ilā kanaf raḥmatika taṭawwulā,",
+        "translation": {
+          "en": "so join me to the protection of Your mercy out of bounty,"
+        }
+      },
+      {
+        "number": 83,
+        "type": "content",
+        "arabic": "وَاسْتُرْنِي بِسِتْرِ عَافِيَتِكَ تَفَضُّلاً.",
+        "transliteration": "wa usturnī bi-sitri ‘āfiyatika tafaḍḍulā.",
+        "translation": {
+          "en": "and cover me with the covering of Your well-being out of grace."
+        }
+      },
+      {
+        "number": 84,
+        "type": "content",
+        "arabic": "أَللَّهُمَّ وَإنِّي أَتُوبُ إلَيْكَ",
+        "transliteration": "Allāhumma wa innī atūbu ilayk",
+        "translation": {
+          "en": "O God, I repent to You"
+        }
+      },
+      {
+        "number": 85,
+        "type": "content",
+        "arabic": "مِنْ كُلِّ مَا خَالَفَ إرَادَتَكَ",
+        "transliteration": "min kulli mā khālafā irādatak",
+        "translation": {
+          "en": "from everything that opposes Your Will,"
+        }
+      },
+      {
+        "number": 86,
+        "type": "content",
+        "arabic": "أَوْ زَالَ عَنْ مَحَبَّتِـكَ",
+        "transliteration": "aw zāla ‘an maḥabbatika",
+        "translation": {
+          "en": "or turns away from Your Love,"
+        }
+      },
+      {
+        "number": 87,
+        "type": "content",
+        "arabic": "مِنْ خَـطَرَاتِ قَلْبِي",
+        "transliteration": "min khaṭarāti qalbī",
+        "translation": {
+          "en": "whether it be from the thoughts of my heart,"
+        }
+      },
+      {
+        "number": 88,
+        "type": "content",
+        "arabic": "وَلَحَـظَاتِ عَيْنِي",
+        "transliteration": "wa laḥaẓāti ‘aynī",
+        "translation": {
+          "en": "and the glances of my eye,"
+        }
+      },
+      {
+        "number": 89,
+        "type": "content",
+        "arabic": "وَحِكَايَاتِ لِسَانِي،",
+        "transliteration": "wa ḥikāyāti lisānī,",
+        "translation": {
+          "en": "and the narrations of my tongue,"
+        }
+      },
+      {
+        "number": 90,
+        "type": "content",
+        "arabic": "تَوْبَةً تَسْلَمُ بِهَا كُلُّ جَارِحَة عَلَى حِيَالِهَا مِنْ تَبِعَاتِكَ،",
+        "transliteration": "tawbatan taslamu bihā kullu jāriḥatin ‘alā ḥiyālihā min tabi‘ātik,",
+        "translation": {
+          "en": "a repentance by which every limb, singly, is preserved from Your consequences,"
+        }
+      },
+      {
+        "number": 91,
+        "type": "content",
+        "arabic": "وَتَأْمَنُ مِمَّا يَخَافُ الْمُعْتَدُونَ مِنْ أَلِيْمِ سَطَوَاتِكَ.",
+        "transliteration": "wa ta’manu mimmā yakhāfu al-mu‘tadūn min alīm saṭawātik.",
+        "translation": {
+          "en": "and is safe from what the transgressors fear of Your painful assaults."
+        }
+      },
+      {
+        "number": 92,
+        "type": "content",
+        "arabic": "أَللَّهُمَّ فَارْحَمْ وَحْدَتِي بَيْنَ يَدَيْكَ،",
+        "transliteration": "Allāhumma fa-irḥam waḥdatī bayna yadayk,",
+        "translation": {
+          "en": "O God, then have mercy on my solitude before You,"
+        }
+      },
+      {
+        "number": 93,
+        "type": "content",
+        "arabic": "وَوَجِيبَ قَلْبِي مِنْ خَشْيَتِكَ،",
+        "transliteration": "wa wajība qalbī min khashyatik,",
+        "translation": {
+          "en": "and the throbbing of my heart from Your reverence,"
+        }
+      },
+      {
+        "number": 94,
+        "type": "content",
+        "arabic": "وَاضْطِرَابَ أَرْكَانِي مِنْ هَيْبَتِكَ،",
+        "transliteration": "wa iḍṭirāba arkānī min haybatik,",
+        "translation": {
+          "en": "and the trembling of my limbs from Your awe."
+        }
+      },
+      {
+        "number": 95,
+        "type": "content",
+        "arabic": "فَقَدْ أَقَامَتْنِي يَا رَبِّ ذُنُوبِي مَقَامَ الْخِزْيِ بِفِنَائِكَ،",
+        "transliteration": "Fa-qad aqāmatnī yā Rabbi dhunūbī maqām al-khizy bi-finā’ik,",
+        "translation": {
+          "en": "For surely, O Lord, my sins have made me stand in the station of ignominy at Your door,"
+        }
+      },
+      {
+        "number": 96,
+        "type": "content",
+        "arabic": "فَإِنْ سَكَتُّ لَمْ يَنْطِقْ عَنِّي أَحَدٌ،",
+        "transliteration": "fa-in sakattu lam yanṭiq ‘annī aḥad,",
+        "translation": {
+          "en": "so if I am silent, no one will speak on my behalf,"
+        }
+      },
+      {
+        "number": 97,
+        "type": "content",
+        "arabic": "وَإِنْ شَفَعْتُ فَلَسْتُ بِأَهْلِ الشَّفَاعَةِ.",
+        "transliteration": "wa in shafa‘tu fa-lastu bi-ahli ash-shafā‘ah.",
+        "translation": {
+          "en": "and if I intercede, I am not worthy of intercession."
+        }
+      },
+      {
+        "number": 98,
+        "type": "content",
+        "arabic": "أَللَّهُمَّ صَلِّ عَلَى مُحَمَّد وَآلِهِ",
+        "transliteration": "Allāhumma ṣalli ‘alā Muḥammad wa ālih",
+        "translation": {
+          "en": "O God, bless Muhammad and his Household,"
+        }
+      },
+      {
+        "number": 99,
+        "type": "content",
+        "arabic": "وَشَفِّعْ فِي خَطَايَـايَ كَرَمَكَ،",
+        "transliteration": "wa shaffi‘ fī khaṭāyāyā karamak,",
+        "translation": {
+          "en": "and make Your Generosity an intercessor for my errors,"
+        }
+      },
+      {
+        "number": 100,
+        "type": "content",
+        "arabic": "وَعُدْ عَلَى سَيِّئاتِي بِعَفْوِكَ،",
+        "transliteration": "wa ‘ud ‘alā sayyi’ātī bi-‘afwik,",
+        "translation": {
+          "en": "and revert to my evil deeds with Your pardon,"
+        }
+      },
+      {
+        "number": 101,
+        "type": "content",
+        "arabic": "وَلاَ تَجْزِنِي جَزَآئِي مِنْ عُقُوبَتِكَ",
+        "transliteration": "wa lā tajzinī jazā’ī min ‘uqūbatik",
+        "translation": {
+          "en": "and do not repay me my full recompense with Your punishment,"
+        }
+      },
+      {
+        "number": 102,
+        "type": "content",
+        "arabic": "وَابْسُطْ عَلَيَّ طَوْلَكَ وَجَلِّلْنِي بِسِتْرِكَ،",
+        "transliteration": "wa ubṣuṭ ‘alayya ṭawlak wa jallilnī bi-sitrik,",
+        "translation": {
+          "en": "and spread over me Your favor and cover me with Your covering,"
+        }
+      },
+      {
+        "number": 103,
+        "type": "content",
+        "arabic": "وَافْعَلْ بِي فِعْلَ عَزِيزٍ تَضَرَّعَ إلَيْهِ عَبْدٌ ذَلِيلٌ فَرَحِمَهُ،",
+        "transliteration": "wa if‘al bī fi‘la ‘azīzin taḍarra‘a ilayhi ‘abdun dhalīlun fa-raḥimah,",
+        "translation": {
+          "en": "and deal with me with the dealing of a Mighty One to whom a lowly servant implored and he had mercy on him,"
+        }
+      },
+      {
+        "number": 104,
+        "type": "content",
+        "arabic": "أَوْ غَنِيٍّ تَعَرَّضَ لَهُ عَبْدٌ فَقِيرٌ فَنَعَشَهُ.",
+        "transliteration": "aw ghaniyyin ta‘arraḍa lahū ‘abdun faqīrun fa-na‘ashah.",
+        "translation": {
+          "en": "or a Rich One to whom a poor servant exposed himself and he revived him."
+        }
+      },
+      {
+        "number": 105,
+        "type": "content",
+        "arabic": "أَللَّهُمَّ لاَ خَفِيرَ لِي مِنْكَ فَلْيَخْفُرْنِيْ عِزُّكَ،",
+        "transliteration": "Allāhumma lā khafīra lī minka fa-līakhfurnī ‘izzuk,",
+        "translation": {
+          "en": "O God, there is no one who can grant me protection from You, so let Your Might protect me,"
+        }
+      },
+      {
+        "number": 106,
+        "type": "content",
+        "arabic": "وَلا شَفِيعَ لِيْ إلَيْكَ فَلْيَشْفَعْ لِي فَضْلُكَ،",
+        "transliteration": "wa lā shafī‘a lī ilayka fa-līashfa‘ lī faḍluk,",
+        "translation": {
+          "en": "and no intercessor for me before You, so let Your Favor intercede for me,"
+        }
+      },
+      {
+        "number": 107,
+        "type": "content",
+        "arabic": "وَقَدْ أَوْجَلَتْنِي خَطَايَايَ فَلْيُؤْمِنِّي عَفْوُكَ،",
+        "transliteration": "wa qad awjalatnī khaṭāyāyā fa-līu’minnī ‘afwuk,",
+        "translation": {
+          "en": "and my errors have frightened me, so let Your Pardon grant me security."
+        }
+      },
+      {
+        "number": 108,
+        "type": "content",
+        "arabic": "فَمَا كُلُّ مَا نَطَقْتُ بِهِ عَنْ جَهْلٍ مِنِّي بِسُوْءِ أَثَرِي،",
+        "transliteration": "Fa-mā kullu mā naṭaqtu bihī ‘an jahl minnī bi-sū’i atharī,",
+        "translation": {
+          "en": "For not all that I have spoken is from my ignorance of the evil effect of my deeds,"
+        }
+      },
+      {
+        "number": 109,
+        "type": "content",
+        "arabic": "وَلاَ نِسيَانٍ لِمَا سَبَقَ مِنْ ذَمِيمِ فِعْلِي،",
+        "transliteration": "wa lā nisyān li-mā sabaqa min dhamīm fi‘lī,",
+        "translation": {
+          "en": "nor forgetfulness of what has preceded of my blameworthy action,"
+        }
+      },
+      {
+        "number": 110,
+        "type": "content",
+        "arabic": "وَلكِنْ لِتَسْمَعَ سَمَاؤُكَ وَمَنْ فِيْهَـا،",
+        "transliteration": "wa lākin li-tasma‘a samā’uka wa man fīhā,",
+        "translation": {
+          "en": "but so that Your Heaven and whoever is in it may hear,"
+        }
+      },
+      {
+        "number": 111,
+        "type": "content",
+        "arabic": "وَأَرْضُكَ وَمَنْ عَلَيْهَا مَا أَظْهَرْتُ لَكَ مِنَ النَّدَمِ،",
+        "transliteration": "wa arḍuka wa man ‘alayhā mā aẓhartu lakā mina an-nadam,",
+        "translation": {
+          "en": "and Your Earth and whoever is upon it may hear what I have revealed to You of remorse,"
+        }
+      },
+      {
+        "number": 112,
+        "type": "content",
+        "arabic": "وَلَجَـأتُ إلَيْكَ فِيـهِ مِنَ التَّوْبَـةِ،",
+        "transliteration": "wa laja’tu ilayka fīhī mina at-tawbah,",
+        "translation": {
+          "en": "and what I have taken refuge in You for, of repentance,"
+        }
+      },
+      {
+        "number": 113,
+        "type": "content",
+        "arabic": "فَلَعَـلَّ بَعْضَهُمْ بِرَحْمَتِكَ يَرْحَمُنِي لِسُوءِ مَوْقِفِي،",
+        "transliteration": "fa-la‘alla ba‘ḍahum bi-raḥmatika yarḥamunī li-sū’i mawqifī,",
+        "translation": {
+          "en": "so that perhaps some of them, through Your mercy, may have mercy on me because of my evil stance,"
+        }
+      },
+      {
+        "number": 114,
+        "type": "content",
+        "arabic": "أَوْ تُدْرِكُهُ الرِّقَّةُ عَلَىَّ لِسُوءِ حَالِي",
+        "transliteration": "aw tudrikuhu ar-riqqatu ‘alayya li-sū’i ḥālī",
+        "translation": {
+          "en": "or a softness may overtake them toward me because of my evil state,"
+        }
+      },
+      {
+        "number": 115,
+        "type": "content",
+        "arabic": "فَيَنَالَنِي مِنْهُ بِدَعْوَةٍ أَسْمَعُ لَدَيْكَ مِنْ دُعَائِي،",
+        "transliteration": "fa-yanālanī minhu bi-da‘watin asma‘u ladayka min du‘ā’ī,",
+        "translation": {
+          "en": "and so I may gain from them a prayer more heard with You than my prayer,"
+        }
+      },
+      {
+        "number": 116,
+        "type": "content",
+        "arabic": "أَوْ شَفَاعَـةٍ أَوْكَدُ عِنْدَكَ مِنْ شَفَاعَتِي",
+        "transliteration": "aw shafā‘atin awkadu ‘indakā min shafā‘atī",
+        "translation": {
+          "en": "or an intercession more certain with You than my intercession,"
+        }
+      },
+      {
+        "number": 117,
+        "type": "content",
+        "arabic": "تَكُونُ بِهَا نَجَاتِي مِنْ غَضَبِكَ وَفَوْزَتِي بِرِضَاكَ.",
+        "transliteration": "takūnu bihā najātī min ghaḍabika wa fawzatī bi-riḍāk.",
+        "translation": {
+          "en": "by which will be my deliverance from Your wrath and my triumph with Your pleasure."
+        }
+      },
+      {
+        "number": 118,
+        "type": "content",
+        "arabic": "أَللَّهُمَّ إِنْ يَكُنِ النَّدَمُ تَوْبَةً إِلَيْكَ فَأَنَا أَنْدَمُ اْلنَّادِمِينَ،",
+        "transliteration": "Allāhumma in yakuni an-nadamu tawbatan ilayka fa-anā andamu an-nādimīn,",
+        "translation": {
+          "en": "O God, if remorse is repentance to You, then I am the most remorseful of the remorseful,"
+        }
+      },
+      {
+        "number": 119,
+        "type": "content",
+        "arabic": "وَإِنْ يَكُنِ التَّرْكُ لِمَعْصِيَتِكَ إِنَابَةً فَأَنَا أَوَّلُ الْمُنِيبينَ،",
+        "transliteration": "wa in yakuni at-tarku li-ma‘ṣiyatika inābatan fa-anā awwalu al-munībīn,",
+        "translation": {
+          "en": "and if the forsaking of disobedience to You is turning back, then I am the first of those who turn back,"
+        }
+      },
+      {
+        "number": 120,
+        "type": "content",
+        "arabic": "وَإِنْ يَكُنِ الاسْتِغْفَارُ حِطَّةً لِلذُّنُوبِ فَإِنَي لَكَ مِنَ الْمُسْتَغْفِرِينَ.",
+        "transliteration": "wa in yakuni al-istighfāru ḥiṭṭatan li-adh-dhunūbi fa-innī laka mina al-mustaghfirīn.",
+        "translation": {
+          "en": "and if seeking forgiveness is a remission of sins, then I am among those who seek forgiveness before You."
+        }
+      },
+      {
+        "number": 121,
+        "type": "content",
+        "arabic": "اللَّهُمَّ فَكَمَا أَمَرْتَ بِالتَّوْبَةِ وَضَمِنْتَ الْقَبُولَ",
+        "transliteration": "Allāhumma fa-kamā amarta bi-at-tawbah wa ḍaminta al-qabūl",
+        "translation": {
+          "en": "O God, just as You commanded repentance and guaranteed acceptance,"
+        }
+      },
+      {
+        "number": 122,
+        "type": "content",
+        "arabic": "وَحَثَثْتَ عَلَى الدُّعَـاءِ وَوَعَدْتَ الإجَابَةَ،",
+        "transliteration": "wa ḥathathta ‘alā ad-du‘ā’ wa wa‘adta al-ijābah,",
+        "translation": {
+          "en": "and urged to supplication and promised response,"
+        }
+      },
+      {
+        "number": 123,
+        "type": "content",
+        "arabic": "فَصَلِّ عَلَى مُحَمَّدِ وَآلِهِ وَاقْبَلْ تَوْبَتِي",
+        "transliteration": "fa-ṣalli ‘alā Muḥammad wa ālihī wa iqbal tawbatī",
+        "translation": {
+          "en": "so bless Muhammad and his Household, and accept my repentance,"
+        }
+      },
+      {
+        "number": 124,
+        "type": "content",
+        "arabic": "وَلاَ تَرْجِعْني مَرجَعَ الخَيبَةِ منْ رَحْمَتِك",
+        "transliteration": "wa lā tarji‘nī marja‘a al-khaybah min raḥmatik",
+        "translation": {
+          "en": "and do not return me to the place of disappointment from Your mercy."
+        }
+      },
+      {
+        "number": 125,
+        "type": "content",
+        "arabic": "إنَّكَ أَنْتَ التَّوَّابُ عَلَى الْمُذْنِبِينَ،",
+        "transliteration": "innaka anta at-Tawwābu ‘alā al-mudhnibīn,",
+        "translation": {
+          "en": "Surely You are the Relenting One toward the sinners,"
+        }
+      },
+      {
+        "number": 126,
+        "type": "content",
+        "arabic": "وَالرَّحِيمُ لِلْخَاطِئِينَ الْمُنِيبِينَ.",
+        "transliteration": "wa ar-Raḥīmu li-al-khāṭi’īn al-munībīn.",
+        "translation": {
+          "en": "and the Merciful to the erring ones who turn back."
+        }
+      },
+      {
+        "number": 127,
+        "type": "content",
+        "arabic": "أَللَّهُمَّ صَلِّ عَلَى مُحَمَّد وَآلِهِ كَمَا هَدَيْتَنَا بِهِ",
+        "transliteration": "Allāhumma ṣalli ‘alā Muḥammad wa ālihī kamā hadaytanā bih",
+        "translation": {
+          "en": "O God, bless Muhammad and his Household, just as You guided us through him,"
+        }
+      },
+      {
+        "number": 128,
+        "type": "content",
+        "arabic": "وَصَلِّ عَلَى مُحَمَّد وَآلِهِ كَمَا اسْتَنْقَذْتَنَا بِهِ،",
+        "transliteration": "wa ṣalli ‘alā Muḥammad wa ālihī kamā istanqadhtanā bih,",
+        "translation": {
+          "en": "and bless Muhammad and his Household, just as You rescued us through him,"
+        }
+      },
+      {
+        "number": 129,
+        "type": "content",
+        "arabic": "وَصَلِّ عَلَى مُحَمَّد وَآلِهِ",
+        "transliteration": "wa ṣalli ‘alā Muḥammad wa ālih",
+        "translation": {
+          "en": "and bless Muhammad and his Household"
+        }
+      },
+      {
+        "number": 130,
+        "type": "content",
+        "arabic": "صَلاَةً تَشْفَعُ لَنَا يَوْمَ الْقِيَامَةِ وَيَوْمَ الْفَاقَةِ إلَيْكَ،",
+        "transliteration": "ṣalātan tashfa‘u lanā yawm al-qiyāmah wa yawm al-fāqah ilayk,",
+        "translation": {
+          "en": "with a blessing that intercedes for us on the Day of Resurrection and the Day of our utter need for You."
+        }
+      },
+      {
+        "number": 131,
+        "type": "content",
+        "arabic": "إنَّكَ عَلَى كُلِّ شَيْء قَدِيرٌ وَهُوَ عَلَيْكَ يَسِيرٌ .",
+        "transliteration": "innaka ‘alā kulli shay’in qadīr wa huwa ‘alayka yasīr.",
+        "translation": {
+          "en": "Surely You are powerful over everything, and that is easy for You."
+        }
+      }
+    ]
+  }
+]

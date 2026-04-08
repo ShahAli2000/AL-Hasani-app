@@ -1,0 +1,82 @@
+{
+  "bookId": "nahj-al-balagha",
+  "version": 1,
+  "totalChapters": 5,
+  "sections": [
+    { "key": "sermons", "title": { "en": "Sermons", "ar": "الخطب", "fa": "خطبه‌ها" }, "chapterRange": [1, 3] },
+    { "key": "letters", "title": { "en": "Letters", "ar": "الرسائل", "fa": "نامه‌ها" }, "chapterRange": [4, 4] },
+    { "key": "sayings", "title": { "en": "Sayings", "ar": "الحكم", "fa": "حکمت‌ها" }, "chapterRange": [5, 5] }
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "section": "sermons",
+      "title": {
+        "en": "Sermon 1: In which he recalls the creation of Earth and Sky and the birth of Adam",
+        "ar": "الخطبة ١: يذكر فيها ابتداء خلق السماوات والأرض وخلق آدم",
+        "fa": "خطبه ١: درباره آفرینش آسمان و زمین و آفرینش آدم"
+      },
+      "content": {
+        "ar": "الْحَمْدُ لِلَّهِ الَّذِي لَا يَبْلُغُ مِدْحَتَهُ الْقَائِلُونَ.\nوَلَا يُحْصِي نَعْمَاءَهُ الْعَادُّونَ.\nوَلَا يُؤَدِّي حَقَّهُ الْمُجْتَهِدُونَ.\nالَّذِي لَا يُدْرِكُهُ بُعْدُ الْهِمَمِ.\nوَلَا يَنَالُهُ غَوْصُ الْفِطَنِ.\nالَّذِي لَيْسَ لِصِفَتِهِ حَدٌّ مَحْدُودٌ.\nوَلَا نَعْتٌ مَوْجُودٌ.\nوَلَا وَقْتٌ مَعْدُودٌ.\nوَلَا أَجَلٌ مَمْدُودٌ.\nفَطَرَ الْخَلَائِقَ بِقُدْرَتِهِ.\nوَنَشَرَ الرِّيَاحَ بِرَحْمَتِهِ.\nوَوَتَّدَ بِالصُّخُورِ مَيَدَانَ أَرْضِهِ.\nأَوَّلُ الدِّينِ مَعْرِفَتُهُ.\nوَكَمَالُ مَعْرِفَتِهِ التَّصْدِيقُ بِهِ.\nوَكَمَالُ التَّصْدِيقِ بِهِ تَوْحِيدُهُ.\nوَكَمَالُ تَوْحِيدِهِ الْإِخْلَاصُ لَهُ.\nوَكَمَالُ الْإِخْلَاصِ لَهُ نَفْيُ الصِّفَاتِ عَنْهُ.\nلِشَهَادَةِ كُلِّ صِفَةٍ أَنَّهَا غَيْرُ الْمَوْصُوفِ.\nوَشَهَادَةِ كُلِّ مَوْصُوفٍ أَنَّهُ غَيْرُ الصِّفَةِ.\nفَمَنْ وَصَفَ اللَّهَ سُبْحَانَهُ فَقَدْ قَرَنَهُ.\nوَمَنْ قَرَنَهُ فَقَدْ ثَنَّاهُ.\nوَمَنْ ثَنَّاهُ فَقَدْ جَزَّأَهُ.\nوَمَنْ جَزَّأَهُ فَقَدْ جَهِلَهُ.",
+        "en": "Praise is due to God whose worth cannot be described by speakers,\nwhose bounties cannot be counted by calculators,\nand whose claim to obedience cannot be satisfied by those who attempt to do so.\nHe whom the height of intellectual courage cannot appreciate,\nand the diving of understanding cannot reach.\nHe for whose description no limit has been laid down,\nno quality exists,\nno time is ordained,\nand no duration is fixed.\nHe brought forth creation through His Omnipotence,\ndispersed winds through His Compassion,\nand firmed the shaking earth with rocks.\nThe foremost in religion is the acknowledgement of Him,\nthe perfection of acknowledging Him is to testify to Him,\nthe perfection of testifying to Him is to believe in His Oneness,\nthe perfection of believing in His Oneness is to regard Him as Pure,\nand the perfection of His purity is to deny Him attributes,\nbecause every attribute is a proof that it is different from that to which it is attributed,\nand everything to which something is attributed is different from the attribute.\nThus whoever attaches attributes to God recognizes His like,\nand who recognizes His like regards Him as two,\nand who regards Him as two recognizes parts for Him,\nand who recognizes parts for Him is ignorant of Him.",
+        "fa": "سپاس خدایی را که گویندگان از ستایشش ناتوانند.\nو شمارندگان از شمردن نعمت‌هایش عاجزند.\nو کوشندگان حق او را ادا نتوانند.\nخدایی که بلندای همت‌ها به او نرسد.\nو ژرفای زیرکی‌ها به او دست نیابد.\nخدایی که برای وصفش حدّی معین نیست.\nو ستایشی موجود نیست.\nو وقتی شمرده نیست.\nو مهلتی کشیده نیست.\nآفریدگان را به قدرتش آفرید.\nو بادها را به رحمتش پراکنده ساخت.\nو لرزش زمین را به صخره‌ها استوار کرد.\nسرآغاز دین شناخت اوست.\nو کمال شناختش تصدیق اوست.\nو کمال تصدیقش یگانه دانستن اوست.\nو کمال یگانگی‌اش اخلاص برای اوست.\nو کمال اخلاص برایش نفی صفات از اوست.\nزیرا هر صفتی گواهی می‌دهد که غیر موصوف است.\nو هر موصوفی گواهی می‌دهد که غیر صفت است.\nپس هر که خدای سبحان را وصف کند او را مقرون ساخته.\nو هر که مقرونش سازد دوتایش کرده.\nو هر که دوتایش کند اجزایش کرده.\nو هر که اجزایش کند از او نادان است."
+      }
+    },
+    {
+      "number": 2,
+      "section": "sermons",
+      "title": {
+        "en": "Sermon 2: After return from Siffin",
+        "ar": "الخطبة ٢: بعد انصرافه من صفين",
+        "fa": "خطبه ٢: پس از بازگشت از صفین"
+      },
+      "content": {
+        "ar": "أَحْمَدُهُ اسْتِتْمَاماً لِنِعْمَتِهِ.\nوَاسْتِسْلَاماً لِعِزَّتِهِ.\nوَاسْتِعْصَاماً مِنْ مَعْصِيَتِهِ.\nوَأَسْتَعِينُهُ فَاقَةً إِلَى كِفَايَتِهِ.\nإِنَّهُ لَا يَضِلُّ مَنْ هَدَاهُ.\nوَلَا يَئِلُ مَنْ عَادَاهُ.\nوَلَا يَفْتَقِرُ مَنْ كَفَاهُ.\nفَإِنَّهُ أَرْجَحُ مَا وُزِنَ.\nوَأَفْضَلُ مَا خُزِنَ.\nوَأَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ.\nشَهَادَةً مُمْتَحَناً إِخْلَاصُهَا.\nمُعْتَقَداً مُصَاصُهَا.\nنَتَمَسَّكُ بِهَا أَبَداً مَا أَبْقَانَا.\nوَنَدَّخِرُهَا لِأَهَاوِيلِ مَا يَلْقَانَا.\nفَإِنَّهَا عَزِيمَةُ الْإِيمَانِ.\nوَفَاتِحَةُ الْإِحْسَانِ.\nوَمَرْضَاةُ الرَّحْمَنِ.\nوَمَدْحَرَةُ الشَّيْطَانِ.",
+        "en": "I praise Him in seeking the completion of His blessings,\nand in surrendering to His Might,\nand in seeking protection from disobedience to Him.\nI seek His help, being in need of His sufficiency.\nVerily, he whom He guides does not go astray,\nhe whom He opposes finds no refuge,\nand he to whom He provides needs nothing more.\nFor it is the most weighty thing to be weighed,\nand the most excellent thing to be stored.\nI bear witness that there is no god but God, alone, without partner,\na testimony whose sincerity is tested,\nwhose core is held as creed.\nWe hold fast to it forever so long as He keeps us.\nWe store it against the horrors that confront us.\nFor it is the resolve of faith,\nthe opening of goodness,\nthe pleasure of the Merciful,\nand the repelling of Satan.",
+        "fa": "او را می‌ستایم برای تکمیل نعمتش.\nو تسلیم شدن به عزتش.\nو پناه بردن از نافرمانی‌اش.\nو از او یاری می‌جویم از نیازمندی به کفایتش.\nهمانا گمراه نشود آن که هدایتش کند.\nو پناهی نیابد آن که دشمنش دارد.\nو نیازمند نشود آن که بی‌نیازش سازد.\nزیرا آن سنگین‌ترین چیزی است که وزن شود.\nو برترین چیزی است که اندوخته شود.\nو گواهی می‌دهم که خدایی جز الله نیست، یگانه و بی‌شریک.\nگواهی‌ای که اخلاصش آزموده شده.\nو مغزش به عقیده گرفته شده.\nتا ابد بدان چنگ می‌زنیم مادام که ما را باقی دارد.\nو آن را ذخیره می‌کنیم برای هول‌هایی که با آن رو به رو شویم.\nزیرا آن عزم ایمان است.\nو آغاز احسان.\nو خشنودی خداوند رحمان.\nو دور کننده شیطان."
+      }
+    },
+    {
+      "number": 3,
+      "section": "sermons",
+      "title": {
+        "en": "Sermon 3: Known as the Sermon of Shiqshiqiyya",
+        "ar": "الخطبة ٣: المعروفة بالشقشقية",
+        "fa": "خطبه ٣: معروف به خطبه شقشقیه"
+      },
+      "content": {
+        "ar": "أَمَا وَاللَّهِ لَقَدْ تَقَمَّصَهَا ابْنُ أَبِي قُحَافَةَ.\nوَإِنَّهُ لَيَعْلَمُ أَنَّ مَحَلِّي مِنْهَا مَحَلُّ الْقُطْبِ مِنَ الرَّحَى.\nيَنْحَدِرُ عَنِّي السَّيْلُ.\nوَلَا يَرْقَى إِلَيَّ الطَّيْرُ.\nفَسَدَلْتُ دُونَهَا ثَوْباً.\nوَطَوَيْتُ عَنْهَا كَشْحاً.\nوَطَفِقْتُ أَرْتَئِي بَيْنَ أَنْ أَصُولَ بِيَدٍ جَذَّاءَ.\nأَوْ أَصْبِرَ عَلَى طَخْيَةٍ عَمْيَاءَ.\nيَهْرَمُ فِيهَا الْكَبِيرُ.\nوَيَشِيبُ فِيهَا الصَّغِيرُ.\nوَيَكْدَحُ فِيهَا مُؤْمِنٌ حَتَّى يَلْقَى رَبَّهُ.\nفَرَأَيْتُ أَنَّ الصَّبْرَ عَلَى هَاتَا أَحْجَى.\nفَصَبَرْتُ وَفِي الْعَيْنِ قَذًى.\nوَفِي الْحَلْقِ شَجاً.\nأَرَى تُرَاثِي نَهْباً.",
+        "en": "Beware! By God, the son of Abu Quhafa dressed himself with it\nand he certainly knew that my position in relation to it was the same as the position of the axis in relation to the hand-mill.\nThe flood water flows down from me,\nand the bird cannot fly up to me.\nI put a curtain against the caliphate\nand kept myself detached from it.\nThen I began to think whether I should assault with a severed hand,\nor endure calmly the blinding darkness,\nwherein the weights would become old,\nthe young would grow grey,\nand the true believer would struggle until he met God.\nI found that endurance thereon was wiser.\nSo I adopted patience although there was a pricking in the eye,\nand suffocation in the throat.\nI watched the plundering of my inheritance.",
+        "fa": "آگاه باشید! به خدا سوگند پسر ابوقحافه جامه خلافت را بر تن کرد.\nو همانا می‌دانست که جایگاه من از خلافت همچون جایگاه محور از آسیاب است.\nسیل از من سرازیر می‌شود.\nو مرغ به بلندای من پرواز نتواند.\nپس پرده‌ای میان خود و خلافت آویختم.\nو از آن رو گرداندم.\nو شروع کردم به اندیشیدن که آیا با دست بریده حمله کنم.\nیا بر تاریکی کور صبر کنم.\nکه در آن بزرگ پیر می‌شود.\nو کوچک موی سپید می‌کند.\nو مؤمن در آن رنج می‌برد تا پروردگارش را ملاقات کند.\nپس دیدم که صبر بر این خردمندانه‌تر است.\nپس صبر کردم در حالی که در چشم خاشاکی بود.\nو در گلو استخوانی.\nمیراث خود را غارت‌شده می‌دیدم."
+      }
+    },
+    {
+      "number": 4,
+      "section": "letters",
+      "title": {
+        "en": "Letter 53: Instructions to Malik al-Ashtar",
+        "ar": "الرسالة ٥٣: عهده إلى مالك الأشتر",
+        "fa": "نامه ٥٣: عهدنامه به مالک اشتر"
+      },
+      "content": {
+        "ar": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ\nهَذَا مَا أَمَرَ بِهِ عَبْدُ اللَّهِ عَلِيٌّ أَمِيرُ الْمُؤْمِنِينَ.\nمَالِكَ بْنَ الْحَارِثِ الْأَشْتَرَ فِي عَهْدِهِ إِلَيْهِ.\nحِينَ وَلَّاهُ مِصْرَ: جِبَايَةَ خَرَاجِهَا وَجِهَادَ عَدُوِّهَا وَاسْتِصْلَاحَ أَهْلِهَا وَعِمَارَةَ بِلَادِهَا.\nأَمَرَهُ بِتَقْوَى اللَّهِ وَإِيثَارِ طَاعَتِهِ.\nوَاتِّبَاعِ مَا أَمَرَ بِهِ فِي كِتَابِهِ مِنْ فَرَائِضِهِ وَسُنَنِهِ.\nالَّتِي لَا يَسْعَدُ أَحَدٌ إِلَّا بِاتِّبَاعِهَا.\nوَلَا يَشْقَى إِلَّا مَعَ جُحُودِهَا وَإِضَاعَتِهَا.\nوَأَنْ يَنْصُرَ اللَّهَ سُبْحَانَهُ بِقَلْبِهِ وَيَدِهِ وَلِسَانِهِ.\nفَإِنَّهُ جَلَّ اسْمُهُ قَدْ تَكَفَّلَ بِنَصْرِ مَنْ نَصَرَهُ وَإِعْزَازِ مَنْ أَعَزَّهُ.\nوَأَشْعِرْ قَلْبَكَ الرَّحْمَةَ لِلرَّعِيَّةِ وَالْمَحَبَّةَ لَهُمْ وَاللُّطْفَ بِهِمْ.\nوَلَا تَكُونَنَّ عَلَيْهِمْ سَبُعاً ضَارِياً تَغْتَنِمُ أَكْلَهُمْ.\nفَإِنَّهُمْ صِنْفَانِ: إِمَّا أَخٌ لَكَ فِي الدِّينِ أَوْ نَظِيرٌ لَكَ فِي الْخَلْقِ.",
+        "en": "In the Name of God, the Merciful, the Compassionate.\nThis is what the servant of God, Ali, the Commander of the Faithful,\nordered Malik ibn al-Harith al-Ashtar in his covenant to him,\nwhen he appointed him Governor of Egypt: for the collection of its revenues, fighting against its enemies, the improvement of its people, and the development of its cities.\nHe ordered him to fear God and to prefer obedience to Him,\nand to follow what He has commanded in His Book of obligatory acts and traditions,\nwhich no one can be happy without following,\nand no one is wretched save with their denial and neglect.\nAnd that he should help God, glorified be He, with his heart, hand, and tongue,\nfor He, whose name is Mighty, has guaranteed to help him who helps Him, and to honor him who honors Him.\nInfuse your heart with mercy for the subjects, love for them, and kindness toward them.\nDo not stand over them like a greedy beast that seeks to devour them.\nFor they are of two kinds: either your brother in religion, or one like you in creation.",
+        "fa": "به نام خداوند بخشنده مهربان.\nاین فرمانی است که بنده خدا علی امیرالمؤمنین\nبه مالک بن حارث اشتر داده در عهدنامه‌اش به او،\nهنگامی که او را والی مصر ساخت: برای جمع‌آوری خراج و جهاد با دشمنانش و اصلاح مردمانش و آبادانی شهرهایش.\nاو را به تقوای الهی و برتری دادن اطاعتش فرمان داد.\nو پیروی آنچه در کتابش از واجبات و سنت‌ها فرمان داده.\nکه هیچ‌کس جز با پیروی آنها خوشبخت نمی‌شود.\nو جز با انکار و تباه کردنشان بدبخت نمی‌گردد.\nو اینکه خدای سبحان را با دل و دست و زبانش یاری کند.\nزیرا خداوند — جلّ اسمه — یاری‌کننده خود را یاری و عزت‌بخشنده خود را عزت می‌بخشد.\nو دلت را آکنده از رحمت بر مردم و محبت به آنان و لطف با ایشان ساز.\nو برای آنان درنده‌ای مباش که خوردنشان را غنیمت شمارد.\nزیرا آنان دو دسته‌اند: یا برادر دینی تواَند یا همانند تو در آفرینش."
+      }
+    },
+    {
+      "number": 5,
+      "section": "sayings",
+      "title": {
+        "en": "Selected Sayings",
+        "ar": "حكم مختارة",
+        "fa": "حکمت‌های برگزیده"
+      },
+      "content": {
+        "ar": "١. قَالَ عليه‌السلام: كُنْ فِي الْفِتْنَةِ كَابْنِ اللَّبُونِ، لَا ظَهْرٌ فَيُرْكَبَ وَلَا ضَرْعٌ فَيُحْلَبَ.\n\n٢. قَالَ عليه‌السلام: أَزْرَى بِنَفْسِهِ مَنِ اسْتَشْعَرَ الطَّمَعَ.\nوَرَضِيَ بِالذُّلِّ مَنْ كَشَفَ عَنْ ضُرِّهِ.\nوَهَانَتْ عَلَيْهِ نَفْسُهُ مَنْ أَمَّرَ عَلَيْهَا لِسَانَهُ.\n\n٣. قَالَ عليه‌السلام: الْبُخْلُ عَارٌ، وَالْجُبْنُ مَنْقَصَةٌ.\nوَالْفَقْرُ يُخْرِسُ الْفَطِنَ عَنْ حُجَّتِهِ.\nوَالْمُقِلُّ غَرِيبٌ فِي بَلْدَتِهِ.\n\n٤. قَالَ عليه‌السلام: الْعِلْمُ وِرَاثَةٌ كَرِيمَةٌ.\nوَالْآدَابُ حُلَلٌ مُجَدَّدَةٌ.\nوَالْفِكْرُ مِرْآةٌ صَافِيَةٌ.\n\n٥. قَالَ عليه‌السلام: النَّاسُ أَعْدَاءُ مَا جَهِلُوا.\n\n٦. قَالَ عليه‌السلام: قِيمَةُ كُلِّ امْرِئٍ مَا يُحْسِنُهُ.\n\n٧. قَالَ عليه‌السلام: مَنْ نَصَبَ نَفْسَهُ لِلنَّاسِ إِمَاماً فَلْيَبْدَأْ بِتَعْلِيمِ نَفْسِهِ قَبْلَ تَعْلِيمِ غَيْرِهِ.\nوَلْيَكُنْ تَأْدِيبُهُ بِسِيرَتِهِ قَبْلَ تَأْدِيبِهِ بِلِسَانِهِ.\nوَمُعَلِّمُ نَفْسِهِ وَمُؤَدِّبُهَا أَحَقُّ بِالْإِجْلَالِ مِنْ مُعَلِّمِ النَّاسِ وَمُؤَدِّبِهِمْ.\n\n٨. قَالَ عليه‌السلام: الصَّبْرُ صَبْرَانِ: صَبْرٌ عَلَى مَا تَكْرَهُ وَصَبْرٌ عَمَّا تُحِبُّ.",
+        "en": "1. He said, peace be upon him: In times of sedition be like a young camel that has neither a back strong enough for riding nor udders for milking.\n\n2. He said: He who indulges in greed demeans himself. He who reveals his hardship agrees to humiliation. He who lets his tongue overpower his soul debases it.\n\n3. He said: Miserliness is a disgrace; cowardice is a defect. Poverty makes the intelligent speechless in arguing his case. A destitute person is a stranger in his homeland.\n\n4. He said: Knowledge is a noble inheritance. Manners are garments ever-renewed. Reflection is a polished mirror.\n\n5. He said: People are enemies of what they do not know.\n\n6. He said: The worth of every person is what he does well.\n\n7. He said: Whoever appoints himself as an imam for the people should begin by teaching himself before teaching others. His discipline should be by his conduct before by his tongue. He who teaches and disciplines himself deserves more respect than he who teaches and disciplines others.\n\n8. He said: Patience is of two kinds: patience over what is disagreeable and patience in foregoing what is desirable.",
+        "fa": "١. فرمود علیه‌السلام: در فتنه مانند شتربچه‌ای باش که نه پشتی دارد که سوارش شوند و نه پستانی که دوشیده شود.\n\n٢. فرمود: هر که طمع را شعار خود سازد خود را خوار کرده. و هر که سختی‌اش را آشکار سازد به ذلت رضا داده. و هر که زبانش را بر نفسش امیر سازد خود را پست کرده.\n\n٣. فرمود: بخل ننگ است و ترس کمبود. فقر زیرک را از حجتش لال می‌سازد. و تهیدست در شهر خود غریب است.\n\n٤. فرمود: دانش میراثی ارجمند است. آداب جامه‌هایی نو هستند. اندیشه آینه‌ای صاف است.\n\n٥. فرمود: مردم دشمن چیزهایی هستند که نمی‌دانند.\n\n٦. فرمود: ارزش هر کس آن چیزی است که نیکو انجامش دهد.\n\n٧. فرمود: هر که خود را پیشوای مردم قرار دهد باید پیش از آموختن به دیگران خود را بیاموزد. و ادب کردنش به سیرتش پیش از ادب کردنش به زبانش باشد. و آن که خود را بیاموزد و ادب کند سزاوارتر به بزرگداشت است از آن که مردم را بیاموزد و ادب کند.\n\n٨. فرمود: صبر دو گونه است: صبر بر آنچه ناخوش داری و صبر از آنچه دوست داری."
+      }
+    }
+  ]
+}

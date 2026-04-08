@@ -1,0 +1,72 @@
+{
+  "bookId": "sahifa-sajjadiyya",
+  "version": 1,
+  "totalChapters": 54,
+  "chapters": [
+    {
+      "number": 1,
+      "title": {
+        "en": "In Praise of God",
+        "ar": "في حمد الله عز وجل",
+        "fa": "در ستایش خداوند عز و جل"
+      },
+      "content": {
+        "ar": "الْحَمْدُ لِلَّهِ الْأَوَّلِ بِلَا أَوَّلٍ كَانَ قَبْلَهُ، وَالْآخِرِ بِلَا آخِرٍ يَكُونُ بَعْدَهُ.\nالَّذِي قَصُرَتْ عَنْ رُؤْيَتِهِ أَبْصَارُ النَّاظِرِينَ، وَعَجَزَتْ عَنْ نَعْتِهِ أَوْهَامُ الْوَاصِفِينَ.\nابْتَدَعَ بِقُدْرَتِهِ الْخَلْقَ ابْتِدَاعاً، وَاخْتَرَعَهُمْ عَلَى مَشِيَّتِهِ اخْتِرَاعاً.\nثُمَّ سَلَكَ بِهِمْ طَرِيقَ إِرَادَتِهِ، وَبَعَثَهُمْ فِي سَبِيلِ مَحَبَّتِهِ.\nلَا يَمْلِكُونَ تَأْخِيراً عَمَّا قَدَّمَهُمْ إِلَيْهِ، وَلَا يَسْتَطِيعُونَ تَقَدُّماً إِلَى مَا أَخَّرَهُمْ عَنْهُ.\nوَجَعَلَ لِكُلِّ رُوحٍ مِنْهُمْ قُوتاً مَعْلُوماً مَقْسُوماً مِنْ رِزْقِهِ.\nلَا يَنْقُصُ مَنْ زَادَ مِنْهُمْ مِنْ نَقْصِ ذَلِكَ، وَلَا يَزِيدُ مَنْ نَقَصَ مِنْهُمْ مِنْ زِيَادَتِهِ.\nثُمَّ ضَرَبَ لَهُ فِي الْحَيَاةِ أَجَلاً مَوْقُوتاً، وَنَصَبَ لَهُ أَمَداً مَحْدُوداً.\nيَتَخَطَّى إِلَيْهِ بِأَيَّامِ عُمُرِهِ، وَيَرْهَقُهُ بِأَعْوَامِ دَهْرِهِ.\nحَتَّى إِذَا بَلَغَ أَقْصَى أَثَرِهِ، وَاسْتَوْعَبَ حِسَابَ عُمُرِهِ.\nقَبَضَهُ إِلَى مَا نَدَبَهُ إِلَيْهِ مِنْ مَوْفُورِ ثَوَابِهِ أَوْ مَحْذُورِ عِقَابِهِ.\nلِيَجْزِيَ الَّذِينَ أَسَاءُوا بِمَا عَمِلُوا وَيَجْزِيَ الَّذِينَ أَحْسَنُوا بِالْحُسْنَى.\nعَدْلاً مِنْهُ، تَقَدَّسَتْ أَسْمَاؤُهُ، وَتَظَاهَرَتْ آلَاؤُهُ.\nلَا يُسْأَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْأَلُونَ.",
+        "en": "Praise belongs to God, the First, without a first before Him, and the Last, without a last after Him.\nHe whom the eyes of the beholders fall short of seeing, and whom the imaginings of the describers fall short of describing.\nHe originated the creatures through His power with an origination, and devised them in accordance with His will with a devising.\nThen He made them walk on the path of His desire and sent them out on the way of His love.\nThey cannot hold back from that to which He has sent them forward, nor can they go forward to that from which He has held them back.\nHe assigned from His provision to each of their spirits a nourishment known and apportioned.\nNo decreaser decreases those whom He increases, and no increaser increases those of them whom He decreases.\nThen for each spirit He strikes a fixed term in life, and for each He sets up a determined end.\nHe walks toward it through the days of his span, and the years of his time bring him near it.\nUntil, when he reaches the farthest trace of his span, and exhausts the count of his time,\nGod seizes him to the abundant reward or the feared punishment to which He has called him,\nthat He may repay those who do evil for what they have done and repay those who do good with goodness,\nas justice from Him. Holy are His names, and manifest His boons.\nHe shall not be questioned as to what He does, but they shall be questioned.",
+        "fa": "سپاس خدایی را که اول است و پیش از او اولی نبوده، و آخر است و پس از او آخری نخواهد بود.\nخدایی که دیدگان بینندگان از دیدارش قاصر، و اوهام وصف‌کنندگان از توصیفش ناتوان است.\nبه قدرت خویش آفریدگان را ابداع نمود و به خواست خود آنان را آفرید.\nسپس آنان را در طریق اراده‌اش روانه ساخت و در راه محبتش برانگیخت.\nنتوانند از آنچه ایشان را به سویش پیش فرستاده پس بایستند، و نتوانند به سوی آنچه از آن بازشان داشته پیش روند.\nبرای هر جانی از ایشان روزی معلوم و معینی از رزق خویش مقرر فرمود.\nکسی که از آنان زیاد شود از کاهش آن نکاهد، و کسی که کاهش یابد از فزونی آن نیفزاید.\nسپس در زندگی او مهلتی معین قرار داد و برایش پایانی محدود نصب کرد.\nبه روزهای عمر خود به سوی آن گام برمی‌دارد و سال‌های روزگارش او را به آن نزدیک می‌سازد.\nتا آنگاه که به آخرین اثر عمرش رسد و حساب زندگی‌اش را فرا گیرد.\nخدا او را به سوی آنچه از پاداش فراوان یا عقاب ترسناکش به آن خوانده بود می‌برد.\nتا کسانی را که بد کرده‌اند به کارشان جزا دهد و کسانی را که نیکی کرده‌اند به نیکی پاداش دهد.\nاز عدالت اوست. نام‌هایش پاک و نعمت‌هایش آشکار است.\nاز آنچه می‌کند بازخواست نشود و آنان بازخواست شوند."
+      }
+    },
+    {
+      "number": 2,
+      "title": {
+        "en": "Blessing upon Muhammad and His Household",
+        "ar": "الصلاة على محمد وآله",
+        "fa": "درود بر محمد و خاندان او"
+      },
+      "content": {
+        "ar": "وَالْحَمْدُ لِلَّهِ الَّذِي مَنَّ عَلَيْنَا بِمُحَمَّدٍ نَبِيِّهِ صَلَّى اللَّهُ عَلَيْهِ وَآلِهِ\nدُونَ الْأُمَمِ الْمَاضِيَةِ وَالْقُرُونِ السَّالِفَةِ.\nبِقُدْرَتِهِ الَّتِي لَا تَعْجِزُ عَنْ شَيْ‌ءٍ وَإِنْ عَظُمَ.\nوَلَا يَفُوتُهَا شَيْ‌ءٌ وَإِنْ لَطُفَ.\nفَخَتَمَ بِنَا عَلَى جَمِيعِ مَنْ ذَرَأَ.\nوَجَعَلَنَا شُهَدَاءَ عَلَى مَنْ جَحَدَ.\nوَكَثَّرَنَا بِمَنِّهِ عَلَى مَنْ قَلَّ.\nاللَّهُمَّ فَصَلِّ عَلَى مُحَمَّدٍ أَمِينِكَ عَلَى وَحْيِكَ.\nوَنَجِيبِكَ مِنْ خَلْقِكَ.\nوَصَفِيِّكَ مِنْ عِبَادِكَ.\nإِمَامِ الرَّحْمَةِ، وَقَائِدِ الْخَيْرِ، وَمِفْتَاحِ الْبَرَكَةِ.\nكَمَا نَصَبَ لِأَمْرِكَ نَفْسَهُ.\nوَعَرَّضَ فِيكَ لِلْمَكْرُوهِ بَدَنَهُ.\nوَكَاشَفَ فِي الدَّعْوَةِ إِلَيْكَ حَامَّتَهُ.\nوَحَارَبَ فِي رِضَاكَ أُسْرَتَهُ.\nوَقَطَعَ فِي إِحْيَاءِ دِينِكَ رَحِمَهُ.\nوَأَقْصَى الْأَدْنَيْنَ عَلَى جُحُودِهِمْ.\nوَقَرَّبَ الْأَقْصَيْنَ عَلَى اسْتِجَابَتِهِمْ.\nوَوَالَى فِيكَ الْأَبْعَدِينَ.\nوَعَادَى فِيكَ الْأَقْرَبِينَ.",
+        "en": "Praise belongs to God who was gracious to us through Muhammad, His Prophet, blessings be upon him and his household,\nrather than the past communities and bygone generations.\nWith His power, which is not incapable of anything, even if it be great,\nand nothing escapes it, even if it be subtle.\nHe sealed through us upon all whom He created.\nHe made us witnesses over those who deny.\nHe multiplied us through His grace over those who are few.\nO God, bless Muhammad, Your trustee with Your revelation,\nYour distinguished one among Your creatures,\nYour sincere friend among Your servants,\nthe imam of mercy, the leader of good, the key of blessing.\nAs he exhausted himself for Your command,\nand exposed his body to detestable things for Your sake,\nand showed open enmity toward his next of kin in calling to You,\nand fought against his family for Your pleasure,\nand cut the ties of the womb in giving life to Your religion,\nand sent away the near on account of their denial,\nand drew near the distant on account of their response to You,\nand showed friendship to the farthest for Your sake,\nand showed enmity to the nearest for Your sake.",
+        "fa": "سپاس خدایی را که بر ما با محمد پیامبرش منت نهاد — درود خدا بر او و خاندانش باد —\nنه بر امت‌های گذشته و قرون پیشین.\nبه قدرتش که از چیزی ناتوان نیست هرچند بزرگ باشد،\nو چیزی از آن نمی‌گریزد هرچند لطیف باشد.\nپس به وسیله ما بر همه آفریدگان مهر زد.\nو ما را گواهان بر منکران قرار داد.\nو ما را به فضلش بر اندک‌شماران بسیار کرد.\nخداوندا! پس درود فرست بر محمد، امین تو بر وحیت،\nو برگزیده‌ات از آفریدگانت،\nو خالص‌ترین بندگانت.\nپیشوای رحمت و رهبر خیر و کلید برکت.\nچنان‌که جان خود را در راه فرمانت به خطر انداخت.\nو تنش را در راه تو در معرض ناخوشایندها قرار داد.\nو در دعوت به سوی تو با خویشانش آشکارا دشمنی کرد.\nو در خشنودی تو با خانواده‌اش جنگید.\nو در زنده کردن دینت پیوند خویشاوندی‌اش را برید.\nو نزدیکان را به خاطر انکارشان دور ساخت.\nو دوران را به خاطر اجابتشان نزدیک کرد.\nو در راه تو با دورترین‌ها دوستی کرد.\nو در راه تو با نزدیک‌ترین‌ها دشمنی نمود."
+      }
+    },
+    {
+      "number": 3,
+      "title": {
+        "en": "Blessing upon the Bearers of the Throne",
+        "ar": "الصلاة على حملة العرش",
+        "fa": "درود بر حاملان عرش"
+      },
+      "content": {
+        "ar": "اللَّهُمَّ وَحَمَلَةُ عَرْشِكَ الَّذِينَ لَا يَفْتُرُونَ مِنْ تَسْبِيحِكَ.\nوَلَا يَسْأَمُونَ مِنْ تَقْدِيسِكَ.\nوَلَا يَسْتَحْسِرُونَ مِنْ عِبَادَتِكَ.\nوَلَا يُؤْثِرُونَ التَّقْصِيرَ عَلَى الْجِدِّ فِي أَمْرِكَ.\nوَلَا يَغْفُلُونَ عَنِ الْوَلَهِ إِلَيْكَ.\nوَإِسْرَافِيلُ صَاحِبُ الصُّورِ الشَّاخِصُ الَّذِي يَنْتَظِرُ مِنْكَ الْإِذْنَ.\nوَحُلُولَ الْأَمْرِ فَيُنَبِّهُ بِالنَّفْخَةِ صَرْعَى الرَّهَائِنِ.\nوَمِيكَائِيلُ ذُو الْجَاهِ عِنْدَكَ وَالْمَكَانِ الرَّفِيعِ مِنْ طَاعَتِكَ.\nوَجِبْرِيلُ الْأَمِينُ عَلَى وَحْيِكَ، الْمُطَاعُ فِي أَهْلِ سَمَاوَاتِكَ.\nالْمَكِينُ لَدَيْكَ، الْمُقَرَّبُ عِنْدَكَ.\nوَالرُّوحُ الَّذِي هُوَ عَلَى مَلَائِكَةِ الْحُجُبِ.\nوَالرُّوحُ الَّذِي هُوَ مِنْ أَمْرِكَ.\nفَصَلِّ عَلَيْهِمْ وَعَلَى الْمَلَائِكَةِ الَّذِينَ مِنْ دُونِهِمْ.",
+        "en": "O God, and the bearers of Your Throne, who do not weary of glorifying You,\nwho never become tired of hallowing You,\nwho never flag in worshipping You,\nwho never prefer shortcoming over earnestness in Your command,\nand who are never heedless of passionate love for You.\nAnd Israfil, the master of the Trumpet, who awaits from You the permission,\nand the arrival of the command, that he may rouse through the Blast the hostages of the graves.\nAnd Michael, possessor of a station with You and lofty rank in Your obedience.\nAnd Gabriel, the Trustee of Your revelation, obeyed among the inhabitants of Your heavens,\nestablished with You, brought near to You.\nAnd the Spirit who is over the angels of the veils.\nAnd the Spirit who is of Your command.\nSo bless them, and the angels below them.",
+        "fa": "خداوندا! حاملان عرشت که از تسبیح تو خسته نمی‌شوند.\nو از تقدیس تو ملال نمی‌گیرند.\nو از عبادت تو درنمی‌مانند.\nو کوتاهی را بر کوشش در فرمانت ترجیح نمی‌دهند.\nو از شیفتگی به تو غافل نمی‌شوند.\nو اسرافیل صاحب صور که چشم به راه اذن توست.\nو فرود آمدن فرمان، تا به دمیدن در صور مردگان گروگان را بیدار سازد.\nو میکائیل که نزد تو آبرومند و در طاعتت مقامی بلند دارد.\nو جبرئیل امین بر وحیت، فرمانروای در میان اهل آسمان‌هایت.\nکه نزد تو استوار و به تو نزدیک است.\nو آن روحی که بر فرشتگان حجاب‌هاست.\nو آن روحی که از فرمان توست.\nپس بر آنان و بر فرشتگانی که فروتر از ایشانند درود فرست."
+      }
+    },
+    {
+      "number": 4,
+      "title": {
+        "en": "Blessing upon the Attesters to the Messengers",
+        "ar": "الصلاة على أتباع الرسل ومصدقيهم",
+        "fa": "درود بر تصدیق‌کنندگان پیامبران"
+      },
+      "content": {
+        "ar": "اللَّهُمَّ وَأَتْبَاعُ رُسُلِكَ وَمُصَدِّقُوهُمْ مِنْ أَهْلِ الْأَرْضِ.\nبِالْغَيْبِ عِنْدَ مُعَارَضَةِ الْمُعَانِدِينَ لَهُمْ بِالتَّكْذِيبِ.\nوَالِاشْتِيَاقِ إِلَى الْمُرْسَلِينَ بِحَقَائِقِ الْإِيمَانِ.\nفِي كُلِّ دَهْرٍ وَزَمَانٍ أَرْسَلْتَ فِيهِ رَسُولاً.\nوَأَقَمْتَ فِيهِ لِأَهْلِهِ دَلِيلاً.\nمِنْ لَدُنْ آدَمَ إِلَى مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَآلِهِ.\nمِنْ أَئِمَّةِ الْهُدَى وَقَادَةِ أَهْلِ التُّقَى.\nعَلَى جَمِيعِهِمُ السَّلَامُ.\nفَاذْكُرْهُمْ مِنْكَ بِمَغْفِرَةٍ وَرِضْوَانٍ.",
+        "en": "O God, and the followers of Your messengers and the attesters to them from among the people of the earth,\nwho believed in the Unseen when confronted by the obstinate with denial,\nand longed for the messengers through the realities of faith,\nin every age and time in which You sent a messenger\nand set up for its people a guide,\nfrom the time of Adam to Muhammad, God bless him and his household,\nfrom among the imams of guidance and leaders of the God-fearing,\nupon all of them be peace.\nSo remember them from You with forgiveness and good pleasure.",
+        "fa": "خداوندا! پیروان فرستادگانت و تصدیق‌کنندگان ایشان از اهل زمین.\nکه به غیب ایمان آوردند هنگامی که معاندان با تکذیب با آنان مقابله کردند.\nو با حقایق ایمان مشتاق پیامبران بودند.\nدر هر عصر و زمانی که در آن فرستاده‌ای فرستادی.\nو برای مردمانش راهنمایی برپا داشتی.\nاز زمان آدم تا محمد — درود خدا بر او و خاندانش باد —\nاز پیشوایان هدایت و رهبران پرهیزکاران.\nبر همگی ایشان سلام باد.\nپس آنان را از سوی خود با آمرزش و خشنودی یاد کن."
+      }
+    },
+    {
+      "number": 5,
+      "title": {
+        "en": "For Himself and His Special Friends",
+        "ar": "لنفسه ولأهل ولايته",
+        "fa": "برای خود و دوستانش"
+      },
+      "content": {
+        "ar": "اللَّهُمَّ وَاجْعَلْنَا مِنْ أَهْلِ التَّوْحِيدِ.\nوَقُطَّانِ دَارِ الْخُلُودِ.\nوَسُكَّانِ عِلِّيِّينَ.\nفِي جِوَارِ مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَآلِهِ.\nوَعِتْرَتِهِ الطَّاهِرِينَ.\nاللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ.\nوَاجْعَلْ عِبَادَتَنَا لَكَ خَالِصَةً.\nوَطَاعَتَنَا لَكَ نَاصِحَةً.\nوَتَوْبَتَنَا صَادِقَةً.\nوَاسْتِغْفَارَنَا دَائِماً.\nوَهَبْ لَنَا قُلُوباً خَاشِعَةً.\nوَأَعْيُناً دَامِعَةً.\nوَأَلْسُناً ذَاكِرَةً.",
+        "en": "O God, make us among the people of Unity,\nthe dwellers of the Abode of Eternity,\nthe inhabitants of the heights,\nin the neighbourhood of Muhammad, God bless him and his household,\nand his purified progeny.\nO God, bless Muhammad and the household of Muhammad.\nMake our worship of You sincere.\nMake our obedience to You wholehearted.\nMake our repentance truthful.\nMake our asking of forgiveness continuous.\nGrant us hearts that are humble.\nAnd eyes that weep.\nAnd tongues that remember.",
+        "fa": "خداوندا! ما را از اهل توحید قرار ده.\nو ساکنان سرای جاودان.\nو ساکنان علیین.\nدر جوار محمد — درود خدا بر او و خاندانش —\nو عترت پاکش.\nخداوندا! بر محمد و آل محمد درود فرست.\nو عبادت ما را برایت خالص گردان.\nو طاعت ما را برایت خیرخواهانه ساز.\nو توبه ما را صادقانه قرار ده.\nو استغفار ما را پیوسته ساز.\nو به ما دل‌هایی خاشع عطا کن.\nو چشمانی اشکبار.\nو زبان‌هایی یادکننده."
+      }
+    }
+  ]
+}

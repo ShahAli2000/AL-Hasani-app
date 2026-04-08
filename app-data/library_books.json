@@ -1,0 +1,1001 @@
+[
+  {
+    "id": "quran-pdf",
+    "title": {
+      "en": "The Holy Quran (AL-Hasani)",
+      "ar": "القرآن الكريم (الحسني)",
+      "fa": "قرآن کریم (الحسنی)"
+    },
+    "author": {
+      "en": "",
+      "ar": "",
+      "fa": ""
+    },
+    "category": "quran",
+    "accent": "#1565C0",
+    "languages": [
+      "ar"
+    ]
+  },
+  {
+    "id": "al-muntakhab-pdf",
+    "title": {
+      "en": "AL-Muntakhab AL-Hasani",
+      "ar": "المنتخب الحسني",
+      "fa": "المنتخب الحسنی"
+    },
+    "author": {
+      "en": "",
+      "ar": "",
+      "fa": ""
+    },
+    "category": "dua",
+    "accent": "#6A1B9A",
+    "languages": [
+      "ar"
+    ]
+  },
+  {
+    "id": "tafsir-al-mizan",
+    "title": {
+      "en": "Tafsir al-Mizan",
+      "ar": "تفسير الميزان",
+      "fa": "تفسیر المیزان"
+    },
+    "author": {
+      "en": "Allamah Tabatabai",
+      "ar": "العلامة الطباطبائي",
+      "fa": "علامه طباطبایی"
+    },
+    "category": "quran",
+    "accent": "#1565C0",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "quran-in-islam",
+    "title": {
+      "en": "The Quran in Islam",
+      "ar": "القرآن في الإسلام",
+      "fa": "قرآن در اسلام"
+    },
+    "author": {
+      "en": "Allamah Tabatabai",
+      "ar": "العلامة الطباطبائي",
+      "fa": "علامه طباطبایی"
+    },
+    "category": "quran",
+    "accent": "#1565C0",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "enlightening-commentary",
+    "title": {
+      "en": "Enlightening Commentary (Tafsir Nemooneh)",
+      "ar": "التفسير الأمثل",
+      "fa": "تفسیر نمونه"
+    },
+    "author": {
+      "en": "Ayatollah Makarem Shirazi",
+      "ar": "آية الله مكارم شيرازي",
+      "fa": "آیت‌الله مکارم شیرازی"
+    },
+    "category": "quran",
+    "accent": "#1565C0",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "light-within-me",
+    "title": {
+      "en": "Light Within Me",
+      "ar": "النور في داخلي",
+      "fa": "نور درون من"
+    },
+    "author": {
+      "en": "Allamah Tabatabai, Mutahhari & Khomeini",
+      "ar": "الطباطبائي والمطهري والخميني",
+      "fa": "طباطبایی، مطهری و خمینی"
+    },
+    "category": "quran",
+    "accent": "#1565C0",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "nahj-al-balagha",
+    "title": {
+      "en": "Nahj al-Balagha",
+      "ar": "نهج البلاغة",
+      "fa": "نهج البلاغه"
+    },
+    "author": {
+      "en": "Imam Ali (a)",
+      "ar": "الإمام علي (ع)",
+      "fa": "امام علی (ع)"
+    },
+    "category": "hadith",
+    "accent": "#2E7D32",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "al-kafi",
+    "title": {
+      "en": "Al-Kafi",
+      "ar": "الكافي",
+      "fa": "الکافی"
+    },
+    "author": {
+      "en": "Shaykh al-Kulayni",
+      "ar": "الشيخ الكليني",
+      "fa": "شیخ کلینی"
+    },
+    "category": "hadith",
+    "accent": "#2E7D32",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "man-la-yahduruhu",
+    "title": {
+      "en": "Man La Yahduruhu al-Faqih",
+      "ar": "من لا يحضره الفقيه",
+      "fa": "من لا یحضره الفقیه"
+    },
+    "author": {
+      "en": "Shaykh al-Saduq",
+      "ar": "الشيخ الصدوق",
+      "fa": "شیخ صدوق"
+    },
+    "category": "hadith",
+    "accent": "#2E7D32",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "tahdhib-al-ahkam",
+    "title": {
+      "en": "Tahdhib al-Ahkam",
+      "ar": "تهذيب الأحكام",
+      "fa": "تهذیب الاحکام"
+    },
+    "author": {
+      "en": "Shaykh al-Tusi",
+      "ar": "الشيخ الطوسي",
+      "fa": "شیخ طوسی"
+    },
+    "category": "hadith",
+    "accent": "#2E7D32",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "al-istibsar",
+    "title": {
+      "en": "Al-Istibsar",
+      "ar": "الاستبصار",
+      "fa": "الاستبصار"
+    },
+    "author": {
+      "en": "Shaykh al-Tusi",
+      "ar": "الشيخ الطوسي",
+      "fa": "شیخ طوسی"
+    },
+    "category": "hadith",
+    "accent": "#2E7D32",
+    "languages": [
+      "en",
+      "ar"
+    ]
+  },
+  {
+    "id": "ghurar-al-hikam",
+    "title": {
+      "en": "Ghurar al-Hikam",
+      "ar": "غرر الحكم",
+      "fa": "غرر الحکم"
+    },
+    "author": {
+      "en": "Abd al-Wahid al-Amidi",
+      "ar": "عبد الواحد الآمدي",
+      "fa": "عبدالواحد آمدی"
+    },
+    "category": "hadith",
+    "accent": "#2E7D32",
+    "languages": [
+      "en",
+      "ar"
+    ]
+  },
+  {
+    "id": "tuhaf-al-uqul",
+    "title": {
+      "en": "Tuhaf al-Uqul",
+      "ar": "تحف العقول",
+      "fa": "تحف العقول"
+    },
+    "author": {
+      "en": "Ibn Shu'ba al-Harrani",
+      "ar": "ابن شعبة الحراني",
+      "fa": "ابن شعبه حرانی"
+    },
+    "category": "hadith",
+    "accent": "#2E7D32",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "sahifa-sajjadiyya",
+    "title": {
+      "en": "Sahifa al-Sajjadiyya",
+      "ar": "الصحيفة السجادية",
+      "fa": "صحیفه سجادیه"
+    },
+    "author": {
+      "en": "Imam al-Sajjad (a)",
+      "ar": "الإمام السجاد (ع)",
+      "fa": "امام سجاد (ع)"
+    },
+    "category": "dua",
+    "accent": "#6A1B9A",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "mafatih-al-jinan",
+    "title": {
+      "en": "Mafatih al-Jinan",
+      "ar": "مفاتيح الجنان",
+      "fa": "مفاتیح الجنان"
+    },
+    "author": {
+      "en": "Shaykh Abbas al-Qummi",
+      "ar": "الشيخ عباس القمي",
+      "fa": "شیخ عباس قمی"
+    },
+    "category": "dua",
+    "accent": "#6A1B9A",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "uddat-al-dai",
+    "title": {
+      "en": "Uddat al-Da'i",
+      "ar": "عدة الداعي",
+      "fa": "عدة الداعی"
+    },
+    "author": {
+      "en": "Ibn Fahd al-Hilli",
+      "ar": "ابن فهد الحلي",
+      "fa": "ابن فهد حلی"
+    },
+    "category": "dua",
+    "accent": "#6A1B9A",
+    "languages": [
+      "en",
+      "ar"
+    ]
+  },
+  {
+    "id": "kamil-al-ziyarat",
+    "title": {
+      "en": "Kamil al-Ziyarat",
+      "ar": "كامل الزيارات",
+      "fa": "کامل الزیارات"
+    },
+    "author": {
+      "en": "Ibn Qulawayh",
+      "ar": "ابن قولويه",
+      "fa": "ابن قولویه"
+    },
+    "category": "dua",
+    "accent": "#6A1B9A",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "al-muraja-at",
+    "title": {
+      "en": "Al-Muraja'at (The Right Path)",
+      "ar": "المراجعات",
+      "fa": "المراجعات"
+    },
+    "author": {
+      "en": "Sayyid Sharaf al-Din",
+      "ar": "السيد شرف الدين",
+      "fa": "سید شرف‌الدین"
+    },
+    "category": "aqeedah",
+    "accent": "#C62828",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "peshawar-nights",
+    "title": {
+      "en": "Peshawar Nights",
+      "ar": "ليالي بيشاور",
+      "fa": "شب‌های پیشاور"
+    },
+    "author": {
+      "en": "Sultanu'l-Wa'izin Shirazi",
+      "ar": "سلطان الواعظين شيرازي",
+      "fa": "سلطان‌الواعظین شیرازی"
+    },
+    "category": "aqeedah",
+    "accent": "#C62828",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "then-i-was-guided",
+    "title": {
+      "en": "Then I Was Guided",
+      "ar": "ثم اهتديت",
+      "fa": "آنگاه هدایت شدم"
+    },
+    "author": {
+      "en": "Muhammad al-Tijani",
+      "ar": "محمد التيجاني",
+      "fa": "محمد تیجانی"
+    },
+    "category": "aqeedah",
+    "accent": "#C62828",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "al-ghadir",
+    "title": {
+      "en": "Al-Ghadir",
+      "ar": "الغدير",
+      "fa": "الغدیر"
+    },
+    "author": {
+      "en": "Allamah al-Amini",
+      "ar": "العلامة الأميني",
+      "fa": "علامه امینی"
+    },
+    "category": "aqeedah",
+    "accent": "#C62828",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "kitab-al-tawhid",
+    "title": {
+      "en": "Kitab al-Tawhid",
+      "ar": "كتاب التوحيد",
+      "fa": "کتاب التوحید"
+    },
+    "author": {
+      "en": "Shaykh al-Saduq",
+      "ar": "الشيخ الصدوق",
+      "fa": "شیخ صدوق"
+    },
+    "category": "aqeedah",
+    "accent": "#C62828",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "kitab-al-irshad",
+    "title": {
+      "en": "Kitab al-Irshad",
+      "ar": "كتاب الإرشاد",
+      "fa": "کتاب الارشاد"
+    },
+    "author": {
+      "en": "Shaykh al-Mufid",
+      "ar": "الشيخ المفيد",
+      "fa": "شیخ مفید"
+    },
+    "category": "aqeedah",
+    "accent": "#C62828",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "imamate-leadership",
+    "title": {
+      "en": "Imamate and Leadership",
+      "ar": "الإمامة والقيادة",
+      "fa": "امامت و رهبری"
+    },
+    "author": {
+      "en": "Ayatollah Mujtahid Shabistari",
+      "ar": "آية الله مجتهد شبستري",
+      "fa": "آیت‌الله مجتهد شبستری"
+    },
+    "category": "aqeedah",
+    "accent": "#C62828",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "islamic-laws-sistani",
+    "title": {
+      "en": "Islamic Laws (Tawdih al-Masa'il)",
+      "ar": "توضيح المسائل",
+      "fa": "توضیح المسائل"
+    },
+    "author": {
+      "en": "Ayatollah Sistani",
+      "ar": "آية الله السيستاني",
+      "fa": "آیت‌الله سیستانی"
+    },
+    "category": "fiqh",
+    "accent": "#00695C",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "code-of-practice",
+    "title": {
+      "en": "Code of Practice for Muslims in the West",
+      "ar": "الأحكام الميسرة للمغتربين",
+      "fa": "احکام آسان برای مسلمانان غرب"
+    },
+    "author": {
+      "en": "Ayatollah Sistani",
+      "ar": "آية الله السيستاني",
+      "fa": "آیت‌الله سیستانی"
+    },
+    "category": "fiqh",
+    "accent": "#00695C",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "jurisprudence-easy",
+    "title": {
+      "en": "Jurisprudence Made Easy",
+      "ar": "الفقه الميسر",
+      "fa": "فقه آسان"
+    },
+    "author": {
+      "en": "Ayatollah Sistani",
+      "ar": "آية الله السيستاني",
+      "fa": "آیت‌الله سیستانی"
+    },
+    "category": "fiqh",
+    "accent": "#00695C",
+    "languages": [
+      "en",
+      "ar"
+    ]
+  },
+  {
+    "id": "the-message",
+    "title": {
+      "en": "The Message (Life of Prophet Muhammad)",
+      "ar": "الرسالة (سيرة النبي)",
+      "fa": "پیام (زندگی پیامبر)"
+    },
+    "author": {
+      "en": "Ayatollah Ja'far Subhani",
+      "ar": "آية الله جعفر سبحاني",
+      "fa": "آیت‌الله جعفر سبحانی"
+    },
+    "category": "history",
+    "accent": "#E65100",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "probe-ashura",
+    "title": {
+      "en": "Probe into History of Ashura",
+      "ar": "بحث في تاريخ عاشوراء",
+      "fa": "پژوهشی در تاریخ عاشورا"
+    },
+    "author": {
+      "en": "Dr. Ibrahim Ayati",
+      "ar": "الدكتور إبراهيم آيتي",
+      "fa": "دکتر ابراهیم آیتی"
+    },
+    "category": "history",
+    "accent": "#E65100",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "maqtal-al-husayn",
+    "title": {
+      "en": "Maqtal al-Husayn",
+      "ar": "مقتل الحسين",
+      "fa": "مقتل الحسین"
+    },
+    "author": {
+      "en": "Abd al-Razzaq al-Muqarram",
+      "ar": "عبد الرزاق المقرم",
+      "fa": "عبدالرزاق مقرم"
+    },
+    "category": "history",
+    "accent": "#E65100",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "nafasul-mahmum",
+    "title": {
+      "en": "Nafasul Mahmum",
+      "ar": "نفس المهموم",
+      "fa": "نفس المهموم"
+    },
+    "author": {
+      "en": "Shaykh Abbas al-Qummi",
+      "ar": "الشيخ عباس القمي",
+      "fa": "شیخ عباس قمی"
+    },
+    "category": "history",
+    "accent": "#E65100",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "hayat-al-qulub",
+    "title": {
+      "en": "Hayat al-Qulub",
+      "ar": "حياة القلوب",
+      "fa": "حیاة القلوب"
+    },
+    "author": {
+      "en": "Allamah al-Majlisi",
+      "ar": "العلامة المجلسي",
+      "fa": "علامه مجلسی"
+    },
+    "category": "history",
+    "accent": "#E65100",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "story-holy-kaaba",
+    "title": {
+      "en": "Story of the Holy Ka'aba",
+      "ar": "قصة الكعبة المشرفة",
+      "fa": "داستان کعبه مقدس"
+    },
+    "author": {
+      "en": "S.M.R. Shabbar",
+      "ar": "س.م.ر. شبّر",
+      "fa": "س.م.ر. شبّر"
+    },
+    "category": "history",
+    "accent": "#E65100",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "greater-sins",
+    "title": {
+      "en": "Greater Sins",
+      "ar": "الذنوب الكبيرة",
+      "fa": "گناهان کبیره"
+    },
+    "author": {
+      "en": "Ayatollah Dastghaib",
+      "ar": "آية الله دستغيب",
+      "fa": "آیت‌الله دستغیب"
+    },
+    "category": "ethics",
+    "accent": "#4527A0",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "self-building",
+    "title": {
+      "en": "Self Building",
+      "ar": "بناء الذات",
+      "fa": "خودسازی"
+    },
+    "author": {
+      "en": "Ayatollah Ibrahim Amini",
+      "ar": "آية الله إبراهيم أميني",
+      "fa": "آیت‌الله ابراهیم امینی"
+    },
+    "category": "ethics",
+    "accent": "#4527A0",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "jami-al-saadat",
+    "title": {
+      "en": "Jami' al-Sa'adat (Collector of Felicities)",
+      "ar": "جامع السعادات",
+      "fa": "جامع السعادات"
+    },
+    "author": {
+      "en": "Muhammad Mahdi al-Naraqi",
+      "ar": "محمد مهدي النراقي",
+      "fa": "محمدمهدی نراقی"
+    },
+    "category": "ethics",
+    "accent": "#4527A0",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "risalat-al-huquq",
+    "title": {
+      "en": "Risalat al-Huquq (Treatise on Rights)",
+      "ar": "رسالة الحقوق",
+      "fa": "رساله حقوق"
+    },
+    "author": {
+      "en": "Imam al-Sajjad (a)",
+      "ar": "الإمام السجاد (ع)",
+      "fa": "امام سجاد (ع)"
+    },
+    "category": "ethics",
+    "accent": "#4527A0",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "forty-hadith-khomeini",
+    "title": {
+      "en": "Forty Hadith: An Exposition",
+      "ar": "الأربعون حديثاً",
+      "fa": "چهل حدیث"
+    },
+    "author": {
+      "en": "Imam Khomeini",
+      "ar": "الإمام الخميني",
+      "fa": "امام خمینی"
+    },
+    "category": "ethics",
+    "accent": "#4527A0",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "life-of-imam-ali",
+    "title": {
+      "en": "The Life of Imam Ali ibn Abi Talib",
+      "ar": "سيرة الإمام علي بن أبي طالب",
+      "fa": "زندگی امام علی ابن ابی‌طالب"
+    },
+    "author": {
+      "en": "Baqir Sharif al-Qarashi",
+      "ar": "باقر شريف القرشي",
+      "fa": "باقر شریف قرشی"
+    },
+    "category": "biography",
+    "accent": "#AD1457",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "sulh-al-hasan",
+    "title": {
+      "en": "Sulh al-Hasan",
+      "ar": "صلح الحسن",
+      "fa": "صلح امام حسن"
+    },
+    "author": {
+      "en": "Shaykh Radi Al-Yasin",
+      "ar": "الشيخ راضي آل ياسين",
+      "fa": "شیخ راضی آل‌یاسین"
+    },
+    "category": "biography",
+    "accent": "#AD1457",
+    "languages": [
+      "en",
+      "ar"
+    ]
+  },
+  {
+    "id": "revolution-imam-husayn",
+    "title": {
+      "en": "The Revolution of Imam al-Husayn",
+      "ar": "ثورة الإمام الحسين",
+      "fa": "انقلاب امام حسین"
+    },
+    "author": {
+      "en": "Shaykh Muhammad Mahdi Shams al-Din",
+      "ar": "الشيخ محمد مهدي شمس الدين",
+      "fa": "شیخ محمدمهدی شمس‌الدین"
+    },
+    "category": "biography",
+    "accent": "#AD1457",
+    "languages": [
+      "en",
+      "ar",
+      "fa"
+    ]
+  },
+  {
+    "id": "imam-sadiq-four-madhhabs",
+    "title": {
+      "en": "Imam al-Sadiq and the Four Madhhabs",
+      "ar": "الإمام الصادق والمذاهب الأربعة",
+      "fa": "امام صادق و مذاهب چهارگانه"
+    },
+    "author": {
+      "en": "Asad Haydar",
+      "ar": "أسد حيدر",
+      "fa": "اسد حیدر"
+    },
+    "category": "biography",
+    "accent": "#AD1457",
+    "languages": [
+      "en",
+      "ar"
+    ]
+  },
+  {
+    "id": "uyun-akhbar-ridha",
+    "title": {
+      "en": "Uyun Akhbar al-Ridha",
+      "ar": "عيون أخبار الرضا",
+      "fa": "عیون اخبار الرضا"
+    },
+    "author": {
+      "en": "Shaykh al-Saduq",
+      "ar": "الشيخ الصدوق",
+      "fa": "شیخ صدوق"
+    },
+    "category": "biography",
+    "accent": "#AD1457",
+    "languages": [
+      "en",
+      "fa"
+    ]
+  },
+  {
+    "id": "our-philosophy",
+    "title": {
+      "en": "Our Philosophy (Falsafatuna)",
+      "ar": "فلسفتنا",
+      "fa": "فلسفه ما"
+    },
+    "author": {
+      "en": "Sayyid Muhammad Baqir al-Sadr",
+      "ar": "السيد محمد باقر الصدر",
+      "fa": "سید محمدباقر صدر"
+    },
+    "category": "aqeedah",
+    "accent": "#C62828",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "inquiries-shia-islam",
+    "title": {
+      "en": "Inquiries about Shi'a Islam",
+      "ar": "تساؤلات حول الإسلام الشيعي",
+      "fa": "پرسش‌هایی درباره اسلام شیعی"
+    },
+    "author": {
+      "en": "Sayyid Moustafa al-Qazwini",
+      "ar": "السيد مصطفى القزويني",
+      "fa": "سید مصطفی قزوینی"
+    },
+    "category": "aqeedah",
+    "accent": "#C62828",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "god-and-his-attributes",
+    "title": {
+      "en": "God and His Attributes",
+      "ar": "الله وصفاته",
+      "fa": "خدا و صفات او"
+    },
+    "author": {
+      "en": "Sayyid Mujtaba Musavi Lari",
+      "ar": "السيد مجتبى الموسوي اللاري",
+      "fa": "سید مجتبی موسوی لاری"
+    },
+    "category": "aqeedah",
+    "accent": "#C62828",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "resurrection-hereafter",
+    "title": {
+      "en": "Resurrection, Judgement and the Hereafter",
+      "ar": "المعاد والقيامة والآخرة",
+      "fa": "معاد و قیامت و آخرت"
+    },
+    "author": {
+      "en": "Sayyid Mujtaba Musavi Lari",
+      "ar": "السيد مجتبى الموسوي اللاري",
+      "fa": "سید مجتبی موسوی لاری"
+    },
+    "category": "aqeedah",
+    "accent": "#C62828",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "awaited-saviour",
+    "title": {
+      "en": "The Awaited Saviour",
+      "ar": "المنقذ المنتظر",
+      "fa": "منجی منتظر"
+    },
+    "author": {
+      "en": "Mutahhari & Baqir al-Sadr",
+      "ar": "المطهري والصدر",
+      "fa": "مطهری و صدر"
+    },
+    "category": "aqeedah",
+    "accent": "#C62828",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "youth-and-morals",
+    "title": {
+      "en": "Youth and Morals",
+      "ar": "الشباب والأخلاق",
+      "fa": "جوانان و اخلاق"
+    },
+    "author": {
+      "en": "Sayyid Mujtaba Musavi Lari",
+      "ar": "السيد مجتبى الموسوي اللاري",
+      "fa": "سید مجتبی موسوی لاری"
+    },
+    "category": "ethics",
+    "accent": "#4527A0",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "ain-al-hayat",
+    "title": {
+      "en": "Ain al-Hayat (The Essence of Life)",
+      "ar": "عين الحياة",
+      "fa": "عین الحیات"
+    },
+    "author": {
+      "en": "Allamah al-Majlisi",
+      "ar": "العلامة المجلسي",
+      "fa": "علامه مجلسی"
+    },
+    "category": "ethics",
+    "accent": "#4527A0",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "lantern-of-the-path",
+    "title": {
+      "en": "Lantern of the Path",
+      "ar": "مصباح الشريعة",
+      "fa": "مصباح الشریعه"
+    },
+    "author": {
+      "en": "Imam Ja'far al-Sadiq (a)",
+      "ar": "الإمام جعفر الصادق (ع)",
+      "fa": "امام جعفر صادق (ع)"
+    },
+    "category": "ethics",
+    "accent": "#4527A0",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": "jurisprudence-principles",
+    "title": {
+      "en": "Jurisprudence and Its Principles",
+      "ar": "الفقه وأصوله",
+      "fa": "فقه و اصول آن"
+    },
+    "author": {
+      "en": "Murtadha Mutahhari",
+      "ar": "مرتضى مطهري",
+      "fa": "مرتضی مطهری"
+    },
+    "category": "fiqh",
+    "accent": "#00695C",
+    "languages": [
+      "en"
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ali-fani",
+    "name": { "en": "Ali Fani", "ar": "علي فاني", "fa": "علی فانی" }
+  },
+  {
+    "id": "abather-halwachi",
+    "name": { "en": "Abather Al Halwachi", "ar": "أباذر الحلواجي", "fa": "اباذر حلواچی" }
+  },
+  {
+    "id": "sipah-masoomeen",
+    "name": { "en": "Sipah-e-Masoomeen", "ar": "سپاه معصومین", "fa": "سپاه معصومین" }
+  }
+]
