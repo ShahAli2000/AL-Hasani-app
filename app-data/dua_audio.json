@@ -157,5 +157,9 @@
   },
   "ziyarat-warith": {
     "mahdi-sedghi": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/mahdi-sedghi/ziyarat-warith.mp3"
+  },
+  "dua-alavi-misri": {
+    "farahmand-azad": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/farahmand-azad/dua-alavi-misri.mp3",
+    "taheri": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/dua-audio/taheri/dua-alavi-misri.mp3"
   }
 }
