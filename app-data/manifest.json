@@ -1,12 +1,12 @@
 {
-  "version": "2026-04-09T17:08:14.050Z",
+  "version": "2026-04-09T17:29:42.406Z",
   "files": {
-    "duas_index.json": "a0a308dd512298de",
+    "duas_index.json": "041a8c94acddb9db",
     "dua_audio.json": "bd17eee22b7d283a",
     "dua_reciters.json": "d2e4914234e7c425",
     "dua_audio_timestamps.json": "475aae56f6adde97",
     "dua_mafatih_map.json": "89d86064ae618a91",
-    "duas/major.json": "309eef2054ecd053",
+    "duas/major.json": "ff4e709cedd547c4",
     "duas/special_needs.json": "6d3ea1ef6a587615",
     "duas/weekday.json": "e66e1472d95e3f5c",
     "duas/taqeebat.json": "f00e1f7529e0d5b5",
