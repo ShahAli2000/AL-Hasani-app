@@ -7,7 +7,8 @@
         "ar": "",
         "fa": ""
       },
-      "priority": 1
+      "priority": 1,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/city_1.jpg"
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
         "ar": "",
         "fa": ""
       },
-      "priority": 2
+      "priority": 2,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/city_2.jpg"
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
         "ar": "",
         "fa": ""
       },
-      "priority": 3
+      "priority": 3,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/city_3.jpg"
     },
     {
       "id": 4,
@@ -34,7 +37,8 @@
         "ar": "",
         "fa": ""
       },
-      "priority": 4
+      "priority": 4,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/city_4.jpg"
     },
     {
       "id": 5,
@@ -43,7 +47,8 @@
         "ar": "",
         "fa": ""
       },
-      "priority": 5
+      "priority": 5,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/city_5.jpg"
     },
     {
       "id": 6,
@@ -52,7 +57,8 @@
         "ar": "",
         "fa": ""
       },
-      "priority": 6
+      "priority": 6,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/city_6.jpg"
     },
     {
       "id": 7,
@@ -61,7 +67,8 @@
         "ar": "",
         "fa": ""
       },
-      "priority": 7
+      "priority": 7,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/city_7.jpg"
     },
     {
       "id": 8,
@@ -70,7 +77,8 @@
         "ar": "",
         "fa": ""
       },
-      "priority": 8
+      "priority": 8,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/city_8.jpg"
     },
     {
       "id": 9,
@@ -79,7 +87,8 @@
         "ar": "",
         "fa": ""
       },
-      "priority": 9
+      "priority": 9,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/city_9.jpg"
     }
   ],
   "holyPlaces": [
@@ -98,7 +107,8 @@
       "cityId": 7,
       "latitude": 34.583460702274,
       "longitude": 50.913687497004,
-      "priority": 0
+      "priority": 0,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/41.webp"
     },
     {
       "id": 45,
@@ -115,7 +125,8 @@
       "cityId": 7,
       "latitude": 34.640155646008,
       "longitude": 50.887288,
-      "priority": 0
+      "priority": 0,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/45.webp"
     },
     {
       "id": 83,
@@ -132,7 +143,8 @@
       "cityId": 7,
       "latitude": 34.646506454189,
       "longitude": 50.906438807408,
-      "priority": 0
+      "priority": 0,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/83.webp"
     },
     {
       "id": 99,
@@ -149,7 +161,8 @@
       "cityId": 7,
       "latitude": 34.637471028043,
       "longitude": 50.898672446572,
-      "priority": 0
+      "priority": 0,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/99.webp"
     },
     {
       "id": 459,
@@ -166,7 +179,8 @@
       "cityId": 7,
       "latitude": 34.589841869433,
       "longitude": 50.866280528641,
-      "priority": 0
+      "priority": 0,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/459.jpg"
     },
     {
       "id": 462,
@@ -183,7 +197,8 @@
       "cityId": 8,
       "latitude": 36.342214308023,
       "longitude": 59.629715945174,
-      "priority": 0
+      "priority": 0,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/462.webp"
     },
     {
       "id": 469,
@@ -200,7 +215,8 @@
       "cityId": 5,
       "latitude": 33.380465324809,
       "longitude": 44.338010597262,
-      "priority": 0
+      "priority": 0,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/469.webp"
     },
     {
       "id": 473,
@@ -217,7 +233,8 @@
       "cityId": 9,
       "latitude": 33.511500968452,
       "longitude": 36.306729261786,
-      "priority": 0
+      "priority": 0,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/473.webp"
     },
     {
       "id": 482,
@@ -234,7 +251,8 @@
       "cityId": 2,
       "latitude": 24.52249691381,
       "longitude": 39.626191644006,
-      "priority": 0
+      "priority": 0,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/482.webp"
     },
     {
       "id": 24,
@@ -251,7 +269,8 @@
       "cityId": 2,
       "latitude": 24.467519998888,
       "longitude": 39.611195081083,
-      "priority": 1
+      "priority": 1,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/24.jpg"
     },
     {
       "id": 478,
@@ -268,7 +287,8 @@
       "cityId": 7,
       "latitude": 34.642154500364,
       "longitude": 50.879631151604,
-      "priority": 1
+      "priority": 1,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/478.webp"
     },
     {
       "id": 485,
@@ -285,7 +305,8 @@
       "cityId": 8,
       "latitude": 36.288117798488,
       "longitude": 59.615760248328,
-      "priority": 1
+      "priority": 1,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/485.jpg"
     },
     {
       "id": 489,
@@ -302,7 +323,8 @@
       "cityId": 3,
       "latitude": 32.616514811261,
       "longitude": 44.032458502482,
-      "priority": 1
+      "priority": 1,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/489.jpg"
     },
     {
       "id": 505,
@@ -319,7 +341,8 @@
       "cityId": 6,
       "latitude": 34.1990305951,
       "longitude": 43.873453867264,
-      "priority": 1
+      "priority": 1,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/505.webp"
     },
     {
       "id": 519,
@@ -336,7 +359,8 @@
       "cityId": 9,
       "latitude": 33.444404047491,
       "longitude": 36.340757681199,
-      "priority": 1
+      "priority": 1,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/519.jpg"
     },
     {
       "id": 526,
@@ -353,7 +377,8 @@
       "cityId": 4,
       "latitude": 31.995664003415,
       "longitude": 44.314592633193,
-      "priority": 1
+      "priority": 1,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/526.webp"
     },
     {
       "id": 529,
@@ -370,7 +395,8 @@
       "cityId": 5,
       "latitude": 33.380154448484,
       "longitude": 44.338041917792,
-      "priority": 1
+      "priority": 1,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/529.webp"
     },
     {
       "id": 16,
@@ -387,7 +413,8 @@
       "cityId": 1,
       "latitude": 21.422589122765,
       "longitude": 39.826327817587,
-      "priority": 2
+      "priority": 2,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/16.jpg"
     },
     {
       "id": 25,
@@ -404,7 +431,8 @@
       "cityId": 2,
       "latitude": 24.466899323015,
       "longitude": 39.613935380852,
-      "priority": 2
+      "priority": 2,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/25.jpg"
     },
     {
       "id": 117,
@@ -421,7 +449,8 @@
       "cityId": 6,
       "latitude": 33.995339726152,
       "longitude": 44.192652947248,
-      "priority": 2
+      "priority": 2,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/117.jpg"
     },
     {
       "id": 163,
@@ -438,7 +467,8 @@
       "cityId": 4,
       "latitude": 32.046956372662,
       "longitude": 44.370944556739,
-      "priority": 2
+      "priority": 2,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/163.jpg"
     },
     {
       "id": 330,
@@ -455,7 +485,8 @@
       "cityId": 1,
       "latitude": 21.424349831746,
       "longitude": 39.825375648782,
-      "priority": 2
+      "priority": 2,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/330.webp"
     },
     {
       "id": 451,
@@ -472,7 +503,8 @@
       "cityId": 1,
       "latitude": 21.423827768208,
       "longitude": 39.825316789379,
-      "priority": 2
+      "priority": 2,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/451.webp"
     },
     {
       "id": 495,
@@ -489,7 +521,8 @@
       "cityId": 3,
       "latitude": 32.617356506683,
       "longitude": 44.036358059546,
-      "priority": 2
+      "priority": 2,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/495.jpg"
     },
     {
       "id": 18,
@@ -506,7 +539,8 @@
       "cityId": 1,
       "latitude": 21.422588498539,
       "longitude": 39.82612464027,
-      "priority": 3
+      "priority": 3,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/18.jpg"
     },
     {
       "id": 27,
@@ -523,7 +557,8 @@
       "cityId": 2,
       "latitude": 24.465805472805,
       "longitude": 39.606971956379,
-      "priority": 3
+      "priority": 3,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/27.webp"
     },
     {
       "id": 49,
@@ -540,7 +575,8 @@
       "cityId": 7,
       "latitude": 34.638636807535,
       "longitude": 50.899953241656,
-      "priority": 3
+      "priority": 3,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/49.webp"
     },
     {
       "id": 61,
@@ -557,7 +593,8 @@
       "cityId": 4,
       "latitude": 32.000909303232,
       "longitude": 44.311363301683,
-      "priority": 3
+      "priority": 3,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/61.webp"
     },
     {
       "id": 125,
@@ -574,7 +611,8 @@
       "cityId": 6,
       "latitude": 34.199078773743,
       "longitude": 43.873567133099,
-      "priority": 3
+      "priority": 3,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/125.png"
     },
     {
       "id": 129,
@@ -591,7 +629,8 @@
       "cityId": 5,
       "latitude": 33.351337896222,
       "longitude": 44.36122182082,
-      "priority": 3
+      "priority": 3,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/129.webp"
     },
     {
       "id": 136,
@@ -608,7 +647,8 @@
       "cityId": 5,
       "latitude": 33.380263774389,
       "longitude": 44.338204488002,
-      "priority": 3
+      "priority": 3,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/136.jpg"
     },
     {
       "id": 147,
@@ -625,7 +665,8 @@
       "cityId": 4,
       "latitude": 32.007752682291,
       "longitude": 44.338760085204,
-      "priority": 3
+      "priority": 3,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/147.jpg"
     },
     {
       "id": 169,
@@ -642,7 +683,8 @@
       "cityId": 4,
       "latitude": 32.029261935005,
       "longitude": 44.400644331343,
-      "priority": 3
+      "priority": 3,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/169.webp"
     },
     {
       "id": 209,
@@ -659,7 +701,8 @@
       "cityId": 3,
       "latitude": 32.615927443181,
       "longitude": 44.031048935582,
-      "priority": 3
+      "priority": 3,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/209.webp"
     },
     {
       "id": 213,
@@ -676,7 +719,8 @@
       "cityId": 3,
       "latitude": 32.614644434317,
       "longitude": 44.030603056525,
-      "priority": 3
+      "priority": 3,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/213.png"
     },
     {
       "id": 217,
@@ -693,7 +737,8 @@
       "cityId": 3,
       "latitude": 32.616355484489,
       "longitude": 44.03253743612,
-      "priority": 3
+      "priority": 3,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/217.webp"
     },
     {
       "id": 446,
@@ -710,7 +755,8 @@
       "cityId": 1,
       "latitude": 21.423827768208,
       "longitude": 39.825316789379,
-      "priority": 3
+      "priority": 3,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/446.webp"
     },
     {
       "id": 22,
@@ -727,7 +773,8 @@
       "cityId": 1,
       "latitude": 21.422569147561,
       "longitude": 39.826526301043,
-      "priority": 4
+      "priority": 4,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/22.jpg"
     },
     {
       "id": 62,
@@ -744,7 +791,8 @@
       "cityId": 2,
       "latitude": 24.467027245584,
       "longitude": 39.606374583853,
-      "priority": 4
+      "priority": 4,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/62.jpg"
     },
     {
       "id": 142,
@@ -761,7 +809,8 @@
       "cityId": 4,
       "latitude": 32.005096660467,
       "longitude": 44.334609124597,
-      "priority": 4
+      "priority": 4,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/142.jpg"
     },
     {
       "id": 153,
@@ -778,7 +827,8 @@
       "cityId": 4,
       "latitude": 31.995301466317,
       "longitude": 44.309354635043,
-      "priority": 4
+      "priority": 4,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/153.jpg"
     },
     {
       "id": 157,
@@ -795,7 +845,8 @@
       "cityId": 4,
       "latitude": 31.996064358499,
       "longitude": 44.314571175522,
-      "priority": 4
+      "priority": 4,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/157.jpg"
     },
     {
       "id": 174,
@@ -812,7 +863,8 @@
       "cityId": 4,
       "latitude": 32.039189035921,
       "longitude": 44.379919904356,
-      "priority": 4
+      "priority": 4,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/174.png"
     },
     {
       "id": 63,
@@ -829,7 +881,8 @@
       "cityId": 2,
       "latitude": 24.437888783961,
       "longitude": 39.619396424261,
-      "priority": 5
+      "priority": 5,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/63.webp"
     },
     {
       "id": 78,
@@ -846,7 +899,8 @@
       "cityId": 7,
       "latitude": 34.636686256534,
       "longitude": 50.879667061915,
-      "priority": 5
+      "priority": 5,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/78.webp"
     },
     {
       "id": 108,
@@ -863,7 +917,8 @@
       "cityId": 8,
       "latitude": 36.108705952279,
       "longitude": 59.063390661021,
-      "priority": 5
+      "priority": 5,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/108.jpg"
     },
     {
       "id": 112,
@@ -880,7 +935,8 @@
       "cityId": 8,
       "latitude": 36.287552924546,
       "longitude": 59.614707793543,
-      "priority": 5
+      "priority": 5,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/112.webp"
     },
     {
       "id": 179,
@@ -897,7 +953,8 @@
       "cityId": 4,
       "latitude": 32.02802205294,
       "longitude": 44.399698189014,
-      "priority": 5
+      "priority": 5,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/179.png"
     },
     {
       "id": 187,
@@ -914,7 +971,8 @@
       "cityId": 4,
       "latitude": 32.029062488247,
       "longitude": 44.400409330898,
-      "priority": 5
+      "priority": 5,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/187.jpg"
     },
     {
       "id": 536,
@@ -931,7 +989,8 @@
       "cityId": 4,
       "latitude": 32.028687175275,
       "longitude": 44.40110914818,
-      "priority": 5
+      "priority": 5,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/536.webp"
     },
     {
       "id": 553,
@@ -948,7 +1007,8 @@
       "cityId": 1,
       "latitude": 21.422513323496,
       "longitude": 39.826188291938,
-      "priority": 5
+      "priority": 5,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/553.jpg"
     },
     {
       "id": 56,
@@ -965,7 +1025,8 @@
       "cityId": 8,
       "latitude": 36.182390826175,
       "longitude": 59.666535380886,
-      "priority": 6
+      "priority": 6,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/56.jpg"
     },
     {
       "id": 64,
@@ -982,7 +1043,8 @@
       "cityId": 2,
       "latitude": 24.48417270645,
       "longitude": 39.578767821515,
-      "priority": 6
+      "priority": 6,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/64.webp"
     },
     {
       "id": 90,
@@ -999,7 +1061,8 @@
       "cityId": 7,
       "latitude": 34.632436005835,
       "longitude": 50.885181142041,
-      "priority": 6
+      "priority": 6,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/90.webp"
     },
     {
       "id": 192,
@@ -1016,7 +1079,8 @@
       "cityId": 4,
       "latitude": 32.026481624116,
       "longitude": 44.395261303122,
-      "priority": 6
+      "priority": 6,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/192.jpg"
     },
     {
       "id": 223,
@@ -1033,7 +1097,8 @@
       "cityId": 3,
       "latitude": 32.616445033439,
       "longitude": 44.03704916255,
-      "priority": 6
+      "priority": 6,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/223.webp"
     },
     {
       "id": 248,
@@ -1050,7 +1115,8 @@
       "cityId": 3,
       "latitude": 32.785220358645,
       "longitude": 44.312864218944,
-      "priority": 6
+      "priority": 6,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/248.webp"
     },
     {
       "id": 290,
@@ -1067,7 +1133,8 @@
       "cityId": 1,
       "latitude": 21.422572853567,
       "longitude": 39.826165583433,
-      "priority": 6
+      "priority": 6,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/290.jpg"
     },
     {
       "id": 66,
@@ -1084,7 +1151,8 @@
       "cityId": 2,
       "latitude": 24.476757946793,
       "longitude": 39.596261444622,
-      "priority": 7
+      "priority": 7,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/66.webp"
     },
     {
       "id": 93,
@@ -1101,7 +1169,8 @@
       "cityId": 7,
       "latitude": 34.631069101011,
       "longitude": 50.897496665071,
-      "priority": 7
+      "priority": 7,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/93.webp"
     },
     {
       "id": 197,
@@ -1118,7 +1187,8 @@
       "cityId": 4,
       "latitude": 32.029443109499,
       "longitude": 44.401541622325,
-      "priority": 7
+      "priority": 7,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/197.webp"
     },
     {
       "id": 203,
@@ -1135,7 +1205,8 @@
       "cityId": 4,
       "latitude": 32.029448277919,
       "longitude": 44.401543225833,
-      "priority": 7
+      "priority": 7,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/203.png"
     },
     {
       "id": 227,
@@ -1152,7 +1223,8 @@
       "cityId": 3,
       "latitude": 32.616311403332,
       "longitude": 44.03211883092,
-      "priority": 7
+      "priority": 7,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/227.webp"
     },
     {
       "id": 233,
@@ -1169,7 +1241,8 @@
       "cityId": 3,
       "latitude": 32.616382193164,
       "longitude": 44.03264756158,
-      "priority": 7
+      "priority": 7,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/233.webp"
     },
     {
       "id": 263,
@@ -1186,7 +1259,8 @@
       "cityId": 3,
       "latitude": 32.618258007741,
       "longitude": 44.035181562003,
-      "priority": 7
+      "priority": 7,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/263.webp"
     },
     {
       "id": 274,
@@ -1203,7 +1277,8 @@
       "cityId": 3,
       "latitude": 32.549531241987,
       "longitude": 44.224141239852,
-      "priority": 7
+      "priority": 7,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/274.webp"
     },
     {
       "id": 370,
@@ -1220,7 +1295,8 @@
       "cityId": 1,
       "latitude": 21.422496518698,
       "longitude": 39.82626477699,
-      "priority": 7
+      "priority": 7,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/370.jpg"
     },
     {
       "id": 554,
@@ -1237,7 +1313,8 @@
       "cityId": 1,
       "latitude": 21.434951575875,
       "longitude": 39.8287037489,
-      "priority": 7
+      "priority": 7,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/554.webp"
     },
     {
       "id": 73,
@@ -1254,7 +1331,8 @@
       "cityId": 8,
       "latitude": 36.320503449997,
       "longitude": 59.411421750194,
-      "priority": 8
+      "priority": 8,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/73.webp"
     },
     {
       "id": 238,
@@ -1271,7 +1349,8 @@
       "cityId": 3,
       "latitude": 32.616535333828,
       "longitude": 44.032341350195,
-      "priority": 8
+      "priority": 8,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/238.webp"
     },
     {
       "id": 266,
@@ -1288,7 +1367,8 @@
       "cityId": 3,
       "latitude": 32.693558227011,
       "longitude": 44.112877814047,
-      "priority": 8
+      "priority": 8,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/266.png"
     },
     {
       "id": 376,
@@ -1305,7 +1385,8 @@
       "cityId": 1,
       "latitude": 21.422527729967,
       "longitude": 39.826250024841,
-      "priority": 8
+      "priority": 8,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/376.jpg"
     },
     {
       "id": 67,
@@ -1322,7 +1403,8 @@
       "cityId": 2,
       "latitude": 24.477843290388,
       "longitude": 39.595589081834,
-      "priority": 9
+      "priority": 9,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/67.jpg"
     },
     {
       "id": 242,
@@ -1339,7 +1421,8 @@
       "cityId": 3,
       "latitude": 32.624269162462,
       "longitude": 44.034352251991,
-      "priority": 9
+      "priority": 9,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/242.webp"
     },
     {
       "id": 252,
@@ -1356,7 +1439,8 @@
       "cityId": 3,
       "latitude": 32.624249884427,
       "longitude": 44.037654082134,
-      "priority": 9
+      "priority": 9,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/252.png"
     },
     {
       "id": 546,
@@ -1373,7 +1457,8 @@
       "cityId": 1,
       "latitude": 21.425642351569,
       "longitude": 39.830543701919,
-      "priority": 9
+      "priority": 9,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/546.jpg"
     },
     {
       "id": 79,
@@ -1390,7 +1475,8 @@
       "cityId": 2,
       "latitude": 24.472089519619,
       "longitude": 39.618483774124,
-      "priority": 10
+      "priority": 10,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/79.jpg"
     },
     {
       "id": 102,
@@ -1407,7 +1493,8 @@
       "cityId": 2,
       "latitude": 24.414324664298,
       "longitude": 39.542572709567,
-      "priority": 11
+      "priority": 11,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/102.jpg"
     },
     {
       "id": 549,
@@ -1424,7 +1511,8 @@
       "cityId": 1,
       "latitude": 21.453187751054,
       "longitude": 39.88223796695,
-      "priority": 11
+      "priority": 11,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/549.webp"
     },
     {
       "id": 103,
@@ -1441,7 +1529,8 @@
       "cityId": 2,
       "latitude": 24.467545394955,
       "longitude": 39.611455090999,
-      "priority": 12
+      "priority": 12,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/103.jpg"
     },
     {
       "id": 106,
@@ -1458,7 +1547,8 @@
       "cityId": 2,
       "latitude": 24.413545113698,
       "longitude": 39.545461267073,
-      "priority": 15
+      "priority": 15,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/106.jpg"
     },
     {
       "id": 134,
@@ -1475,7 +1565,8 @@
       "cityId": 2,
       "latitude": 24.451863636818,
       "longitude": 39.632746630328,
-      "priority": 17
+      "priority": 17,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/134.webp"
     },
     {
       "id": 428,
@@ -1492,7 +1583,8 @@
       "cityId": 1,
       "latitude": 21.423827768208,
       "longitude": 39.825316789379,
-      "priority": 18
+      "priority": 18,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/428.jpg"
     },
     {
       "id": 424,
@@ -1509,7 +1601,8 @@
       "cityId": 1,
       "latitude": 21.423827768208,
       "longitude": 39.825316789379,
-      "priority": 19
+      "priority": 19,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/424.webp"
     },
     {
       "id": 420,
@@ -1526,7 +1619,8 @@
       "cityId": 1,
       "latitude": 21.423827768208,
       "longitude": 39.825316789379,
-      "priority": 20
+      "priority": 20,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/420.png"
     },
     {
       "id": 510,
@@ -1543,7 +1637,8 @@
       "cityId": 1,
       "latitude": 21.424909994861,
       "longitude": 39.829816664392,
-      "priority": 20
+      "priority": 20,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/510.jpg"
     },
     {
       "id": 415,
@@ -1560,7 +1655,8 @@
       "cityId": 1,
       "latitude": 21.423827768208,
       "longitude": 39.825316789379,
-      "priority": 21
+      "priority": 21,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/415.png"
     },
     {
       "id": 405,
@@ -1577,7 +1673,8 @@
       "cityId": 1,
       "latitude": 21.423898023823,
       "longitude": 39.82533763658,
-      "priority": 22
+      "priority": 22,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/405.webp"
     },
     {
       "id": 409,
@@ -1594,7 +1691,8 @@
       "cityId": 1,
       "latitude": 21.422162884464,
       "longitude": 39.827570701274,
-      "priority": 22
+      "priority": 22,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/409.webp"
     },
     {
       "id": 400,
@@ -1611,7 +1709,8 @@
       "cityId": 1,
       "latitude": 21.433572158861,
       "longitude": 39.828945677239,
-      "priority": 23
+      "priority": 23,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/400.webp"
     },
     {
       "id": 391,
@@ -1628,7 +1727,8 @@
       "cityId": 1,
       "latitude": 21.401301470854,
       "longitude": 39.89993900246,
-      "priority": 24
+      "priority": 24,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/391.png"
     },
     {
       "id": 365,
@@ -1645,7 +1745,8 @@
       "cityId": 1,
       "latitude": 21.3931593159,
       "longitude": 39.937477592602,
-      "priority": 25
+      "priority": 25,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/365.png"
     },
     {
       "id": 362,
@@ -1662,7 +1763,8 @@
       "cityId": 1,
       "latitude": 21.414588258565,
       "longitude": 39.894795419578,
-      "priority": 26
+      "priority": 26,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/362.png"
     },
     {
       "id": 356,
@@ -1679,7 +1781,8 @@
       "cityId": 1,
       "latitude": 21.420468534096,
       "longitude": 39.870551226559,
-      "priority": 27
+      "priority": 27,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/356.webp"
     },
     {
       "id": 352,
@@ -1696,7 +1799,8 @@
       "cityId": 1,
       "latitude": 21.417613220101,
       "longitude": 39.878448935407,
-      "priority": 28
+      "priority": 28,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/352.webp"
     },
     {
       "id": 346,
@@ -1713,7 +1817,8 @@
       "cityId": 1,
       "latitude": 21.458172409655,
       "longitude": 39.859706662392,
-      "priority": 29
+      "priority": 29,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/346.webp"
     },
     {
       "id": 341,
@@ -1730,7 +1835,8 @@
       "cityId": 1,
       "latitude": 21.372822252137,
       "longitude": 39.855523140272,
-      "priority": 30
+      "priority": 30,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/341.webp"
     },
     {
       "id": 337,
@@ -1747,7 +1853,8 @@
       "cityId": 1,
       "latitude": 21.431738624078,
       "longitude": 39.816602960543,
-      "priority": 31
+      "priority": 31,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/337.webp"
     },
     {
       "id": 385,
@@ -1764,7 +1871,8 @@
       "cityId": 1,
       "latitude": 21.424775119225,
       "longitude": 39.867507288296,
-      "priority": 33
+      "priority": 33,
+      "image": "https://raw.githubusercontent.com/ShahAli2000/AL-Hasani-app/main/holy-places/385.png"
     }
   ],
   "duaPlaceMappings": [
