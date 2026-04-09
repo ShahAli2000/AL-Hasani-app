@@ -3157,5 +3157,1485 @@
     "mafatihId": 1357,
     "source": "mafatih",
     "subcategory": "Particular Taqeebat Salat"
+  },
+  {
+    "id": "practical-1-dua-for-sustenance",
+    "name": "1. Dua for Sustenance",
+    "category": "practical",
+    "segmentCount": 15,
+    "subcategory": "Sustenance — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-2-dua-for-sustenance",
+    "name": "2. Dua for Sustenance",
+    "category": "practical",
+    "segmentCount": 5,
+    "subcategory": "Sustenance — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-3-dua-for-sustenance",
+    "name": "3. Dua for Sustenance",
+    "category": "practical",
+    "segmentCount": 9,
+    "subcategory": "Sustenance — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-4-dua-for-sustenance",
+    "name": "4. Dua for Sustenance",
+    "category": "practical",
+    "segmentCount": 8,
+    "subcategory": "Sustenance — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-5-dua-for-sustenance",
+    "name": "5. Dua for Sustenance",
+    "category": "practical",
+    "segmentCount": 45,
+    "subcategory": "Sustenance — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-1-prayer-for-more-sustenance",
+    "name": "1. Prayer for More Sustenance",
+    "category": "practical",
+    "segmentCount": 15,
+    "subcategory": "Sustenance — Prayer",
+    "source": "practical"
+  },
+  {
+    "id": "practical-2-prayer-for-more-sustenance",
+    "name": "2. Prayer for More Sustenance",
+    "category": "practical",
+    "segmentCount": 8,
+    "subcategory": "Sustenance — Prayer",
+    "source": "practical"
+  },
+  {
+    "id": "practical-3-prayer-for-more-sustenance",
+    "name": "3. Prayer for More Sustenance",
+    "category": "practical",
+    "segmentCount": 2,
+    "subcategory": "Sustenance — Prayer",
+    "source": "practical"
+  },
+  {
+    "id": "practical-tasbih-of-fatima-zehra-sa",
+    "name": "Tasbih of Fatima Zehra (sa)",
+    "category": "practical",
+    "segmentCount": 2,
+    "subcategory": "Sustenance — Dhikr",
+    "source": "practical"
+  },
+  {
+    "id": "practical-1-dhikr-for-rizq",
+    "name": "1. Dhikr for Rizq",
+    "category": "practical",
+    "segmentCount": 6,
+    "subcategory": "Sustenance — Dhikr",
+    "source": "practical"
+  },
+  {
+    "id": "practical-rizq-dua-by-imam-mahdi-atfs",
+    "name": "Rizq Dua by Imam Mahdi (atfs)",
+    "category": "practical",
+    "segmentCount": 2,
+    "subcategory": "Sustenance — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-rizq-dua-by-imam-ali-as",
+    "name": "Rizq Dua by Imam Ali (a.s)",
+    "category": "practical",
+    "segmentCount": 6,
+    "subcategory": "Sustenance — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-the-two-verses-from-surh-at-talaq",
+    "name": "The two verses from Surh  At-Talaq",
+    "category": "practical",
+    "segmentCount": 2,
+    "subcategory": "Sustenance — Verses",
+    "source": "practical"
+  },
+  {
+    "id": "practical-verse-19-of-surah-ash-shura",
+    "name": "Verse 19 of Surah Ash-Shura",
+    "category": "practical",
+    "segmentCount": 2,
+    "subcategory": "Sustenance — Verses",
+    "source": "practical"
+  },
+  {
+    "id": "practical-6-dua-for-sustenance",
+    "name": "6. Dua for Sustenance",
+    "category": "practical",
+    "segmentCount": 1,
+    "subcategory": "Sustenance — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-the-two-verses-from-surat-al-imran",
+    "name": "The two verses from Surat Al Imran",
+    "category": "practical",
+    "segmentCount": 2,
+    "subcategory": "Sustenance — Verses",
+    "source": "practical"
+  },
+  {
+    "id": "practical-to-eliminate-poverty",
+    "name": "To eliminate poverty",
+    "category": "practical",
+    "segmentCount": 1,
+    "subcategory": "Sustenance — Verses",
+    "source": "practical"
+  },
+  {
+    "id": "practical-2-dhikr-for-rizq",
+    "name": "2. Dhikr for Rizq",
+    "category": "practical",
+    "segmentCount": 3,
+    "subcategory": "Sustenance — Dhikr",
+    "source": "practical"
+  },
+  {
+    "id": "practical-verse-37-of-surah-al-imran",
+    "name": "Verse 37 of Surah Al Imran",
+    "category": "practical",
+    "segmentCount": 2,
+    "subcategory": "Sustenance — Verses",
+    "source": "practical"
+  },
+  {
+    "id": "practical-7-dua-for-sustenance",
+    "name": "7. Dua for Sustenance",
+    "category": "practical",
+    "segmentCount": 3,
+    "subcategory": "Sustenance — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-other-verses-for-sustenance",
+    "name": "Other verses for sustenance",
+    "category": "practical",
+    "segmentCount": 5,
+    "subcategory": "Sustenance — Verses",
+    "source": "practical"
+  },
+  {
+    "id": "practical-1-hadith",
+    "name": "1. Hadith",
+    "category": "practical",
+    "segmentCount": 2,
+    "subcategory": "Sustenance — Hadith",
+    "source": "practical"
+  },
+  {
+    "id": "practical-2-hadith",
+    "name": "2. Hadith",
+    "category": "practical",
+    "segmentCount": 2,
+    "subcategory": "Sustenance — Hadith",
+    "source": "practical"
+  },
+  {
+    "id": "practical-3-hadith",
+    "name": "3. Hadith",
+    "category": "practical",
+    "segmentCount": 2,
+    "subcategory": "Sustenance — Hadith",
+    "source": "practical"
+  },
+  {
+    "id": "practical-salat-of-isteghfar",
+    "name": "Salat of Isteghfar",
+    "category": "practical",
+    "segmentCount": 1,
+    "subcategory": "Sustenance — Prayer",
+    "source": "practical"
+  },
+  {
+    "id": "practical-8-dua-for-sustenance",
+    "name": "8. Dua for Sustenance",
+    "category": "practical",
+    "segmentCount": 46,
+    "subcategory": "Sustenance — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-supplication-when-sick",
+    "name": "Supplication when sick",
+    "category": "practical",
+    "segmentCount": 29,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-1-dua-for-healing",
+    "name": "1. Dua for Healing",
+    "category": "practical",
+    "segmentCount": 9,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-2-dua-for-healing",
+    "name": "2. Dua for Healing",
+    "category": "practical",
+    "segmentCount": 13,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-3-dua-for-healing",
+    "name": "3. Dua for Healing",
+    "category": "practical",
+    "segmentCount": 11,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-4-dua-for-healing",
+    "name": "4. Dua for Healing",
+    "category": "practical",
+    "segmentCount": 10,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-5-dua-for-healing",
+    "name": "5. Dua for Healing",
+    "category": "practical",
+    "segmentCount": 4,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-6-dua-for-healing",
+    "name": "6. Dua for Healing",
+    "category": "practical",
+    "segmentCount": 8,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-7-dua-for-healing",
+    "name": "7. Dua for Healing",
+    "category": "practical",
+    "segmentCount": 4,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-8-dua-for-healing",
+    "name": "8. Dua for Healing",
+    "category": "practical",
+    "segmentCount": 12,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-9-dua-for-healing",
+    "name": "9. Dua for Healing",
+    "category": "practical",
+    "segmentCount": 6,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-1-hadith-1",
+    "name": "1. Hadith",
+    "category": "practical",
+    "segmentCount": 1,
+    "subcategory": "Healing — Hadith",
+    "source": "practical"
+  },
+  {
+    "id": "practical-2-hadith-1",
+    "name": "2. Hadith",
+    "category": "practical",
+    "segmentCount": 1,
+    "subcategory": "Healing — Hadith",
+    "source": "practical"
+  },
+  {
+    "id": "practical-3-hadith-1",
+    "name": "3. Hadith",
+    "category": "practical",
+    "segmentCount": 1,
+    "subcategory": "Healing — Hadith",
+    "source": "practical"
+  },
+  {
+    "id": "practical-10-dua-for-healing",
+    "name": "10. Dua for Healing",
+    "category": "practical",
+    "segmentCount": 16,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-4-hadith",
+    "name": "4. Hadith",
+    "category": "practical",
+    "segmentCount": 1,
+    "subcategory": "Healing — Hadith",
+    "source": "practical"
+  },
+  {
+    "id": "practical-verse-82-of-surh-al-isra",
+    "name": "Verse 82 of Surh Al-Isra",
+    "category": "practical",
+    "segmentCount": 2,
+    "subcategory": "Healing — Verses",
+    "source": "practical"
+  },
+  {
+    "id": "practical-11-dua-for-healing",
+    "name": "11. Dua for Healing",
+    "category": "practical",
+    "segmentCount": 4,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-12-dua-for-healing",
+    "name": "12. Dua for Healing",
+    "category": "practical",
+    "segmentCount": 15,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-13-dua-for-healing",
+    "name": "13. Dua for Healing",
+    "category": "practical",
+    "segmentCount": 27,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-14-dua-for-healing",
+    "name": "14. Dua for Healing",
+    "category": "practical",
+    "segmentCount": 30,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-14-dua-for-healing-1",
+    "name": "14. Dua for Healing",
+    "category": "practical",
+    "segmentCount": 12,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-surahs-al-fatihah-ikhlas",
+    "name": "Surahs Al-Fatihah & Ikhlas",
+    "category": "practical",
+    "segmentCount": 1,
+    "subcategory": "Healing — Verses",
+    "source": "practical"
+  },
+  {
+    "id": "practical-15-dua-for-healing",
+    "name": "15. Dua for Healing",
+    "category": "practical",
+    "segmentCount": 4,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-26-dua-for-healing",
+    "name": "26. Dua for Healing",
+    "category": "practical",
+    "segmentCount": 9,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-dua-amulet-against-migraine",
+    "name": "Dua Amulet against Migraine",
+    "category": "practical",
+    "segmentCount": 7,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-dua-amulet-against-deafness",
+    "name": "Dua Amulet against Deafness",
+    "category": "practical",
+    "segmentCount": 2,
+    "subcategory": "Healing — Verses",
+    "source": "practical"
+  },
+  {
+    "id": "practical-dua-for-mouth-ache",
+    "name": "Dua for Mouth Ache",
+    "category": "practical",
+    "segmentCount": 16,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-1-dua-for-toothache",
+    "name": "1. Dua for Toothache",
+    "category": "practical",
+    "segmentCount": 5,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-2-dua-for-toothache",
+    "name": "2. Dua for Toothache",
+    "category": "practical",
+    "segmentCount": 4,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-3-dua-for-toothache",
+    "name": "3. Dua for Toothache",
+    "category": "practical",
+    "segmentCount": 39,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-dua-for-chest-pain",
+    "name": "Dua for chest Pain",
+    "category": "practical",
+    "segmentCount": 1,
+    "subcategory": "Healing — Verses",
+    "source": "practical"
+  },
+  {
+    "id": "practical-dua-for-cough-relief",
+    "name": "Dua for cough relief",
+    "category": "practical",
+    "segmentCount": 3,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-1-dua-for-stomachache",
+    "name": "1. Dua for Stomachache",
+    "category": "practical",
+    "segmentCount": 17,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-2-dua-for-stomachache",
+    "name": "2. Dua for Stomachache",
+    "category": "practical",
+    "segmentCount": 9,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-dua-for-the-removal-of-warts",
+    "name": "Dua for the removal of warts",
+    "category": "practical",
+    "segmentCount": 10,
+    "subcategory": "Healing — Verses",
+    "source": "practical"
+  },
+  {
+    "id": "practical-dua-amulet-for-tumor-relief",
+    "name": "Dua Amulet for tumor relief",
+    "category": "practical",
+    "segmentCount": 3,
+    "subcategory": "Healing — Verses",
+    "source": "practical"
+  },
+  {
+    "id": "practical-dua-for-dystocia-child-birth",
+    "name": "Dua for Dystocia /Child birth",
+    "category": "practical",
+    "segmentCount": 36,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-8-duas-amulet-for-fever-relief",
+    "name": "8 Duas Amulet for Fever relief",
+    "category": "practical",
+    "segmentCount": 124,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-dua-amulet-for-stomach-gurgling-relief",
+    "name": "Dua Amulet for stomach gurgling relief",
+    "category": "practical",
+    "segmentCount": 2,
+    "subcategory": "Healing — Hadith",
+    "source": "practical"
+  },
+  {
+    "id": "practical-dua-amulet-for-leprosy-relief",
+    "name": "Dua Amulet for Leprosy relief",
+    "category": "practical",
+    "segmentCount": 23,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-dua-amulet-for-for-knee-pain-relief",
+    "name": "Dua Amulet for for knee pain relief",
+    "category": "practical",
+    "segmentCount": 16,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-dua-amulet-for-eye-aches-relief",
+    "name": "Dua Amulet for Eye Aches relief",
+    "category": "practical",
+    "segmentCount": 63,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-dua-amulet-for-epilepsy-relief",
+    "name": "Dua Amulet for Epilepsy relief",
+    "category": "practical",
+    "segmentCount": 1,
+    "subcategory": "Healing — Hadith",
+    "source": "practical"
+  },
+  {
+    "id": "practical-diabetes-coronary-heart-disease",
+    "name": "Diabetes & Coronary heart disease",
+    "category": "practical",
+    "segmentCount": 2,
+    "subcategory": "Healing — Verses",
+    "source": "practical"
+  },
+  {
+    "id": "practical-compulsive-disorders",
+    "name": "compulsive disorders",
+    "category": "practical",
+    "segmentCount": 6,
+    "subcategory": "Healing — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-before-going-to-sleep",
+    "name": "before going to sleep",
+    "category": "practical",
+    "segmentCount": 11,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-1-at-bedtime-and-at-waking",
+    "name": "1. at bedtime and at waking",
+    "category": "practical",
+    "segmentCount": 7,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-2-at-bedtime-and-at-waking",
+    "name": "2. at bedtime and at waking",
+    "category": "practical",
+    "segmentCount": 5,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-3-at-bedtime-and-at-waking",
+    "name": "3. at bedtime and at waking",
+    "category": "practical",
+    "segmentCount": 14,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-4-at-bedtime-and-at-waking",
+    "name": "4. at bedtime and at waking",
+    "category": "practical",
+    "segmentCount": 2,
+    "subcategory": "Times — Verses",
+    "source": "practical"
+  },
+  {
+    "id": "practical-5-at-bedtime-and-at-waking",
+    "name": "5. at bedtime and at waking",
+    "category": "practical",
+    "segmentCount": 5,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-6-at-bedtime-and-at-waking",
+    "name": "6. at bedtime and at waking",
+    "category": "practical",
+    "segmentCount": 6,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-7-at-bedtime-and-at-waking",
+    "name": "7. at bedtime and at waking",
+    "category": "practical",
+    "segmentCount": 11,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-lady-fatima-sa-supplication",
+    "name": "Lady Fatima (sa) supplication",
+    "category": "practical",
+    "segmentCount": 6,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-sunset",
+    "name": "Sunset",
+    "category": "practical",
+    "segmentCount": 38,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-imam-ali-as-sunset-dua",
+    "name": "Imam Ali (as) Sunset Dua",
+    "category": "practical",
+    "segmentCount": 5,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-first-hour-of-the-day",
+    "name": "First hour of the day",
+    "category": "practical",
+    "segmentCount": 15,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-second-hour-of-the-day",
+    "name": "Second hour of the day",
+    "category": "practical",
+    "segmentCount": 13,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-third-hour-of-the-day",
+    "name": "Third hour of the day",
+    "category": "practical",
+    "segmentCount": 21,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-fourth-hour-of-the-day",
+    "name": "Fourth hour of the day",
+    "category": "practical",
+    "segmentCount": 18,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-fifth-hour-of-the-day",
+    "name": "Fifth hour of the day",
+    "category": "practical",
+    "segmentCount": 14,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-sixth-hour-of-the-day",
+    "name": "Sixth hour of the day",
+    "category": "practical",
+    "segmentCount": 13,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-seventh-hour-of-the-day",
+    "name": "Seventh hour of the day",
+    "category": "practical",
+    "segmentCount": 15,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-eighth-hour-of-the-day",
+    "name": "Eighth hour of the day",
+    "category": "practical",
+    "segmentCount": 17,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-ninth-hour-of-the-day",
+    "name": "Ninth hour of the day",
+    "category": "practical",
+    "segmentCount": 17,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-tenth-hour-of-the-day",
+    "name": "Tenth hour of the day",
+    "category": "practical",
+    "segmentCount": 14,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-eleventh-hour-of-the-day",
+    "name": "Eleventh hour of the day",
+    "category": "practical",
+    "segmentCount": 16,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-twelfth-hour-of-the-day",
+    "name": "Twelfth hour of the day",
+    "category": "practical",
+    "segmentCount": 20,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-three-special-hours",
+    "name": "Three Special Hours",
+    "category": "practical",
+    "segmentCount": 26,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-1-morning",
+    "name": "1. morning",
+    "category": "practical",
+    "segmentCount": 111,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-2-morning",
+    "name": "2. morning",
+    "category": "practical",
+    "segmentCount": 20,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-mornings-and-evenings",
+    "name": "mornings and evenings",
+    "category": "practical",
+    "segmentCount": 92,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-evening",
+    "name": "evening",
+    "category": "practical",
+    "segmentCount": 19,
+    "subcategory": "Times — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-sahifa-sajjadia-dua-no-13-for-seeking-needs",
+    "name": "Sahifa Sajjadia dua no 13 for seeking needs",
+    "category": "practical",
+    "segmentCount": 53,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-1-for-needs",
+    "name": "1. For needs",
+    "category": "practical",
+    "segmentCount": 14,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-2-for-needs",
+    "name": "2. For needs",
+    "category": "practical",
+    "segmentCount": 7,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-3-for-needs",
+    "name": "3. For needs",
+    "category": "practical",
+    "segmentCount": 18,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-4-for-needs",
+    "name": "4. For needs",
+    "category": "practical",
+    "segmentCount": 29,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-5-for-needs",
+    "name": "5. For needs",
+    "category": "practical",
+    "segmentCount": 3,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-6-for-needs",
+    "name": "6. For needs",
+    "category": "practical",
+    "segmentCount": 2,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-7-for-needs",
+    "name": "7. For needs",
+    "category": "practical",
+    "segmentCount": 3,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-8-for-needs",
+    "name": "8. For needs",
+    "category": "practical",
+    "segmentCount": 5,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-9-for-needs",
+    "name": "9. For needs",
+    "category": "practical",
+    "segmentCount": 3,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-10-for-needs",
+    "name": "10. For needs",
+    "category": "practical",
+    "segmentCount": 1,
+    "subcategory": "Desires — Dhikr",
+    "source": "practical"
+  },
+  {
+    "id": "practical-11-for-needs",
+    "name": "11. For needs",
+    "category": "practical",
+    "segmentCount": 6,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-12-for-needs",
+    "name": "12. For needs",
+    "category": "practical",
+    "segmentCount": 8,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-13-for-needs",
+    "name": "13. For needs",
+    "category": "practical",
+    "segmentCount": 67,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-14-for-needs",
+    "name": "14. For needs",
+    "category": "practical",
+    "segmentCount": 37,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-15-for-needs",
+    "name": "15. For needs",
+    "category": "practical",
+    "segmentCount": 65,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-16-for-needs",
+    "name": "16. For needs",
+    "category": "practical",
+    "segmentCount": 23,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-17-for-needs",
+    "name": "17. For needs",
+    "category": "practical",
+    "segmentCount": 12,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-18-for-needs",
+    "name": "18. For needs",
+    "category": "practical",
+    "segmentCount": 10,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-19-for-needs",
+    "name": "19. For needs",
+    "category": "practical",
+    "segmentCount": 15,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-20-for-needs",
+    "name": "20. For needs",
+    "category": "practical",
+    "segmentCount": 80,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-21-for-needs",
+    "name": "21. For needs",
+    "category": "practical",
+    "segmentCount": 7,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-22-for-needs",
+    "name": "22. For needs",
+    "category": "practical",
+    "segmentCount": 89,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-23-for-needs",
+    "name": "23. For needs",
+    "category": "practical",
+    "segmentCount": 6,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-24-for-needs",
+    "name": "24. For needs",
+    "category": "practical",
+    "segmentCount": 6,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-25-for-needs",
+    "name": "25. For needs",
+    "category": "practical",
+    "segmentCount": 16,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-26-for-needs",
+    "name": "26. For needs",
+    "category": "practical",
+    "segmentCount": 22,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-27-for-needs",
+    "name": "27. For needs",
+    "category": "practical",
+    "segmentCount": 140,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-28-for-needs",
+    "name": "28. For needs",
+    "category": "practical",
+    "segmentCount": 61,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-29-for-needs",
+    "name": "29. For needs",
+    "category": "practical",
+    "segmentCount": 78,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-30-for-needs",
+    "name": "30. For needs",
+    "category": "practical",
+    "segmentCount": 4,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-1-salat-for-hajaat",
+    "name": "1. Salat for Hajaat",
+    "category": "practical",
+    "segmentCount": 4,
+    "subcategory": "Desires — Prayer",
+    "source": "practical"
+  },
+  {
+    "id": "practical-prayer-for-settling-urgent-needs",
+    "name": "Prayer for Settling Urgent Needs",
+    "category": "practical",
+    "segmentCount": 9,
+    "subcategory": "Desires — Prayer",
+    "source": "practical"
+  },
+  {
+    "id": "practical-for-solving-difficulties",
+    "name": "for Solving Difficulties",
+    "category": "practical",
+    "segmentCount": 7,
+    "subcategory": "Desires — Prayer",
+    "source": "practical"
+  },
+  {
+    "id": "practical-2-salat-for-hajaat",
+    "name": "2. Salat for Hajaat",
+    "category": "practical",
+    "segmentCount": 5,
+    "subcategory": "Desires — Prayer",
+    "source": "practical"
+  },
+  {
+    "id": "practical-3-salat-for-hajaat",
+    "name": "3. Salat for Hajaat",
+    "category": "practical",
+    "segmentCount": 42,
+    "subcategory": "Desires — Prayer",
+    "source": "practical"
+  },
+  {
+    "id": "practical-4-salat-for-hajaat",
+    "name": "4. Salat for Hajaat",
+    "category": "practical",
+    "segmentCount": 21,
+    "subcategory": "Desires — Prayer",
+    "source": "practical"
+  },
+  {
+    "id": "practical-5-salat-for-hajaat",
+    "name": "5. Salat for Hajaat",
+    "category": "practical",
+    "segmentCount": 21,
+    "subcategory": "Desires — Prayer",
+    "source": "practical"
+  },
+  {
+    "id": "practical-6-salat-for-hajaat",
+    "name": "6. Salat for Hajaat",
+    "category": "practical",
+    "segmentCount": 7,
+    "subcategory": "Desires — Prayer",
+    "source": "practical"
+  },
+  {
+    "id": "practical-7-salat-for-hajaat",
+    "name": "7. Salat for Hajaat",
+    "category": "practical",
+    "segmentCount": 38,
+    "subcategory": "Desires — Prayer",
+    "source": "practical"
+  },
+  {
+    "id": "practical-etiquettes-of-praying-for-settling-the-needs",
+    "name": "Etiquettes of Praying for Settling the Needs",
+    "category": "practical",
+    "segmentCount": 1,
+    "subcategory": "Desires — Hadith",
+    "source": "practical"
+  },
+  {
+    "id": "practical-supplication-of-the-repentant",
+    "name": "Supplication of the repentant",
+    "category": "practical",
+    "segmentCount": 51,
+    "subcategory": "Repentance — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-in-confession-and-repentance",
+    "name": "In confession and repentance",
+    "category": "practical",
+    "segmentCount": 70,
+    "subcategory": "Repentance — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-resignation-from-sins-and-request-forgiveness",
+    "name": "Resignation from sins and request forgiveness",
+    "category": "practical",
+    "segmentCount": 115,
+    "subcategory": "Repentance — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-1-for-repentance",
+    "name": "1. For repentance",
+    "category": "practical",
+    "segmentCount": 131,
+    "subcategory": "Repentance — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-apology",
+    "name": "Apology",
+    "category": "practical",
+    "segmentCount": 16,
+    "subcategory": "Repentance — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-in-asking-for-forgiveness",
+    "name": "In asking for forgiveness",
+    "category": "practical",
+    "segmentCount": 69,
+    "subcategory": "Repentance — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-miraculous-forgiveness",
+    "name": "Miraculous forgiveness",
+    "category": "practical",
+    "segmentCount": 32,
+    "subcategory": "Repentance — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-2-for-repentance",
+    "name": "2. For repentance",
+    "category": "practical",
+    "segmentCount": 46,
+    "subcategory": "Repentance — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-accepting-repentance",
+    "name": "Accepting Repentance",
+    "category": "practical",
+    "segmentCount": 39,
+    "subcategory": "Repentance — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-1-prayer-for-forgiveness",
+    "name": "1. PRAYER FOR FORGIVENESS",
+    "category": "practical",
+    "segmentCount": 1,
+    "subcategory": "Repentance — Prayer",
+    "source": "practical"
+  },
+  {
+    "id": "practical-2-prayer-for-forgiveness",
+    "name": "2. PRAYER FOR FORGIVENESS",
+    "category": "practical",
+    "segmentCount": 3,
+    "subcategory": "Repentance — Prayer",
+    "source": "practical"
+  },
+  {
+    "id": "practical-prayer-for-pardon",
+    "name": "PRAYER FOR PARDON",
+    "category": "practical",
+    "segmentCount": 4,
+    "subcategory": "Repentance — Prayer",
+    "source": "practical"
+  },
+  {
+    "id": "practical-when-leaving-home",
+    "name": "When leaving home",
+    "category": "practical",
+    "segmentCount": 50,
+    "subcategory": "Travel — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-travel-dua",
+    "name": "Travel Dua",
+    "category": "practical",
+    "segmentCount": 37,
+    "subcategory": "Travel — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-whenever-a-horrifying-matter-inflicts-you",
+    "name": "Whenever a horrifying matter inflicts you",
+    "category": "practical",
+    "segmentCount": 5,
+    "subcategory": "Sadness & Fear — Prayer",
+    "source": "practical"
+  },
+  {
+    "id": "practical-whoever-is-inflicted-by-a-distress",
+    "name": "Whoever is inflicted by a distress",
+    "category": "practical",
+    "segmentCount": 3,
+    "subcategory": "Sadness & Fear — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-relief-from-sadness",
+    "name": "Relief from sadness",
+    "category": "practical",
+    "segmentCount": 8,
+    "subcategory": "Sadness & Fear — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-if-you-fear-something",
+    "name": "If you fear something",
+    "category": "practical",
+    "segmentCount": 28,
+    "subcategory": "Sadness & Fear — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-to-complete-the-task-successfully",
+    "name": "To complete the task successfully",
+    "category": "practical",
+    "segmentCount": 42,
+    "subcategory": "Sadness & Fear — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-for-important-work",
+    "name": "For important work",
+    "category": "practical",
+    "segmentCount": 16,
+    "subcategory": "Sadness & Fear — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-to-relieve-distress-and-fear",
+    "name": "To relieve distress and fear",
+    "category": "practical",
+    "segmentCount": 6,
+    "subcategory": "Sadness & Fear — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-for-relief",
+    "name": "For relief",
+    "category": "practical",
+    "segmentCount": 4,
+    "subcategory": "Sadness & Fear — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-who-was-afflicted-with-a-calamity",
+    "name": "Who was afflicted with a calamity",
+    "category": "practical",
+    "segmentCount": 17,
+    "subcategory": "Sadness & Fear — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-to-lift-worry-and-sadness",
+    "name": "To lift worry and sadness",
+    "category": "practical",
+    "segmentCount": 13,
+    "subcategory": "Sadness & Fear — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-to-lift-worry",
+    "name": "To lift worry",
+    "category": "practical",
+    "segmentCount": 6,
+    "subcategory": "Sadness & Fear — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-for-need",
+    "name": "For need",
+    "category": "practical",
+    "segmentCount": 14,
+    "subcategory": "Desires — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-prayer-for-a-fearful-matter",
+    "name": "Prayer for a fearful matter",
+    "category": "practical",
+    "segmentCount": 71,
+    "subcategory": "Sadness & Fear — Prayer",
+    "source": "practical"
+  },
+  {
+    "id": "practical-a-dua-to-repel-the-enemies-plots",
+    "name": "A Dua to repel the enemies’ plots",
+    "category": "practical",
+    "segmentCount": 42,
+    "subcategory": "Sadness & Fear — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-a-dua-to-expose-injustice",
+    "name": "A Dua to expose injustice",
+    "category": "practical",
+    "segmentCount": 48,
+    "subcategory": "Sadness & Fear — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-seeking-protection",
+    "name": "Seeking Protection",
+    "category": "practical",
+    "segmentCount": 35,
+    "subcategory": "Sadness & Fear — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-amulet-of-the-messenger-of-allah-pbuh",
+    "name": "Amulet of the Messenger of Allah (P.B.U.H.)",
+    "category": "practical",
+    "segmentCount": 2,
+    "subcategory": "Evil & Evil eye — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-amulet-of-lady-fatima-zahra-sa",
+    "name": "Amulet of Lady Fatima Zahra (S.A.)",
+    "category": "practical",
+    "segmentCount": 1,
+    "subcategory": "Evil & Evil eye — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-amulet-of-imam-ali-as",
+    "name": "Amulet of Imam Ali (A.S)",
+    "category": "practical",
+    "segmentCount": 2,
+    "subcategory": "Evil & Evil eye — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-amulet-of-imam-sajjad-as",
+    "name": "Amulet of Imam Sajjad (A.S.)",
+    "category": "practical",
+    "segmentCount": 2,
+    "subcategory": "Evil & Evil eye — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-amulet-of-imam-sadiq-as",
+    "name": "Amulet of Imam Sadiq (A.S.)",
+    "category": "practical",
+    "segmentCount": 1,
+    "subcategory": "Evil & Evil eye — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-amulet-of-imam-kadhim-as",
+    "name": "Amulet of Imam Kadhim (A.S.)",
+    "category": "practical",
+    "segmentCount": 2,
+    "subcategory": "Evil & Evil eye — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-amulet-of-imam-ridha-as",
+    "name": "Amulet of Imam Ridha (A.S.)",
+    "category": "practical",
+    "segmentCount": 3,
+    "subcategory": "Evil & Evil eye — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-amulet-of-imam-javad-as",
+    "name": "Amulet of Imam Javad (A.S.)",
+    "category": "practical",
+    "segmentCount": 1,
+    "subcategory": "Evil & Evil eye — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-amulet-of-imam-hadi-as",
+    "name": "Amulet of Imam Hadi (A.S.)",
+    "category": "practical",
+    "segmentCount": 1,
+    "subcategory": "Evil & Evil eye — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-amulet-of-imam-askari-as",
+    "name": "Amulet of Imam Askari (A.S.)",
+    "category": "practical",
+    "segmentCount": 1,
+    "subcategory": "Evil & Evil eye — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-amulet-of-imam-mahdi-as",
+    "name": "Amulet of Imam Mahdi (A.S.)",
+    "category": "practical",
+    "segmentCount": 1,
+    "subcategory": "Evil & Evil eye — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-safety-from-jinn-and-humans",
+    "name": "Safety from jinn and humans",
+    "category": "practical",
+    "segmentCount": 1,
+    "subcategory": "Evil & Evil eye — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-a-proven-dua-for-protection",
+    "name": "A proven Dua for protection",
+    "category": "practical",
+    "segmentCount": 4,
+    "subcategory": "Evil & Evil eye — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-to-protect-oneself-from-the-evil-eye",
+    "name": "To protect oneself from the evil eye",
+    "category": "practical",
+    "segmentCount": 10,
+    "subcategory": "Evil & Evil eye — Dua",
+    "source": "practical"
+  },
+  {
+    "id": "practical-to-drive-away-demons-and-witches",
+    "name": "To drive away demons and witches",
+    "category": "practical",
+    "segmentCount": 4,
+    "subcategory": "Evil & Evil eye — Dua",
+    "source": "practical"
   }
 ]

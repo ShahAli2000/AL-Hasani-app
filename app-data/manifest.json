@@ -1,7 +1,7 @@
 {
-  "version": "2026-04-09T16:18:47.869Z",
+  "version": "2026-04-09T16:43:47.461Z",
   "files": {
-    "duas_index.json": "80e838bd4d176a9d",
+    "duas_index.json": "078077ed41249daa",
     "dua_audio.json": "bd17eee22b7d283a",
     "dua_reciters.json": "d2e4914234e7c425",
     "dua_audio_timestamps.json": "475aae56f6adde97",
@@ -17,6 +17,7 @@
     "duas/sahifa_prophet.json": "b09d450fb750f6b2",
     "duas/aamal.json": "6aa4ad7b182ac9d1",
     "duas/salah.json": "820808d39c6b345c",
+    "duas/practical.json": "2fbdc2fd61c8572b",
     "book_texts/nahj-al-balagha.json": "80506012dcbdc106",
     "book_texts/sahifa-sajjadiyya.json": "30e50c48d5c3e0c2",
     "library_books.json": "7c50d8fe5026a15c",
