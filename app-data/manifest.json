@@ -1,0 +1,29 @@
+{
+  "version": "2026-04-09T09:07:20.412Z",
+  "files": {
+    "duas_index.json": "80e838bd4d176a9d",
+    "dua_audio.json": "bd17eee22b7d283a",
+    "dua_reciters.json": "d2e4914234e7c425",
+    "dua_audio_timestamps.json": "475aae56f6adde97",
+    "dua_mafatih_map.json": "89d86064ae618a91",
+    "duas/major.json": "f0f5884eb52adaa5",
+    "duas/special_needs.json": "9f8d22228e36757f",
+    "duas/weekday.json": "2463e127d57c551a",
+    "duas/taqeebat.json": "42ffb2f487dfa081",
+    "duas/ziyarat.json": "8c7f00dc5c053c9d",
+    "duas/sahifa.json": "583f09ef04615464",
+    "duas/munajat.json": "0198b52f41825eaa",
+    "duas/salawaat.json": "e501791ef74124d6",
+    "duas/sahifa_prophet.json": "b09d450fb750f6b2",
+    "duas/aamal.json": "6aa4ad7b182ac9d1",
+    "duas/salah.json": "820808d39c6b345c",
+    "book_texts/nahj-al-balagha.json": "80506012dcbdc106",
+    "book_texts/sahifa-sajjadiyya.json": "30e50c48d5c3e0c2",
+    "library_books.json": "7c50d8fe5026a15c",
+    "quran_wbw_audio.json": "52453fccac81780e",
+    "quran_reciters.json": "21f228f2b791cd8e",
+    "islamic_events.json": "3740ddbdad8c5049",
+    "holy_places.json": "ce928cc96642eab7",
+    "hadith_collection.json": "c0d551162eca06ea"
+  }
+}
