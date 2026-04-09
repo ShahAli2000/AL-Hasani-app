@@ -3260,7 +3260,8 @@
           "en": "Pdf lblPdf 3 colSaturday Night arabicSat Night Sahifa Alavia1 Pg JpgProphets ziarat pdf1 pg Sy Fatima(sa) dua jpgImam Ali(as) dua pdf"
         }
       }
-    ]
+    ],
+    "subcategory": "Saturday"
   },
   {
     "id": "sunday-duas",
@@ -6031,7 +6032,8 @@
           "en": "Full Pdf lblPdf 3 colSunday night arabicPpt explantion1 Pg JpgSy Fatima(sa) Ziarat pdf"
         }
       }
-    ]
+    ],
+    "subcategory": "Sunday"
   },
   {
     "id": "monday-duas",
@@ -8772,7 +8774,8 @@
           "en": "Full Pdf LBLPdf 3 colPpt explantion1 Pg JpgImam Hassan(as) /Hussain(as) ziarat pdfPpsxOther days of weekMp3 All Weekdays"
         }
       }
-    ]
+    ],
+    "subcategory": "Monday"
   },
   {
     "id": "tuesday-duas",
@@ -11004,7 +11007,8 @@
           "en": "Pdf LBLPdfTawassul Tuesday NightsExplantion of 4th Imam Dua-ppt1 Pg Jpg4 ,5,6 Imam ziarat pdf1 pg Sy Fatima dua jpgImam Ali dua pdfOther days of week"
         }
       }
-    ]
+    ],
+    "subcategory": "Tuesday"
   },
   {
     "id": "wednesday-duas",
@@ -13655,7 +13659,8 @@
           "en": "O Allah! Send blessings upon him when he is alive and when he dies, and expediate our relief by him and the vicegerent after him, and help him against the people of Satan, and through him honour the belief and degrade the Satan."
         }
       }
-    ]
+    ],
+    "subcategory": "Wednesday"
   },
   {
     "id": "thursday-duas",
@@ -15953,7 +15958,8 @@
           "en": "Pdf Lbl AllPdfThursday Nights PagePpt explantion1 Pg Jpg11th Imam ziarat pdf1 pg Sy Fatima dua jpgImam Ali dua pdf"
         }
       }
-    ]
+    ],
+    "subcategory": "Thursday"
   },
   {
     "id": "thursday-night-duas",
@@ -19386,7 +19392,8 @@
           "en": "All glory be to Allah and with the Praising o"
         }
       }
-    ]
+    ],
+    "subcategory": "Thursday"
   },
   {
     "id": "friday-special",
@@ -26907,7 +26914,8 @@
           "en": "O, Allah's blessings upon Muhammed and his whole Household."
         }
       }
-    ]
+    ],
+    "subcategory": "Friday"
   },
   {
     "id": "dua-of-saturday",
@@ -27170,7 +27178,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Saturday"
+    "subcategory": "Saturday"
   },
   {
     "id": "ziyarat-of-holy-prophet-s-on-saturday",
@@ -27782,7 +27790,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Saturday"
+    "subcategory": "Saturday"
   },
   {
     "id": "prayer-on-saturday",
@@ -27807,7 +27815,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Saturday"
+    "subcategory": "Saturday"
   },
   {
     "id": "dua-of-sunday",
@@ -28151,7 +28159,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Sunday"
+    "subcategory": "Sunday"
   },
   {
     "id": "ziyarat-of-imam-ali-as-on-sunday",
@@ -28378,7 +28386,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Sunday"
+    "subcategory": "Sunday"
   },
   {
     "id": "ziyarat-syeda-fatimasa-on-sunday",
@@ -28531,7 +28539,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Sunday"
+    "subcategory": "Sunday"
   },
   {
     "id": "prayer-of-sunday",
@@ -28556,7 +28564,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Sunday"
+    "subcategory": "Sunday"
   },
   {
     "id": "dua-of-monday",
@@ -29062,7 +29070,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Monday"
+    "subcategory": "Monday"
   },
   {
     "id": "ziyarat-of-imam-hassan-as-on-monday",
@@ -29271,7 +29279,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Monday"
+    "subcategory": "Monday"
   },
   {
     "id": "ziyarat-imam-hussain-as-on-monday",
@@ -29561,7 +29569,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Monday"
+    "subcategory": "Monday"
   },
   {
     "id": "prayer-on-monday",
@@ -29586,7 +29594,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Monday"
+    "subcategory": "Monday"
   },
   {
     "id": "dua-of-tuesday",
@@ -29957,7 +29965,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Tuesday"
+    "subcategory": "Tuesday"
   },
   {
     "id": "ziyarat-of-three-imams-on-tuesday",
@@ -30202,7 +30210,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Tuesday"
+    "subcategory": "Tuesday"
   },
   {
     "id": "prayer-of-tuesday",
@@ -30227,7 +30235,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Tuesday"
+    "subcategory": "Tuesday"
   },
   {
     "id": "dua-of-wednesday",
@@ -30562,7 +30570,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Wednesday"
+    "subcategory": "Wednesday"
   },
   {
     "id": "ziyarat-of-four-imams-on-wednesday",
@@ -30825,7 +30833,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Wednesday"
+    "subcategory": "Wednesday"
   },
   {
     "id": "prayer-on-wednesday",
@@ -30850,7 +30858,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Wednesday"
+    "subcategory": "Wednesday"
   },
   {
     "id": "dua-of-thursday",
@@ -31185,7 +31193,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Thursday"
+    "subcategory": "Thursday"
   },
   {
     "id": "ziyarat-of-imam-hassan-askarias-on-thursday",
@@ -31322,7 +31330,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Thursday"
+    "subcategory": "Thursday"
   },
   {
     "id": "salawat-on-thursday",
@@ -31392,7 +31400,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Thursday"
+    "subcategory": "Thursday"
   },
   {
     "id": "last-hours-of-thursday",
@@ -31518,7 +31526,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Thursday"
+    "subcategory": "Thursday"
   },
   {
     "id": "prayer-on-thursday",
@@ -31543,7 +31551,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Thursday"
+    "subcategory": "Thursday"
   },
   {
     "id": "thursday-night",
@@ -32864,7 +32872,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week"
+    "subcategory": "General"
   },
   {
     "id": "the-holy-prophets-prayer",
@@ -33256,7 +33264,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "imam-alis-prayer",
@@ -33977,7 +33985,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "lady-fatimah-al-zahras-prayer",
@@ -34462,7 +34470,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "imam-al-hasans-prayer",
@@ -34613,7 +34621,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "imam-al-husayns-prayer",
@@ -35619,7 +35627,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "imam-zayn-al-abideens-prayer",
@@ -35788,7 +35796,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "imam-al-baqirass-prayer",
@@ -36029,7 +36037,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "imam-al-sadiqs-prayer",
@@ -36189,7 +36197,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "imam-al-kazims-prayer",
@@ -36430,7 +36438,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "imam-al-ridhas-prayer",
@@ -36545,7 +36553,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "imam-al-jawads-prayer",
@@ -36696,7 +36704,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "imam-al-hadis-prayer",
@@ -36856,7 +36864,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "imam-al-askaris-prayer",
@@ -37268,7 +37276,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "imam-al-mahdis-prayer",
@@ -37534,7 +37542,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "salawaat-of-holy-prophet-sawa",
@@ -37928,7 +37936,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "salawaat-upon-imam-ali-as",
@@ -38169,7 +38177,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "salwaat-on-syeda-fatima-sa",
@@ -38347,7 +38355,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "salwaat-on-imam-hassanas-imam-hussainas",
@@ -38840,7 +38848,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "salwaat-on-imam-sajjadas",
@@ -38989,7 +38997,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "salwaat-on-imam-baqiras",
@@ -39156,7 +39164,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "salwaat-on-imam-sadiqas",
@@ -39298,7 +39306,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "salwaat-on-imam-musa-al-kadhimas",
@@ -39483,7 +39491,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "salwaat-on-imam-ali-ridhaas",
@@ -39625,7 +39633,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "salwaat-on-imam-mohammed-jawadas",
@@ -39792,7 +39800,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "salwaat-on-imam-ali-naqi-as",
@@ -40004,7 +40012,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "salwaat-on-imam-hasan-askarias",
@@ -40155,7 +40163,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "salwaat-on-imam-mahdi-ajtfs",
@@ -40475,7 +40483,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "friday-salwaat-and-ziarat-on-ahlulbaytas",
@@ -40969,7 +40977,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "aamal",
@@ -41466,7 +41474,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday"
+    "subcategory": "Friday"
   },
   {
     "id": "salat-al-kamilah-and-another-prayer",
@@ -41585,7 +41593,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday"
+    "subcategory": "Friday"
   },
   {
     "id": "friday-duas-after-salaat-ul-asr",
@@ -41882,7 +41890,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday"
+    "subcategory": "Friday"
   },
   {
     "id": "duas-at-the-last-hour-of-friday",
@@ -41996,7 +42004,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday"
+    "subcategory": "Friday"
   },
   {
     "id": "prayer-on-friday",
@@ -42021,6 +42029,6 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday"
+    "subcategory": "Friday"
   }
 ]

@@ -1491,7 +1491,8 @@
       }
     ],
     "mafatihId": 1180,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Salawaat"
   },
   {
     "id": "salat-jafar-tayyar",
@@ -2428,7 +2429,8 @@
       }
     ],
     "mafatihId": 1193,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Salawaat"
   },
   {
     "id": "durood-e-toosi",
@@ -2811,6 +2813,7 @@
           "en": "Dua Tawassul from MafatihArticle on TawassulShafaat ArticleDocumentary on Tawsssul by ABTVQuran & Tawassul"
         }
       }
-    ]
+    ],
+    "subcategory": "Salawaat"
   }
 ]

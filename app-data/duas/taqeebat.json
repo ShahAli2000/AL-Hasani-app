@@ -998,7 +998,8 @@
       }
     ],
     "mafatihId": 1353,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "General Taqeebat"
   },
   {
     "id": "dhuhr-asr-taqeebaat",
@@ -2671,7 +2672,8 @@
           "en": "And (please) admit his intercession and raise his rank."
         }
       }
-    ]
+    ],
+    "subcategory": "General Taqeebat"
   },
   {
     "id": "maghrib-isha-taqeebaat",
@@ -5759,7 +5761,8 @@
           "en": "And may Allah send blessings upon our Master Muhammad, the Prophet, and his pure family, and grant them peace completely."
         }
       }
-    ]
+    ],
+    "subcategory": "General Taqeebat"
   },
   {
     "id": "common-taqeebat",
@@ -7705,7 +7708,8 @@
       }
     ],
     "mafatihId": 1328,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "General Taqeebat"
   },
   {
     "id": "salaat-ghufaylah",
@@ -7958,7 +7962,8 @@
       }
     ],
     "mafatihId": 1194,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "General Taqeebat"
   },
   {
     "id": "sajda-shukr",
@@ -8089,7 +8094,8 @@
       }
     ],
     "mafatihId": 1347,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "General Taqeebat"
   },
   {
     "id": "tahajjud-salaat",
@@ -10355,7 +10361,8 @@
           "en": "And that You hasten the relief of Your Wali and the son of Your Wali, and hasten the disgrace of his enemies."
         }
       }
-    ]
+    ],
+    "subcategory": "General Taqeebat"
   },
   {
     "id": "after-adhan-duas",
@@ -12152,7 +12159,8 @@
       }
     ],
     "mafatihId": 1309,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "General Taqeebat"
   },
   {
     "id": "zuhr-taqeebaat",

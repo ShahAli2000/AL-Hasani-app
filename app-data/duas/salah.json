@@ -250,7 +250,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Funeral & Special Prayers"
   },
   {
     "id": "method",
@@ -981,7 +982,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Funeral & Special Prayers"
   },
   {
     "id": "salah-of-salman-farsi",
@@ -1203,7 +1205,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Forgiveness & Needs"
   },
   {
     "id": "salaatul-istighfar",
@@ -1332,7 +1335,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Forgiveness & Needs"
   },
   {
     "id": "salaat-ul-wahsha-burial",
@@ -1437,7 +1441,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Funeral & Special Prayers"
   },
   {
     "id": "salah-for-forgiveness",
@@ -1535,7 +1540,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Forgiveness & Needs"
   },
   {
     "id": "the-prayer-of-the-bedouin",
@@ -1736,7 +1742,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Personal"
   },
   {
     "id": "the-dedication-prayer",
@@ -1848,7 +1855,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Personal"
   },
   {
     "id": "prayer-for-parents",
@@ -1906,7 +1914,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Personal"
   },
   {
     "id": "prayer-of-the-hungry",
@@ -1955,7 +1964,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Personal"
   },
   {
     "id": "prayer-for-self-inspirations",
@@ -2020,7 +2030,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Personal"
   },
   {
     "id": "prayer-of-istikharah-with-sheets",
@@ -2312,7 +2323,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Forgiveness & Needs"
   },
   {
     "id": "first-salats-for-istighasa",
@@ -2607,7 +2619,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Personal"
   },
   {
     "id": "prayer-fear-of-oppressors",
@@ -2656,7 +2669,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Personal"
   },
   {
     "id": "prayer-for-gaining-good-memory",
@@ -2687,7 +2701,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Personal"
   },
   {
     "id": "prayer-of-will",
@@ -2704,6 +2719,7 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Personal"
   }
 ]

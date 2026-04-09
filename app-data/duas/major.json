@@ -2270,7 +2270,8 @@
       }
     ],
     "mafatihId": 1299,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Popular Duas"
   },
   {
     "id": "dua-tawassul",
@@ -3830,7 +3831,8 @@
       }
     ],
     "mafatihId": 1300,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Popular Duas"
   },
   {
     "id": "dua-ahad",
@@ -4607,7 +4609,8 @@
       }
     ],
     "mafatihId": 1301,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Protection & Forgiveness"
   },
   {
     "id": "dua-sabah",
@@ -5600,7 +5603,8 @@
       }
     ],
     "mafatihId": 1302,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Praise & Glorification"
   },
   {
     "id": "dua-simaat",
@@ -7338,7 +7342,8 @@
       }
     ],
     "mafatihId": 1303,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Praise & Glorification"
   },
   {
     "id": "dua-nudba",
@@ -10630,7 +10635,8 @@
       }
     ],
     "mafatihId": 1305,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Popular Duas"
   },
   {
     "id": "dua-faraj",
@@ -10815,7 +10821,8 @@
       }
     ],
     "mafatihId": 1334,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Protection & Forgiveness"
   },
   {
     "id": "dua-mashlool",
@@ -13185,7 +13192,8 @@
       }
     ],
     "mafatihId": 1294,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Protection & Forgiveness"
   },
   {
     "id": "dua-mujeer",
@@ -15678,7 +15686,8 @@
       }
     ],
     "mafatihId": 1350,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Praise & Glorification"
   },
   {
     "id": "dua-adeelah",
@@ -16830,7 +16839,8 @@
       }
     ],
     "mafatihId": 1295,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Protection & Forgiveness"
   },
   {
     "id": "dua-iftitah",
@@ -18993,7 +19003,8 @@
       }
     ],
     "mafatihId": 1043,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Popular Duas"
   },
   {
     "id": "dua-yastasheer",
@@ -20244,7 +20255,8 @@
       }
     ],
     "mafatihId": 1293,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Special"
   },
   {
     "id": "dua-jawshan-kabeer",
@@ -31060,7 +31072,8 @@
       }
     ],
     "mafatihId": 1348,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Popular Duas"
   },
   {
     "id": "dua-jawshan-sagheer",
@@ -35043,7 +35056,8 @@
       }
     ],
     "mafatihId": 1351,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Popular Duas"
   },
   {
     "id": "dua-abu-hamza-thumali",
@@ -41105,7 +41119,8 @@
       }
     ],
     "mafatihId": 1039,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Popular Duas"
   },
   {
     "id": "hadith-kisa",
@@ -42156,7 +42171,8 @@
       }
     ],
     "mafatihId": 1304,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Special"
   },
   {
     "id": "dua-alqama",
@@ -43900,7 +43916,8 @@
       }
     ],
     "mafatihId": 1252,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Special"
   },
   {
     "id": "munajat-imam-ali-as",
@@ -44515,7 +44532,8 @@
       }
     ],
     "mafatihId": 1292,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Special"
   },
   {
     "id": "dua-kayfa-adooka",
@@ -44612,7 +44630,8 @@
       }
     ],
     "mafatihId": 1291,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Short Duas"
   },
   {
     "id": "dua-akhasi-sifatik",
@@ -44770,7 +44789,8 @@
           "en": "in the name and for the sake of Muhammad and his pure, purified and infallible progeny."
         }
       }
-    ]
+    ],
+    "subcategory": "Short Duas"
   },
   {
     "id": "dua-ya-man-adharal-jameel",
@@ -44888,7 +44908,8 @@
           "en": ""
         }
       }
-    ]
+    ],
+    "subcategory": "Short Duas"
   },
   {
     "id": "dua-saif-saghir",
@@ -45334,7 +45355,8 @@
           "en": "and upon all of his Household—the purified and immaculate."
         }
       }
-    ]
+    ],
+    "subcategory": "Short Duas"
   },
   {
     "id": "dua-aliya-mazameen",
@@ -47267,7 +47289,8 @@
       }
     ],
     "mafatihId": 1229,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Praise & Glorification"
   },
   {
     "id": "dua-sad-subhan",
@@ -47789,7 +47812,8 @@
       }
     ],
     "mafatihId": 1010,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Praise & Glorification"
   },
   {
     "id": "dua-noor-kabir",
@@ -49597,7 +49621,8 @@
           "en": "Blessings of Allah be on our master, Muhammad, and on his pure children."
         }
       }
-    ]
+    ],
+    "subcategory": "Praise & Glorification"
   },
   {
     "id": "dua-ya-shahida-kulle-najwa",
@@ -52545,7 +52570,8 @@
       }
     ],
     "mafatihId": 1101,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Praise & Glorification"
   },
   {
     "id": "dua-asharaat",
@@ -54229,7 +54255,8 @@
       }
     ],
     "mafatihId": 1306,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Praise & Glorification"
   },
   {
     "id": "dua-man-taabba",
@@ -54702,7 +54729,8 @@
           "en": "So, respond! Respond! Respond!"
         }
       }
-    ]
+    ],
+    "subcategory": "Short Duas"
   },
   {
     "id": "dua-hazeen",
@@ -54963,7 +54991,8 @@
       }
     ],
     "mafatihId": 1196,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Short Duas"
   },
   {
     "id": "dua-al-itisam",
@@ -55317,7 +55346,8 @@
           "en": "and curative from all maladies and diseases."
         }
       }
-    ]
+    ],
+    "subcategory": "Protection & Forgiveness"
   },
   {
     "id": "dua-abaraat",
@@ -57363,7 +57393,8 @@
           "en": "THE INCIDENT OF THE SUPPLICATION OF ABARAAT\n\nAt the end of his book 'Minhaj us Salah', Allama Hilli (R.A.) writes about the supplication of Abaraat:\n\n This is a famous supplication that has been narrated from Imam Sadiq (A.S.). Sayyid Razi ud Deen Mohammad bin Mohammad bin Mohammad al-Aavi (R.A.) narrates a famous incident regarding this supplication, which is mentioned by one of the scholars in the footnotes of this supplication: Fakhrud Deen Mohammad bin Sheikh Jamal ud Deen narrates from his honorable father, who narrates from his grandfather Yusuf, who was a jurisprudent, who narrates form the same Razi ud Deen that he said: He was captured for a long period of time in the prison of one of the commanders of Sultan Jarmaghoon, and was living in extreme sufferings and hardships. Then one night, he witnessed the successor of Holy Prophet (P.B.U.H.), i.e. Imam Mahdi (A.S.), in his dream and requested before him with tears: O' my Master! Intercede in the Holy Threshold of Allah for my deliverance from the hands of this tyrant.His holiness said: Recite the supplication of Abaraat.\n\n He asked: What is the supplication of Abaraat?He said: It is there in your book 'Misbah'.I asked: O' my Master! It is not written in my book 'Misbah'.He said: Have a look in the book, you will find it.He woke up from his sleep and offered the Morning Prayer. Then he opened his book 'Misbah' and found that between the pages of the book, a page has been placed on which the supplication of Abaraat has been written; he recited the supplication forty times.The Commander had two wives. One of them was intelligent and had a nice perspective about the affairs, and this wife herself was reliable in the eyes of the commander.The Commander went to her on her day. She told him: Have you captured one of the sons of Imam Ali (A.S.) in your prison?He asked: Why do you ask such a question?She said: I saw a man whose face illuminated like the sunlight, he caught my neck with two fingers and said: I see that your husband has imprisoned one of my sons, and makes him suffer for food and water?I asked: Who are you, O' my Master?He said: I am Ali bin Abi Talib (A.S.). Tell your husband that if he doesn't release my son, I will surely ruin his house.This dream had an immense effect on the ruler, he said: I am unaware of this case; then he called for his representatives and asked: Have you imprisoned anyone?They said: That Alavi old man whose imprisonment you had ordered.He said: Release him and give him a horse for a ride and also guide him through the way so that he returns to his house. (End of the incident)Ali bin Taoos (R.A.) writes at the end of his book 'Muhaj ud Da'waat': One among those incidents is the astonishing incident narrated to me by my dear friend, Mohammad bin Mohammad bin Qazi al-Aavi (May Allah exceed his good fortune and give him the best fate).The incident was as follows: An accident occurred in his life, as a result of which he found this supplication written on a few papers and placed in his book (whereas he hadn't placed those papers in his book). He copied from those pages and after rewriting, he lost the original copy.In the continuation, he wrote this supplication and mentioned that there is another manuscript narrated from a different way, whose text differs from this manuscript.[1][1] Jannatul Ma'wa : p. 221"
         }
       }
-    ]
+    ],
+    "subcategory": "Special"
   },
   {
     "id": "dua-alavi-misri",
@@ -59562,7 +59593,8 @@
           "en": "My God INCOMPLETE"
         }
       }
-    ]
+    ],
+    "subcategory": "Special"
   },
   {
     "id": "dua-nahjulbalagha",
@@ -59954,7 +59986,8 @@
           "en": "Nahjulbalagha page"
         }
       }
-    ]
+    ],
+    "subcategory": "Special"
   },
   {
     "id": "dua-sabasab",
@@ -61759,7 +61792,8 @@
           "en": "In the name of Allah, the Beneficent, the Merciful.'By the brightness of the day, and the night when it is quietest: Your Lord has not forsaken You, nor He is angry with you.Verily that which is to come Will be better for you than That which is past.Soon your Lord will give unto You so that you will be content.Did He not find you an Orphan and take care? Did He not find you wandering And show the (Right) Direction? Did He not find you a destitute And make independent? So oppress not an orphan: Turn not away the needy, But call out the favours and Bounties of your Lord.O Allah, send blessings on Muhammad and on the Progeny of Muhammad."
         }
       }
-    ]
+    ],
+    "subcategory": "Protection & Forgiveness"
   },
   {
     "id": "dua-hareeq",
@@ -64707,7 +64741,8 @@
           "en": "on account of your mercy, o most merciful"
         }
       }
-    ]
+    ],
+    "subcategory": "Protection & Forgiveness"
   },
   {
     "id": "dua-ganjularsh",
@@ -65650,7 +65685,8 @@
           "en": "There is no creature or entity worthy of worship except for Allah, Muammad is the Messenger of Allah and may the blessings of Allah be upon the best of His creations and the Light of His Divine Throne, the best of Prophets and those who were sent (to guide humanity), our beloved, our leader, our support, our intercessor and our master, Muammad and upon his family and his select, distinguished companions. May Your mercy be upon them all O the Most Merciful of the Merciful Ones."
         }
       }
-    ]
+    ],
+    "subcategory": "Special"
   },
   {
     "id": "dua-amaan",
@@ -65997,7 +66033,8 @@
           "en": ""
         }
       }
-    ]
+    ],
+    "subcategory": "Protection & Forgiveness"
   },
   {
     "id": "dua-ya-mafzai",
@@ -66255,7 +66292,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Short Duas"
   },
   {
     "id": "dua-of-nabi-idris",
@@ -67195,7 +67233,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Imam Teachings"
   },
   {
     "id": "duas-when-leaving-home",
@@ -67663,7 +67702,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Daily Needs"
   },
   {
     "id": "guidance-to-the-best-istekhara",
@@ -68049,7 +68089,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Daily Needs"
   },
   {
     "id": "true-repentance-tauba",
@@ -68473,7 +68514,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Quran & Istighfar"
   },
   {
     "id": "help-in-travel-safar",
@@ -68816,7 +68858,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Daily Needs"
   },
   {
     "id": "sustenance-rizq",
@@ -69240,7 +69283,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Daily Needs"
   },
   {
     "id": "seeking-protection-isteazah",
@@ -69572,7 +69616,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Protection & Forgiveness"
   },
   {
     "id": "accepting-repentance",
@@ -69940,7 +69985,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Quran & Istighfar"
   },
   {
     "id": "prayer-for-hajj",
@@ -70310,7 +70356,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Daily Needs"
   },
   {
     "id": "removing-persecution",
@@ -70759,7 +70806,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Daily Needs"
   },
   {
     "id": "thanks-giving",
@@ -71111,7 +71159,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Daily Needs"
   },
   {
     "id": "granting-the-requests",
@@ -71337,7 +71386,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Daily Needs"
   },
   {
     "id": "imam-husaynas-dua-taught-to-his-son",
@@ -71447,7 +71497,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Imam Teachings"
   },
   {
     "id": "dua-marefat",
@@ -73571,7 +73622,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Imam Teachings"
   },
   {
     "id": "dua-allumma-idfaa-an-waliyak",
@@ -74880,7 +74932,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Imam Mahdi"
   },
   {
     "id": "dua-allhumma-kun-li-waliyyika",
@@ -74962,7 +75015,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Imam Mahdi"
   },
   {
     "id": "dua-ghareeq",
@@ -75020,7 +75074,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Imam Mahdi"
   },
   {
     "id": "dua-of-imam-al-mahdiajtfs",
@@ -75289,7 +75344,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Imam Mahdi"
   },
   {
     "id": "dua-al-hujjah",
@@ -75439,7 +75495,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Imam Mahdi"
   },
   {
     "id": "morning-imam-sadiq-as",
@@ -78214,7 +78271,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Quran & Istighfar"
   },
   {
     "id": "duas-while-doing-wudhu",
@@ -78382,6 +78440,7 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Quran & Istighfar"
   }
 ]

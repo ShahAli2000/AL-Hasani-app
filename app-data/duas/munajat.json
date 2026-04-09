@@ -472,7 +472,8 @@
           "en": "O Most Merciful of the merciful"
         }
       }
-    ]
+    ],
+    "subcategory": "Whispered Prayers"
   },
   {
     "id": "munajaat-khaifeen-fearful",
@@ -866,7 +867,8 @@
           "en": "and they shall not be wronged!\""
         }
       }
-    ]
+    ],
+    "subcategory": "Whispered Prayers"
   },
   {
     "id": "munajaat-rajeen-hopeful",
@@ -1231,7 +1233,8 @@
           "en": "By Your mercy, O Most Merciful of the merciful!"
         }
       }
-    ]
+    ],
+    "subcategory": "Whispered Prayers"
   },
   {
     "id": "munajaat-shakireen-thankful",
@@ -1641,7 +1644,8 @@
           "en": "By Your mercy, O Most Merciful of the merciful!"
         }
       }
-    ]
+    ],
+    "subcategory": "Whispered Prayers"
   },
   {
     "id": "munajaat-arifeen-knowers",
@@ -2024,7 +2028,8 @@
           "en": "O Most Merciful of the merciful!"
         }
       }
-    ]
+    ],
+    "subcategory": "Whispered Prayers"
   },
   {
     "id": "munajaat-zahideen-abstainers",
@@ -2272,7 +2277,8 @@
           "en": "O Most Generous of the most generous!"
         }
       }
-    ]
+    ],
+    "subcategory": "Whispered Prayers"
   },
   {
     "id": "imam-taqias-10-munajat-list",
@@ -2387,7 +2393,8 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Special Munajat"
   },
   {
     "id": "munajat-imam-ali-as-in-masjid-kufa",
@@ -2728,6 +2735,7 @@
         }
       }
     ],
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Special Munajat"
   }
 ]

@@ -8957,7 +8957,8 @@
       }
     ],
     "mafatihId": 1313,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "General Needs"
   },
   {
     "id": "rizq-sustenance-duas",
@@ -10448,7 +10449,8 @@
       }
     ],
     "mafatihId": 1312,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "General Needs"
   },
   {
     "id": "curing-ailments-duas",
@@ -16007,7 +16009,8 @@
       }
     ],
     "mafatihId": 1315,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Health & Protection"
   },
   {
     "id": "overcoming-worries-duas",
@@ -18310,7 +18313,8 @@
           "en": "46.and his Household, the pure!"
         }
       }
-    ]
+    ],
+    "subcategory": "Emotional Relief"
   },
   {
     "id": "grief-fear-duas",
@@ -20412,7 +20416,8 @@
       }
     ],
     "mafatihId": 1314,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Emotional Relief"
   },
   {
     "id": "seeking-forgiveness-duas",
@@ -20768,7 +20773,8 @@
       }
     ],
     "mafatihId": 1316,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Repentance"
   },
   {
     "id": "evil-repelling-duas",
@@ -23874,7 +23880,8 @@
           "en": "May Allah bless Muhammad and his Immaculate Household."
         }
       }
-    ]
+    ],
+    "subcategory": "Health & Protection"
   },
   {
     "id": "short-powerful-duas",
@@ -24568,7 +24575,8 @@
           "en": "I beseech You for security and faith."
         }
       }
-    ]
+    ],
+    "subcategory": "General Needs"
   },
   {
     "id": "morning-evening-duas",
@@ -27652,7 +27660,8 @@
           "en": "So praise be to Allah, Lord of the worlds."
         }
       }
-    ]
+    ],
+    "subcategory": "Daily Timing"
   },
   {
     "id": "sunset-duas",
@@ -28045,7 +28054,8 @@
       }
     ],
     "mafatihId": 1310,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Daily Timing"
   },
   {
     "id": "hourly-duas",
@@ -30064,7 +30074,8 @@
       }
     ],
     "mafatihId": 1311,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Daily Timing"
   },
   {
     "id": "bedtime-duas",
@@ -30659,7 +30670,8 @@
       }
     ],
     "mafatihId": 1307,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Daily Timing"
   },
   {
     "id": "graveyard-visit-duas",
@@ -31136,7 +31148,8 @@
       }
     ],
     "mafatihId": 1287,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Graveyard"
   },
   {
     "id": "short-duas-imam-mahdi",
@@ -32122,7 +32135,8 @@
           "en": "(please) send blessings upon Muhammad and the Household of Muhammad and..."
         }
       }
-    ]
+    ],
+    "subcategory": "Imam Mahdi"
   },
   {
     "id": "isteghasa-imam-mahdi",
@@ -32869,6 +32883,7 @@
       }
     ],
     "mafatihId": 1204,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Imam Mahdi"
   }
 ]

@@ -274,7 +274,8 @@
           "en": "O Possessor of the Great Throne.\""
         }
       }
-    ]
+    ],
+    "subcategory": "Sahifa Sajjadiyya"
   },
   {
     "id": "ss08-refuge-from-hateful-things",
@@ -560,7 +561,8 @@
           "en": "O Most Merciful of the merciful"
         }
       }
-    ]
+    ],
+    "subcategory": "Sahifa Sajjadiyya"
   },
   {
     "id": "ss15-when-sick",
@@ -819,7 +821,8 @@
           "en": "For You are the Benefactor with kindness, the Bountiful with grace, the Generous Giver, Possessor of majesty and honor."
         }
       }
-    ]
+    ],
+    "subcategory": "Sahifa Sajjadiyya"
   },
   {
     "id": "ss20-noble-traits-makarem-akhlaq",
@@ -2786,7 +2789,8 @@
       }
     ],
     "mafatihId": 1298,
-    "source": "mafatih-realigned"
+    "source": "mafatih-realigned",
+    "subcategory": "Sahifa Sajjadiyya"
   },
   {
     "id": "ss24-prayer-for-parents",
@@ -3522,7 +3526,8 @@
           "en": "and You are the Most Merciful of the merciful."
         }
       }
-    ]
+    ],
+    "subcategory": "Sahifa Sajjadiyya"
   },
   {
     "id": "ss25-prayer-for-children",
@@ -4276,7 +4281,8 @@
           "en": "and goodness in the Hereafter, and protect us from the punishment of the Fire."
         }
       }
-    ]
+    ],
+    "subcategory": "Sahifa Sajjadiyya"
   },
   {
     "id": "ss31-repentance",
@@ -5471,6 +5477,7 @@
           "en": "Surely You are powerful over everything, and that is easy for You."
         }
       }
-    ]
+    ],
+    "subcategory": "Sahifa Sajjadiyya"
   }
 ]

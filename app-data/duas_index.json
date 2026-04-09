@@ -4,613 +4,707 @@
     "name": "Dua Kumayl",
     "category": "major",
     "segmentCount": 252,
-    "mafatihId": 1299
+    "mafatihId": 1299,
+    "subcategory": "Popular Duas"
   },
   {
     "id": "dua-tawassul",
     "name": "Dua Tawassul",
     "category": "major",
     "segmentCount": 173,
-    "mafatihId": 1300
+    "mafatihId": 1300,
+    "subcategory": "Popular Duas"
   },
   {
     "id": "dua-ahad",
     "name": "Dua Ahad",
     "category": "major",
     "segmentCount": 86,
-    "mafatihId": 1301
+    "mafatihId": 1301,
+    "subcategory": "Protection & Forgiveness"
   },
   {
     "id": "dua-sabah",
     "name": "Dua Sabah",
     "category": "major",
     "segmentCount": 110,
-    "mafatihId": 1302
+    "mafatihId": 1302,
+    "subcategory": "Praise & Glorification"
   },
   {
     "id": "dua-simaat",
     "name": "Dua Simaat",
     "category": "major",
     "segmentCount": 195,
-    "mafatihId": 1303
+    "mafatihId": 1303,
+    "subcategory": "Praise & Glorification"
   },
   {
     "id": "dua-nudba",
     "name": "Dua Nudba",
     "category": "major",
     "segmentCount": 365,
-    "mafatihId": 1305
+    "mafatihId": 1305,
+    "subcategory": "Popular Duas"
   },
   {
     "id": "dua-faraj",
     "name": "Dua Faraj",
     "category": "major",
     "segmentCount": 20,
-    "mafatihId": 1334
+    "mafatihId": 1334,
+    "subcategory": "Protection & Forgiveness"
   },
   {
     "id": "dua-mashlool",
     "name": "Dua Mashlool",
     "category": "major",
     "segmentCount": 263,
-    "mafatihId": 1294
+    "mafatihId": 1294,
+    "subcategory": "Protection & Forgiveness"
   },
   {
     "id": "dua-mujeer",
     "name": "Dua Mujeer",
     "category": "major",
     "segmentCount": 276,
-    "mafatihId": 1350
+    "mafatihId": 1350,
+    "subcategory": "Praise & Glorification"
   },
   {
     "id": "dua-adeelah",
     "name": "Dua Adeelah",
     "category": "major",
     "segmentCount": 127,
-    "mafatihId": 1295
+    "mafatihId": 1295,
+    "subcategory": "Protection & Forgiveness"
   },
   {
     "id": "dua-iftitah",
     "name": "Dua Iftitah",
     "category": "major",
     "segmentCount": 240,
-    "mafatihId": 1043
+    "mafatihId": 1043,
+    "subcategory": "Popular Duas"
   },
   {
     "id": "dua-yastasheer",
     "name": "Dua Yastasheer",
     "category": "major",
     "segmentCount": 138,
-    "mafatihId": 1293
+    "mafatihId": 1293,
+    "subcategory": "Special"
   },
   {
     "id": "dua-jawshan-kabeer",
     "name": "Dua Jawshan Kabeer",
     "category": "major",
     "segmentCount": 1201,
-    "mafatihId": 1348
+    "mafatihId": 1348,
+    "subcategory": "Popular Duas"
   },
   {
     "id": "dua-jawshan-sagheer",
     "name": "Dua Jawshan Sagheer",
     "category": "major",
     "segmentCount": 442,
-    "mafatihId": 1351
+    "mafatihId": 1351,
+    "subcategory": "Popular Duas"
   },
   {
     "id": "dua-abu-hamza-thumali",
     "name": "Dua Abu Hamza Thumali",
     "category": "major",
     "segmentCount": 673,
-    "mafatihId": 1039
+    "mafatihId": 1039,
+    "subcategory": "Popular Duas"
   },
   {
     "id": "hadith-kisa",
     "name": "Hadith Kisa",
     "category": "major",
     "segmentCount": 116,
-    "mafatihId": 1304
+    "mafatihId": 1304,
+    "subcategory": "Special"
   },
   {
     "id": "dua-alqama",
     "name": "Dua Alqama",
     "category": "major",
     "segmentCount": 193,
-    "mafatihId": 1252
+    "mafatihId": 1252,
+    "subcategory": "Special"
   },
   {
     "id": "munajat-imam-ali-as",
     "name": "Munajat Imam Ali (as)",
     "category": "major",
     "segmentCount": 68,
-    "mafatihId": 1292
+    "mafatihId": 1292,
+    "subcategory": "Special"
   },
   {
     "id": "dua-kayfa-adooka",
     "name": "Dua Kayfa Adooka",
     "category": "major",
     "segmentCount": 10,
-    "mafatihId": 1291
+    "mafatihId": 1291,
+    "subcategory": "Short Duas"
   },
   {
     "id": "dua-akhasi-sifatik",
     "name": "Dua Akhasi Sifatik",
     "category": "major",
-    "segmentCount": 17
+    "segmentCount": 17,
+    "subcategory": "Short Duas"
   },
   {
     "id": "dua-ya-man-adharal-jameel",
     "name": "Dua Ya Man Adharal Jameel",
     "category": "major",
-    "segmentCount": 13
+    "segmentCount": 13,
+    "subcategory": "Short Duas"
   },
   {
     "id": "dua-saif-saghir",
     "name": "Dua Saif Saghir",
     "category": "major",
-    "segmentCount": 49
+    "segmentCount": 49,
+    "subcategory": "Short Duas"
   },
   {
     "id": "dua-aliya-mazameen",
     "name": "Dua Aliya Mazameen",
     "category": "major",
     "segmentCount": 214,
-    "mafatihId": 1229
+    "mafatihId": 1229,
+    "subcategory": "Praise & Glorification"
   },
   {
     "id": "dua-sad-subhan",
     "name": "Dua Sad Subhan",
     "category": "major",
     "segmentCount": 57,
-    "mafatihId": 1010
+    "mafatihId": 1010,
+    "subcategory": "Praise & Glorification"
   },
   {
     "id": "dua-noor-kabir",
     "name": "Dua Noor Kabir",
     "category": "major",
-    "segmentCount": 201
+    "segmentCount": 201,
+    "subcategory": "Praise & Glorification"
   },
   {
     "id": "dua-ya-shahida-kulle-najwa",
     "name": "Dua Ya Shahida Kulle Najwa",
     "category": "major",
     "segmentCount": 327,
-    "mafatihId": 1101
+    "mafatihId": 1101,
+    "subcategory": "Praise & Glorification"
   },
   {
     "id": "dua-asharaat",
     "name": "Dua Asharaat",
     "category": "major",
     "segmentCount": 191,
-    "mafatihId": 1306
+    "mafatihId": 1306,
+    "subcategory": "Praise & Glorification"
   },
   {
     "id": "dua-man-taabba",
     "name": "Dua Man Taabba",
     "category": "major",
-    "segmentCount": 52
+    "segmentCount": 52,
+    "subcategory": "Short Duas"
   },
   {
     "id": "salwaat-zarrab-isfahani",
     "name": "Salwaat Zarrab Isfahani",
     "category": "salawaat",
     "segmentCount": 165,
-    "mafatihId": 1180
+    "mafatihId": 1180,
+    "subcategory": "Salawaat"
   },
   {
     "id": "dua-hazeen",
     "name": "Dua Hazeen",
     "category": "major",
     "segmentCount": 28,
-    "mafatihId": 1196
+    "mafatihId": 1196,
+    "subcategory": "Short Duas"
   },
   {
     "id": "dua-al-itisam",
     "name": "Dua Al-Itisam",
     "category": "major",
-    "segmentCount": 39
+    "segmentCount": 39,
+    "subcategory": "Protection & Forgiveness"
   },
   {
     "id": "dua-abaraat",
     "name": "Dua Abaraat",
     "category": "major",
-    "segmentCount": 227
+    "segmentCount": 227,
+    "subcategory": "Special"
   },
   {
     "id": "dua-alavi-misri",
     "name": "Dua Alavi Misri",
     "category": "major",
-    "segmentCount": 244
+    "segmentCount": 244,
+    "subcategory": "Special"
   },
   {
     "id": "dua-nahjulbalagha",
     "name": "Dua Nahjulbalagha",
     "category": "major",
-    "segmentCount": 43
+    "segmentCount": 43,
+    "subcategory": "Special"
   },
   {
     "id": "salat-jafar-tayyar",
     "name": "Salat Jafar Tayyar",
     "category": "salawaat",
     "segmentCount": 114,
-    "mafatihId": 1193
+    "mafatihId": 1193,
+    "subcategory": "Salawaat"
   },
   {
     "id": "dua-sabasab",
     "name": "Dua Sabasab",
     "category": "major",
-    "segmentCount": 200
+    "segmentCount": 200,
+    "subcategory": "Protection & Forgiveness"
   },
   {
     "id": "dua-hareeq",
     "name": "Dua Hareeq",
     "category": "major",
-    "segmentCount": 327
+    "segmentCount": 327,
+    "subcategory": "Protection & Forgiveness"
   },
   {
     "id": "dua-ganjularsh",
     "name": "Dua GanjulArsh",
     "category": "major",
-    "segmentCount": 104
+    "segmentCount": 104,
+    "subcategory": "Special"
   },
   {
     "id": "dua-amaan",
     "name": "Dua Amaan",
     "category": "major",
-    "segmentCount": 38
+    "segmentCount": 38,
+    "subcategory": "Protection & Forgiveness"
   },
   {
     "id": "durood-e-toosi",
     "name": "Durood-e-Toosi",
     "category": "salawaat",
-    "segmentCount": 42
+    "segmentCount": 42,
+    "subcategory": "Salawaat"
   },
   {
     "id": "general-need-duas",
     "name": "General Need Duas",
     "category": "special_needs",
     "segmentCount": 1021,
-    "mafatihId": 1313
+    "mafatihId": 1313,
+    "subcategory": "General Needs"
   },
   {
     "id": "rizq-sustenance-duas",
     "name": "Rizq / Sustenance Duas",
     "category": "special_needs",
     "segmentCount": 178,
-    "mafatihId": 1312
+    "mafatihId": 1312,
+    "subcategory": "General Needs"
   },
   {
     "id": "curing-ailments-duas",
     "name": "Curing Ailments Duas",
     "category": "special_needs",
     "segmentCount": 654,
-    "mafatihId": 1315
+    "mafatihId": 1315,
+    "subcategory": "Health & Protection"
   },
   {
     "id": "overcoming-worries-duas",
     "name": "Overcoming Worries Duas",
     "category": "special_needs",
-    "segmentCount": 256
+    "segmentCount": 256,
+    "subcategory": "Emotional Relief"
   },
   {
     "id": "grief-fear-duas",
     "name": "Grief & Fear Duas",
     "category": "special_needs",
     "segmentCount": 239,
-    "mafatihId": 1314
+    "mafatihId": 1314,
+    "subcategory": "Emotional Relief"
   },
   {
     "id": "seeking-forgiveness-duas",
     "name": "Seeking Forgiveness Duas",
     "category": "special_needs",
     "segmentCount": 49,
-    "mafatihId": 1316
+    "mafatihId": 1316,
+    "subcategory": "Repentance"
   },
   {
     "id": "evil-repelling-duas",
     "name": "Evil Repelling Duas",
     "category": "special_needs",
-    "segmentCount": 345
+    "segmentCount": 345,
+    "subcategory": "Health & Protection"
   },
   {
     "id": "short-powerful-duas",
     "name": "Short Powerful Duas",
     "category": "special_needs",
-    "segmentCount": 81
+    "segmentCount": 81,
+    "subcategory": "General Needs"
   },
   {
     "id": "morning-evening-duas",
     "name": "Morning & Evening Duas",
     "category": "special_needs",
-    "segmentCount": 345
+    "segmentCount": 345,
+    "subcategory": "Daily Timing"
   },
   {
     "id": "sunset-duas",
     "name": "Sunset Duas",
     "category": "special_needs",
     "segmentCount": 44,
-    "mafatihId": 1310
+    "mafatihId": 1310,
+    "subcategory": "Daily Timing"
   },
   {
     "id": "hourly-duas",
     "name": "Hourly Duas",
     "category": "special_needs",
     "segmentCount": 232,
-    "mafatihId": 1311
+    "mafatihId": 1311,
+    "subcategory": "Daily Timing"
   },
   {
     "id": "bedtime-duas",
     "name": "Bedtime Duas",
     "category": "special_needs",
     "segmentCount": 70,
-    "mafatihId": 1307
+    "mafatihId": 1307,
+    "subcategory": "Daily Timing"
   },
   {
     "id": "graveyard-visit-duas",
     "name": "Graveyard Visit Duas",
     "category": "special_needs",
     "segmentCount": 56,
-    "mafatihId": 1287
+    "mafatihId": 1287,
+    "subcategory": "Graveyard"
   },
   {
     "id": "fajr-taqeebaat",
     "name": "Fajr Taqeebaat",
     "category": "taqeebat",
     "segmentCount": 116,
-    "mafatihId": 1353
+    "mafatihId": 1353,
+    "subcategory": "General Taqeebat"
   },
   {
     "id": "dhuhr-asr-taqeebaat",
     "name": "Dhuhr & Asr Taqeebaat",
     "category": "taqeebat",
-    "segmentCount": 192
+    "segmentCount": 192,
+    "subcategory": "General Taqeebat"
   },
   {
     "id": "maghrib-isha-taqeebaat",
     "name": "Maghrib & Isha Taqeebaat",
     "category": "taqeebat",
-    "segmentCount": 349
+    "segmentCount": 349,
+    "subcategory": "General Taqeebat"
   },
   {
     "id": "common-taqeebat",
     "name": "Common Taqeebat",
     "category": "taqeebat",
     "segmentCount": 221,
-    "mafatihId": 1328
+    "mafatihId": 1328,
+    "subcategory": "General Taqeebat"
   },
   {
     "id": "salaat-ghufaylah",
     "name": "Salaat Ghufaylah",
     "category": "taqeebat",
     "segmentCount": 28,
-    "mafatihId": 1194
+    "mafatihId": 1194,
+    "subcategory": "General Taqeebat"
   },
   {
     "id": "sajda-shukr",
     "name": "Sajda Shukr",
     "category": "taqeebat",
     "segmentCount": 16,
-    "mafatihId": 1347
+    "mafatihId": 1347,
+    "subcategory": "General Taqeebat"
   },
   {
     "id": "tahajjud-salaat",
     "name": "Tahajjud Salaat",
     "category": "taqeebat",
-    "segmentCount": 253
+    "segmentCount": 253,
+    "subcategory": "General Taqeebat"
   },
   {
     "id": "after-adhan-duas",
     "name": "After Adhan Duas",
     "category": "taqeebat",
     "segmentCount": 212,
-    "mafatihId": 1309
+    "mafatihId": 1309,
+    "subcategory": "General Taqeebat"
   },
   {
     "id": "saturday-duas",
     "name": "Saturday Duas",
     "category": "weekday",
-    "segmentCount": 364
+    "segmentCount": 364,
+    "subcategory": "Saturday"
   },
   {
     "id": "sunday-duas",
     "name": "Sunday Duas",
     "category": "weekday",
-    "segmentCount": 310
+    "segmentCount": 310,
+    "subcategory": "Sunday"
   },
   {
     "id": "monday-duas",
     "name": "Monday Duas",
     "category": "weekday",
-    "segmentCount": 306
+    "segmentCount": 306,
+    "subcategory": "Monday"
   },
   {
     "id": "tuesday-duas",
     "name": "Tuesday Duas",
     "category": "weekday",
-    "segmentCount": 249
+    "segmentCount": 249,
+    "subcategory": "Tuesday"
   },
   {
     "id": "wednesday-duas",
     "name": "Wednesday Duas",
     "category": "weekday",
-    "segmentCount": 296
+    "segmentCount": 296,
+    "subcategory": "Wednesday"
   },
   {
     "id": "thursday-duas",
     "name": "Thursday Duas",
     "category": "weekday",
-    "segmentCount": 257
+    "segmentCount": 257,
+    "subcategory": "Thursday"
   },
   {
     "id": "thursday-night-duas",
     "name": "Thursday Night Duas",
     "category": "weekday",
-    "segmentCount": 386
+    "segmentCount": 386,
+    "subcategory": "Thursday"
   },
   {
     "id": "friday-special",
     "name": "Friday Special",
     "category": "weekday",
-    "segmentCount": 844
+    "segmentCount": 844,
+    "subcategory": "Friday"
   },
   {
     "id": "ziyarat-jamia-kabira",
     "name": "Ziyarat Jamia Kabira",
     "category": "ziyarat",
     "segmentCount": 415,
-    "mafatihId": 1230
+    "mafatihId": 1230,
+    "subcategory": "Major Ziyarat"
   },
   {
     "id": "ziyarat-aleyasin",
     "name": "Ziyarat Aleyasin",
     "category": "ziyarat",
     "segmentCount": 155,
-    "mafatihId": 1258
+    "mafatihId": 1258,
+    "subcategory": "Imam Mahdi"
   },
   {
     "id": "dua-after-ziyarat-aleyasin",
     "name": "Dua after Ziyarat Aleyasin",
     "category": "ziyarat",
-    "segmentCount": 75
+    "segmentCount": 75,
+    "subcategory": "Imam Mahdi"
   },
   {
     "id": "ziyarat-warith",
     "name": "Ziyarat Warith",
     "category": "ziyarat",
     "segmentCount": 170,
-    "mafatihId": 1249
+    "mafatihId": 1249,
+    "subcategory": "Imam Hussain & Karbala"
   },
   {
     "id": "ziyarat-ashura",
     "name": "Ziyarat Ashura",
     "category": "ziyarat",
     "segmentCount": 140,
-    "mafatihId": 1246
+    "mafatihId": 1246,
+    "subcategory": "General"
   },
   {
     "id": "ziyarat-ameenullah",
     "name": "Ziyarat Ameenullah",
     "category": "ziyarat",
     "segmentCount": 70,
-    "mafatihId": 1233
+    "mafatihId": 1233,
+    "subcategory": "General"
   },
   {
     "id": "daily-ziyarat-imam-mahdi",
     "name": "Daily Ziyarat Imam Mahdi",
     "category": "ziyarat",
     "segmentCount": 180,
-    "mafatihId": 1257
+    "mafatihId": 1257,
+    "subcategory": "Imam Mahdi"
   },
   {
     "id": "ziyarat-imam-mahdi",
     "name": "Ziyarat Imam Mahdi",
     "category": "ziyarat",
     "segmentCount": 39,
-    "mafatihId": 1259
+    "mafatihId": 1259,
+    "subcategory": "Imam Mahdi"
   },
   {
     "id": "ziyarat-imam-hussain-arafah",
     "name": "Ziyarat Imam Hussain Arafah",
     "category": "ziyarat",
-    "segmentCount": 203
+    "segmentCount": 203,
+    "subcategory": "Imam Hussain & Karbala"
   },
   {
     "id": "short-duas-imam-mahdi",
     "name": "Short Duas Imam Mahdi",
     "category": "special_needs",
-    "segmentCount": 111
+    "segmentCount": 111,
+    "subcategory": "Imam Mahdi"
   },
   {
     "id": "isteghasa-imam-mahdi",
     "name": "Isteghasa Imam Mahdi",
     "category": "special_needs",
     "segmentCount": 84,
-    "mafatihId": 1204
+    "mafatihId": 1204,
+    "subcategory": "Imam Mahdi"
   },
   {
     "id": "ss07-worrisome-task",
     "name": "SS07 - Worrisome Task",
     "category": "sahifa",
-    "segmentCount": 30
+    "segmentCount": 30,
+    "subcategory": "Sahifa Sajjadiyya"
   },
   {
     "id": "ss08-refuge-from-hateful-things",
     "name": "SS08 - Refuge from Hateful Things",
     "category": "sahifa",
-    "segmentCount": 31
+    "segmentCount": 31,
+    "subcategory": "Sahifa Sajjadiyya"
   },
   {
     "id": "ss15-when-sick",
     "name": "SS15 - When Sick",
     "category": "sahifa",
-    "segmentCount": 28
+    "segmentCount": 28,
+    "subcategory": "Sahifa Sajjadiyya"
   },
   {
     "id": "ss20-noble-traits-makarem-akhlaq",
     "name": "SS20 - Noble Traits (Makarem Akhlaq)",
     "category": "sahifa",
     "segmentCount": 218,
-    "mafatihId": 1298
+    "mafatihId": 1298,
+    "subcategory": "Sahifa Sajjadiyya"
   },
   {
     "id": "ss24-prayer-for-parents",
     "name": "SS24 - Prayer for Parents",
     "category": "sahifa",
-    "segmentCount": 81
+    "segmentCount": 81,
+    "subcategory": "Sahifa Sajjadiyya"
   },
   {
     "id": "ss25-prayer-for-children",
     "name": "SS25 - Prayer for Children",
     "category": "sahifa",
-    "segmentCount": 83
+    "segmentCount": 83,
+    "subcategory": "Sahifa Sajjadiyya"
   },
   {
     "id": "ss31-repentance",
     "name": "SS31 - Repentance",
     "category": "sahifa",
-    "segmentCount": 132
+    "segmentCount": 132,
+    "subcategory": "Sahifa Sajjadiyya"
   },
   {
     "id": "munajaat-taibeen-repenters",
     "name": "Munajaat Taibeen (Repenters)",
     "category": "munajat",
-    "segmentCount": 52
+    "segmentCount": 52,
+    "subcategory": "Whispered Prayers"
   },
   {
     "id": "munajaat-khaifeen-fearful",
     "name": "Munajaat Khaifeen (Fearful)",
     "category": "munajat",
-    "segmentCount": 43
+    "segmentCount": 43,
+    "subcategory": "Whispered Prayers"
   },
   {
     "id": "munajaat-rajeen-hopeful",
     "name": "Munajaat Rajeen (Hopeful)",
     "category": "munajat",
-    "segmentCount": 40
+    "segmentCount": 40,
+    "subcategory": "Whispered Prayers"
   },
   {
     "id": "munajaat-shakireen-thankful",
     "name": "Munajaat Shakireen (Thankful)",
     "category": "munajat",
-    "segmentCount": 45
+    "segmentCount": 45,
+    "subcategory": "Whispered Prayers"
   },
   {
     "id": "munajaat-arifeen-knowers",
     "name": "Munajaat Arifeen (Knowers)",
     "category": "munajat",
-    "segmentCount": 42
+    "segmentCount": 42,
+    "subcategory": "Whispered Prayers"
   },
   {
     "id": "munajaat-zahideen-abstainers",
     "name": "Munajaat Zahideen (Abstainers)",
     "category": "munajat",
-    "segmentCount": 27
+    "segmentCount": 27,
+    "subcategory": "Whispered Prayers"
   },
   {
     "id": "sahifa-prophet-muhammad-saws",
     "name": "Sahifa - Prophet Muhammad (saws)",
     "category": "sahifa_prophet",
-    "segmentCount": 991
+    "segmentCount": 991,
+    "subcategory": "Sahifa of the Prophet"
   },
   {
     "id": "10th-of-muharram-night-night-of-ashura",
@@ -1114,7 +1208,7 @@
     "segmentCount": 11,
     "mafatihId": 1046,
     "source": "mafatih",
-    "subcategory": "Ramadan - Dua & Aamal for Eid Night and Day"
+    "subcategory": "Ramadan — Dua & Aamal for Eid Night and Day"
   },
   {
     "id": "salaatdua-after-maghrib",
@@ -1123,7 +1217,7 @@
     "segmentCount": 167,
     "mafatihId": 1047,
     "source": "mafatih",
-    "subcategory": "Ramadan - Dua & Aamal for Eid Night and Day"
+    "subcategory": "Ramadan — Dua & Aamal for Eid Night and Day"
   },
   {
     "id": "dua-ya-daemal",
@@ -1132,7 +1226,7 @@
     "segmentCount": 8,
     "mafatihId": 1048,
     "source": "mafatih",
-    "subcategory": "Ramadan - Dua & Aamal for Eid Night and Day"
+    "subcategory": "Ramadan — Dua & Aamal for Eid Night and Day"
   },
   {
     "id": "dua-ya-allahu",
@@ -1141,7 +1235,7 @@
     "segmentCount": 144,
     "mafatihId": 1049,
     "source": "mafatih",
-    "subcategory": "Ramadan - Dua & Aamal for Eid Night and Day"
+    "subcategory": "Ramadan — Dua & Aamal for Eid Night and Day"
   },
   {
     "id": "dua-after-fajr",
@@ -1150,7 +1244,7 @@
     "segmentCount": 9,
     "mafatihId": 1050,
     "source": "mafatih",
-    "subcategory": "Ramadan - Dua & Aamal for Eid Night and Day"
+    "subcategory": "Ramadan — Dua & Aamal for Eid Night and Day"
   },
   {
     "id": "eid-al-fitr-day",
@@ -1159,7 +1253,7 @@
     "segmentCount": 32,
     "mafatihId": 1051,
     "source": "mafatih",
-    "subcategory": "Ramadan - Dua & Aamal for Eid Night and Day"
+    "subcategory": "Ramadan — Dua & Aamal for Eid Night and Day"
   },
   {
     "id": "salat-al-eid-fitr",
@@ -1168,7 +1262,7 @@
     "segmentCount": 19,
     "mafatihId": 1052,
     "source": "mafatih",
-    "subcategory": "Ramadan - Dua & Aamal for Eid Night and Day"
+    "subcategory": "Ramadan — Dua & Aamal for Eid Night and Day"
   },
   {
     "id": "the-merits-of-ramadan",
@@ -1213,7 +1307,7 @@
     "segmentCount": 261,
     "mafatihId": 1058,
     "source": "mafatih",
-    "subcategory": "Ramadan - Aamal For The Days of ramadan"
+    "subcategory": "Ramadan — Aamal For The Days of ramadan"
   },
   {
     "id": "daily-tasbeehat-in-ramadan",
@@ -1222,7 +1316,7 @@
     "segmentCount": 189,
     "mafatihId": 1059,
     "source": "mafatih",
-    "subcategory": "Ramadan - Aamal For The Days of ramadan"
+    "subcategory": "Ramadan — Aamal For The Days of ramadan"
   },
   {
     "id": "daily-salawat-in-ramadan",
@@ -1231,7 +1325,7 @@
     "segmentCount": 139,
     "mafatihId": 1060,
     "source": "mafatih",
-    "subcategory": "Ramadan - Aamal For The Days of ramadan"
+    "subcategory": "Ramadan — Aamal For The Days of ramadan"
   },
   {
     "id": "the-other-daily-aamal-in-ramadan",
@@ -1240,7 +1334,7 @@
     "segmentCount": 553,
     "mafatihId": 1061,
     "source": "mafatih",
-    "subcategory": "Ramadan - Aamal For The Days of ramadan"
+    "subcategory": "Ramadan — Aamal For The Days of ramadan"
   },
   {
     "id": "the-1st-night-of-ramadan",
@@ -1249,7 +1343,7 @@
     "segmentCount": 106,
     "mafatihId": 1063,
     "source": "mafatih",
-    "subcategory": "Ramadan - Particular Aamal"
+    "subcategory": "Ramadan — Particular Aamal"
   },
   {
     "id": "the-1st-day-of-ramadan",
@@ -1258,7 +1352,7 @@
     "segmentCount": 12,
     "mafatihId": 1064,
     "source": "mafatih",
-    "subcategory": "Ramadan - Particular Aamal"
+    "subcategory": "Ramadan — Particular Aamal"
   },
   {
     "id": "the-6th-day-of-ramadan",
@@ -1267,7 +1361,7 @@
     "segmentCount": 1,
     "mafatihId": 1065,
     "source": "mafatih",
-    "subcategory": "Ramadan - Particular Aamal"
+    "subcategory": "Ramadan — Particular Aamal"
   },
   {
     "id": "the-13th-and-14th-night-of-ramadan",
@@ -1276,7 +1370,7 @@
     "segmentCount": 6,
     "mafatihId": 1066,
     "source": "mafatih",
-    "subcategory": "Ramadan - Particular Aamal"
+    "subcategory": "Ramadan — Particular Aamal"
   },
   {
     "id": "the-15th-night-of-ramadan",
@@ -1285,7 +1379,7 @@
     "segmentCount": 7,
     "mafatihId": 1067,
     "source": "mafatih",
-    "subcategory": "Ramadan - Particular Aamal"
+    "subcategory": "Ramadan — Particular Aamal"
   },
   {
     "id": "the-17th-night-of-ramadan",
@@ -1294,7 +1388,7 @@
     "segmentCount": 4,
     "mafatihId": 1068,
     "source": "mafatih",
-    "subcategory": "Ramadan - Particular Aamal"
+    "subcategory": "Ramadan — Particular Aamal"
   },
   {
     "id": "salats-for-the-nights-of-ramadan",
@@ -1303,7 +1397,7 @@
     "segmentCount": 31,
     "mafatihId": 1069,
     "source": "mafatih",
-    "subcategory": "Ramadan - Particular Aamal"
+    "subcategory": "Ramadan — Particular Aamal"
   },
   {
     "id": "general-aamal-for-3-nights-of-laylatul-qadr",
@@ -1312,7 +1406,7 @@
     "segmentCount": 73,
     "mafatihId": 1071,
     "source": "mafatih",
-    "subcategory": "Ramadan - Amal For Laylat ul Qadr"
+    "subcategory": "Ramadan — Amal For Laylat ul Qadr"
   },
   {
     "id": "19th-night-of-ramadan",
@@ -1321,7 +1415,7 @@
     "segmentCount": 18,
     "mafatihId": 1072,
     "source": "mafatih",
-    "subcategory": "Ramadan - Amal For Laylat ul Qadr"
+    "subcategory": "Ramadan — Amal For Laylat ul Qadr"
   },
   {
     "id": "21st-night-of-ramadan",
@@ -1330,7 +1424,7 @@
     "segmentCount": 128,
     "mafatihId": 1073,
     "source": "mafatih",
-    "subcategory": "Ramadan - Amal For Laylat ul Qadr"
+    "subcategory": "Ramadan — Amal For Laylat ul Qadr"
   },
   {
     "id": "23rd-night-of-ramadan",
@@ -1339,7 +1433,7 @@
     "segmentCount": 142,
     "mafatihId": 1074,
     "source": "mafatih",
-    "subcategory": "Ramadan - Amal For Laylat ul Qadr"
+    "subcategory": "Ramadan — Amal For Laylat ul Qadr"
   },
   {
     "id": "dua-for-22nd-night-of-ramadan",
@@ -1348,7 +1442,7 @@
     "segmentCount": 26,
     "mafatihId": 1076,
     "source": "mafatih",
-    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+    "subcategory": "Ramadan — Aamal and Duas of The Last 10 Night"
   },
   {
     "id": "dua-for-23rd-night-of-ramadan",
@@ -1357,7 +1451,7 @@
     "segmentCount": 28,
     "mafatihId": 1077,
     "source": "mafatih",
-    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+    "subcategory": "Ramadan — Aamal and Duas of The Last 10 Night"
   },
   {
     "id": "dua-for-24th-night-of-ramadan",
@@ -1366,7 +1460,7 @@
     "segmentCount": 28,
     "mafatihId": 1078,
     "source": "mafatih",
-    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+    "subcategory": "Ramadan — Aamal and Duas of The Last 10 Night"
   },
   {
     "id": "dua-for-25th-night-of-ramadan",
@@ -1375,7 +1469,7 @@
     "segmentCount": 26,
     "mafatihId": 1079,
     "source": "mafatih",
-    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+    "subcategory": "Ramadan — Aamal and Duas of The Last 10 Night"
   },
   {
     "id": "dua-for-26th-night-of-ramadan",
@@ -1384,7 +1478,7 @@
     "segmentCount": 24,
     "mafatihId": 1080,
     "source": "mafatih",
-    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+    "subcategory": "Ramadan — Aamal and Duas of The Last 10 Night"
   },
   {
     "id": "dua-for-27th-night-of-ramadan",
@@ -1393,7 +1487,7 @@
     "segmentCount": 34,
     "mafatihId": 1081,
     "source": "mafatih",
-    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+    "subcategory": "Ramadan — Aamal and Duas of The Last 10 Night"
   },
   {
     "id": "dua-for-28th-night-of-ramadan",
@@ -1402,7 +1496,7 @@
     "segmentCount": 25,
     "mafatihId": 1082,
     "source": "mafatih",
-    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+    "subcategory": "Ramadan — Aamal and Duas of The Last 10 Night"
   },
   {
     "id": "dua-for-29th-night-of-ramadan",
@@ -1411,7 +1505,7 @@
     "segmentCount": 24,
     "mafatihId": 1083,
     "source": "mafatih",
-    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+    "subcategory": "Ramadan — Aamal and Duas of The Last 10 Night"
   },
   {
     "id": "dua-for-30th-night-of-ramadan",
@@ -1420,7 +1514,7 @@
     "segmentCount": 28,
     "mafatihId": 1084,
     "source": "mafatih",
-    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+    "subcategory": "Ramadan — Aamal and Duas of The Last 10 Night"
   },
   {
     "id": "other-aamal-in-21st-night-of-ramadan",
@@ -1429,7 +1523,7 @@
     "segmentCount": 77,
     "mafatihId": 1085,
     "source": "mafatih",
-    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+    "subcategory": "Ramadan — Aamal and Duas of The Last 10 Night"
   },
   {
     "id": "general-aamal-for-last-10-nights",
@@ -1438,7 +1532,7 @@
     "segmentCount": 6,
     "mafatihId": 1086,
     "source": "mafatih",
-    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+    "subcategory": "Ramadan — Aamal and Duas of The Last 10 Night"
   },
   {
     "id": "the-last-night-of-ramadan",
@@ -1447,7 +1541,7 @@
     "segmentCount": 257,
     "mafatihId": 1087,
     "source": "mafatih",
-    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+    "subcategory": "Ramadan — Aamal and Duas of The Last 10 Night"
   },
   {
     "id": "dua-for-30th-day-of-ramadan",
@@ -1456,7 +1550,7 @@
     "segmentCount": 145,
     "mafatihId": 1088,
     "source": "mafatih",
-    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+    "subcategory": "Ramadan — Aamal and Duas of The Last 10 Night"
   },
   {
     "id": "dua-for-last-friday-of-ramadan",
@@ -1465,7 +1559,7 @@
     "segmentCount": 5,
     "mafatihId": 1089,
     "source": "mafatih",
-    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+    "subcategory": "Ramadan — Aamal and Duas of The Last 10 Night"
   },
   {
     "id": "farewell-duas-of-ramadan",
@@ -1474,7 +1568,7 @@
     "segmentCount": 325,
     "mafatihId": 1090,
     "source": "mafatih",
-    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+    "subcategory": "Ramadan — Aamal and Duas of The Last 10 Night"
   },
   {
     "id": "completion-of-quran",
@@ -1483,7 +1577,7 @@
     "segmentCount": 139,
     "mafatihId": 1091,
     "source": "mafatih",
-    "subcategory": "Ramadan - Aamal and Duas of The Last 10 Night"
+    "subcategory": "Ramadan — Aamal and Duas of The Last 10 Night"
   },
   {
     "id": "short-duas-for-the-days-of-ramadan",
@@ -1618,7 +1712,7 @@
     "segmentCount": 50,
     "mafatihId": 1110,
     "source": "mafatih",
-    "subcategory": "Dhu al-Hijjah - Dhul-hijjah 1st 10 Days Amaal"
+    "subcategory": "Dhu al-Hijjah — Dhul-hijjah 1st 10 Days Amaal"
   },
   {
     "id": "salah-between-magrib-isha",
@@ -1627,7 +1721,7 @@
     "segmentCount": 7,
     "mafatihId": 1111,
     "source": "mafatih",
-    "subcategory": "Dhu al-Hijjah - Dhul-hijjah 1st 10 Days Amaal"
+    "subcategory": "Dhu al-Hijjah — Dhul-hijjah 1st 10 Days Amaal"
   },
   {
     "id": "five-testaments",
@@ -1636,7 +1730,7 @@
     "segmentCount": 36,
     "mafatihId": 1112,
     "source": "mafatih",
-    "subcategory": "Dhu al-Hijjah - Dhul-hijjah 1st 10 Days Amaal"
+    "subcategory": "Dhu al-Hijjah — Dhul-hijjah 1st 10 Days Amaal"
   },
   {
     "id": "tahlilat",
@@ -1645,7 +1739,7 @@
     "segmentCount": 22,
     "mafatihId": 1113,
     "source": "mafatih",
-    "subcategory": "Dhu al-Hijjah - Dhul-hijjah 1st 10 Days Amaal"
+    "subcategory": "Dhu al-Hijjah — Dhul-hijjah 1st 10 Days Amaal"
   },
   {
     "id": "dua-arafah",
@@ -1699,7 +1793,7 @@
     "segmentCount": 28,
     "mafatihId": 1121,
     "source": "mafatih",
-    "subcategory": "Days of Week - Saturday"
+    "subcategory": "Saturday"
   },
   {
     "id": "ziyarat-of-holy-prophet-s-on-saturday",
@@ -1708,7 +1802,7 @@
     "segmentCount": 67,
     "mafatihId": 1122,
     "source": "mafatih",
-    "subcategory": "Days of Week - Saturday"
+    "subcategory": "Saturday"
   },
   {
     "id": "prayer-on-saturday",
@@ -1717,7 +1811,7 @@
     "segmentCount": 2,
     "mafatihId": 1123,
     "source": "mafatih",
-    "subcategory": "Days of Week - Saturday"
+    "subcategory": "Saturday"
   },
   {
     "id": "dua-of-sunday",
@@ -1726,7 +1820,7 @@
     "segmentCount": 37,
     "mafatihId": 1125,
     "source": "mafatih",
-    "subcategory": "Days of Week - Sunday"
+    "subcategory": "Sunday"
   },
   {
     "id": "ziyarat-of-imam-ali-as-on-sunday",
@@ -1735,7 +1829,7 @@
     "segmentCount": 24,
     "mafatihId": 1126,
     "source": "mafatih",
-    "subcategory": "Days of Week - Sunday"
+    "subcategory": "Sunday"
   },
   {
     "id": "ziyarat-syeda-fatimasa-on-sunday",
@@ -1744,7 +1838,7 @@
     "segmentCount": 16,
     "mafatihId": 1127,
     "source": "mafatih",
-    "subcategory": "Days of Week - Sunday"
+    "subcategory": "Sunday"
   },
   {
     "id": "prayer-of-sunday",
@@ -1753,7 +1847,7 @@
     "segmentCount": 2,
     "mafatihId": 1128,
     "source": "mafatih",
-    "subcategory": "Days of Week - Sunday"
+    "subcategory": "Sunday"
   },
   {
     "id": "dua-of-monday",
@@ -1762,7 +1856,7 @@
     "segmentCount": 55,
     "mafatihId": 1130,
     "source": "mafatih",
-    "subcategory": "Days of Week - Monday"
+    "subcategory": "Monday"
   },
   {
     "id": "ziyarat-of-imam-hassan-as-on-monday",
@@ -1771,7 +1865,7 @@
     "segmentCount": 22,
     "mafatihId": 1131,
     "source": "mafatih",
-    "subcategory": "Days of Week - Monday"
+    "subcategory": "Monday"
   },
   {
     "id": "ziyarat-imam-hussain-as-on-monday",
@@ -1780,7 +1874,7 @@
     "segmentCount": 31,
     "mafatihId": 1132,
     "source": "mafatih",
-    "subcategory": "Days of Week - Monday"
+    "subcategory": "Monday"
   },
   {
     "id": "prayer-on-monday",
@@ -1789,7 +1883,7 @@
     "segmentCount": 2,
     "mafatihId": 1133,
     "source": "mafatih",
-    "subcategory": "Days of Week - Monday"
+    "subcategory": "Monday"
   },
   {
     "id": "dua-of-tuesday",
@@ -1798,7 +1892,7 @@
     "segmentCount": 40,
     "mafatihId": 1135,
     "source": "mafatih",
-    "subcategory": "Days of Week - Tuesday"
+    "subcategory": "Tuesday"
   },
   {
     "id": "ziyarat-of-three-imams-on-tuesday",
@@ -1807,7 +1901,7 @@
     "segmentCount": 26,
     "mafatihId": 1136,
     "source": "mafatih",
-    "subcategory": "Days of Week - Tuesday"
+    "subcategory": "Tuesday"
   },
   {
     "id": "prayer-of-tuesday",
@@ -1816,7 +1910,7 @@
     "segmentCount": 2,
     "mafatihId": 1137,
     "source": "mafatih",
-    "subcategory": "Days of Week - Tuesday"
+    "subcategory": "Tuesday"
   },
   {
     "id": "dua-of-wednesday",
@@ -1825,7 +1919,7 @@
     "segmentCount": 36,
     "mafatihId": 1139,
     "source": "mafatih",
-    "subcategory": "Days of Week - Wednesday"
+    "subcategory": "Wednesday"
   },
   {
     "id": "ziyarat-of-four-imams-on-wednesday",
@@ -1834,7 +1928,7 @@
     "segmentCount": 28,
     "mafatihId": 1140,
     "source": "mafatih",
-    "subcategory": "Days of Week - Wednesday"
+    "subcategory": "Wednesday"
   },
   {
     "id": "prayer-on-wednesday",
@@ -1843,7 +1937,7 @@
     "segmentCount": 2,
     "mafatihId": 1141,
     "source": "mafatih",
-    "subcategory": "Days of Week - Wednesday"
+    "subcategory": "Wednesday"
   },
   {
     "id": "dua-of-thursday",
@@ -1852,7 +1946,7 @@
     "segmentCount": 36,
     "mafatihId": 1143,
     "source": "mafatih",
-    "subcategory": "Days of Week - Thursday"
+    "subcategory": "Thursday"
   },
   {
     "id": "ziyarat-of-imam-hassan-askarias-on-thursday",
@@ -1861,7 +1955,7 @@
     "segmentCount": 14,
     "mafatihId": 1144,
     "source": "mafatih",
-    "subcategory": "Days of Week - Thursday"
+    "subcategory": "Thursday"
   },
   {
     "id": "salawat-on-thursday",
@@ -1870,7 +1964,7 @@
     "segmentCount": 7,
     "mafatihId": 1145,
     "source": "mafatih",
-    "subcategory": "Days of Week - Thursday"
+    "subcategory": "Thursday"
   },
   {
     "id": "last-hours-of-thursday",
@@ -1879,7 +1973,7 @@
     "segmentCount": 13,
     "mafatihId": 1146,
     "source": "mafatih",
-    "subcategory": "Days of Week - Thursday"
+    "subcategory": "Thursday"
   },
   {
     "id": "prayer-on-thursday",
@@ -1888,7 +1982,7 @@
     "segmentCount": 2,
     "mafatihId": 1147,
     "source": "mafatih",
-    "subcategory": "Days of Week - Thursday"
+    "subcategory": "Thursday"
   },
   {
     "id": "thursday-night",
@@ -1897,7 +1991,7 @@
     "segmentCount": 152,
     "mafatihId": 1148,
     "source": "mafatih",
-    "subcategory": "Days of Week"
+    "subcategory": "General"
   },
   {
     "id": "the-holy-prophets-prayer",
@@ -1906,7 +2000,7 @@
     "segmentCount": 43,
     "mafatihId": 1151,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "imam-alis-prayer",
@@ -1915,7 +2009,7 @@
     "segmentCount": 80,
     "mafatihId": 1152,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "lady-fatimah-al-zahras-prayer",
@@ -1924,7 +2018,7 @@
     "segmentCount": 54,
     "mafatihId": 1153,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "imam-al-hasans-prayer",
@@ -1933,7 +2027,7 @@
     "segmentCount": 16,
     "mafatihId": 1154,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "imam-al-husayns-prayer",
@@ -1942,7 +2036,7 @@
     "segmentCount": 113,
     "mafatihId": 1155,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "imam-zayn-al-abideens-prayer",
@@ -1951,7 +2045,7 @@
     "segmentCount": 18,
     "mafatihId": 1156,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "imam-al-baqirass-prayer",
@@ -1960,7 +2054,7 @@
     "segmentCount": 26,
     "mafatihId": 1157,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "imam-al-sadiqs-prayer",
@@ -1969,7 +2063,7 @@
     "segmentCount": 17,
     "mafatihId": 1158,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "imam-al-kazims-prayer",
@@ -1978,7 +2072,7 @@
     "segmentCount": 26,
     "mafatihId": 1159,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "imam-al-ridhas-prayer",
@@ -1987,7 +2081,7 @@
     "segmentCount": 12,
     "mafatihId": 1160,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "imam-al-jawads-prayer",
@@ -1996,7 +2090,7 @@
     "segmentCount": 16,
     "mafatihId": 1161,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "imam-al-hadis-prayer",
@@ -2005,7 +2099,7 @@
     "segmentCount": 17,
     "mafatihId": 1162,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "imam-al-askaris-prayer",
@@ -2014,7 +2108,7 @@
     "segmentCount": 45,
     "mafatihId": 1163,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "imam-al-mahdis-prayer",
@@ -2023,7 +2117,7 @@
     "segmentCount": 29,
     "mafatihId": 1164,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salat of Ahlulbayt"
   },
   {
     "id": "salawaat-of-holy-prophet-sawa",
@@ -2032,7 +2126,7 @@
     "segmentCount": 43,
     "mafatihId": 1166,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "salawaat-upon-imam-ali-as",
@@ -2041,7 +2135,7 @@
     "segmentCount": 26,
     "mafatihId": 1167,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "salwaat-on-syeda-fatima-sa",
@@ -2050,7 +2144,7 @@
     "segmentCount": 19,
     "mafatihId": 1168,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "salwaat-on-imam-hassanas-imam-hussainas",
@@ -2059,7 +2153,7 @@
     "segmentCount": 54,
     "mafatihId": 1169,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "salwaat-on-imam-sajjadas",
@@ -2068,7 +2162,7 @@
     "segmentCount": 16,
     "mafatihId": 1170,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "salwaat-on-imam-baqiras",
@@ -2077,7 +2171,7 @@
     "segmentCount": 18,
     "mafatihId": 1171,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "salwaat-on-imam-sadiqas",
@@ -2086,7 +2180,7 @@
     "segmentCount": 15,
     "mafatihId": 1172,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "salwaat-on-imam-musa-al-kadhimas",
@@ -2095,7 +2189,7 @@
     "segmentCount": 20,
     "mafatihId": 1173,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "salwaat-on-imam-ali-ridhaas",
@@ -2104,7 +2198,7 @@
     "segmentCount": 15,
     "mafatihId": 1174,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "salwaat-on-imam-mohammed-jawadas",
@@ -2113,7 +2207,7 @@
     "segmentCount": 18,
     "mafatihId": 1175,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "salwaat-on-imam-ali-naqi-as",
@@ -2122,7 +2216,7 @@
     "segmentCount": 23,
     "mafatihId": 1176,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "salwaat-on-imam-hasan-askarias",
@@ -2131,7 +2225,7 @@
     "segmentCount": 16,
     "mafatihId": 1177,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "salwaat-on-imam-mahdi-ajtfs",
@@ -2140,7 +2234,7 @@
     "segmentCount": 35,
     "mafatihId": 1178,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "friday-salwaat-and-ziarat-on-ahlulbaytas",
@@ -2149,7 +2243,7 @@
     "segmentCount": 55,
     "mafatihId": 1179,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday - Salawat of Ahlulbayt (a.s)"
+    "subcategory": "Friday — Salawat of Ahlulbayt"
   },
   {
     "id": "aamal",
@@ -2158,7 +2252,7 @@
     "segmentCount": 60,
     "mafatihId": 1181,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday"
+    "subcategory": "Friday"
   },
   {
     "id": "salat-al-kamilah-and-another-prayer",
@@ -2167,7 +2261,7 @@
     "segmentCount": 14,
     "mafatihId": 1182,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday"
+    "subcategory": "Friday"
   },
   {
     "id": "friday-duas-after-salaat-ul-asr",
@@ -2176,7 +2270,7 @@
     "segmentCount": 34,
     "mafatihId": 1183,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday"
+    "subcategory": "Friday"
   },
   {
     "id": "duas-at-the-last-hour-of-friday",
@@ -2185,7 +2279,7 @@
     "segmentCount": 13,
     "mafatihId": 1184,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday"
+    "subcategory": "Friday"
   },
   {
     "id": "prayer-on-friday",
@@ -2194,7 +2288,7 @@
     "segmentCount": 2,
     "mafatihId": 1185,
     "source": "mafatih",
-    "subcategory": "Days of Week - Friday"
+    "subcategory": "Friday"
   },
   {
     "id": "dua",
@@ -2238,7 +2332,8 @@
     "category": "salah",
     "segmentCount": 31,
     "mafatihId": 1192,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Funeral & Special Prayers"
   },
   {
     "id": "method",
@@ -2273,7 +2368,8 @@
     "category": "salah",
     "segmentCount": 8,
     "mafatihId": 1200,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Funeral & Special Prayers"
   },
   {
     "id": "salah-of-salman-farsi",
@@ -2281,7 +2377,8 @@
     "category": "salah",
     "segmentCount": 26,
     "mafatihId": 1201,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Forgiveness & Needs"
   },
   {
     "id": "salaatul-istighfar",
@@ -2289,7 +2386,8 @@
     "category": "salah",
     "segmentCount": 17,
     "mafatihId": 1202,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Forgiveness & Needs"
   },
   {
     "id": "salaat-ul-wahsha-burial",
@@ -2297,7 +2395,8 @@
     "category": "salah",
     "segmentCount": 13,
     "mafatihId": 1203,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Funeral & Special Prayers"
   },
   {
     "id": "salah-for-forgiveness",
@@ -2305,7 +2404,8 @@
     "category": "salah",
     "segmentCount": 12,
     "mafatihId": 1205,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Forgiveness & Needs"
   },
   {
     "id": "the-prayer-of-the-bedouin",
@@ -2313,7 +2413,8 @@
     "category": "salah",
     "segmentCount": 23,
     "mafatihId": 1206,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Personal"
   },
   {
     "id": "the-dedication-prayer",
@@ -2321,7 +2422,8 @@
     "category": "salah",
     "segmentCount": 12,
     "mafatihId": 1207,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Personal"
   },
   {
     "id": "prayer-for-parents",
@@ -2329,7 +2431,8 @@
     "category": "salah",
     "segmentCount": 6,
     "mafatihId": 1208,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Personal"
   },
   {
     "id": "prayer-of-the-hungry",
@@ -2337,7 +2440,8 @@
     "category": "salah",
     "segmentCount": 5,
     "mafatihId": 1209,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Personal"
   },
   {
     "id": "prayer-for-self-inspirations",
@@ -2345,7 +2449,8 @@
     "category": "salah",
     "segmentCount": 7,
     "mafatihId": 1210,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Personal"
   },
   {
     "id": "prayer-of-istikharah-with-sheets",
@@ -2416,7 +2521,8 @@
     "category": "salah",
     "segmentCount": 1,
     "mafatihId": 1219,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Forgiveness & Needs"
   },
   {
     "id": "first-salats-for-istighasa",
@@ -2451,7 +2557,8 @@
     "category": "salah",
     "segmentCount": 15,
     "mafatihId": 1224,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Personal"
   },
   {
     "id": "prayer-fear-of-oppressors",
@@ -2459,7 +2566,8 @@
     "category": "salah",
     "segmentCount": 5,
     "mafatihId": 1225,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Personal"
   },
   {
     "id": "prayer-for-gaining-good-memory",
@@ -2467,7 +2575,8 @@
     "category": "salah",
     "segmentCount": 3,
     "mafatihId": 1226,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Personal"
   },
   {
     "id": "prayer-of-will",
@@ -2475,7 +2584,8 @@
     "category": "salah",
     "segmentCount": 1,
     "mafatihId": 1227,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Personal"
   },
   {
     "id": "ziarat-jamia-saghira",
@@ -2483,7 +2593,8 @@
     "category": "ziyarat",
     "segmentCount": 29,
     "mafatihId": 1231,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Major Ziyarat"
   },
   {
     "id": "ziyarat-of-holy-prophet-sawa",
@@ -2491,7 +2602,8 @@
     "category": "ziyarat",
     "segmentCount": 380,
     "mafatihId": 1232,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Prophet & Ahlulbayt"
   },
   {
     "id": "ziyarat-of-syeda-fatima-sa",
@@ -2499,7 +2611,8 @@
     "category": "ziyarat",
     "segmentCount": 71,
     "mafatihId": 1234,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Prophet & Ahlulbayt"
   },
   {
     "id": "ziyarat-of-imam-hassan-as",
@@ -2507,7 +2620,8 @@
     "category": "ziyarat",
     "segmentCount": 117,
     "mafatihId": 1235,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Prophet & Ahlulbayt"
   },
   {
     "id": "ziyarat-of-imam-sajjad-as",
@@ -2515,7 +2629,8 @@
     "category": "ziyarat",
     "segmentCount": 58,
     "mafatihId": 1236,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Imam Sajjad to Sadiq"
   },
   {
     "id": "ziyarat-of-imam-baqir-as",
@@ -2523,7 +2638,8 @@
     "category": "ziyarat",
     "segmentCount": 87,
     "mafatihId": 1237,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Imam Sajjad to Sadiq"
   },
   {
     "id": "ziyarat-of-imam-sadiq-as",
@@ -2531,7 +2647,8 @@
     "category": "ziyarat",
     "segmentCount": 58,
     "mafatihId": 1238,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Imam Sajjad to Sadiq"
   },
   {
     "id": "ziyarat-of-imam-kadhim-as",
@@ -2539,7 +2656,8 @@
     "category": "ziyarat",
     "segmentCount": 262,
     "mafatihId": 1239,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Imam Kadhim to Askari"
   },
   {
     "id": "ziyarat-of-imam-ridha-as",
@@ -2547,7 +2665,8 @@
     "category": "ziyarat",
     "segmentCount": 366,
     "mafatihId": 1240,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Imam Kadhim to Askari"
   },
   {
     "id": "ziyarat-of-imam-jawad-as",
@@ -2555,7 +2674,8 @@
     "category": "ziyarat",
     "segmentCount": 227,
     "mafatihId": 1241,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Imam Kadhim to Askari"
   },
   {
     "id": "ziyarat-of-imam-hadi-as",
@@ -2563,7 +2683,8 @@
     "category": "ziyarat",
     "segmentCount": 224,
     "mafatihId": 1242,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Imam Kadhim to Askari"
   },
   {
     "id": "ziyarat-of-imam-hassan-askari-as",
@@ -2571,7 +2692,8 @@
     "category": "ziyarat",
     "segmentCount": 215,
     "mafatihId": 1243,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Imam Kadhim to Askari"
   },
   {
     "id": "ziyarah-abbas-ibn-ali-as",
@@ -2579,7 +2701,8 @@
     "category": "ziyarat",
     "segmentCount": 153,
     "mafatihId": 1244,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Abbas & Others"
   },
   {
     "id": "ziyarat-imam-husainas-on-the-eve-of-eid",
@@ -2677,7 +2800,8 @@
     "category": "ziyarat",
     "segmentCount": 492,
     "mafatihId": 1263,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Major Ziyarat"
   },
   {
     "id": "ziyarat-of-imams-in-baqi",
@@ -2685,7 +2809,8 @@
     "category": "ziyarat",
     "segmentCount": 96,
     "mafatihId": 1264,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Abbas & Others"
   },
   {
     "id": "ziyarat-of-fatimah-al-masumah-sa",
@@ -2693,7 +2818,8 @@
     "category": "ziyarat",
     "segmentCount": 85,
     "mafatihId": 1265,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Abbas & Others"
   },
   {
     "id": "ziyarat-of-abd-al-azim-al-hasani-as",
@@ -2701,7 +2827,8 @@
     "category": "ziyarat",
     "segmentCount": 18,
     "mafatihId": 1266,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Abbas & Others"
   },
   {
     "id": "aamal-of-masjid-al-kufah",
@@ -2781,7 +2908,8 @@
     "category": "ziyarat",
     "segmentCount": 31,
     "mafatihId": 1276,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Mosques & Shrines"
   },
   {
     "id": "masjid-zayd-and-sasaa",
@@ -2789,7 +2917,8 @@
     "category": "ziyarat",
     "segmentCount": 75,
     "mafatihId": 1277,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Mosques & Shrines"
   },
   {
     "id": "first-ziyarat-of-imam-ali-as",
@@ -2842,7 +2971,8 @@
     "category": "ziyarat",
     "segmentCount": 94,
     "mafatihId": 1284,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "General"
   },
   {
     "id": "third-ziarat-jamea",
@@ -2850,7 +2980,8 @@
     "category": "ziyarat",
     "segmentCount": 76,
     "mafatihId": 1285,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Major Ziyarat"
   },
   {
     "id": "supplications-after-the-ziyarat-of-imams",
@@ -2858,7 +2989,8 @@
     "category": "ziyarat",
     "segmentCount": 8,
     "mafatihId": 1286,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "General"
   },
   {
     "id": "visiting-of-the-prophets",
@@ -2866,7 +2998,8 @@
     "category": "ziyarat",
     "segmentCount": 3,
     "mafatihId": 1288,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "General"
   },
   {
     "id": "visiting-the-descendants-of-imams",
@@ -2874,7 +3007,8 @@
     "category": "ziyarat",
     "segmentCount": 5,
     "mafatihId": 1289,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "General"
   },
   {
     "id": "dua-ya-mafzai",
@@ -2882,7 +3016,8 @@
     "category": "major",
     "segmentCount": 28,
     "mafatihId": 1296,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Short Duas"
   },
   {
     "id": "dua-of-nabi-idris",
@@ -2890,7 +3025,8 @@
     "category": "major",
     "segmentCount": 104,
     "mafatihId": 1297,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Imam Teachings"
   },
   {
     "id": "duas-when-leaving-home",
@@ -2898,7 +3034,8 @@
     "category": "major",
     "segmentCount": 54,
     "mafatihId": 1308,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Daily Needs"
   },
   {
     "id": "imam-taqias-10-munajat-list",
@@ -2906,7 +3043,8 @@
     "category": "munajat",
     "segmentCount": 15,
     "mafatihId": 1317,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Special Munajat"
   },
   {
     "id": "guidance-to-the-best-istekhara",
@@ -2914,7 +3052,8 @@
     "category": "major",
     "segmentCount": 42,
     "mafatihId": 1318,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Daily Needs"
   },
   {
     "id": "true-repentance-tauba",
@@ -2922,7 +3061,8 @@
     "category": "major",
     "segmentCount": 46,
     "mafatihId": 1319,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Quran & Istighfar"
   },
   {
     "id": "help-in-travel-safar",
@@ -2930,7 +3070,8 @@
     "category": "major",
     "segmentCount": 37,
     "mafatihId": 1320,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Daily Needs"
   },
   {
     "id": "sustenance-rizq",
@@ -2938,7 +3079,8 @@
     "category": "major",
     "segmentCount": 46,
     "mafatihId": 1321,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Daily Needs"
   },
   {
     "id": "seeking-protection-isteazah",
@@ -2946,7 +3088,8 @@
     "category": "major",
     "segmentCount": 36,
     "mafatihId": 1322,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Protection & Forgiveness"
   },
   {
     "id": "accepting-repentance",
@@ -2954,7 +3097,8 @@
     "category": "major",
     "segmentCount": 40,
     "mafatihId": 1323,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Quran & Istighfar"
   },
   {
     "id": "prayer-for-hajj",
@@ -2962,7 +3106,8 @@
     "category": "major",
     "segmentCount": 40,
     "mafatihId": 1324,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Daily Needs"
   },
   {
     "id": "removing-persecution",
@@ -2970,7 +3115,8 @@
     "category": "major",
     "segmentCount": 49,
     "mafatihId": 1325,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Daily Needs"
   },
   {
     "id": "thanks-giving",
@@ -2978,7 +3124,8 @@
     "category": "major",
     "segmentCount": 38,
     "mafatihId": 1326,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Daily Needs"
   },
   {
     "id": "granting-the-requests",
@@ -2986,7 +3133,8 @@
     "category": "major",
     "segmentCount": 24,
     "mafatihId": 1327,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Daily Needs"
   },
   {
     "id": "imam-husaynas-dua-taught-to-his-son",
@@ -2994,7 +3142,8 @@
     "category": "major",
     "segmentCount": 12,
     "mafatihId": 1329,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Imam Teachings"
   },
   {
     "id": "dua-marefat",
@@ -3002,7 +3151,8 @@
     "category": "major",
     "segmentCount": 236,
     "mafatihId": 1330,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Imam Teachings"
   },
   {
     "id": "dua-allumma-idfaa-an-waliyak",
@@ -3010,7 +3160,8 @@
     "category": "major",
     "segmentCount": 145,
     "mafatihId": 1331,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Imam Mahdi"
   },
   {
     "id": "dua-allhumma-kun-li-waliyyika",
@@ -3018,7 +3169,8 @@
     "category": "major",
     "segmentCount": 8,
     "mafatihId": 1332,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Imam Mahdi"
   },
   {
     "id": "dua-ghareeq",
@@ -3026,7 +3178,8 @@
     "category": "major",
     "segmentCount": 6,
     "mafatihId": 1333,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Imam Mahdi"
   },
   {
     "id": "dua-of-imam-al-mahdiajtfs",
@@ -3034,7 +3187,8 @@
     "category": "major",
     "segmentCount": 29,
     "mafatihId": 1335,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Imam Mahdi"
   },
   {
     "id": "dua-al-hujjah",
@@ -3042,7 +3196,8 @@
     "category": "major",
     "segmentCount": 16,
     "mafatihId": 1336,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Imam Mahdi"
   },
   {
     "id": "morning-imam-sadiq-as",
@@ -3104,7 +3259,8 @@
     "category": "major",
     "segmentCount": 39,
     "mafatihId": 1345,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Quran & Istighfar"
   },
   {
     "id": "duas-while-doing-wudhu",
@@ -3112,7 +3268,8 @@
     "category": "major",
     "segmentCount": 20,
     "mafatihId": 1346,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Quran & Istighfar"
   },
   {
     "id": "munajat-imam-ali-as-in-masjid-kufa",
@@ -3120,7 +3277,8 @@
     "category": "munajat",
     "segmentCount": 37,
     "mafatihId": 1349,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "Special Munajat"
   },
   {
     "id": "zuhr-taqeebaat",
@@ -3163,7 +3321,7 @@
     "name": "1. Dua for Sustenance",
     "category": "practical",
     "segmentCount": 15,
-    "subcategory": "Sustenance — Dua",
+    "subcategory": "Sustenance",
     "source": "practical"
   },
   {
@@ -3171,7 +3329,7 @@
     "name": "2. Dua for Sustenance",
     "category": "practical",
     "segmentCount": 5,
-    "subcategory": "Sustenance — Dua",
+    "subcategory": "Sustenance",
     "source": "practical"
   },
   {
@@ -3179,7 +3337,7 @@
     "name": "3. Dua for Sustenance",
     "category": "practical",
     "segmentCount": 9,
-    "subcategory": "Sustenance — Dua",
+    "subcategory": "Sustenance",
     "source": "practical"
   },
   {
@@ -3187,7 +3345,7 @@
     "name": "4. Dua for Sustenance",
     "category": "practical",
     "segmentCount": 8,
-    "subcategory": "Sustenance — Dua",
+    "subcategory": "Sustenance",
     "source": "practical"
   },
   {
@@ -3195,7 +3353,7 @@
     "name": "5. Dua for Sustenance",
     "category": "practical",
     "segmentCount": 45,
-    "subcategory": "Sustenance — Dua",
+    "subcategory": "Sustenance",
     "source": "practical"
   },
   {
@@ -3203,7 +3361,7 @@
     "name": "1. Prayer for More Sustenance",
     "category": "practical",
     "segmentCount": 15,
-    "subcategory": "Sustenance — Prayer",
+    "subcategory": "Sustenance",
     "source": "practical"
   },
   {
@@ -3211,7 +3369,7 @@
     "name": "2. Prayer for More Sustenance",
     "category": "practical",
     "segmentCount": 8,
-    "subcategory": "Sustenance — Prayer",
+    "subcategory": "Sustenance",
     "source": "practical"
   },
   {
@@ -3219,7 +3377,7 @@
     "name": "3. Prayer for More Sustenance",
     "category": "practical",
     "segmentCount": 2,
-    "subcategory": "Sustenance — Prayer",
+    "subcategory": "Sustenance",
     "source": "practical"
   },
   {
@@ -3227,7 +3385,7 @@
     "name": "Tasbih of Fatima Zehra (sa)",
     "category": "practical",
     "segmentCount": 2,
-    "subcategory": "Sustenance — Dhikr",
+    "subcategory": "Sustenance",
     "source": "practical"
   },
   {
@@ -3235,7 +3393,7 @@
     "name": "1. Dhikr for Rizq",
     "category": "practical",
     "segmentCount": 6,
-    "subcategory": "Sustenance — Dhikr",
+    "subcategory": "Sustenance",
     "source": "practical"
   },
   {
@@ -3243,7 +3401,7 @@
     "name": "Rizq Dua by Imam Mahdi (atfs)",
     "category": "practical",
     "segmentCount": 2,
-    "subcategory": "Sustenance — Dua",
+    "subcategory": "Sustenance",
     "source": "practical"
   },
   {
@@ -3251,7 +3409,7 @@
     "name": "Rizq Dua by Imam Ali (a.s)",
     "category": "practical",
     "segmentCount": 6,
-    "subcategory": "Sustenance — Dua",
+    "subcategory": "Sustenance",
     "source": "practical"
   },
   {
@@ -3259,7 +3417,7 @@
     "name": "The two verses from Surh  At-Talaq",
     "category": "practical",
     "segmentCount": 2,
-    "subcategory": "Sustenance — Verses",
+    "subcategory": "Sustenance",
     "source": "practical"
   },
   {
@@ -3267,7 +3425,7 @@
     "name": "Verse 19 of Surah Ash-Shura",
     "category": "practical",
     "segmentCount": 2,
-    "subcategory": "Sustenance — Verses",
+    "subcategory": "Sustenance",
     "source": "practical"
   },
   {
@@ -3275,7 +3433,7 @@
     "name": "6. Dua for Sustenance",
     "category": "practical",
     "segmentCount": 1,
-    "subcategory": "Sustenance — Dua",
+    "subcategory": "Sustenance",
     "source": "practical"
   },
   {
@@ -3283,7 +3441,7 @@
     "name": "The two verses from Surat Al Imran",
     "category": "practical",
     "segmentCount": 2,
-    "subcategory": "Sustenance — Verses",
+    "subcategory": "Sustenance",
     "source": "practical"
   },
   {
@@ -3291,7 +3449,7 @@
     "name": "To eliminate poverty",
     "category": "practical",
     "segmentCount": 1,
-    "subcategory": "Sustenance — Verses",
+    "subcategory": "Sustenance",
     "source": "practical"
   },
   {
@@ -3299,7 +3457,7 @@
     "name": "2. Dhikr for Rizq",
     "category": "practical",
     "segmentCount": 3,
-    "subcategory": "Sustenance — Dhikr",
+    "subcategory": "Sustenance",
     "source": "practical"
   },
   {
@@ -3307,7 +3465,7 @@
     "name": "Verse 37 of Surah Al Imran",
     "category": "practical",
     "segmentCount": 2,
-    "subcategory": "Sustenance — Verses",
+    "subcategory": "Sustenance",
     "source": "practical"
   },
   {
@@ -3315,7 +3473,7 @@
     "name": "7. Dua for Sustenance",
     "category": "practical",
     "segmentCount": 3,
-    "subcategory": "Sustenance — Dua",
+    "subcategory": "Sustenance",
     "source": "practical"
   },
   {
@@ -3323,7 +3481,7 @@
     "name": "Other verses for sustenance",
     "category": "practical",
     "segmentCount": 5,
-    "subcategory": "Sustenance — Verses",
+    "subcategory": "Sustenance",
     "source": "practical"
   },
   {
@@ -3331,7 +3489,7 @@
     "name": "1. Hadith",
     "category": "practical",
     "segmentCount": 2,
-    "subcategory": "Sustenance — Hadith",
+    "subcategory": "Sustenance",
     "source": "practical"
   },
   {
@@ -3339,7 +3497,7 @@
     "name": "2. Hadith",
     "category": "practical",
     "segmentCount": 2,
-    "subcategory": "Sustenance — Hadith",
+    "subcategory": "Sustenance",
     "source": "practical"
   },
   {
@@ -3347,7 +3505,7 @@
     "name": "3. Hadith",
     "category": "practical",
     "segmentCount": 2,
-    "subcategory": "Sustenance — Hadith",
+    "subcategory": "Sustenance",
     "source": "practical"
   },
   {
@@ -3355,7 +3513,7 @@
     "name": "Salat of Isteghfar",
     "category": "practical",
     "segmentCount": 1,
-    "subcategory": "Sustenance — Prayer",
+    "subcategory": "Sustenance",
     "source": "practical"
   },
   {
@@ -3363,7 +3521,7 @@
     "name": "8. Dua for Sustenance",
     "category": "practical",
     "segmentCount": 46,
-    "subcategory": "Sustenance — Dua",
+    "subcategory": "Sustenance",
     "source": "practical"
   },
   {
@@ -3371,7 +3529,7 @@
     "name": "Supplication when sick",
     "category": "practical",
     "segmentCount": 29,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3379,7 +3537,7 @@
     "name": "1. Dua for Healing",
     "category": "practical",
     "segmentCount": 9,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3387,7 +3545,7 @@
     "name": "2. Dua for Healing",
     "category": "practical",
     "segmentCount": 13,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3395,7 +3553,7 @@
     "name": "3. Dua for Healing",
     "category": "practical",
     "segmentCount": 11,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3403,7 +3561,7 @@
     "name": "4. Dua for Healing",
     "category": "practical",
     "segmentCount": 10,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3411,7 +3569,7 @@
     "name": "5. Dua for Healing",
     "category": "practical",
     "segmentCount": 4,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3419,7 +3577,7 @@
     "name": "6. Dua for Healing",
     "category": "practical",
     "segmentCount": 8,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3427,7 +3585,7 @@
     "name": "7. Dua for Healing",
     "category": "practical",
     "segmentCount": 4,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3435,7 +3593,7 @@
     "name": "8. Dua for Healing",
     "category": "practical",
     "segmentCount": 12,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3443,7 +3601,7 @@
     "name": "9. Dua for Healing",
     "category": "practical",
     "segmentCount": 6,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3451,7 +3609,7 @@
     "name": "1. Hadith",
     "category": "practical",
     "segmentCount": 1,
-    "subcategory": "Healing — Hadith",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3459,7 +3617,7 @@
     "name": "2. Hadith",
     "category": "practical",
     "segmentCount": 1,
-    "subcategory": "Healing — Hadith",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3467,7 +3625,7 @@
     "name": "3. Hadith",
     "category": "practical",
     "segmentCount": 1,
-    "subcategory": "Healing — Hadith",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3475,7 +3633,7 @@
     "name": "10. Dua for Healing",
     "category": "practical",
     "segmentCount": 16,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3483,7 +3641,7 @@
     "name": "4. Hadith",
     "category": "practical",
     "segmentCount": 1,
-    "subcategory": "Healing — Hadith",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3491,7 +3649,7 @@
     "name": "Verse 82 of Surh Al-Isra",
     "category": "practical",
     "segmentCount": 2,
-    "subcategory": "Healing — Verses",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3499,7 +3657,7 @@
     "name": "11. Dua for Healing",
     "category": "practical",
     "segmentCount": 4,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3507,7 +3665,7 @@
     "name": "12. Dua for Healing",
     "category": "practical",
     "segmentCount": 15,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3515,7 +3673,7 @@
     "name": "13. Dua for Healing",
     "category": "practical",
     "segmentCount": 27,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3523,7 +3681,7 @@
     "name": "14. Dua for Healing",
     "category": "practical",
     "segmentCount": 30,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3531,7 +3689,7 @@
     "name": "14. Dua for Healing",
     "category": "practical",
     "segmentCount": 12,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3539,7 +3697,7 @@
     "name": "Surahs Al-Fatihah & Ikhlas",
     "category": "practical",
     "segmentCount": 1,
-    "subcategory": "Healing — Verses",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3547,7 +3705,7 @@
     "name": "15. Dua for Healing",
     "category": "practical",
     "segmentCount": 4,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3555,7 +3713,7 @@
     "name": "26. Dua for Healing",
     "category": "practical",
     "segmentCount": 9,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3563,7 +3721,7 @@
     "name": "Dua Amulet against Migraine",
     "category": "practical",
     "segmentCount": 7,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3571,7 +3729,7 @@
     "name": "Dua Amulet against Deafness",
     "category": "practical",
     "segmentCount": 2,
-    "subcategory": "Healing — Verses",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3579,7 +3737,7 @@
     "name": "Dua for Mouth Ache",
     "category": "practical",
     "segmentCount": 16,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3587,7 +3745,7 @@
     "name": "1. Dua for Toothache",
     "category": "practical",
     "segmentCount": 5,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3595,7 +3753,7 @@
     "name": "2. Dua for Toothache",
     "category": "practical",
     "segmentCount": 4,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3603,7 +3761,7 @@
     "name": "3. Dua for Toothache",
     "category": "practical",
     "segmentCount": 39,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3611,7 +3769,7 @@
     "name": "Dua for chest Pain",
     "category": "practical",
     "segmentCount": 1,
-    "subcategory": "Healing — Verses",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3619,7 +3777,7 @@
     "name": "Dua for cough relief",
     "category": "practical",
     "segmentCount": 3,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3627,7 +3785,7 @@
     "name": "1. Dua for Stomachache",
     "category": "practical",
     "segmentCount": 17,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3635,7 +3793,7 @@
     "name": "2. Dua for Stomachache",
     "category": "practical",
     "segmentCount": 9,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3643,7 +3801,7 @@
     "name": "Dua for the removal of warts",
     "category": "practical",
     "segmentCount": 10,
-    "subcategory": "Healing — Verses",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3651,7 +3809,7 @@
     "name": "Dua Amulet for tumor relief",
     "category": "practical",
     "segmentCount": 3,
-    "subcategory": "Healing — Verses",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3659,7 +3817,7 @@
     "name": "Dua for Dystocia /Child birth",
     "category": "practical",
     "segmentCount": 36,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3667,7 +3825,7 @@
     "name": "8 Duas Amulet for Fever relief",
     "category": "practical",
     "segmentCount": 124,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3675,7 +3833,7 @@
     "name": "Dua Amulet for stomach gurgling relief",
     "category": "practical",
     "segmentCount": 2,
-    "subcategory": "Healing — Hadith",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3683,7 +3841,7 @@
     "name": "Dua Amulet for Leprosy relief",
     "category": "practical",
     "segmentCount": 23,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3691,7 +3849,7 @@
     "name": "Dua Amulet for for knee pain relief",
     "category": "practical",
     "segmentCount": 16,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3699,7 +3857,7 @@
     "name": "Dua Amulet for Eye Aches relief",
     "category": "practical",
     "segmentCount": 63,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3707,7 +3865,7 @@
     "name": "Dua Amulet for Epilepsy relief",
     "category": "practical",
     "segmentCount": 1,
-    "subcategory": "Healing — Hadith",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3715,7 +3873,7 @@
     "name": "Diabetes & Coronary heart disease",
     "category": "practical",
     "segmentCount": 2,
-    "subcategory": "Healing — Verses",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3723,7 +3881,7 @@
     "name": "compulsive disorders",
     "category": "practical",
     "segmentCount": 6,
-    "subcategory": "Healing — Dua",
+    "subcategory": "Healing",
     "source": "practical"
   },
   {
@@ -3731,7 +3889,7 @@
     "name": "before going to sleep",
     "category": "practical",
     "segmentCount": 11,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3739,7 +3897,7 @@
     "name": "1. at bedtime and at waking",
     "category": "practical",
     "segmentCount": 7,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3747,7 +3905,7 @@
     "name": "2. at bedtime and at waking",
     "category": "practical",
     "segmentCount": 5,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3755,7 +3913,7 @@
     "name": "3. at bedtime and at waking",
     "category": "practical",
     "segmentCount": 14,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3763,7 +3921,7 @@
     "name": "4. at bedtime and at waking",
     "category": "practical",
     "segmentCount": 2,
-    "subcategory": "Times — Verses",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3771,7 +3929,7 @@
     "name": "5. at bedtime and at waking",
     "category": "practical",
     "segmentCount": 5,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3779,7 +3937,7 @@
     "name": "6. at bedtime and at waking",
     "category": "practical",
     "segmentCount": 6,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3787,7 +3945,7 @@
     "name": "7. at bedtime and at waking",
     "category": "practical",
     "segmentCount": 11,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3795,7 +3953,7 @@
     "name": "Lady Fatima (sa) supplication",
     "category": "practical",
     "segmentCount": 6,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3803,7 +3961,7 @@
     "name": "Sunset",
     "category": "practical",
     "segmentCount": 38,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3811,7 +3969,7 @@
     "name": "Imam Ali (as) Sunset Dua",
     "category": "practical",
     "segmentCount": 5,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3819,7 +3977,7 @@
     "name": "First hour of the day",
     "category": "practical",
     "segmentCount": 15,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3827,7 +3985,7 @@
     "name": "Second hour of the day",
     "category": "practical",
     "segmentCount": 13,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3835,7 +3993,7 @@
     "name": "Third hour of the day",
     "category": "practical",
     "segmentCount": 21,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3843,7 +4001,7 @@
     "name": "Fourth hour of the day",
     "category": "practical",
     "segmentCount": 18,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3851,7 +4009,7 @@
     "name": "Fifth hour of the day",
     "category": "practical",
     "segmentCount": 14,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3859,7 +4017,7 @@
     "name": "Sixth hour of the day",
     "category": "practical",
     "segmentCount": 13,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3867,7 +4025,7 @@
     "name": "Seventh hour of the day",
     "category": "practical",
     "segmentCount": 15,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3875,7 +4033,7 @@
     "name": "Eighth hour of the day",
     "category": "practical",
     "segmentCount": 17,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3883,7 +4041,7 @@
     "name": "Ninth hour of the day",
     "category": "practical",
     "segmentCount": 17,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3891,7 +4049,7 @@
     "name": "Tenth hour of the day",
     "category": "practical",
     "segmentCount": 14,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3899,7 +4057,7 @@
     "name": "Eleventh hour of the day",
     "category": "practical",
     "segmentCount": 16,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3907,7 +4065,7 @@
     "name": "Twelfth hour of the day",
     "category": "practical",
     "segmentCount": 20,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3915,7 +4073,7 @@
     "name": "Three Special Hours",
     "category": "practical",
     "segmentCount": 26,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3923,7 +4081,7 @@
     "name": "1. morning",
     "category": "practical",
     "segmentCount": 111,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3931,7 +4089,7 @@
     "name": "2. morning",
     "category": "practical",
     "segmentCount": 20,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3939,7 +4097,7 @@
     "name": "mornings and evenings",
     "category": "practical",
     "segmentCount": 92,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3947,7 +4105,7 @@
     "name": "evening",
     "category": "practical",
     "segmentCount": 19,
-    "subcategory": "Times — Dua",
+    "subcategory": "Times",
     "source": "practical"
   },
   {
@@ -3955,7 +4113,7 @@
     "name": "Sahifa Sajjadia dua no 13 for seeking needs",
     "category": "practical",
     "segmentCount": 53,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -3963,7 +4121,7 @@
     "name": "1. For needs",
     "category": "practical",
     "segmentCount": 14,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -3971,7 +4129,7 @@
     "name": "2. For needs",
     "category": "practical",
     "segmentCount": 7,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -3979,7 +4137,7 @@
     "name": "3. For needs",
     "category": "practical",
     "segmentCount": 18,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -3987,7 +4145,7 @@
     "name": "4. For needs",
     "category": "practical",
     "segmentCount": 29,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -3995,7 +4153,7 @@
     "name": "5. For needs",
     "category": "practical",
     "segmentCount": 3,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4003,7 +4161,7 @@
     "name": "6. For needs",
     "category": "practical",
     "segmentCount": 2,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4011,7 +4169,7 @@
     "name": "7. For needs",
     "category": "practical",
     "segmentCount": 3,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4019,7 +4177,7 @@
     "name": "8. For needs",
     "category": "practical",
     "segmentCount": 5,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4027,7 +4185,7 @@
     "name": "9. For needs",
     "category": "practical",
     "segmentCount": 3,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4035,7 +4193,7 @@
     "name": "10. For needs",
     "category": "practical",
     "segmentCount": 1,
-    "subcategory": "Desires — Dhikr",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4043,7 +4201,7 @@
     "name": "11. For needs",
     "category": "practical",
     "segmentCount": 6,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4051,7 +4209,7 @@
     "name": "12. For needs",
     "category": "practical",
     "segmentCount": 8,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4059,7 +4217,7 @@
     "name": "13. For needs",
     "category": "practical",
     "segmentCount": 67,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4067,7 +4225,7 @@
     "name": "14. For needs",
     "category": "practical",
     "segmentCount": 37,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4075,7 +4233,7 @@
     "name": "15. For needs",
     "category": "practical",
     "segmentCount": 65,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4083,7 +4241,7 @@
     "name": "16. For needs",
     "category": "practical",
     "segmentCount": 23,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4091,7 +4249,7 @@
     "name": "17. For needs",
     "category": "practical",
     "segmentCount": 12,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4099,7 +4257,7 @@
     "name": "18. For needs",
     "category": "practical",
     "segmentCount": 10,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4107,7 +4265,7 @@
     "name": "19. For needs",
     "category": "practical",
     "segmentCount": 15,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4115,7 +4273,7 @@
     "name": "20. For needs",
     "category": "practical",
     "segmentCount": 80,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4123,7 +4281,7 @@
     "name": "21. For needs",
     "category": "practical",
     "segmentCount": 7,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4131,7 +4289,7 @@
     "name": "22. For needs",
     "category": "practical",
     "segmentCount": 89,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4139,7 +4297,7 @@
     "name": "23. For needs",
     "category": "practical",
     "segmentCount": 6,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4147,7 +4305,7 @@
     "name": "24. For needs",
     "category": "practical",
     "segmentCount": 6,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4155,7 +4313,7 @@
     "name": "25. For needs",
     "category": "practical",
     "segmentCount": 16,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4163,7 +4321,7 @@
     "name": "26. For needs",
     "category": "practical",
     "segmentCount": 22,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4171,7 +4329,7 @@
     "name": "27. For needs",
     "category": "practical",
     "segmentCount": 140,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4179,7 +4337,7 @@
     "name": "28. For needs",
     "category": "practical",
     "segmentCount": 61,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4187,7 +4345,7 @@
     "name": "29. For needs",
     "category": "practical",
     "segmentCount": 78,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4195,7 +4353,7 @@
     "name": "30. For needs",
     "category": "practical",
     "segmentCount": 4,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4203,7 +4361,7 @@
     "name": "1. Salat for Hajaat",
     "category": "practical",
     "segmentCount": 4,
-    "subcategory": "Desires — Prayer",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4211,7 +4369,7 @@
     "name": "Prayer for Settling Urgent Needs",
     "category": "practical",
     "segmentCount": 9,
-    "subcategory": "Desires — Prayer",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4219,7 +4377,7 @@
     "name": "for Solving Difficulties",
     "category": "practical",
     "segmentCount": 7,
-    "subcategory": "Desires — Prayer",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4227,7 +4385,7 @@
     "name": "2. Salat for Hajaat",
     "category": "practical",
     "segmentCount": 5,
-    "subcategory": "Desires — Prayer",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4235,7 +4393,7 @@
     "name": "3. Salat for Hajaat",
     "category": "practical",
     "segmentCount": 42,
-    "subcategory": "Desires — Prayer",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4243,7 +4401,7 @@
     "name": "4. Salat for Hajaat",
     "category": "practical",
     "segmentCount": 21,
-    "subcategory": "Desires — Prayer",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4251,7 +4409,7 @@
     "name": "5. Salat for Hajaat",
     "category": "practical",
     "segmentCount": 21,
-    "subcategory": "Desires — Prayer",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4259,7 +4417,7 @@
     "name": "6. Salat for Hajaat",
     "category": "practical",
     "segmentCount": 7,
-    "subcategory": "Desires — Prayer",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4267,7 +4425,7 @@
     "name": "7. Salat for Hajaat",
     "category": "practical",
     "segmentCount": 38,
-    "subcategory": "Desires — Prayer",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4275,7 +4433,7 @@
     "name": "Etiquettes of Praying for Settling the Needs",
     "category": "practical",
     "segmentCount": 1,
-    "subcategory": "Desires — Hadith",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4283,7 +4441,7 @@
     "name": "Supplication of the repentant",
     "category": "practical",
     "segmentCount": 51,
-    "subcategory": "Repentance — Dua",
+    "subcategory": "Repentance",
     "source": "practical"
   },
   {
@@ -4291,7 +4449,7 @@
     "name": "In confession and repentance",
     "category": "practical",
     "segmentCount": 70,
-    "subcategory": "Repentance — Dua",
+    "subcategory": "Repentance",
     "source": "practical"
   },
   {
@@ -4299,7 +4457,7 @@
     "name": "Resignation from sins and request forgiveness",
     "category": "practical",
     "segmentCount": 115,
-    "subcategory": "Repentance — Dua",
+    "subcategory": "Repentance",
     "source": "practical"
   },
   {
@@ -4307,7 +4465,7 @@
     "name": "1. For repentance",
     "category": "practical",
     "segmentCount": 131,
-    "subcategory": "Repentance — Dua",
+    "subcategory": "Repentance",
     "source": "practical"
   },
   {
@@ -4315,7 +4473,7 @@
     "name": "Apology",
     "category": "practical",
     "segmentCount": 16,
-    "subcategory": "Repentance — Dua",
+    "subcategory": "Repentance",
     "source": "practical"
   },
   {
@@ -4323,7 +4481,7 @@
     "name": "In asking for forgiveness",
     "category": "practical",
     "segmentCount": 69,
-    "subcategory": "Repentance — Dua",
+    "subcategory": "Repentance",
     "source": "practical"
   },
   {
@@ -4331,7 +4489,7 @@
     "name": "Miraculous forgiveness",
     "category": "practical",
     "segmentCount": 32,
-    "subcategory": "Repentance — Dua",
+    "subcategory": "Repentance",
     "source": "practical"
   },
   {
@@ -4339,7 +4497,7 @@
     "name": "2. For repentance",
     "category": "practical",
     "segmentCount": 46,
-    "subcategory": "Repentance — Dua",
+    "subcategory": "Repentance",
     "source": "practical"
   },
   {
@@ -4347,7 +4505,7 @@
     "name": "Accepting Repentance",
     "category": "practical",
     "segmentCount": 39,
-    "subcategory": "Repentance — Dua",
+    "subcategory": "Repentance",
     "source": "practical"
   },
   {
@@ -4355,7 +4513,7 @@
     "name": "1. PRAYER FOR FORGIVENESS",
     "category": "practical",
     "segmentCount": 1,
-    "subcategory": "Repentance — Prayer",
+    "subcategory": "Repentance",
     "source": "practical"
   },
   {
@@ -4363,7 +4521,7 @@
     "name": "2. PRAYER FOR FORGIVENESS",
     "category": "practical",
     "segmentCount": 3,
-    "subcategory": "Repentance — Prayer",
+    "subcategory": "Repentance",
     "source": "practical"
   },
   {
@@ -4371,7 +4529,7 @@
     "name": "PRAYER FOR PARDON",
     "category": "practical",
     "segmentCount": 4,
-    "subcategory": "Repentance — Prayer",
+    "subcategory": "Repentance",
     "source": "practical"
   },
   {
@@ -4379,7 +4537,7 @@
     "name": "When leaving home",
     "category": "practical",
     "segmentCount": 50,
-    "subcategory": "Travel — Dua",
+    "subcategory": "Travel",
     "source": "practical"
   },
   {
@@ -4387,7 +4545,7 @@
     "name": "Travel Dua",
     "category": "practical",
     "segmentCount": 37,
-    "subcategory": "Travel — Dua",
+    "subcategory": "Travel",
     "source": "practical"
   },
   {
@@ -4395,7 +4553,7 @@
     "name": "Whenever a horrifying matter inflicts you",
     "category": "practical",
     "segmentCount": 5,
-    "subcategory": "Sadness & Fear — Prayer",
+    "subcategory": "Sadness & Fear",
     "source": "practical"
   },
   {
@@ -4403,7 +4561,7 @@
     "name": "Whoever is inflicted by a distress",
     "category": "practical",
     "segmentCount": 3,
-    "subcategory": "Sadness & Fear — Dua",
+    "subcategory": "Sadness & Fear",
     "source": "practical"
   },
   {
@@ -4411,7 +4569,7 @@
     "name": "Relief from sadness",
     "category": "practical",
     "segmentCount": 8,
-    "subcategory": "Sadness & Fear — Dua",
+    "subcategory": "Sadness & Fear",
     "source": "practical"
   },
   {
@@ -4419,7 +4577,7 @@
     "name": "If you fear something",
     "category": "practical",
     "segmentCount": 28,
-    "subcategory": "Sadness & Fear — Dua",
+    "subcategory": "Sadness & Fear",
     "source": "practical"
   },
   {
@@ -4427,7 +4585,7 @@
     "name": "To complete the task successfully",
     "category": "practical",
     "segmentCount": 42,
-    "subcategory": "Sadness & Fear — Dua",
+    "subcategory": "Sadness & Fear",
     "source": "practical"
   },
   {
@@ -4435,7 +4593,7 @@
     "name": "For important work",
     "category": "practical",
     "segmentCount": 16,
-    "subcategory": "Sadness & Fear — Dua",
+    "subcategory": "Sadness & Fear",
     "source": "practical"
   },
   {
@@ -4443,7 +4601,7 @@
     "name": "To relieve distress and fear",
     "category": "practical",
     "segmentCount": 6,
-    "subcategory": "Sadness & Fear — Dua",
+    "subcategory": "Sadness & Fear",
     "source": "practical"
   },
   {
@@ -4451,7 +4609,7 @@
     "name": "For relief",
     "category": "practical",
     "segmentCount": 4,
-    "subcategory": "Sadness & Fear — Dua",
+    "subcategory": "Sadness & Fear",
     "source": "practical"
   },
   {
@@ -4459,7 +4617,7 @@
     "name": "Who was afflicted with a calamity",
     "category": "practical",
     "segmentCount": 17,
-    "subcategory": "Sadness & Fear — Dua",
+    "subcategory": "Sadness & Fear",
     "source": "practical"
   },
   {
@@ -4467,7 +4625,7 @@
     "name": "To lift worry and sadness",
     "category": "practical",
     "segmentCount": 13,
-    "subcategory": "Sadness & Fear — Dua",
+    "subcategory": "Sadness & Fear",
     "source": "practical"
   },
   {
@@ -4475,7 +4633,7 @@
     "name": "To lift worry",
     "category": "practical",
     "segmentCount": 6,
-    "subcategory": "Sadness & Fear — Dua",
+    "subcategory": "Sadness & Fear",
     "source": "practical"
   },
   {
@@ -4483,7 +4641,7 @@
     "name": "For need",
     "category": "practical",
     "segmentCount": 14,
-    "subcategory": "Desires — Dua",
+    "subcategory": "Desires",
     "source": "practical"
   },
   {
@@ -4491,7 +4649,7 @@
     "name": "Prayer for a fearful matter",
     "category": "practical",
     "segmentCount": 71,
-    "subcategory": "Sadness & Fear — Prayer",
+    "subcategory": "Sadness & Fear",
     "source": "practical"
   },
   {
@@ -4499,7 +4657,7 @@
     "name": "A Dua to repel the enemies’ plots",
     "category": "practical",
     "segmentCount": 42,
-    "subcategory": "Sadness & Fear — Dua",
+    "subcategory": "Sadness & Fear",
     "source": "practical"
   },
   {
@@ -4507,7 +4665,7 @@
     "name": "A Dua to expose injustice",
     "category": "practical",
     "segmentCount": 48,
-    "subcategory": "Sadness & Fear — Dua",
+    "subcategory": "Sadness & Fear",
     "source": "practical"
   },
   {
@@ -4515,7 +4673,7 @@
     "name": "Seeking Protection",
     "category": "practical",
     "segmentCount": 35,
-    "subcategory": "Sadness & Fear — Dua",
+    "subcategory": "Sadness & Fear",
     "source": "practical"
   },
   {
@@ -4523,7 +4681,7 @@
     "name": "Amulet of the Messenger of Allah (P.B.U.H.)",
     "category": "practical",
     "segmentCount": 2,
-    "subcategory": "Evil & Evil eye — Dua",
+    "subcategory": "Evil & Evil eye",
     "source": "practical"
   },
   {
@@ -4531,7 +4689,7 @@
     "name": "Amulet of Lady Fatima Zahra (S.A.)",
     "category": "practical",
     "segmentCount": 1,
-    "subcategory": "Evil & Evil eye — Dua",
+    "subcategory": "Evil & Evil eye",
     "source": "practical"
   },
   {
@@ -4539,7 +4697,7 @@
     "name": "Amulet of Imam Ali (A.S)",
     "category": "practical",
     "segmentCount": 2,
-    "subcategory": "Evil & Evil eye — Dua",
+    "subcategory": "Evil & Evil eye",
     "source": "practical"
   },
   {
@@ -4547,7 +4705,7 @@
     "name": "Amulet of Imam Sajjad (A.S.)",
     "category": "practical",
     "segmentCount": 2,
-    "subcategory": "Evil & Evil eye — Dua",
+    "subcategory": "Evil & Evil eye",
     "source": "practical"
   },
   {
@@ -4555,7 +4713,7 @@
     "name": "Amulet of Imam Sadiq (A.S.)",
     "category": "practical",
     "segmentCount": 1,
-    "subcategory": "Evil & Evil eye — Dua",
+    "subcategory": "Evil & Evil eye",
     "source": "practical"
   },
   {
@@ -4563,7 +4721,7 @@
     "name": "Amulet of Imam Kadhim (A.S.)",
     "category": "practical",
     "segmentCount": 2,
-    "subcategory": "Evil & Evil eye — Dua",
+    "subcategory": "Evil & Evil eye",
     "source": "practical"
   },
   {
@@ -4571,7 +4729,7 @@
     "name": "Amulet of Imam Ridha (A.S.)",
     "category": "practical",
     "segmentCount": 3,
-    "subcategory": "Evil & Evil eye — Dua",
+    "subcategory": "Evil & Evil eye",
     "source": "practical"
   },
   {
@@ -4579,7 +4737,7 @@
     "name": "Amulet of Imam Javad (A.S.)",
     "category": "practical",
     "segmentCount": 1,
-    "subcategory": "Evil & Evil eye — Dua",
+    "subcategory": "Evil & Evil eye",
     "source": "practical"
   },
   {
@@ -4587,7 +4745,7 @@
     "name": "Amulet of Imam Hadi (A.S.)",
     "category": "practical",
     "segmentCount": 1,
-    "subcategory": "Evil & Evil eye — Dua",
+    "subcategory": "Evil & Evil eye",
     "source": "practical"
   },
   {
@@ -4595,7 +4753,7 @@
     "name": "Amulet of Imam Askari (A.S.)",
     "category": "practical",
     "segmentCount": 1,
-    "subcategory": "Evil & Evil eye — Dua",
+    "subcategory": "Evil & Evil eye",
     "source": "practical"
   },
   {
@@ -4603,7 +4761,7 @@
     "name": "Amulet of Imam Mahdi (A.S.)",
     "category": "practical",
     "segmentCount": 1,
-    "subcategory": "Evil & Evil eye — Dua",
+    "subcategory": "Evil & Evil eye",
     "source": "practical"
   },
   {
@@ -4611,7 +4769,7 @@
     "name": "Safety from jinn and humans",
     "category": "practical",
     "segmentCount": 1,
-    "subcategory": "Evil & Evil eye — Dua",
+    "subcategory": "Evil & Evil eye",
     "source": "practical"
   },
   {
@@ -4619,7 +4777,7 @@
     "name": "A proven Dua for protection",
     "category": "practical",
     "segmentCount": 4,
-    "subcategory": "Evil & Evil eye — Dua",
+    "subcategory": "Evil & Evil eye",
     "source": "practical"
   },
   {
@@ -4627,7 +4785,7 @@
     "name": "To protect oneself from the evil eye",
     "category": "practical",
     "segmentCount": 10,
-    "subcategory": "Evil & Evil eye — Dua",
+    "subcategory": "Evil & Evil eye",
     "source": "practical"
   },
   {
@@ -4635,7 +4793,7 @@
     "name": "To drive away demons and witches",
     "category": "practical",
     "segmentCount": 4,
-    "subcategory": "Evil & Evil eye — Dua",
+    "subcategory": "Evil & Evil eye",
     "source": "practical"
   }
 ]
