@@ -825,20 +825,27 @@
     "id": "ss20-noble-traits-makarem-akhlaq",
     "name": "SS20 - Noble Traits (Makarem Akhlaq)",
     "category": "sahifa",
-    "segmentCount": 217,
+    "segmentCount": 218,
     "url": "https://www.duas.org/mobile/sahifasajjadia-dua20-makarem-akhlaq-noble-traits.html",
     "segments": [
       {
         "number": null,
         "type": "heading",
         "text": {
-          "en": "His Supplication for Noble Moral Traits (Makarem al-Akhlaq)"
+          "en": "Dua Makarem Akhlaq"
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "This Du'a has been taught by Imam Sajjad (as) and is a clear indication of the loftiness of moral virtues expected of a believer. Islam believes in the elevation of the human being, that a human is a great and dignified creation, far above the animal world. One of the signs of this dignity is the possession of noble and magnanimous qualities. In order to achieve this behavioral excellence, man needs to overcome his base and selfish attributes, and cultivate noble qualities. In this Du\"a the Imam specifies these qualities, and shows how we can try to inculcate them in ourselves. Taken as a lesson in Akhlaq, the Du'a is a wonderful program for those who wish to excel in good manners.."
         }
       },
       {
         "number": 1,
         "type": "content",
-        "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+        "arabic": "بسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
         "transliteration": "bis-mil-lahir-rahmamnir-rahim",
         "translation": {
           "en": "In the Name of Allah, the All-merciful, the All-compassionate"
@@ -1000,7 +1007,7 @@
       {
         "number": 19,
         "type": "content",
-        "arabic": "وَهَبْ لِي مَعَاِلي الأَخْلاَقِ",
+        "arabic": "وَهَبْ لِي مَعَالِيَ الأَخْلاَقِ",
         "transliteration": "wa hab liya ma'ali-yal-akh-laq",
         "translation": {
           "en": "Give me the highest moral traits"
@@ -1072,7 +1079,7 @@
       {
         "number": 27,
         "type": "content",
-        "arabic": "وَنِيَّةِ رَشْدٍ لا أَشُكُّ فِيهَا",
+        "arabic": "وَنِيَّةِ رُشْدٍ لا أَشُكُّ فِيهَا",
         "transliteration": "wa ni-yati rush-dil-la ashuk-ku fiha",
         "translation": {
           "en": "And an intention of right conduct in which I have no doubts!"
@@ -1084,7 +1091,7 @@
         "arabic": "وَعَمِّرْنِي مَا كَانَ عُمْرِي بِذْلَةً فِي طَاعَتِكَ، فَإِذَا كَانَ عُمْرِي مَرْتَعاً لِلشَّيْطَانِ فَاقْبِضْنِي إِلَيْكَ، قَبْلَ أَن يَّسْبِقَ مَقْتُكَ إِلَيَّ، أَوْ يَسْتَحْكِمَ غَضَبُكَ عَلَيَّ",
         "transliteration": "wa a'mmir-ni ma kana u'm-ri bidhlatan fi ta'tika fa-idha kana u'm-ri mar-ta'al-lish-shaytani faq-bizni ilayka qab-la ayyasbiqa maq-tuka ilay-ya aw yas-tah-kima ghazabuka a'lay-ya",
         "translation": {
-          "en": "Let me live as long as my life is a free gift in obeying You, but if my life should become a pasture for Satan, seize me to Yourself before Your hatred overtakes me or Your wrath against be becomes firm!"
+          "en": "Let me live as long as my life is a free gift in being You, but if my life should become a pasture for Satan, seize me to Yourself before Your hatred overtakes me or Your wrath against be becomes firm!"
         }
       },
       {
@@ -1207,7 +1214,7 @@
       {
         "number": 42,
         "type": "content",
-        "arabic": "وَمِن مَّرَارَةِ خَوْفِ الظَّالِمِينَ حَلاَوَةَ الأَمنَةَ",
+        "arabic": "وَمِن مَّرَارَةِ خَوْفِ الظَّالِمِينَ حَلاَوَةَ الأَمَنَةَ",
         "transliteration": "wa mim-mararati khaw-fiz-zalimina halawatal-amnah",
         "translation": {
           "en": "And the bitterness of the fear of wrongdoers with the sweetness of security!"
@@ -1333,7 +1340,7 @@
       {
         "number": 56,
         "type": "content",
-        "arabic": "وَأَجْزِي مَنْ هَجَرَنِي بِالْبِرِّ،",
+        "arabic": "وَأَجْزِيَ مَنْ هَجَرَنِي بِالْبِرِّ،",
         "transliteration": "wa aj-ziya man hajarani bil-bir-r",
         "translation": {
           "en": "repay him who separates from me with gentle devotion,"
@@ -1378,7 +1385,7 @@
       {
         "number": 61,
         "type": "content",
-        "arabic": "وَأُغْضِي عَنِ السَّيِّئَةِ",
+        "arabic": "وَأُغْضِيَ عَنِ السَّيِّئَةِ",
         "transliteration": "wa ugh-ziya a'nis-say-yiwah",
         "translation": {
           "en": "And shut my eyes to evil!"
@@ -1513,7 +1520,7 @@
       {
         "number": 76,
         "type": "content",
-        "arabic": "وَطِيبِ الْمُخَالَفَةِ",
+        "arabic": "وَطِيبِ الْمخَالَقَةِ",
         "transliteration": "wa tibil-mukhalafah",
         "translation": {
           "en": "agreeableness in comportment,"
@@ -1648,7 +1655,7 @@
       {
         "number": 91,
         "type": "content",
-        "arabic": "وَلا تَبْتَلِيَنِي بِالْكَسَلِ عَنْ عِبَادَتِكَ،",
+        "arabic": "وَلا تَبْتَلِيَنِّي بِالْكَسَلِ عَنْ عِبَادَتِكَ،",
         "transliteration": "wa-la tab-tali-yani bil-kasali a'n i'badatika",
         "translation": {
           "en": "And try me not with laziness in worship of You,"
@@ -2017,7 +2024,7 @@
       {
         "number": 132,
         "type": "content",
-        "arabic": "اللَّهُمَّ اسْلُكْ بِي الطَّرِيقَةَ الْمُثْلَى",
+        "arabic": "اللَّهُمَّ اسْلُكْ بِيَ الطَّرِيقَةَ الْمُثْلَى",
         "transliteration": "allahummas-luk bi-yat-tariqatal-muth-la",
         "translation": {
           "en": "O Allah, let me tread the most exemplary path"
@@ -2125,7 +2132,7 @@
       {
         "number": 144,
         "type": "content",
-        "arabic": "فَإِنَّ نَفْسِي هَاِلكَةً أَوْ تَعْصِمَهَا",
+        "arabic": "فَإِنَّ نَفْسِي هَالِكَةٌ أَوْ تَعْصِمَهَا",
         "transliteration": "fa-in-na naf-si halikatun aw ta'-simaha",
         "translation": {
           "en": "for my soul will perish unless You preservest it!"
@@ -2161,7 +2168,7 @@
       {
         "number": 148,
         "type": "content",
-        "arabic": "وَبِكَ اسْتِغَاثَتِي إِن كُرِثْتُ",
+        "arabic": "وَبِكَ اسْتِغَاثَتِي إِن كَرِثْتُ",
         "transliteration": "wa bikas-tigha-thati in kurith-tu",
         "translation": {
           "en": "from You I seek aid when troubled"
@@ -2260,7 +2267,7 @@
       {
         "number": 159,
         "type": "content",
-        "arabic": "وَادْرَأْ عَنِّي بِلُطْفِكَ",
+        "arabic": "وَادْرَأْْ عَنِّي بِلُطْفِكَ",
         "transliteration": "wad-ra a'n-ni bi-lut-fik",
         "translation": {
           "en": "repel from me through Your gentleness,"
@@ -2584,7 +2591,7 @@
       {
         "number": 195,
         "type": "content",
-        "arabic": "وَأَسْتَعْطِي شِرَارَ خَلْقِكَ",
+        "arabic": "وَ أَسْتَعْطِيَ  شِرَارَ خَلْقِكَ",
         "transliteration": "wa as-ta'-ti shirara khal-qik",
         "translation": {
           "en": "And ask for bestowal from the worst of Your creatures!"
@@ -2602,7 +2609,7 @@
       {
         "number": 197,
         "type": "content",
-        "arabic": "وَأُبْتَلي بِذَمِّ مَن مَّنَعَنِي",
+        "arabic": "وَأُبْتَلی بِذَمِّ مَن مَّنَعَنِي",
         "transliteration": "wa ub-tala bidhammi mam-mana'ni",
         "translation": {
           "en": "afflicted with blaming him who held back from me,"
@@ -2771,16 +2778,15 @@
         }
       },
       {
-        "number": 216,
-        "type": "content",
-        "arabic": "إِنَّكَ عَلَى كُلِّ شَيٍْء قَدِيرٌ، وَهُوَ عَلَيْكَ يَسِيرٌ",
-        "transliteration": "in-naka a'la kul-li shay-in qadiruw-wahua a'ilayka yasir",
-        "translation": {
-          "en": "You are powerful over everything, and that is easy for You!"
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "Then you may pray Almighty Allah to grant you your personal requests and they will be granted, Allah willing. According to the narration mentioned in Muhaj al-Da`awat, one must say this supplication while being in a state of ritual purity."
         }
       }
     ],
-    "mafatihId": 1298
+    "mafatihId": 1298,
+    "source": "mafatih-realigned"
   },
   {
     "id": "ss24-prayer-for-parents",

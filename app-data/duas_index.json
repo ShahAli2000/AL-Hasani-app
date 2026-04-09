@@ -3,42 +3,42 @@
     "id": "dua-kumayl",
     "name": "Dua Kumayl",
     "category": "major",
-    "segmentCount": 249,
+    "segmentCount": 252,
     "mafatihId": 1299
   },
   {
     "id": "dua-tawassul",
     "name": "Dua Tawassul",
     "category": "major",
-    "segmentCount": 225,
+    "segmentCount": 173,
     "mafatihId": 1300
   },
   {
     "id": "dua-ahad",
     "name": "Dua Ahad",
     "category": "major",
-    "segmentCount": 80,
+    "segmentCount": 86,
     "mafatihId": 1301
   },
   {
     "id": "dua-sabah",
     "name": "Dua Sabah",
     "category": "major",
-    "segmentCount": 111,
+    "segmentCount": 110,
     "mafatihId": 1302
   },
   {
     "id": "dua-simaat",
     "name": "Dua Simaat",
     "category": "major",
-    "segmentCount": 186,
+    "segmentCount": 195,
     "mafatihId": 1303
   },
   {
     "id": "dua-nudba",
     "name": "Dua Nudba",
     "category": "major",
-    "segmentCount": 363,
+    "segmentCount": 365,
     "mafatihId": 1305
   },
   {
@@ -52,35 +52,35 @@
     "id": "dua-mashlool",
     "name": "Dua Mashlool",
     "category": "major",
-    "segmentCount": 261,
+    "segmentCount": 263,
     "mafatihId": 1294
   },
   {
     "id": "dua-mujeer",
     "name": "Dua Mujeer",
     "category": "major",
-    "segmentCount": 277,
+    "segmentCount": 276,
     "mafatihId": 1350
   },
   {
     "id": "dua-adeelah",
     "name": "Dua Adeelah",
     "category": "major",
-    "segmentCount": 134,
+    "segmentCount": 127,
     "mafatihId": 1295
   },
   {
     "id": "dua-iftitah",
     "name": "Dua Iftitah",
     "category": "major",
-    "segmentCount": 236,
+    "segmentCount": 240,
     "mafatihId": 1043
   },
   {
     "id": "dua-yastasheer",
     "name": "Dua Yastasheer",
     "category": "major",
-    "segmentCount": 139,
+    "segmentCount": 138,
     "mafatihId": 1293
   },
   {
@@ -101,21 +101,21 @@
     "id": "dua-abu-hamza-thumali",
     "name": "Dua Abu Hamza Thumali",
     "category": "major",
-    "segmentCount": 670,
+    "segmentCount": 673,
     "mafatihId": 1039
   },
   {
     "id": "hadith-kisa",
     "name": "Hadith Kisa",
     "category": "major",
-    "segmentCount": 118,
+    "segmentCount": 116,
     "mafatihId": 1304
   },
   {
     "id": "dua-alqama",
     "name": "Dua Alqama",
     "category": "major",
-    "segmentCount": 191,
+    "segmentCount": 193,
     "mafatihId": 1252
   },
   {
@@ -154,7 +154,7 @@
     "id": "dua-aliya-mazameen",
     "name": "Dua Aliya Mazameen",
     "category": "major",
-    "segmentCount": 216,
+    "segmentCount": 214,
     "mafatihId": 1229
   },
   {
@@ -181,7 +181,7 @@
     "id": "dua-asharaat",
     "name": "Dua Asharaat",
     "category": "major",
-    "segmentCount": 170,
+    "segmentCount": 191,
     "mafatihId": 1306
   },
   {
@@ -201,7 +201,7 @@
     "id": "dua-hazeen",
     "name": "Dua Hazeen",
     "category": "major",
-    "segmentCount": 30,
+    "segmentCount": 28,
     "mafatihId": 1196
   },
   {
@@ -457,14 +457,14 @@
     "id": "ziyarat-jamia-kabira",
     "name": "Ziyarat Jamia Kabira",
     "category": "ziyarat",
-    "segmentCount": 412,
+    "segmentCount": 415,
     "mafatihId": 1230
   },
   {
     "id": "ziyarat-aleyasin",
     "name": "Ziyarat Aleyasin",
     "category": "ziyarat",
-    "segmentCount": 77,
+    "segmentCount": 155,
     "mafatihId": 1258
   },
   {
@@ -484,21 +484,21 @@
     "id": "ziyarat-ashura",
     "name": "Ziyarat Ashura",
     "category": "ziyarat",
-    "segmentCount": 136,
+    "segmentCount": 140,
     "mafatihId": 1246
   },
   {
     "id": "ziyarat-ameenullah",
     "name": "Ziyarat Ameenullah",
     "category": "ziyarat",
-    "segmentCount": 67,
+    "segmentCount": 70,
     "mafatihId": 1233
   },
   {
     "id": "daily-ziyarat-imam-mahdi",
     "name": "Daily Ziyarat Imam Mahdi",
     "category": "ziyarat",
-    "segmentCount": 34,
+    "segmentCount": 180,
     "mafatihId": 1257
   },
   {
@@ -524,51 +524,51 @@
     "id": "isteghasa-imam-mahdi",
     "name": "Isteghasa Imam Mahdi",
     "category": "special_needs",
-    "segmentCount": 66,
+    "segmentCount": 84,
     "mafatihId": 1204
   },
   {
     "id": "ss07-worrisome-task",
     "name": "SS07 - Worrisome Task",
     "category": "sahifa",
-    "segmentCount": 67
+    "segmentCount": 30
   },
   {
     "id": "ss08-refuge-from-hateful-things",
     "name": "SS08 - Refuge from Hateful Things",
     "category": "sahifa",
-    "segmentCount": 60
+    "segmentCount": 31
   },
   {
     "id": "ss15-when-sick",
     "name": "SS15 - When Sick",
     "category": "sahifa",
-    "segmentCount": 57
+    "segmentCount": 28
   },
   {
     "id": "ss20-noble-traits-makarem-akhlaq",
     "name": "SS20 - Noble Traits (Makarem Akhlaq)",
     "category": "sahifa",
-    "segmentCount": 217,
+    "segmentCount": 218,
     "mafatihId": 1298
   },
   {
     "id": "ss24-prayer-for-parents",
     "name": "SS24 - Prayer for Parents",
     "category": "sahifa",
-    "segmentCount": 158
+    "segmentCount": 81
   },
   {
     "id": "ss25-prayer-for-children",
     "name": "SS25 - Prayer for Children",
     "category": "sahifa",
-    "segmentCount": 148
+    "segmentCount": 83
   },
   {
     "id": "ss31-repentance",
     "name": "SS31 - Repentance",
     "category": "sahifa",
-    "segmentCount": 263
+    "segmentCount": 132
   },
   {
     "id": "munajaat-taibeen-repenters",

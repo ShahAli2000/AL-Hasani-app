@@ -31482,9 +31482,23 @@
     "id": "isteghasa-imam-mahdi",
     "name": "Isteghasa Imam Mahdi",
     "category": "special_needs",
-    "segmentCount": 66,
+    "segmentCount": 84,
     "url": "https://www.duas.org/mobile/isteghasa-imam.html",
     "segments": [
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "In his book of al-Kalim al-Tayyib, Sayyid `Ali Khan says, “The following is a form of seeking aid petition from The Argument of Allah and the Patron of the Age (Imam al-Mahdi)—peace be upon him:"
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "Wherever you are, you may take ghusl ,offer a two-unit prayer,(beneath the sky). reciting Surah <ref=1:1>Al-Fatehah</ref>\n and any other sura in each unit. Yet, it is preferable to read Surah <ref=1:48>Al-Fath</ref>\n in the first unit and Surah <ref=1:110>Al-Nasr</ref> \n in the second. You may then stand up, facing the kiblah direction under the sky and then say this dua.. Salaamullah al-Kaamel…"
+        }
+      },
       {
         "number": 1,
         "type": "content",
@@ -31498,7 +31512,7 @@
         "number": 2,
         "type": "content",
         "arabic": "ٱلشَّامِلُ ٱلْعَامُّ",
-        "transliteration": "alshshamilu alʿammu",
+        "transliteration": "alshshamilu al`ammu",
         "translation": {
           "en": "comprehensive, and thorough;"
         }
@@ -31525,7 +31539,7 @@
         "number": 5,
         "type": "content",
         "arabic": "عَلَىٰ حُجَّةِ ٱللَّهِ",
-        "transliteration": "ʿala hujjati allahi",
+        "transliteration": "`ala hujjati allahi",
         "translation": {
           "en": "be upon the Argument of Allah,"
         }
@@ -31543,7 +31557,7 @@
         "number": 7,
         "type": "content",
         "arabic": "وَخَلِيفَتِهِ عَلَىٰ خَلْقِهِ وَعِبَادِهِ",
-        "transliteration": "wa khalifatihi ʿala khalqihi wa ʿibadihi",
+        "transliteration": "wa khalifatihi `ala khalqihi wa `ibadihi",
         "translation": {
           "en": "His viceroy among His creatures and servants,"
         }
@@ -31561,7 +31575,7 @@
         "number": 9,
         "type": "content",
         "arabic": "وَبَقِيَّةِ ٱلْعِتْرَةِ وَٱلصَّفْوَةِ",
-        "transliteration": "wa baqiyyati alʿitrati walssafwati",
+        "transliteration": "wa baqiyyati al`itrati walssafwati",
         "translation": {
           "en": "the completion of the (Holy) Progeny and the Choice Ones,"
         }
@@ -31590,7 +31604,7 @@
         "arabic": "وَمُلَقِّنِ احْكَامِ ٱلْقُرْآنِ",
         "transliteration": "wa mulaqqini ahkami alqur'ani",
         "translation": {
-          "en": "the teacher of the laws of the Qur'an,"
+          "en": "the teacher of the laws of the Qur’an,"
         }
       },
       {
@@ -31606,7 +31620,7 @@
         "number": 14,
         "type": "content",
         "arabic": "وَنَاشِرِ ٱلْعَدْلِ فِي ٱلطُّولِ وَٱلْعَرْضِ",
-        "transliteration": "wa nashiri alʿadli fi alttuli walʿardi",
+        "transliteration": "wa nashiri al`adli fi alttuli wal`ardi",
         "translation": {
           "en": "the spreader of justice all over the earth,"
         }
@@ -31617,7 +31631,7 @@
         "arabic": "وَٱلْحُجَّةِ ٱلْقَائِمِ ٱلْمَهْدِيِّ",
         "transliteration": "walhujjati alqa'imi almahdiyyi",
         "translation": {
-          "en": "the Argument (al-Hujjah), the Riser (al-Qa'im), the Well-guided (al-Mahdi),"
+          "en": "the Argument (al-Hujjah), the Riser (al-Qa’im), the Well-guided (al-Mahdi),"
         }
       },
       {
@@ -31651,7 +31665,7 @@
         "number": 19,
         "type": "content",
         "arabic": "ٱلْهَادِي ٱلْمَعْصُومِ",
-        "transliteration": "alhadi almaʿsumi",
+        "transliteration": "alhadi alma`sumi",
         "translation": {
           "en": "the Guide, the Immaculate,"
         }
@@ -31660,7 +31674,7 @@
         "number": 20,
         "type": "content",
         "arabic": "ٱبْنِ ٱلائِمَّةِ ٱلْهُدَاةِ ٱلْمَعْصُومِينَ",
-        "transliteration": "ibni al-a'immati alhudati almaʿsumina",
+        "transliteration": "ibni al-a'immati alhudati alma`sumina",
         "translation": {
           "en": "and the son of the Imams—the guides and immaculate."
         }
@@ -31669,7 +31683,7 @@
         "number": 21,
         "type": "content",
         "arabic": "السَّلاَمُ عَلَيْكَ يَا مُعِزَّ ٱلْمُؤْمِنِينَ ٱلْمُسْتَضْعَفِينَ",
-        "transliteration": "alssalamu ʿalayka ya muʿizza almu'minina almustadʿafina",
+        "transliteration": "alssalamu `alayka ya mu`izza almu'minina almustad`afina",
         "translation": {
           "en": "Peace be upon you, O grantor of dignity to the oppressed and faithful ones."
         }
@@ -31678,7 +31692,7 @@
         "number": 22,
         "type": "content",
         "arabic": "السَّلامُ عَلَيْكَ يَا مُذِلَّ ٱلْكَافِرِينَ ٱلْمُتَكَبِّرِينَ ٱلظَّالِمِينَ",
-        "transliteration": "alssalamu ʿalayka ya mudhilla alkafirina almutakabbirina alzzalimina",
+        "transliteration": "alssalamu `alayka ya mudhilla alkafirina almutakabbirina alzzalimina",
         "translation": {
           "en": "Peace be upon you, O humiliator of the arrogant and oppressing unbelievers."
         }
@@ -31687,7 +31701,7 @@
         "number": 23,
         "type": "content",
         "arabic": "السَّلامُ عَلَيْكَ يَا مَوْلايَ يَا صَاحِبَ ٱلزَّمَانِ",
-        "transliteration": "alssalamu ʿalayka ya mawlaya ya sahiba alzzamani",
+        "transliteration": "alssalamu `alayka ya mawlaya ya sahiba alzzamani",
         "translation": {
           "en": "Peace be upon you, O my master, the Patron of the Age."
         }
@@ -31696,16 +31710,16 @@
         "number": 24,
         "type": "content",
         "arabic": "السَّلامُ عَلَيْكَ يَا بْنَ رَسُولِ ٱللَّهِ",
-        "transliteration": "alssalamu ʿalayka yabna rasuli allahi",
+        "transliteration": "alssalamu `alayka yabna rasuli allahi",
         "translation": {
-          "en": "Peace be upon you, O son of Allah's Messenger."
+          "en": "Peace be upon you, O son of Allah’s Messenger."
         }
       },
       {
         "number": 25,
         "type": "content",
         "arabic": "السَّلامُ عَلَيْكَ يَا بْنَ امِيرِ ٱلْمُؤْمِنِينَ",
-        "transliteration": "alssalamu ʿalayka yabna amiri almu'minina",
+        "transliteration": "alssalamu `alayka yabna amiri almu'minina",
         "translation": {
           "en": "Peace be upon you, O son of the Commander of the Believers."
         }
@@ -31714,7 +31728,7 @@
         "number": 26,
         "type": "content",
         "arabic": "السّلامُ عَلَيْكَ يَا بْنَ فَاطِمَةَ ٱلزَّهْرَاءِ",
-        "transliteration": "alssalamu ʿalayka yabna fatimata alzzahra'i",
+        "transliteration": "alssalamu `alayka yabna fatimata alzzahra'i",
         "translation": {
           "en": "Peace be upon you, O son of Fatimah the Luminous"
         }
@@ -31723,7 +31737,7 @@
         "number": 27,
         "type": "content",
         "arabic": "سَيِّدَةِ نِسَاءِ ٱلْعَالَمِينَ",
-        "transliteration": "sayyidati nisa'i alʿalamina",
+        "transliteration": "sayyidati nisa'i al`alamina",
         "translation": {
           "en": "and the Doyenne of the women of the world."
         }
@@ -31732,7 +31746,7 @@
         "number": 28,
         "type": "content",
         "arabic": "السَّلامُ عَلَيْكَ يَا بْنَ ٱلائِمَّةِ ٱلْحُجَجِ ٱلْمَعْصُومِينَ",
-        "transliteration": "alssalamu ʿalayka yabna al-a'immati alhujaji almaʿsumina",
+        "transliteration": "alssalamu `alayka yabna al-a'immati alhujaji alma`sumina",
         "translation": {
           "en": "Peace be upon you, O son of the Imams—the arguments (of Allah) and Immaculate"
         }
@@ -31741,7 +31755,7 @@
         "number": 29,
         "type": "content",
         "arabic": "وَٱلإِمَامُ عَلَىٰ ٱلْخَلْقِ اجْمَعِينَ",
-        "transliteration": "wal-imamu ʿala alkhalqi ajmaʿina",
+        "transliteration": "wal-imamu `ala alkhalqi ajma`ina",
         "translation": {
           "en": "and the leader of all creatures."
         }
@@ -31750,7 +31764,7 @@
         "number": 30,
         "type": "content",
         "arabic": "السَّلامُ عَلَيْكَ يَا مَوْلايَ",
-        "transliteration": "alssalamu ʿalayka ya mawlaya",
+        "transliteration": "alssalamu `alayka ya mawlaya",
         "translation": {
           "en": "Peace be upon you, O my master"
         }
@@ -31768,7 +31782,7 @@
         "number": 32,
         "type": "content",
         "arabic": "اشْهَدُ انَّكَ ٱلإِمَامُ ٱلْمَهْدِيُّ قَوْلاً وَفِعْلاً",
-        "transliteration": "ash-hadu annaka al-imamu almahdiyyu qawlan wa fiʿlan",
+        "transliteration": "ash-hadu annaka al-imamu almahdiyyu qawlan wa fi`lan",
         "translation": {
           "en": "I bear witness that you are the well-guided Imam in word and deed,"
         }
@@ -31777,7 +31791,7 @@
         "number": 33,
         "type": "content",
         "arabic": "وَانْتَ ٱلَّذِي تَمْلَا ٱلارْضَ قِسْطاً وَعَدْلاً",
-        "transliteration": "wa anta alladhi tamla'u al-arda qistan wa ʿadlan",
+        "transliteration": "wa anta alladhi tamla'u al-arda qistan wa `adlan",
         "translation": {
           "en": "it is you who shall fill the earth with justice and impartiality"
         }
@@ -31786,7 +31800,7 @@
         "number": 34,
         "type": "content",
         "arabic": "بَعْدَ مَا مُلِئَتْ ظُلْماً وَجَوْراً",
-        "transliteration": "baʿdama muli'at zulman wa jawran",
+        "transliteration": "ba`dama muli'at zulman wa jawran",
         "translation": {
           "en": "after it will be filled with wrong and partiality."
         }
@@ -31795,7 +31809,7 @@
         "number": 35,
         "type": "content",
         "arabic": "فَعَجَّلَ ٱللَّهُ فَرَجَكَ",
-        "transliteration": "faʿajjala allahu farajaka",
+        "transliteration": "fa`ajjala allahu farajaka",
         "translation": {
           "en": "So, may Allah hasten your reappearance,"
         }
@@ -31822,7 +31836,7 @@
         "number": 38,
         "type": "content",
         "arabic": "وَكَثَّرَ انْصَارَكَ وَاعْوَانَكَ",
-        "transliteration": "wa kaththara ansaraka wa aʿwanaka",
+        "transliteration": "wa kaththara ansaraka wa a`wanaka",
         "translation": {
           "en": "increase the number of your supporters and backers,"
         }
@@ -31831,7 +31845,7 @@
         "number": 39,
         "type": "content",
         "arabic": "وَانْجَزَ لَكَ مَا وَعَدَكَ",
-        "transliteration": "wa anjaza laka ma wa ʿadaka",
+        "transliteration": "wa anjaza laka ma wa `adaka",
         "translation": {
           "en": "and fulfill for you all that which He has promised you."
         }
@@ -31849,18 +31863,18 @@
         "number": 41,
         "type": "content",
         "arabic": "(وَنُرِيدُ انْ نَمُنَّ عَلَىٰ ٱلَّذِينَ ٱسْتُضْعِفُوا فِي ٱلارْضِ",
-        "transliteration": "wa nuridu an namunna ʿala alladhina istudʿifu fi al-ardi",
+        "transliteration": "wa nuridu an namunna `ala alladhina istud`ifu fi al-ardi",
         "translation": {
-          "en": "\"We desired to bestow a favor upon those who were deemed weak in the land,"
+          "en": "“We desired to bestow a favor upon those who were deemed weak in the land,"
         }
       },
       {
         "number": 42,
         "type": "content",
         "arabic": "وَنَجْعَلَهُمْ ائِمَّةً وَنَجْعَلَهُمُ ٱلْوَارِثِينَ)",
-        "transliteration": "wa najʿalahum a'immatan wa najʿalahumu alwarithina",
+        "transliteration": "wa naj`alahum a'immatan wa naj`alahumu alwarithina",
         "translation": {
-          "en": "make them the Imams, and make them the heirs.\""
+          "en": "make them the Imams, and make them the heirs.”"
         }
       },
       {
@@ -31878,7 +31892,7 @@
         "arabic": "يَا بْنَ رَسُولِ ٱللَّهِ",
         "transliteration": "yabna rasuli allahi",
         "translation": {
-          "en": "O son of Allah's Messenger!"
+          "en": "O son of Allah’s Messenger!"
         }
       },
       {
@@ -31891,12 +31905,19 @@
         }
       },
       {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "Mention your need and then go on saying:"
+        }
+      },
+      {
         "number": 46,
         "type": "content",
         "arabic": "فَٱشْفَعْ لِي فِي نَجَاحِهَا",
-        "transliteration": "fashfaʿ li fi najahiha",
+        "transliteration": "fashfa` li fi najahiha",
         "translation": {
-          "en": "Mention your need and then go on saying:"
+          "en": "So, intercede for me so that it will be settled,"
         }
       },
       {
@@ -31905,16 +31926,16 @@
         "arabic": "فَقَدْ تَوَجَّهْتُ إِلَيْكَ بِحَاجَتِي",
         "transliteration": "faqad tawajjahtu ilayka bihajati",
         "translation": {
-          "en": "So, intercede for me so that it will be settled,"
+          "en": "for I am turning my face towards you for settling my request,"
         }
       },
       {
         "number": 48,
         "type": "content",
         "arabic": "لِعِلْمِي انَّ لَكَ عِنْدَ ٱللَّهِ شَفَاعَةً مَقْبُولَةً",
-        "transliteration": "liʿilmi anna laka ʿinda allahi shafaʿatan maqbulatan",
+        "transliteration": "li`ilmi anna laka `inda allahi shafa`atan maqbulatan",
         "translation": {
-          "en": "for I am turning my face towards you for settling my request,"
+          "en": "since I know for sure that you enjoy with Allah admissible word of intercession,"
         }
       },
       {
@@ -31923,7 +31944,7 @@
         "arabic": "وَمَقَاماً مَحْمُوداً",
         "transliteration": "wa maqaman mahmudan",
         "translation": {
-          "en": "since I know for sure that you enjoy with Allah admissible word of intercession,"
+          "en": "and praiseworthy standing."
         }
       },
       {
@@ -31932,7 +31953,7 @@
         "arabic": "فَبِحَقِّ مَنِ ٱخْتَصَّكُمْ بِامْرِهِ",
         "transliteration": "fabihaqqi man ikhtassakum bi-amrihi",
         "translation": {
-          "en": "and praiseworthy standing."
+          "en": "So, I ask you in the name of Him Who granted you (i.e. the Ahl al-Bayt) exclusively the right of representing Him,"
         }
       },
       {
@@ -31941,34 +31962,34 @@
         "arabic": "وَٱرْتَضَاكُمْ لِسِرِّهِ",
         "transliteration": "wartadakum lisirrihi",
         "translation": {
-          "en": "So, I ask you in the name of Him Who granted you (i.e. the Ahl al-Bayt) exclusively the right of representing Him,"
+          "en": "and admitted you all to keep His secrets,"
         }
       },
       {
         "number": 52,
         "type": "content",
         "arabic": "وَبِٱلشَّانِ ٱلَّذِي لَكُمْ عِنْدَ ٱللَّهِ بَيْنَكُمْ وَبَيْنَهُ",
-        "transliteration": "wa bilshsha'ni alladhi lakum ʿinda allahi baynakum wa baynahu",
+        "transliteration": "wa bilshsha'ni alladhi lakum `inda allahi baynakum wa baynahu",
         "translation": {
-          "en": "and admitted you all to keep His secrets,"
+          "en": "and I ask you in the name of the standing that you exclusively enjoy with Allah,"
         }
       },
       {
         "number": 53,
         "type": "content",
         "arabic": "سَلِ ٱللَّهَ تَعَالَىٰ فِي نُجْحِ طَلِبَتِي",
-        "transliteration": "sal(i) allaha taʿala fi nujhi talibati",
+        "transliteration": "sal(i) allaha ta`ala fi nujhi talibati",
         "translation": {
-          "en": "and I ask you in the name of the standing that you exclusively enjoy with Allah,"
+          "en": "to ask Allah, the Exalted, to render successful my request,"
         }
       },
       {
         "number": 54,
         "type": "content",
         "arabic": "وَإِجَابَةِ دَعْوَتِي",
-        "transliteration": "wa ijabati daʿwati",
+        "transliteration": "wa ijabati da`wati",
         "translation": {
-          "en": "to ask Allah, the Exalted, to render successful my request,"
+          "en": "to answer my prayer,"
         }
       },
       {
@@ -31977,11 +31998,125 @@
         "arabic": "وَكَشْفِ كُرْبَتِي",
         "transliteration": "wa kashfi kurbati",
         "translation": {
-          "en": "to answer my prayer,"
+          "en": "and to relieve my grief."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "You may then ask for whatever you want, and it will be settled for you, by Allah’s permission."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "Refrences : Behaar al-Anwaar, vol. 102, p. 235/246"
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "Istighatha as recomeded by Ayt Taqi Behjat for an important need"
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "Recite 2 Rakat Salat with Al Hamd & <ref=1:48>Surah Al-Fath</ref>  in first & Al Hamd and <ref=1:110>Surah Al-Nasr</ref>  in second. In Qunoot recite Dua Faraj"
         }
       },
       {
         "number": 56,
+        "type": "content",
+        "arabic": "اللّهُمّ كُنْ لِوَلِيّكَ الحُجّةِ ابْنِ الحَسَنِ",
+        "transliteration": "Allahumma Kum le-waliyyekal Hujjatibnil Hassan",
+        "translation": {
+          "en": "O Allah, be, for Your representative, the Hujjat (proof), son of Al­Hassan,"
+        }
+      },
+      {
+        "number": 57,
+        "type": "content",
+        "arabic": "صَلَوَاتُكَ عَلَيْهِ وَعَلَى آبَائِهِ",
+        "transliteration": "Salwaatoka A'layhe wa a'laa Aaabaa-Ehi",
+        "translation": {
+          "en": "Your blessings be on him and his forefathers,"
+        }
+      },
+      {
+        "number": 58,
+        "type": "content",
+        "arabic": "فِي هذِهِ السَّاعَةِ وَفي كُلّ سَاعَةٍ",
+        "transliteration": "fee haazehis saa-a'te wa fee kulle saa-a'tin",
+        "translation": {
+          "en": "in this hour and in every hour,"
+        }
+      },
+      {
+        "number": 59,
+        "type": "content",
+        "arabic": "وَلِيّاً وَحَافِظاً",
+        "transliteration": "waliyyawn wa haafezawn",
+        "translation": {
+          "en": "a guardian, a protector,"
+        }
+      },
+      {
+        "number": 60,
+        "type": "content",
+        "arabic": "وَقَائِداً وَنَاصِراً",
+        "transliteration": "wa qaa-edawn wa naaserawn",
+        "translation": {
+          "en": "a leader, a helper,"
+        }
+      },
+      {
+        "number": 61,
+        "type": "content",
+        "arabic": "وَدَلِيلاً وَعَيْناً",
+        "transliteration": "wa daleelawn wa a'ynan",
+        "translation": {
+          "en": "a proof, and an eye."
+        }
+      },
+      {
+        "number": 62,
+        "type": "content",
+        "arabic": "حَتَّى تُسْكِنَهُ أَرْضَكَ طَوْعاً",
+        "transliteration": "hattaa tuskenahu arzaka taw-a'n",
+        "translation": {
+          "en": "until You make him live on the earth, in obedience (to"
+        }
+      },
+      {
+        "number": 63,
+        "type": "content",
+        "arabic": "وَتُمَتّعَهُ فِيهَا طَوِيلاً.",
+        "transliteration": "wa tomatte-a'hu feehaa taweelaa.",
+        "translation": {
+          "en": "& Cause him to live in it for a long time"
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "Then Recite Tasbih Zehra (sa)"
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "Do Tawassul to Imam ajtfs"
+        }
+      },
+      {
+        "number": 64,
         "type": "content",
         "arabic": "يَا وَصِيَّ ٱلْحَسَنِ",
         "transliteration": "ya wasiyya alhasani",
@@ -31990,7 +32125,7 @@
         }
       },
       {
-        "number": 57,
+        "number": 65,
         "type": "content",
         "arabic": "وَٱلْخَلَفُ ٱلْحُجَّةُ",
         "transliteration": "walkhalafu alhujjatu",
@@ -31999,7 +32134,7 @@
         }
       },
       {
-        "number": 58,
+        "number": 66,
         "type": "content",
         "arabic": "أَيُّهَا ٱلْقَائِمُ ٱلْمُنْتَظَرُ ٱلْمَهْدِيُّ",
         "transliteration": "ayyuha alqa'imu almuntazaru almahdiyyu",
@@ -32008,25 +32143,25 @@
         }
       },
       {
-        "number": 59,
+        "number": 67,
         "type": "content",
         "arabic": "يَا بْنَ رَسُولِ ٱللَّهِ",
         "transliteration": "yabna rasuli allahi",
         "translation": {
-          "en": "O son of Allah's Messenger!"
+          "en": "O son of Allah’s Messenger!"
         }
       },
       {
-        "number": 60,
+        "number": 68,
         "type": "content",
         "arabic": "يَا حُجَّةَ ٱللَّهِ عَلَىٰ خَلْقِهِ",
-        "transliteration": "ya hujjata allahi ʿala khalqihi",
+        "transliteration": "ya hujjata allahi `ala khalqihi",
         "translation": {
-          "en": "O Allah's Argument against His creatures!"
+          "en": "O Allah’s Argument against His creatures!"
         }
       },
       {
-        "number": 61,
+        "number": 69,
         "type": "content",
         "arabic": "يَا سَيِّدَنَا وَمَوْلاَنَا",
         "transliteration": "ya sayyidana wa mawlana",
@@ -32035,16 +32170,16 @@
         }
       },
       {
-        "number": 62,
+        "number": 70,
         "type": "content",
         "arabic": "إِنَّا تَوَجَّهْنَا وَٱسْتَشْفَعْنَا",
-        "transliteration": "inna tawajjahana wastashfaʿna",
+        "transliteration": "inna tawajjahana wastashfa`na",
         "translation": {
           "en": "we are turning our faces toward you, seeking your intercession"
         }
       },
       {
-        "number": 63,
+        "number": 71,
         "type": "content",
         "arabic": "وَتَوَسَّلْنَا بِكَ إِلَىٰ ٱللَّهِ",
         "transliteration": "wa tawassalna bika ila allahi",
@@ -32053,7 +32188,7 @@
         }
       },
       {
-        "number": 64,
+        "number": 72,
         "type": "content",
         "arabic": "وَقَدَّمْنَاكَ بَيْنَ يَدَيْ حَاجَاتِنَا",
         "transliteration": "wa qaddamnaka bayna yaday hajatina",
@@ -32062,24 +32197,32 @@
         }
       },
       {
-        "number": 65,
+        "number": 73,
         "type": "content",
         "arabic": "يَا وَجِيهاً عِنْدَ ٱللَّهِ",
-        "transliteration": "ya wajihan ʿinda allahi",
+        "transliteration": "ya wajihan `inda allahi",
         "translation": {
           "en": "O well-esteemed with Allah,"
         }
       },
       {
-        "number": 66,
+        "number": 74,
         "type": "content",
         "arabic": "إِشْفَعْ لَنَا عِنْدَ ٱللَّهِ",
-        "transliteration": "ishfaʿ lana ʿinda allahi",
+        "transliteration": "ishfa` lana `inda allahi",
         "translation": {
           "en": "intercede for us before Allah."
         }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "Note: In case of a important need it can be done for 14 days or 40 days"
+        }
       }
     ],
-    "mafatihId": 1204
+    "mafatihId": 1204,
+    "source": "mafatih-realigned"
   }
 ]
