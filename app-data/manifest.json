@@ -1,5 +1,5 @@
 {
-  "version": "2026-04-09T09:07:20.412Z",
+  "version": "2026-04-09T10:48:54.811Z",
   "files": {
     "duas_index.json": "80e838bd4d176a9d",
     "dua_audio.json": "bd17eee22b7d283a",
@@ -23,7 +23,7 @@
     "quran_wbw_audio.json": "52453fccac81780e",
     "quran_reciters.json": "21f228f2b791cd8e",
     "islamic_events.json": "3740ddbdad8c5049",
-    "holy_places.json": "ce928cc96642eab7",
+    "holy_places.json": "677bd92b36fd3cd8",
     "hadith_collection.json": "c0d551162eca06ea"
   }
 }
