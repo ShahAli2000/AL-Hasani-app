@@ -5819,1471 +5819,113 @@
     "id": "ziyarat-warith",
     "name": "Ziyarat Warith",
     "category": "ziyarat",
-    "segmentCount": 209,
+    "segmentCount": 170,
     "url": "https://www.duas.org/mobile/ziyarat-imam-hussain-waritha.html",
     "segments": [
       {
         "number": null,
         "type": "heading",
         "text": {
-          "en": "Ziyarat WarithThis ziyarat Warith ( Imam as the inheritor from all previous prophets )is recited on thursday nights & even every day.It is also a means to seek needs when recited with specific intentions."
-        }
-      },
-      {
-        "number": null,
-        "type": "heading",
-        "text": {
-          "en": "Ziyarat"
-        }
-      },
-      {
-        "number": null,
-        "type": "heading",
-        "text": {
-          "en": "Thu Night/ Friday ziarat"
-        }
-      },
-      {
-        "number": null,
-        "type": "heading",
-        "text": {
-          "en": "Dua After"
-        }
-      },
-      {
-        "number": null,
-        "type": "heading",
-        "text": {
-          "en": "Izn Dukhool / permission to enter"
+          "en": "Seventh Form of Ziyarah (Ziyarah Warith).In his book of al-Misbah, Shaykh al-Tusi has reported Safwan as saying: One day, I asked Imam al-Sadiq (‘a) to permit me to visit (the holy tomb of) my master Imam al-Husayn (‘a) and also asked him to guide me what to do. The Imam (‘a) said to me:O Safwan, before you begin your journey, you should fast for three days and, on the third day, wash yourself, gather your family members, and say,"
         }
       },
       {
         "number": 1,
         "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا وَارِثَ آدَمَ صَفْوَةِ ٱللَّهِ",
-        "transliteration": "alssalamu ʿalayka ya waritha adama safwati allahi",
+        "arabic": "اللّهُمَّ إِنِّي اسْتَوْدِعُكَ",
+        "transliteration": "",
         "translation": {
-          "en": "Peace be upon you, O inheritor of Adam the choice of Allah."
+          "en": "O Allah, I beseech You on this day to accept as trusts my self…"
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "(This supplication has been previously cited in the first of the etiquettes of visiting Imam al-Husayn’s tomb)Imam al-Sadiq (‘a) then taught Safwan a supplicatory prayer to be said near the River Euphrates. He (‘a) then said:Wash yourself in the River Euphrates, for my father, on the authority of his fathers, narrated that the Messenger of Allah (s) said, ‘After my demise, my son (al-Husayn) will be killed on the bank of the Euphrates. He who washes himself in that river (intending to visit the tomb of al-Husayn) will have all of his sins eradicated as if he has just been born by his mother.’As you wash yourself in the river, Imam al-Sadiq (‘a) continued, say the following:"
         }
       },
       {
         "number": 2,
         "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا وَارِثَ نُوحٍ نَبِيِّ ٱللَّهِ",
-        "transliteration": "alssalamu ʿalayka ya waritha nuhin nabiyyi allahi",
+        "arabic": "بِسْمِ ٱللَّهِ وَبِٱللَّهِ",
+        "transliteration": "bismillahi wa billahi",
         "translation": {
-          "en": "Peace be upon you, O inheritor of Noah the prophet of Allah."
+          "en": "In the Name of Allah (I begin) and in Allah (I put my trust)."
         }
       },
       {
         "number": 3,
         "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا وَارِثَ إِبْرَاهِيمَ خَلِيلِ ٱللَّهِ",
-        "transliteration": "alssalamu ʿalayka ya waritha ibrahima khalili allahi",
+        "arabic": "اَللَّهُمَّ ٱجْعَلْهُ نُوراً وَطَهُوراً",
+        "transliteration": "allahumma ij`alhu nuran wa tahuran",
         "translation": {
-          "en": "Peace be upon you, O inheritor of Abraham the intimate friend of Allah."
+          "en": "O Allah, (I beseech You to) make this water for me light, purification,"
         }
       },
       {
         "number": 4,
         "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا وَارِثَ مُوسَىٰ كَلِيمِ ٱللَّهِ",
-        "transliteration": "alssalamu ʿalayka ya waritha musa kalimi allahi",
+        "arabic": "وَحِرْزاً وَشِفَاءً مِنْ كُلِّ دَاءٍ",
+        "transliteration": "wa hirzan wa shifa'an min kulli da'in",
         "translation": {
-          "en": "Peace be upon you, O inheritor of Moses the spoken by Allah."
+          "en": "shelter, and remedy from every malady,"
         }
       },
       {
         "number": 5,
         "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا وَارِثَ عِيسَىٰ رُوحِ ٱللَّهِ",
-        "transliteration": "alssalamu ʿalayka ya waritha ʿisa ruhi allahi",
+        "arabic": "وَسُقْمٍ وَآفَةٍ وَعَاهَةٍ",
+        "transliteration": "wa suqmin wa afatin wa `ahatin",
         "translation": {
-          "en": "Peace be upon you, O inheritor of Jesus the spirit of Allah."
+          "en": "ill, epidemic, or defect."
         }
       },
       {
         "number": 6,
         "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا وَارِثَ مُحَمَّدٍ حَبِيبِ ٱللَّهِ",
-        "transliteration": "alssalamu ʿalayka ya waritha muhammadin habibi allahi",
+        "arabic": "اَللَّهُمَّ طَهِّرْ بِهِ قَلْبِي",
+        "transliteration": "allahumma tahhir bihi qalbi",
         "translation": {
-          "en": "Peace be upon you, O inheritor of Muhammad the most beloved by Allah."
+          "en": "O Allah, purify my heart through this water,"
         }
       },
       {
         "number": 7,
         "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا وَارِثَ أَمِيرِ ٱلْمُؤْمِنِينَ عَلَيْهِ ٱلسَّلاَمُ",
-        "transliteration": "alssalamu ʿalayka ya waritha amiri almu'minina",
+        "arabic": "وَٱشْرَحْ بِهِ صَدْرِي",
+        "transliteration": "washrah bihi sadri",
         "translation": {
-          "en": "Peace be upon you, O inheritor of the Commander of the Faithful, peace be upon him."
+          "en": "expand my breast for me,"
         }
       },
       {
         "number": 8,
         "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ مُحَمَّدٍ ٱلْمُصْطَفَىٰ",
-        "transliteration": "alssalamu ʿalayka yabna muhammadin almustafa",
+        "arabic": "وَسَهِّلْ لِي بِهِ أَمْرِي",
+        "transliteration": "wa sahhil li bihi amri",
         "translation": {
-          "en": "Peace be upon you, O son of Muhammad the well-chosen Prophet."
+          "en": "and make my affair easy to me."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "When you finish washing yourself, Imam al-Sadiq went on, put on two dresses and offer a two-unit prayer not very far from the bank of the river.As you finish your prayer, direct towards the Ha’ir (i.e. Imam al-Husayn’s shrine) with tranquility and solemnity. As you walk, try to make short steps, for Allah the All-exalted shall record for you the reward of going on hajj (holy pilgrimage to Mecca) and going on ‘Umrah (recommended pilgrimage to Mecca). Try to be pious-hearted with tearful eyes. Repeat as many times as possible the Takbir statement (saying allahu Akbar - Allah is the Most Great), the Tahlil statement (saying la ilaha illa (a)llahu - There is no god but Allah), statements of praising Allah, statements of invoking blessings on the Holy Prophet and his Household in general and blessings on Imam al-Husayn in particular, and statements of cursing those who killed him and those who were the main reason beyond so.At the door of the Hai’r, you may stop and say the following words:"
         }
       },
       {
         "number": 9,
         "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ عَلِيٍّ ٱلْمُرْتَضَىٰ",
-        "transliteration": "alssalamu ʿalayka yabna ʿaliyyin almurtada",
-        "translation": {
-          "en": "Peace be upon you, O son of `Ali the well-pleased."
-        }
-      },
-      {
-        "number": 10,
-        "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ فَاطِمَةَ ٱلزَّهْرَاءِ",
-        "transliteration": "alssalamu ʿalayka yabna fatimata alzzahra'i",
-        "translation": {
-          "en": "Peace be upon you, O son of Fatimah the luminous lady."
-        }
-      },
-      {
-        "number": 11,
-        "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ خَدِيـجَةَ ٱلْكُبْرَىٰ",
-        "transliteration": "alssalamu ʿalayka yabna khadijata alkubra",
-        "translation": {
-          "en": "Peace be upon you, O son of Khadijah the grand lady."
-        }
-      },
-      {
-        "number": 12,
-        "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا ثَارَ ٱللَّهِ وَٱبْنَ ثَارِهِ",
-        "transliteration": "alssalamu ʿalayka ya thara allahi wabna tharihi",
-        "translation": {
-          "en": "Peace be upon you, O vengeance of Allah, son of His vengeance,"
-        }
-      },
-      {
-        "number": 13,
-        "type": "content",
-        "arabic": "وَٱلْوِتْرَ ٱلْمَوْتُورَ",
-        "transliteration": "walwitra almawtura",
-        "translation": {
-          "en": "and the unavenged so far."
-        }
-      },
-      {
-        "number": 14,
-        "type": "content",
-        "arabic": "أَشْهَدُ أَنَّكَ قَدْ أَقَمْتَ ٱلصَّلاَةَ",
-        "transliteration": "ashhadu annaka qad aqamta alssalata",
-        "translation": {
-          "en": "I bear witness that you performed the prayers,"
-        }
-      },
-      {
-        "number": 15,
-        "type": "content",
-        "arabic": "وَآتَيْتَ ٱلزَّكَاةَ",
-        "transliteration": "wa atayta alzzakata",
-        "translation": {
-          "en": "defrayed the poor-rate,"
-        }
-      },
-      {
-        "number": 16,
-        "type": "content",
-        "arabic": "وَأَمَرْتَ بِٱلْمَعْرُوفِ",
-        "transliteration": "wa amarta bilmaʿrufi",
-        "translation": {
-          "en": "enjoined the right,"
-        }
-      },
-      {
-        "number": 17,
-        "type": "content",
-        "arabic": "وَنَهَيْتَ عَنِ ٱلْمُنْكَرِ",
-        "transliteration": "wa nahayta ʿan almunkari",
-        "translation": {
-          "en": "forbade the wrong,"
-        }
-      },
-      {
-        "number": 18,
-        "type": "content",
-        "arabic": "وَأَطَعْتَ ٱللَّهَ وَرَسُولَهُ حَتَّىٰ أَتَاكَ ٱلْيَقِينُ",
-        "transliteration": "wa ataʿta allaha wa rasulahu hatta ataka alyaqinu",
-        "translation": {
-          "en": "and obeyed Allah and His Messenger until death came upon you."
-        }
-      },
-      {
-        "number": 19,
-        "type": "content",
-        "arabic": "فَلَعَنَ ٱللَّهُ أُمَّةً قَتَلَتْكَ",
-        "transliteration": "falaʿana allahu ummatan qatalatka",
-        "translation": {
-          "en": "So, may Allah curse the people who slew you."
-        }
-      },
-      {
-        "number": 20,
-        "type": "content",
-        "arabic": "وَلَعَنَ ٱللَّهُ أُمَّةً ظَلَمَتْكَ",
-        "transliteration": "wa laʿana allahu ummatan zalamatka",
-        "translation": {
-          "en": "May Allah curse the people who persecuted you."
-        }
-      },
-      {
-        "number": 21,
-        "type": "content",
-        "arabic": "وَلَعَنَ ٱللَّهُ أُمَّةً سَمِعَتْ بِذٰلِكَ فَرَضِيَتْ بِهِ",
-        "transliteration": "wa laʿana allahu ummatan samiʿat bidhalika faradiyat bihi",
-        "translation": {
-          "en": "May Allah curse the people who were pleased when they had heard of that."
-        }
-      },
-      {
-        "number": 22,
-        "type": "content",
-        "arabic": "يَا مَوْلاَيَ يَا أَبَا عَبْدِ ٱللَّهِ",
-        "transliteration": "ya mawlaya ya aba ʿabdillahi",
-        "translation": {
-          "en": "O my Master, O Abu-`Abdullah!"
-        }
-      },
-      {
-        "number": 23,
-        "type": "content",
-        "arabic": "أَشْهَدُ أَنَّكَ كُنْتَ نُوراً فِي ٱلأَصْلاَبِ ٱلشَّامِخَةِ",
-        "transliteration": "ashhadu annaka kunta nuran fi al-aslabi alshshamikhati",
-        "translation": {
-          "en": "I bear witness that you were light in the sublime loins"
-        }
-      },
-      {
-        "number": 24,
-        "type": "content",
-        "arabic": "وَٱلأَرْحَامِ ٱلْمُطَهَّرَةِ",
-        "transliteration": "wal-arhami almutahharati",
-        "translation": {
-          "en": "and purified wombs;"
-        }
-      },
-      {
-        "number": 25,
-        "type": "content",
-        "arabic": "لَمْ تُنَجِّسْكَ ٱلْجَاهِلِيَّةُ بِأَنْجَاسِهَا",
-        "transliteration": "lam tunajjiska aljahiliyyatu bi'anjasiha",
-        "translation": {
-          "en": "the impurities of the Ignorance Era could not object you to filth"
-        }
-      },
-      {
-        "number": 26,
-        "type": "content",
-        "arabic": "وَلَمْ تُلْبِسْكَ مِنْ مُدْلَهِمَّاتِ ثِيَابِهَا",
-        "transliteration": "wa lam tulbiska min mudlahimmati thiyabiha",
-        "translation": {
-          "en": "nor could it dress you its murky clothes."
-        }
-      },
-      {
-        "number": 27,
-        "type": "content",
-        "arabic": "وَأَشْهَدُ أَنَّكَ مِنْ دَعَائِمِ ٱلدِّينِ",
-        "transliteration": "wa ashhadu annaka min daʿa'imi alddini",
-        "translation": {
-          "en": "I also bear witness that you are one of the mainstays of the religion"
-        }
-      },
-      {
-        "number": 28,
-        "type": "content",
-        "arabic": "وَأَرْكَانِ ٱلْمُؤْمِنِينَ",
-        "transliteration": "wa arkani almu'minina",
-        "translation": {
-          "en": "and the supports of the faithful believers."
-        }
-      },
-      {
-        "number": 29,
-        "type": "content",
-        "arabic": "وَأَشْهَدُ أَنَّكَ ٱلإِمَامُ ٱلْبَرُّ ٱلتَّقِيُّ",
-        "transliteration": "wa ashhadu annaka al-imamu albarru alttaqiyyu",
-        "translation": {
-          "en": "I also bear witness that you are the God-fearing, pious,"
-        }
-      },
-      {
-        "number": 30,
-        "type": "content",
-        "arabic": "ٱلرَّضِيُّ ٱلزَّكِيُّ",
-        "transliteration": "alrradiyyu alzzakiyyu",
-        "translation": {
-          "en": "pleased, immaculate,"
-        }
-      },
-      {
-        "number": 31,
-        "type": "content",
-        "arabic": "ٱلْهَادِي ٱلْمَهْدِيُّ",
-        "transliteration": "alhadi almahdiyyu",
-        "translation": {
-          "en": "guide, and well-guided Imam."
-        }
-      },
-      {
-        "number": 32,
-        "type": "content",
-        "arabic": "وَأَشْهَدُ أَنَّ ٱلأَئِمَّةَ مِنْ وُلْدِكَ كَلِمَةُ ٱلتَّقْوَىٰ",
-        "transliteration": "wa ashhadu anna al-a'immata min wuldika kalimatu alttaqwa",
-        "translation": {
-          "en": "And (I bear witness) that the Imams from your progeny are the spokesmen of piety,"
-        }
-      },
-      {
-        "number": 33,
-        "type": "content",
-        "arabic": "وَأَعْلاَمُ ٱلْهُدَىٰ",
-        "transliteration": "wa aʿlamu alhuda",
-        "translation": {
-          "en": "the signs of guidance,"
-        }
-      },
-      {
-        "number": 34,
-        "type": "content",
-        "arabic": "وَٱلْعُروَةُ ٱلْوُثْقَىٰ",
-        "transliteration": "walʿurwatu alwuthqa",
-        "translation": {
-          "en": "the firmest handle (of Islam),"
-        }
-      },
-      {
-        "number": 35,
-        "type": "content",
-        "arabic": "وَٱلْحُجَّةُ عَلَىٰ أَهْلِ ٱلدُّنْيَا",
-        "transliteration": "walhujjatu ʿala ahli alddunya",
-        "translation": {
-          "en": "and the decisive Argument against the inhabitants of the world."
-        }
-      },
-      {
-        "number": 36,
-        "type": "content",
-        "arabic": "وَأُشْهِدُ ٱللَّهَ وَمَلاَئِكَتَهُ",
-        "transliteration": "wa ushhidu allaha wa mala'ikatahu",
-        "translation": {
-          "en": "And I call Allah, His angels,"
-        }
-      },
-      {
-        "number": 37,
-        "type": "content",
-        "arabic": "وَأَنْبِيَاءَهُ وَرُسُلَهُ",
-        "transliteration": "wa anbiya'ahu wa rusulahu",
-        "translation": {
-          "en": "His Prophets, and His Messenger"
-        }
-      },
-      {
-        "number": 38,
-        "type": "content",
-        "arabic": "أَنِّي بِكُمْ مُؤْمِنٌ وَبِإِيَابِكُمْ",
-        "transliteration": "anni bikum mu'minun wa bi'yabikum",
-        "translation": {
-          "en": "to witness for me that I believe in you all and in your Return,"
-        }
-      },
-      {
-        "number": 39,
-        "type": "content",
-        "arabic": "مُوقِنٌ بِشَرَائِعِ دِينِي وَخَوَاتِيمِ عَمَلي",
-        "transliteration": "muqinun bishara'iʿi dini wa khawatimi ʿamali",
-        "translation": {
-          "en": "I have full confidence in the laws of my religion and in the seals of my deeds,"
-        }
-      },
-      {
-        "number": 40,
-        "type": "content",
-        "arabic": "وَقَلْبِي لِقَلْبِكُمْ سِلْمٌ",
-        "transliteration": "wa qalbi liqalbikum silmun",
-        "translation": {
-          "en": "my heart is at peace with you all,"
-        }
-      },
-      {
-        "number": 41,
-        "type": "content",
-        "arabic": "وَأَمْرِي لأَمْرِكُمْ مُتَّبِعٌ",
-        "transliteration": "wa amri li'amrikum muttbiʿun",
-        "translation": {
-          "en": "and all my affairs are based on your commands."
-        }
-      },
-      {
-        "number": 42,
-        "type": "content",
-        "arabic": "صَلَوَاتُ اللَّهِ عَلَيْكُمْ وَعَلَىٰ أَرْوَاحِكُمْ",
-        "transliteration": "salawatu allahi ʿalaykum wa ʿala arwahikum",
-        "translation": {
-          "en": "May Allah's benedictions be on your souls,"
-        }
-      },
-      {
-        "number": 43,
-        "type": "content",
-        "arabic": "وَعَلَىٰ أَجْسَادِكُمْ وَعَلَىٰ أَجْسَامِكُمْ",
-        "transliteration": "wa ʿala ajsadikum wa ʿala ajsamikum",
-        "translation": {
-          "en": "your bodies, your forms,"
-        }
-      },
-      {
-        "number": 44,
-        "type": "content",
-        "arabic": "وَعَلَىٰ شَاهِدِكُمْ وَعَلَىٰ غَائِبِكُمْ",
-        "transliteration": "wa ʿala shahidikum wa ʿala gha'ibkum",
-        "translation": {
-          "en": "the present and the absent from you,"
-        }
-      },
-      {
-        "number": 45,
-        "type": "content",
-        "arabic": "وَعَلَىٰ ظَاهِرِكُمْ وَعَلَىٰ بَاطِنِكُمْ",
-        "transliteration": "wa ʿala zahirikum wa ʿala batinikum",
-        "translation": {
-          "en": "and the apparent and the invisible from you."
-        }
-      },
-      {
-        "number": null,
-        "type": "heading",
-        "text": {
-          "en": "Then, you may throw yourself on the tomb, kiss it, and say these words:"
-        }
-      },
-      {
-        "number": 46,
-        "type": "content",
-        "arabic": "بِأَبِي أَنْتَ وَأُمِّي يَا بْنَ رَسُولِ ٱللَّهِ",
-        "transliteration": "bi'abi anta wa ummi yabna rasuli allahi",
-        "translation": {
-          "en": "My father and mother be sacrificed for you, O son of the Messenger of Allah!"
-        }
-      },
-      {
-        "number": 47,
-        "type": "content",
-        "arabic": "بِأَبِي أَنْتَ وَأُمِّي يَا أَبَا عَبْدِ ٱللَّهِ",
-        "transliteration": "bi'abi anta wa ummi ya aba ʿabdillahi",
-        "translation": {
-          "en": "My father and mother be sacrificed for you, O Abu `Abdullah!"
-        }
-      },
-      {
-        "number": 48,
-        "type": "content",
-        "arabic": "لَقَدْ عَظُمَتِ ٱلرَّزِيَّةُ",
-        "transliteration": "laqad ʿazumat alrraziyyatu",
-        "translation": {
-          "en": "Extremely terrible was the calamity"
-        }
-      },
-      {
-        "number": 49,
-        "type": "content",
-        "arabic": "وَجَلَّتِ ٱلْمُصيبَةُ بِكَ عَلَيْنَا",
-        "transliteration": "wa jallat almusibatu bika ʿalayna",
-        "translation": {
-          "en": "and astounding is the misfortune that you suffered upon us"
-        }
-      },
-      {
-        "number": 50,
-        "type": "content",
-        "arabic": "وَعَلَىٰ جَمِيعِ أَهْلِ ٱلسَّمَاوَاتِ وَٱلأَرْضِ",
-        "transliteration": "wa ʿala jamiʿi ahli alssamawati wal-ardi",
-        "translation": {
-          "en": "and upon all the inhabitants of the heavens and the earth."
-        }
-      },
-      {
-        "number": 51,
-        "type": "content",
-        "arabic": "فَلَعَنَ ٱللَّهُ أُمَّةً أَسْرَجَتْ وَأَلْجَمَتْ",
-        "transliteration": "falaʿana allahu ummatan asrajat wa aljamat",
-        "translation": {
-          "en": "Therefore, Allah may curse the people who saddled up, gave rein to their horses,"
-        }
-      },
-      {
-        "number": 52,
-        "type": "content",
-        "arabic": "وَتَهَيَّأَتْ لِقِتَالِكَ",
-        "transliteration": "wa tahayya'at liqitalika",
-        "translation": {
-          "en": "and prepared themselves to kill you."
-        }
-      },
-      {
-        "number": 53,
-        "type": "content",
-        "arabic": "يَا مَوْلاَيَ يَا أَبَا عَبْدِ ٱللَّهِ",
-        "transliteration": "ya mawlaya ya aba ʿabdillahi",
-        "translation": {
-          "en": "O my Master, O Abu `Abdullah!"
-        }
-      },
-      {
-        "number": 54,
-        "type": "content",
-        "arabic": "قَصَدْتُ حَرَمَكَ",
-        "transliteration": "qasadtu haramaka",
-        "translation": {
-          "en": "I moved towards your sanctuary"
-        }
-      },
-      {
-        "number": 55,
-        "type": "content",
-        "arabic": "وَأَتَيْتُ إِلَىٰ مَشْهَدِكَ",
-        "transliteration": "wa ataytu ila mashhadika",
-        "translation": {
-          "en": "and came to your shrine"
-        }
-      },
-      {
-        "number": 56,
-        "type": "content",
-        "arabic": "أَسْأَلُ ٱللَّهَ بِٱلشَّأْنِ ٱلَّذِي لَكَ عِنْدَهُ",
-        "transliteration": "as'alu allaha bilshsha'ni alladhi laka ʿindahu",
-        "translation": {
-          "en": "beseeching Allah in the name of the standing that you enjoy with Him"
-        }
-      },
-      {
-        "number": 57,
-        "type": "content",
-        "arabic": "وَبِٱلْمَحَلِّ ٱلَّذِي لَكَ لَدَيْهِ",
-        "transliteration": "wa bilmahalli alladhi laka ladayhi",
-        "translation": {
-          "en": "and the position that you occupy with Him"
-        }
-      },
-      {
-        "number": 58,
-        "type": "content",
-        "arabic": "أَنْ يُصَلِّيَ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
-        "transliteration": "an yusalliya ʿala muhammadin wa ali muhammadin",
-        "translation": {
-          "en": "to send blessings on Muhammad and on the Household of Muhammad"
-        }
-      },
-      {
-        "number": 59,
-        "type": "content",
-        "arabic": "وَأَنْ يَجْعَلَنِي مَعَكُمْ فِي ٱلدُّنْيَا وَٱلآخِرَةِ",
-        "transliteration": "wa an yajʿalani maʿakum fi alddunya wal-akhirati",
-        "translation": {
-          "en": "and to keep me with you in this world and in the Hereafter."
-        }
-      },
-      {
-        "number": 60,
-        "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ رَسُولِ ٱللَّهِ",
-        "transliteration": "alssalamu ʿalayka yabna rasuli allahi",
-        "translation": {
-          "en": "Peace be upon you, O son of the Messenger of Allah."
-        }
-      },
-      {
-        "number": 61,
-        "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ نَبِيِّ ٱللَّهِ",
-        "transliteration": "alssalamu ʿalayka yabna nabiyyi allahi",
-        "translation": {
-          "en": "Peace be upon you, O son of the Prophet of Allah."
-        }
-      },
-      {
-        "number": 62,
-        "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ أَمِيرِ ٱلْمُؤْمِنِينَ",
-        "transliteration": "alssalamu ʿalayka yabna amiri almu'minina",
-        "translation": {
-          "en": "Peace be upon you, O son of the commander of the faithful."
-        }
-      },
-      {
-        "number": 63,
-        "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ ٱلْحُسَيْنِ ٱلشَّهِيدِ",
-        "transliteration": "alssalamu ʿalayka yabna alhusayni alshshahidi",
-        "translation": {
-          "en": "Peace be upon you, O son of al-Husayn the martyr."
-        }
-      },
-      {
-        "number": 64,
-        "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكَ أَيُّهَا ٱلشَّهِيدُ",
-        "transliteration": "alssalamu ʿalayka ayyuha alshshahidu",
-        "translation": {
-          "en": "Peace be upon you, O martyr."
-        }
-      },
-      {
-        "number": 65,
-        "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكَ أَيُّهَا ٱلْمَظْلُومُ وَٱبْنُ ٱلْمَظْلُومِ",
-        "transliteration": "alssalamu ʿalayka ayyuha almazlumu wabnu almazlumi",
-        "translation": {
-          "en": "Peace be upon you, O wronged and harassed and the son of the wrong and harassed."
-        }
-      },
-      {
-        "number": 66,
-        "type": "content",
-        "arabic": "لَعَنَ ٱللَّهُ أُمَّةً قَتَلَتْكَ",
-        "transliteration": "laʿana allahu ummatan qatalatka",
-        "translation": {
-          "en": "Curse of Allah be on those who killed you."
-        }
-      },
-      {
-        "number": 67,
-        "type": "content",
-        "arabic": "وَلَعَنَ ٱللَّهُ أُمَّةً ظَلَمَتْكَ",
-        "transliteration": "wa laʿana allahu ummatan zalamatka",
-        "translation": {
-          "en": "Curse of Allah be on those who persecuted you."
-        }
-      },
-      {
-        "number": 68,
-        "type": "content",
-        "arabic": "وَلَعَنَ ٱللَّهُ أُمَّةً سَمِعَتْ بِذٰلِكَ فَرَضَيِتْ بِهِ",
-        "transliteration": "wa laʿana allahu ummatan samiʿat bidhalika faradiyat bihi",
-        "translation": {
-          "en": "Curse of Allah be on those who heard this even but rested satisfied."
-        }
-      },
-      {
-        "number": null,
-        "type": "heading",
-        "text": {
-          "en": "You should then throw yourself on the tomb, kiss it, and say the following words:"
-        }
-      },
-      {
-        "number": 69,
-        "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا وَلِيَّ ٱللَّهِ وَٱبْنَ وَلِيِّهِ",
-        "transliteration": "alssalamu ʿalayka ya waliyya allahi wabna waliyyihi",
-        "translation": {
-          "en": "Peace be upon you, O intimate servant of Allah and the son of His intimate servant."
-        }
-      },
-      {
-        "number": 70,
-        "type": "content",
-        "arabic": "لَقَدْ عَظُمَتِ ٱلْمُصيبَةُ",
-        "transliteration": "laqad ʿazumat almusibatu",
-        "translation": {
-          "en": "Extremely terrible was the calamity"
-        }
-      },
-      {
-        "number": 71,
-        "type": "content",
-        "arabic": "وَجَلَّتِ ٱلرَّزِيَّةُ بِكَ عَلَيْنَا",
-        "transliteration": "wa jallat alrraziyyatu bika ʿalayna",
-        "translation": {
-          "en": "and astounding is the misfortune that you suffered, upon us"
-        }
-      },
-      {
-        "number": 72,
-        "type": "content",
-        "arabic": "وَعَلَىٰ جَمِيعِ ٱلْمُسْلِمينَ",
-        "transliteration": "wa ʿala jamiʿi almuslimina",
-        "translation": {
-          "en": "and upon all Muslims."
-        }
-      },
-      {
-        "number": 73,
-        "type": "content",
-        "arabic": "فَلَعَنَ ٱللَّهُ أُمَّةً قَتَلَتْكَ",
-        "transliteration": "falaʿana allahu ummatan qatalatka",
-        "translation": {
-          "en": "So, curse of Allah be on those who killed you"
-        }
-      },
-      {
-        "number": 74,
-        "type": "content",
-        "arabic": "وَأَبْرَأُ إِلَىٰ ٱللَّهِ وَإِلَيْكَ مِنْهُمْ",
-        "transliteration": "wa abra'u ila allahi wa ilayka minhum",
-        "translation": {
-          "en": "and I disavow them in the presence of Allah and You."
-        }
-      },
-      {
-        "number": 75,
-        "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكُمْ يَا أَوْلِيَاءَ ٱللَّهِ وَأَحِبَّائَهُ",
-        "transliteration": "alssalamu ʿalaykum ya awliya'a allahi wa ahibba'ahu",
-        "translation": {
-          "en": "Peace be upon all of you, O friends and dears of Allah."
-        }
-      },
-      {
-        "number": 76,
-        "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكُمْ يَا أَصْفِيَاءَ ٱللَّهِ وَأَوِدَّاءَهُ",
-        "transliteration": "alssalamu ʿalaykum ya asfiya'a allahi wa awidda'ahu",
-        "translation": {
-          "en": "Peace be upon all of you, O choice of Allah and sincerely attached to Him."
-        }
-      },
-      {
-        "number": 77,
-        "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ دِينِ ٱللَّهِ",
-        "transliteration": "alssalamu ʿalaykum ya ansara dini allahi",
-        "translation": {
-          "en": "Peace be upon all of you, O supporters of Allah's religion."
-        }
-      },
-      {
-        "number": 78,
-        "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ رَسُولِ ٱللَّهِ",
-        "transliteration": "alssalamu ʿalaykum ya ansara rasuli allahi",
-        "translation": {
-          "en": "Peace be upon all of you, O supporters of the Messenger of Allah."
-        }
-      },
-      {
-        "number": 79,
-        "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ أَمِيرِ ٱلْمُؤْمِنِينَ",
-        "transliteration": "alssalamu ʿalaykum ya ansara amiri almu'minina",
-        "translation": {
-          "en": "Peace be upon all of you, O supporters of the Commander of the Faithful."
-        }
-      },
-      {
-        "number": 80,
-        "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ فَاطِمَةَ سَيِّدَةِ نِسَاءِ ٱلْعَالَمِينَ",
-        "transliteration": "alssalamu ʿalaykum ya ansara fatimata sayyidati nisa'i alʿalamina",
-        "translation": {
-          "en": "Peace be upon all of you, O supporters of Fatimah the doyenne of the women of this world."
-        }
-      },
-      {
-        "number": 81,
-        "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ أَبِي مُحَمَّدٍ",
-        "transliteration": "alssalamu ʿalaykum ya ansara abi muhammadin",
-        "translation": {
-          "en": "Peace be upon all of you, O supporters of Abu Muhammad,"
-        }
-      },
-      {
-        "number": 82,
-        "type": "content",
-        "arabic": "ٱلْحَسَنِ بْنِ عَلِيٍّ ٱلْوَلِيِّ ٱلنَّاصِحِ",
-        "transliteration": "alhasani ibni ʿaliyyin alwaliyyi alnnasihi",
-        "translation": {
-          "en": "al-Hasan the son of `Ali, the saintly and sincere."
-        }
-      },
-      {
-        "number": 83,
-        "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ أَبِي عَبْدِ ٱللَّهِ",
-        "transliteration": "alssalamu ʿalaykum ya ansara abi ʿabdillahi",
-        "translation": {
-          "en": "Peace be upon all of you, O supporters of Abu-`Abdullah."
-        }
-      },
-      {
-        "number": 84,
-        "type": "content",
-        "arabic": "بِأَبِي أَنْتُمْ وَأُمِّي",
-        "transliteration": "bi'abi antum wa ummi",
-        "translation": {
-          "en": "My father and mother be sacrificed for you."
-        }
-      },
-      {
-        "number": 85,
-        "type": "content",
-        "arabic": "طِبْتُمْ وَطَابَتِ ٱلأَرْضُ ٱلَّتِي فِيهَا دُفِنْتُمْ",
-        "transliteration": "tibtum wa tabat al-ardu allati fiha dufintum",
-        "translation": {
-          "en": "Verily, pure be you and pure be the soil in which you were buried."
-        }
-      },
-      {
-        "number": 86,
-        "type": "content",
-        "arabic": "وَفُزْتُمْ فَوْزاً عَظيماً",
-        "transliteration": "wa fuztum fawzan ʿaziman",
-        "translation": {
-          "en": "You attained great success."
-        }
-      },
-      {
-        "number": 87,
-        "type": "content",
-        "arabic": "فَيَا لَيْتَنِي كُنْتُ مَعَكُمْ فَأَفُوزَ مَعَكُمْ",
-        "transliteration": "fayalaytani kuntu maʿakum fa'afuza maʿakum",
-        "translation": {
-          "en": "Would that I were with you so that I could also share the accomplishment with you."
-        }
-      },
-      {
-        "number": 88,
-        "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ امِيرِ ٱلْمُؤْمِنِينَ",
-        "transliteration": "alssalamu ʿalayka yabna amiri almu'minina",
-        "translation": {
-          "en": "Peace be upon you, O son of the Commander of the Faithful."
-        }
-      },
-      {
-        "number": 89,
-        "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكَ ايُّهَا ٱلْعَبْدُ ٱلصَّالِحُ",
-        "transliteration": "alssalamu ʿalayka ayyuha alʿabdu alssalihu",
-        "translation": {
-          "en": "Peace be upon you, O righteous servant (of Allah)"
-        }
-      },
-      {
-        "number": 90,
-        "type": "content",
-        "arabic": "ٱلْمُطِيعُ لِلَّهِ وَلِرَسُولِهِ",
-        "transliteration": "almutiʿu lillahi wa lirasulihi",
-        "translation": {
-          "en": "and obedient to Allah and to His Messenger."
-        }
-      },
-      {
-        "number": 91,
-        "type": "content",
-        "arabic": "اشْهَدُ انَّكَ قَدْ جَاهَدْتَ وَنَصَحْتَ",
-        "transliteration": "ashhadu annaka qad jahadta wa nasahta",
-        "translation": {
-          "en": "I bear witness that you strove (in the way of Allah), acted sincerely,"
-        }
-      },
-      {
-        "number": 92,
-        "type": "content",
-        "arabic": "وَصَبَرْتَ حَتَّىٰ اتَاكَ ٱلْيَقِينُ",
-        "transliteration": "wa sabarta hatta ataka alyaqinu",
-        "translation": {
-          "en": "and tolerated (harm) until death came upon you."
-        }
-      },
-      {
-        "number": 93,
-        "type": "content",
-        "arabic": "لَعَنَ ٱللَّهُ ٱلظَّالِمِينَ لَكُمْ مِنَ ٱلاوَّلِينَ وَٱلآخِرِينَ",
-        "transliteration": "laʿana allahu alzzalimina lakum min al-awwalina wal-akhirina",
-        "translation": {
-          "en": "May Allah curse those who wronged you from the past and the present generations"
-        }
-      },
-      {
-        "number": 94,
-        "type": "content",
-        "arabic": "وَالْحَقَهُمْ بِدَرْكِ ٱلْجَحِيمِ",
-        "transliteration": "wa alhaqahum bidarki aljahimi",
-        "translation": {
-          "en": "and may He send them to the lowest layer of the blazing Hell."
-        }
-      },
-      {
-        "number": 95,
-        "type": "content",
-        "arabic": "اَللّهُمَّ إِنِّي أَعْتَزُّ بِدِينِكَ ،",
-        "transliteration": "Allāhumma innī aʿtazzu bi-dīnik,",
-        "translation": {
-          "en": "O Allah, I take pride in Your religion,"
-        }
-      },
-      {
-        "number": 96,
-        "type": "content",
-        "arabic": "وَأَكْرَمُ بِهِدَايَتِكَ ،",
-        "transliteration": "Wa akramu bi-hidāyatik,",
-        "translation": {
-          "en": "And I honor Your guidance,"
-        }
-      },
-      {
-        "number": 97,
-        "type": "content",
-        "arabic": "وَفُلانٌ يُذِلُّني بِشَرِّهِ ،",
-        "transliteration": "Wa fulān yunadhilnī bi-sharrih,",
-        "translation": {
-          "en": "And so-and-so humiliates me with his evil,"
-        }
-      },
-      {
-        "number": 98,
-        "type": "content",
-        "arabic": "وَيُهِينُني بِأَذِيَّتِهِ ،",
-        "transliteration": "Wa yuhīnī bi-adhiya'tih,",
-        "translation": {
-          "en": "And insults me with his harm,"
-        }
-      },
-      {
-        "number": 99,
-        "type": "content",
-        "arabic": "وَيَعِيبُني بِوِلاءِ أَوْلِيائِكَ ،",
-        "transliteration": "Wa yaʿībunī bi-wilā’ awliyā’ik,",
-        "translation": {
-          "en": "And criticizes me for my loyalty to Your friends,"
-        }
-      },
-      {
-        "number": 100,
-        "type": "content",
-        "arabic": "وَيَبْهَتُني بِدَعْوَاهُ ،",
-        "transliteration": "Wa yabhatunī bi-daʿwāh,",
-        "translation": {
-          "en": "And slanders me with his claims,"
-        }
-      },
-      {
-        "number": 101,
-        "type": "content",
-        "arabic": "وَقَدْ جِئْتُ إِلى مَوْضِعِ الدُّعاءِ وَضِمانِكَ الاِْجابَةِ ،",
-        "transliteration": "Wa qad ji’thu ilā mawḍiʿ ad-duʿāʾ wa ḍamānik al-ijābah,",
-        "translation": {
-          "en": "And I have come to the place of supplication and Your assurance of response,"
-        }
-      },
-      {
-        "number": 102,
-        "type": "content",
-        "arabic": "اَللّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ ،",
-        "transliteration": "Allāhumma ṣalli ʿalā Muḥammad wa āl Muḥammad,",
-        "translation": {
-          "en": "O Allah, bless Muḥammad and the family of Muḥammad,"
-        }
-      },
-      {
-        "number": 103,
-        "type": "content",
-        "arabic": "وَأَعْدِني عَلَيْهِ السَّاعَةَ - السَّاعَةَ - .",
-        "transliteration": "Wa aʿdinī ʿalayhi as-sāʿah - as-sāʿah -",
-        "translation": {
-          "en": "And defend me against him immediately - immediately."
-        }
-      },
-      {
-        "number": 104,
-        "type": "content",
-        "arabic": "مَوْلايَ إِمامي ،",
-        "transliteration": "Mawlāy imāmī,",
-        "translation": {
-          "en": "My master, my Imam,"
-        }
-      },
-      {
-        "number": 105,
-        "type": "content",
-        "arabic": "مَظْلُومٌ إسْتَعْدى عَلى ظَالِمِهِ ،",
-        "transliteration": "Maẓlūmun istaʿda ʿalā ẓālimih,",
-        "translation": {
-          "en": "The oppressed seeks aid against his oppressor,"
-        }
-      },
-      {
-        "number": 106,
-        "type": "content",
-        "arabic": "النَّصْرَ النَّصْرَ - حتى تنقطع النفس",
-        "transliteration": "An-naṣra an-naṣra - ḥattā tanqaṭiʿ an-nafas",
-        "translation": {
-          "en": "Victory, victory - until the breath stops."
-        }
-      },
-      {
-        "number": 107,
-        "type": "content",
-        "arabic": "السَّلامُ عَلَيْكَ يَا مَوْلايَ وَسَيِّدِي وَابْنَ سَيِّدِي ،",
-        "transliteration": "As-salāmu ʿalayk yā mawlāya wa sayyidī wa ibn sayyidī,",
-        "translation": {
-          "en": "Peace be upon you, O my master and my lord and son of my lord,"
-        }
-      },
-      {
-        "number": 108,
-        "type": "content",
-        "arabic": "السَّلامُ عَلَيْكَ يَا مَوْلايَ وَابْنَ مَوْلايَ ،",
-        "transliteration": "As-salāmu ʿalayk yā mawlāya wa ibn mawlāya,",
-        "translation": {
-          "en": "Peace be upon you, O my master and son of my master,"
-        }
-      },
-      {
-        "number": 109,
-        "type": "content",
-        "arabic": "يَا قَتِيلَ بْنَ الْقَتِيلِ ،",
-        "transliteration": "Yā qatīl ibn al-qatīl,",
-        "translation": {
-          "en": "O one slain, son of the one slain,"
-        }
-      },
-      {
-        "number": 110,
-        "type": "content",
-        "arabic": "الشَّهِيدَ بْنَ الشَّهِيدِ ،",
-        "transliteration": "Ash-shahīd ibn ash-shahīd,",
-        "translation": {
-          "en": "The martyr, son of the martyr,"
-        }
-      },
-      {
-        "number": 111,
-        "type": "content",
-        "arabic": "السَّلامُ عَلَيْكَ وَرَحْمَةُ اللّهِ وَبَرَكَاتُهُ ،",
-        "transliteration": "As-salāmu ʿalayk wa raḥmat Allāh wa barakātuh,",
-        "translation": {
-          "en": "Peace be upon you and the mercy of Allah and His blessings,"
-        }
-      },
-      {
-        "number": 112,
-        "type": "content",
-        "arabic": "أَنَا زَائِرُكَ يَابْنَ رَسُولِ اللّهِ ،",
-        "transliteration": "Anā zā’iruka yā ibn Rasūl Allāh,",
-        "translation": {
-          "en": "I am visiting you, O son of the Messenger of Allah,"
-        }
-      },
-      {
-        "number": 113,
-        "type": "content",
-        "arabic": "بِقَلْبِي وَلِسانِي وَجَوَارِحِي ،",
-        "transliteration": "Bi-qalbī wa lisānī wa jawāriḥī,",
-        "translation": {
-          "en": "With my heart, my tongue, and my limbs,"
-        }
-      },
-      {
-        "number": 114,
-        "type": "content",
-        "arabic": "وَإِنْ لَمْ أَزُرْكَ بِنَفْسِي وَالْمُشَاهَدَةِ لِقُبَّتِكَ ،",
-        "transliteration": "Wa in lam azurka bi-nafsī wa al-mushāhadah li-qubbatik,",
-        "translation": {
-          "en": "And if I did not visit you in person and see your dome,"
-        }
-      },
-      {
-        "number": 115,
-        "type": "content",
-        "arabic": "السَّلامُ عَلَيْكَ يَا وَارِثَ آدَمَ صَفْوَةِ اللّهِ ،",
-        "transliteration": "As-salāmu ʿalayk yā wāriṭa Ādam ṣafwat Allāh,",
-        "translation": {
-          "en": "Peace be upon you, O inheritor of Adam, the chosen one of Allah,"
-        }
-      },
-      {
-        "number": 116,
-        "type": "content",
-        "arabic": "وَوارِثَ نُوحٍ نَبِيِّ اللّهِ ،",
-        "transliteration": "Wa wāriṭa Nūḥ nabī Allāh,",
-        "translation": {
-          "en": "And inheritor of Noah, the prophet of Allah,"
-        }
-      },
-      {
-        "number": 117,
-        "type": "content",
-        "arabic": "وَوارِثَ إِبْرَاهِيمَ خَلِيلِ اللّهِ ،",
-        "transliteration": "Wa wāriṭa Ibrāhīm khalīl Allāh,",
-        "translation": {
-          "en": "And inheritor of Abraham, the friend of Allah,"
-        }
-      },
-      {
-        "number": 118,
-        "type": "content",
-        "arabic": "وَوارِثَ مُوسى كَلِيمِ اللّهِ ،",
-        "transliteration": "Wa wāriṭa Mūsā kalīm Allāh,",
-        "translation": {
-          "en": "And inheritor of Moses, the one who spoke to Allah,"
-        }
-      },
-      {
-        "number": 119,
-        "type": "content",
-        "arabic": "وَوارِثَ عِيسى رُوحِ اللّهِ ،",
-        "transliteration": "Wa wāriṭa ʿĪsā rūḥ Allāh,",
-        "translation": {
-          "en": "And inheritor of Jesus, the spirit of Allah,"
-        }
-      },
-      {
-        "number": 120,
-        "type": "content",
-        "arabic": "وَوارِثَ مُحَمَّدٍ حَبِيبِ اللّهِ وَنَبِيِّهِ وَرَسُولِهِ ،",
-        "transliteration": "Wa wāriṭa Muḥammad ḥabīb Allāh wa nabīyih wa rasūlih,",
-        "translation": {
-          "en": "And inheritor of Muhammad, the beloved of Allah and His prophet and messenger,"
-        }
-      },
-      {
-        "number": 121,
-        "type": "content",
-        "arabic": "وَوارِثَ عَلِيٍّ أَمِيرِ الْمُؤْمِنِينَ ،",
-        "transliteration": "Wa wāriṭa ʿAlī Amīr al-Mu’minīn,",
-        "translation": {
-          "en": "And inheritor of ʿAlī, the Commander of the Faithful,"
-        }
-      },
-      {
-        "number": 122,
-        "type": "content",
-        "arabic": "وَوَصِيِّ رَسُولِ اللّهِ وَخَلِيفَتِهِ ،",
-        "transliteration": "Wa waṣī Rasūl Allāh wa khalīfatih,",
-        "translation": {
-          "en": "And successor of the Messenger of Allah and his caliph,"
-        }
-      },
-      {
-        "number": 123,
-        "type": "content",
-        "arabic": "وَوَارِثَ الْحَسَنِ بْنِ عَلِيٍّ وَصِيِّ أَمِيرِ الْمُؤْمِنِينَ ،",
-        "transliteration": "Wa wāriṭa al-Ḥasan ibn ʿAlī waṣī Amīr al-Mu’minīn,",
-        "translation": {
-          "en": "And inheritor of al-Ḥasan ibn ʿAlī, the successor of the Commander of the Faithful,"
-        }
-      },
-      {
-        "number": 124,
-        "type": "content",
-        "arabic": "لَعَنَ اللّهُ قَاتِلَكَ وَجَدَّدَ عَلَيْهِمُ الْعَذَابَ فِي هذِهِ السَّاعَةِ وَفِي كُلِّ سَاعَةٍ ،",
-        "transliteration": "Laʿana Allāh qātīlak wa jaddad ʿalayhim al-ʿadhāb fī hādhihi as-sāʿah wa fī kull sāʿah,",
-        "translation": {
-          "en": "May Allah curse those who killed you and renew the punishment upon them in this moment and in every moment,"
-        }
-      },
-      {
-        "number": 125,
-        "type": "content",
-        "arabic": "أَنَا يَا سَيِّدِي مُتَقَرِّبٌ إِلى اللّهِ تَعَالى ،",
-        "transliteration": "Anā yā sayyidī mutaqarrib ilā Allāh taʿālā,",
-        "translation": {
-          "en": "I am, O my master, seeking closeness to Allah, the Exalted,"
-        }
-      },
-      {
-        "number": 126,
-        "type": "content",
-        "arabic": "وَاِلى جَدِّكَ رَسُولِ اللّهِ ،",
-        "transliteration": "Wa ilā jaddika Rasūl Allāh,",
-        "translation": {
-          "en": "And to your grandfather, the Messenger of Allah,"
-        }
-      },
-      {
-        "number": 127,
-        "type": "content",
-        "arabic": "وَإِلى أَبِيكَ أَمِيرِ الْمُؤْمِنِينَ ،",
-        "transliteration": "Wa ilā abīka Amīr al-Mu’minīn,",
-        "translation": {
-          "en": "And to your father, the Commander of the Faithful,"
-        }
-      },
-      {
-        "number": 128,
-        "type": "content",
-        "arabic": "وَإِلى أَخِيكَ الْحَسَنِ ،",
-        "transliteration": "Wa ilā akhīka al-Ḥasan,",
-        "translation": {
-          "en": "And to your brother, al-Ḥasan,"
-        }
-      },
-      {
-        "number": 129,
-        "type": "content",
-        "arabic": "وَإِلَيْكَ يَا مَوْلايَ ،",
-        "transliteration": "Wa ilayk yā mawlāya,",
-        "translation": {
-          "en": "And to you, O my master,"
-        }
-      },
-      {
-        "number": 130,
-        "type": "content",
-        "arabic": "عَلَيْكَ سَلامُ اللّهُ وَرَحْمَتُهُ ،",
-        "transliteration": "ʿAlayk salām Allāh wa raḥmatuh,",
-        "translation": {
-          "en": "Upon you be the peace of Allah and His mercy,"
-        }
-      },
-      {
-        "number": 131,
-        "type": "content",
-        "arabic": "بِزِيَارَتِي لَكَ بِقَلْبِي وَلِسَانِي وَجَمِيعِ جَوَارِحِي ،",
-        "transliteration": "Bi-ziyāratī laka bi-qalbī wa lisānī wa jamīʿ jawāriḥī,",
-        "translation": {
-          "en": "With my visit to you with my heart, my tongue, and all my limbs,"
-        }
-      },
-      {
-        "number": 132,
-        "type": "content",
-        "arabic": "فَكُنْ يَا سَيِّدِي شَفِيعِي لِقَبُولِ ذلِكَ مِنّي ،",
-        "transliteration": "Fa-kun yā sayyidī shafīʿī li-qabūl dhālika minnī,",
-        "translation": {
-          "en": "So be, O my master, my intercessor for the acceptance of that from me,"
-        }
-      },
-      {
-        "number": 133,
-        "type": "content",
-        "arabic": "وَأَنَا بِالْبَرَاءَةِ مِنْ أَعْدَائِكَ وَاللَّعْنَةِ لَهُمْ وَعَلَيْهِمْ ،",
-        "transliteration": "Wa anā bi-l-barāʾah min aʿdāʾik wa al-laʿnah lahum wa ʿalayhim,",
-        "translation": {
-          "en": "And I disassociate myself from your enemies and curse them and upon them,"
-        }
-      },
-      {
-        "number": 134,
-        "type": "content",
-        "arabic": "أَتَقَرَّبُ بِذلِكَ إِلى اللّهِ تَعَالى وَإِلَيْكُمْ أَجْمَعِينَ ،",
-        "transliteration": "At-taqarrub bi-dhālika ilā Allāh taʿālā wa ilaykum ajmaʿīn,",
-        "translation": {
-          "en": "I seek closeness through that to Allah, the Exalted, and to all of you,"
-        }
-      },
-      {
-        "number": 135,
-        "type": "content",
-        "arabic": "فَعَلَيْكَ صَلَوَاتُ اللّهِ وَرِضْوَانُهُ وَرَحْمَتُهُ .",
-        "transliteration": "Fa-ʿalayk ṣalawāt Allāh wa riḍwānuh wa raḥmatuh.",
-        "translation": {
-          "en": "So upon you be the blessings of Allah, His pleasure, and His mercy."
-        }
-      },
-      {
-        "number": 136,
-        "type": "content",
-        "arabic": "أَنَا مُوَدِّعُكَ يَا مَوْلايَ وَابْنَ مَوْلايَ وَسَيِّدِي وَابْنَ سَيِّدِي ،",
-        "transliteration": "Anā muwaddiʿuka yā mawlāya wa ibn mawlāya wa sayyidī wa ibn sayyidī,",
-        "translation": {
-          "en": "I am bidding you farewell, O my master and son of my master and my lord and son of my lord,"
-        }
-      },
-      {
-        "number": 137,
-        "type": "content",
-        "arabic": "وَمُوَدِّعُكَ يَا سَيِّدِي وَابْنَ سَيِّدِي يَا عَلِيَّ بْنَ الْحُسَيْنِ ،",
-        "transliteration": "Wa muwaddiʿuka yā sayyidī wa ibn sayyidī yā ʿAlī ibn al-Ḥusayn,",
-        "translation": {
-          "en": "And I bid you farewell, O my lord and son of my lord, O ʿAlī ibn al-Ḥusayn,"
-        }
-      },
-      {
-        "number": 138,
-        "type": "content",
-        "arabic": "وَمُوَدِّعُكُمْ يَا سَادَاتِي يَا مَعْشَرَ الشُّهَدَاءِ ،",
-        "transliteration": "Wa muwaddiʿukum yā sādātī yā maʿshar ash-shuhadā’,",
-        "translation": {
-          "en": "And I bid you farewell, O my lords, O group of martyrs,"
-        }
-      },
-      {
-        "number": 139,
-        "type": "content",
-        "arabic": "فَعَلَيْكُمْ سَلامُ اللّهِ وَرَحْمَتُهُ وَبَركَاتُهُ وَرِضْوَانُهُ",
-        "transliteration": "Fa-ʿalaykum salām Allāh wa raḥmatuh wa barakātuh wa riḍwānuh",
-        "translation": {
-          "en": "So upon you be the peace of Allah, His mercy, His blessings, and His pleasure."
-        }
-      },
-      {
-        "number": 140,
-        "type": "content",
-        "arabic": "نبراس الزائر في زيارة الحائرتأليف: مهدي پور, علي اكبرالناشر: مولود كعبه",
-        "transliteration": "",
-        "translation": {
-          "en": "You may then offer a two-unit prayer and when you finish, you may say the following words:"
-        }
-      },
-      {
-        "number": 141,
-        "type": "content",
-        "arabic": "اَللَّهُمَّ إِنِّي صَلَّيْتُ وَرَكَعْتُ وَسَجَدْتُ",
-        "transliteration": "allahumma inni sallaytu wa rakaʿtu wa sajadtu",
-        "translation": {
-          "en": "O Allah, I have offered a prayer, genuflected, and prostrated myself"
-        }
-      },
-      {
-        "number": 142,
-        "type": "content",
-        "arabic": "لَكَ وَحْدَكَ لاَ شَرِيكَ لَكَ",
-        "transliteration": "laka wahdaka la sharika laka",
-        "translation": {
-          "en": "for Your sake purely without setting any partner with You"
-        }
-      },
-      {
-        "number": 143,
-        "type": "content",
-        "arabic": "لِأَنَّ ٱلصَّلاَةَ وَٱلرُّكُوعَ وَٱلسُّجُودَ",
-        "transliteration": "li'anna alssalata walrrukuʿa walssujuda",
-        "translation": {
-          "en": "since all prayers, genuflection, and prostration"
-        }
-      },
-      {
-        "number": 144,
-        "type": "content",
-        "arabic": "لاَ تَكُونُ إِلاَّ لَكَ",
-        "transliteration": "la takunu illa laka",
-        "translation": {
-          "en": "suit none except You."
-        }
-      },
-      {
-        "number": 145,
-        "type": "content",
-        "arabic": "لِأَنَّكَ أَنْتَ ٱللَّهُ لاَ إِلٰهَ إِلاَّ أَنْتَ",
-        "transliteration": "li'annaka anta allahu la ilaha illa anta",
-        "translation": {
-          "en": "Because You are Allah, there in n0 god save You."
-        }
-      },
-      {
-        "number": 146,
-        "type": "content",
-        "arabic": "اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
-        "transliteration": "allahumma salli ʿala muhammadin wa ali muhammadin",
-        "translation": {
-          "en": "O Allah, (please) send blessings on Muhammad and the Household of Muhammad,"
-        }
-      },
-      {
-        "number": 147,
-        "type": "content",
-        "arabic": "وَأَبْلِغْهُمْ عَنِّي أَفْضَلَ ٱلسَّلاَمِ وَٱلتَّحِيَّةِ",
-        "transliteration": "wa ablighhum ʿanni afdala alssalami walttahiyyati",
-        "translation": {
-          "en": "and convey to them my best greetings and compliments"
-        }
-      },
-      {
-        "number": 148,
-        "type": "content",
-        "arabic": "وَٱرْدُدْ عَلَيَّ مِنْهُمُ ٱلسَّلاَمَ",
-        "transliteration": "wardud ʿalayya minhum alssalama",
-        "translation": {
-          "en": "and convey to me their replies."
-        }
-      },
-      {
-        "number": 149,
-        "type": "content",
-        "arabic": "اَللَّهُمَّ وَهَاتَانِ ٱلرَّكْعَتَانِ",
-        "transliteration": "allahumma wa hatani alrrakʿatani",
-        "translation": {
-          "en": "O Allah, these two units of prayer"
-        }
-      },
-      {
-        "number": 150,
-        "type": "content",
-        "arabic": "هَدِيَّةٌ مِنِّي إِلَىٰ مَوْلاَيَ",
-        "transliteration": "hadiyyatun minni ila mawlaya",
-        "translation": {
-          "en": "are present from me to my master"
-        }
-      },
-      {
-        "number": 151,
-        "type": "content",
-        "arabic": "ٱلْحُسَيْنِ بْنِ عَلِيِّ عَلَيْهِمَا ٱلسَّلاَمُ",
-        "transliteration": "alhusayni bni ʿaliyyin ʿalayhima alssalamu",
-        "translation": {
-          "en": "al-Husayn the son of `Ali, peace be upon both of them."
-        }
-      },
-      {
-        "number": 152,
-        "type": "content",
-        "arabic": "اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَعَلَيْهِ",
-        "transliteration": "allahumma salli ʿala muhammadin wa ʿalayhi",
-        "translation": {
-          "en": "O Allah, send blessings on Muhammad and on him,"
-        }
-      },
-      {
-        "number": 153,
-        "type": "content",
-        "arabic": "وَتَقَبَّلْ مِنِّي وَأْجُرْنِي عَلَىٰ ذٰلِكَ",
-        "transliteration": "wa taqabbal minni wa'jurni ʿala dhalika",
-        "translation": {
-          "en": "accept my effort, and reward me for it"
-        }
-      },
-      {
-        "number": 154,
-        "type": "content",
-        "arabic": "بِأَفْضَلِ أَمَلِي وَرَجَائِي فِيكَ",
-        "transliteration": "bi'afdali amali wa raja'i fika",
-        "translation": {
-          "en": "in the best rewarding that I anticipate and hope from You"
-        }
-      },
-      {
-        "number": 155,
-        "type": "content",
-        "arabic": "وَفِي وَلِيِّكَ يَا وَلِيَّ ٱلْمُؤْمِنِينَ",
-        "transliteration": "wa fi waliyyika ya waliyya almu'minina",
-        "translation": {
-          "en": "and from Your saint, O Guardian of the faithful!"
-        }
-      },
-      {
-        "number": null,
-        "type": "heading",
-        "text": {
-          "en": "At the door of the Hai'r, you may stop and say the following words:"
-        }
-      },
-      {
-        "number": 156,
-        "type": "content",
         "arabic": "اللَّهُ أَكْبَرُ كَبِيراً",
-        "transliteration": "allahu akbaru kabiran",
+        "transliteration": "",
         "translation": {
           "en": "Allah is verily the Most Great."
         }
       },
       {
-        "number": 157,
+        "number": 10,
         "type": "content",
         "arabic": "وَٱلْحَمْدُ لِلَّهِ كَثِيراً",
         "transliteration": "walhamdu lillahi kathiran",
@@ -7292,7 +5934,7 @@
         }
       },
       {
-        "number": 158,
+        "number": 11,
         "type": "content",
         "arabic": "وَسُبْحَانَ ٱللَّهِ بُكْرَةً وَأَصِيلاً",
         "transliteration": "wa subhana allahi bukratan wa asilan",
@@ -7301,7 +5943,7 @@
         }
       },
       {
-        "number": 159,
+        "number": 12,
         "type": "content",
         "arabic": "اَلْحَمْدُ لِلَّهِ ٱلَّذِي هَدَانَا لِهٰذَا",
         "transliteration": "alhamdu lillahi alladhi hadana lihadha",
@@ -7310,16 +5952,16 @@
         }
       },
       {
-        "number": 160,
+        "number": 13,
         "type": "content",
-        "arabic": "وَمَا كُنَّا لِنَهْتَدِيَ لَوْ لاَ أَنْ هَدَانَا ٱللَّهُ",
+        "arabic": "وَمَا كُنَّا لِنَهْتَدِيَ لَوْ لاََ أَنْ هَدَانَا ٱللَّهُ",
         "transliteration": "wa ma kunna linahtadiya lawla an hadana allahu",
         "translation": {
           "en": "and we would not have found the way had it not been that Allah guided us."
         }
       },
       {
-        "number": 161,
+        "number": 14,
         "type": "content",
         "arabic": "لَقَدْ جَاءَتْ رُسُلُ رَبِّنَا بِٱلْحَقِّ",
         "transliteration": "laqad ja'at rusulu rabbina bilhaqqi",
@@ -7328,133 +5970,140 @@
         }
       },
       {
-        "number": 162,
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "Then, you should say the following words:"
+        }
+      },
+      {
+        "number": 15,
         "type": "content",
         "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا رَسُولَ ٱللَّهِ",
-        "transliteration": "alssalamu ʿalayka ya rasula allahi",
+        "transliteration": "alssalamu `alayka ya rasula allahi",
         "translation": {
           "en": "Peace be upon you, O Messenger of Allah."
         }
       },
       {
-        "number": 163,
+        "number": 16,
         "type": "content",
         "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا نَبِيَّ ٱللَّهِ",
-        "transliteration": "alssalamu ʿalayka ya nabiyya allahi",
+        "transliteration": "alssalamu `alayka ya nabiyya allahi",
         "translation": {
           "en": "Peace be upon you, O Prophet of Allah."
         }
       },
       {
-        "number": 164,
+        "number": 17,
         "type": "content",
         "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا خَاتَمَ ٱلنَّبِيِّينَ",
-        "transliteration": "alssalamu ʿalayka ya khatama alnnabiyyina",
+        "transliteration": "alssalamu `alayka ya khatama alnnabiyyina",
         "translation": {
           "en": "Peace be upon you, O seal of the prophets."
         }
       },
       {
-        "number": 165,
+        "number": 18,
         "type": "content",
         "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا سَيِّدَ ٱلْمُرْسَلِينَ",
-        "transliteration": "alssalamu ʿalayka ya sayyida almursalina",
+        "transliteration": "alssalamu `alayka ya sayyida almursalina",
         "translation": {
           "en": "Peace be upon you, O chief of the Messengers."
         }
       },
       {
-        "number": 166,
+        "number": 19,
         "type": "content",
         "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا حَبِيبَ ٱللَّهِ",
-        "transliteration": "alssalamu ʿalayka ya habiba allahi",
+        "transliteration": "alssalamu `alayka ya habiba allahi",
         "translation": {
           "en": "Peace be upon you, O most beloved by Allah."
         }
       },
       {
-        "number": 167,
+        "number": 20,
         "type": "content",
         "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا أَمِيرَ ٱلْمُؤْمِنِينَ",
-        "transliteration": "alssalamu ʿalayka ya amira almu'minina",
+        "transliteration": "alssalamu `alayka ya amira almu'minina",
         "translation": {
           "en": "Peace be upon you, O commander of the faithful."
         }
       },
       {
-        "number": 168,
+        "number": 21,
         "type": "content",
         "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا سَيِّدَ ٱلْوَصِيِّينَ",
-        "transliteration": "alssalamu ʿalayka ya sayyida alwasiyyina",
+        "transliteration": "alssalamu `alayka ya sayyida alwasiyyina",
         "translation": {
-          "en": "Peace be upon you, O chief of the Prophets' successors."
+          "en": "Peace be upon you, O chief of the Prophets’ successors."
         }
       },
       {
-        "number": 169,
+        "number": 22,
         "type": "content",
         "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا قَائِدَ ٱلْغُرِّ ٱلْمُحَجَّلِينَ",
-        "transliteration": "alssalamu ʿalayka ya qa'ida alghurri almuhajjalina",
+        "transliteration": "alssalamu `alayka ya qa'ida alghurri almuhajjalina",
         "translation": {
           "en": "Peace be upon you, O leader of the white-forehead and white-footed ones (on the Day of Resurrection)."
         }
       },
       {
-        "number": 170,
+        "number": 23,
         "type": "content",
         "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ فَاطِمَةَ",
-        "transliteration": "alssalamu ʿalayka yabna fatimata",
+        "transliteration": "alssalamu `alayka yabna fatimata",
         "translation": {
           "en": "Peace be upon you, O son of Fatimah"
         }
       },
       {
-        "number": 171,
+        "number": 24,
         "type": "content",
         "arabic": "سَيِّدَةِ نِسَاءِ ٱلْعَالَمِينَ",
-        "transliteration": "sayyidati nisa'i alʿalamina",
+        "transliteration": "sayyidati nisa'i al`alamina",
         "translation": {
           "en": "the doyenne of the women of this world."
         }
       },
       {
-        "number": 172,
+        "number": 25,
         "type": "content",
         "arabic": "اَلسَّلاَمُ عَلَيْكَ وَعَلَىٰ ٱلأَئِمَّةِ مِنْ وُلْدِكَ",
-        "transliteration": "alssalamu ʿalayka wa ʿala al-a'immati min wuldika",
+        "transliteration": "alssalamu `alayka wa `ala al-a'immati min wuldika",
         "translation": {
           "en": "Peace be upon you and upon the Imams from your progeny."
         }
       },
       {
-        "number": 173,
+        "number": 26,
         "type": "content",
         "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا وَصِيَّ أَمِيرِ ٱلْمُؤْمِنِينَ",
-        "transliteration": "alssalamu ʿalayka ya wasiyya amiri almu'minina",
+        "transliteration": "alssalamu `alayka ya wasiyya amiri almu'minina",
         "translation": {
           "en": "Peace be upon you, O successor of the commander of the faithful."
         }
       },
       {
-        "number": 174,
+        "number": 27,
         "type": "content",
         "arabic": "اَلسَّلاَمُ عَلَيْكَ أَيُّهَا ٱلصِّدِّيقُ ٱلشَّهِيدُ",
-        "transliteration": "alssalamu ʿalayka ayyuha alssiddiqu alshshahidu",
+        "transliteration": "alssalamu `alayka ayyuha alssiddiqu alshshahidu",
         "translation": {
           "en": "Peace be upon you, O veracious and martyr."
         }
       },
       {
-        "number": 175,
+        "number": 28,
         "type": "content",
         "arabic": "اَلسَّلاَمُ عَلَيْكُمْ يَا مَلاَئِكَةَ ٱللَّهِ",
-        "transliteration": "alssalamu ʿalaykum ya mala'ikata allahi",
+        "transliteration": "alssalamu `alaykum ya mala'ikata allahi",
         "translation": {
           "en": "Peace be upon you, O Angels of Allah"
         }
       },
       {
-        "number": 176,
+        "number": 29,
         "type": "content",
         "arabic": "ٱلْمُقِيمِينَ فِي هٰذَا ٱلْمَقَامِ ٱلشَّرِيفِ",
         "transliteration": "almuqimina fi hadha almaqami alshsharifi",
@@ -7463,34 +6112,34 @@
         }
       },
       {
-        "number": 177,
+        "number": 30,
         "type": "content",
         "arabic": "اَلسَّلاَمُ عَلَيْكُمْ يَا مَلاَئِكَةَ رَبِّي",
-        "transliteration": "alssalamu ʿalaykum ya mala'ikata rabbi",
+        "transliteration": "alssalamu `alaykum ya mala'ikata rabbi",
         "translation": {
-          "en": "Peace be upon you, O my Lord's Angels"
+          "en": "Peace be upon you, O my Lord’s Angels"
         }
       },
       {
-        "number": 178,
+        "number": 31,
         "type": "content",
         "arabic": "ٱلْمُحْدِقِينَ بِقَبْرِ ٱلْحُسَيْنِ عَلَيْهِ ٱلسَّلاَمُ",
-        "transliteration": "almuhdiqina biqabri alhusayni ʿalayhi alssalamu",
+        "transliteration": "almuhdiqina biqabri alhusayni `alayhi alssalamu",
         "translation": {
           "en": "who surround the tomb of al-Husayn, peace be upon him."
         }
       },
       {
-        "number": 179,
+        "number": 32,
         "type": "content",
         "arabic": "اَلسَّلاَمُ عَلَيْكُمْ مِنِّي أَبَداً",
-        "transliteration": "alssalamu ʿalaykum minni abadan",
+        "transliteration": "alssalamu `alaykum minni abadan",
         "translation": {
           "en": "Peace be upon all of you forever"
         }
       },
       {
-        "number": 180,
+        "number": 33,
         "type": "content",
         "arabic": "مَا بَقِيتُ وَبَقِيَ ٱللَّيْلُ وَٱلنَّهَارُ",
         "transliteration": "ma baqitu wa baqiya allaylu walnnaharu",
@@ -7499,61 +6148,68 @@
         }
       },
       {
-        "number": 181,
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "Then, you should say the following words:"
+        }
+      },
+      {
+        "number": 34,
         "type": "content",
         "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا أَبَا عَبْدِ ٱللَّهِ",
-        "transliteration": "alssalamu ʿalayka ya aba ʿabdillahi",
+        "transliteration": "alssalamu `alayka ya aba `abdillahi",
         "translation": {
           "en": "Peace be upon you, O Abu-Abdullah."
         }
       },
       {
-        "number": 182,
+        "number": 35,
         "type": "content",
         "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ رَسُولِ ٱللَّهِ",
-        "transliteration": "alssalamu ʿalayka yabna rasuli allahi",
+        "transliteration": "alssalamu `alayka yabna rasuli allahi",
         "translation": {
           "en": "Peace be upon you, O son of the Messenger of Allah."
         }
       },
       {
-        "number": 183,
+        "number": 36,
         "type": "content",
         "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ أَمِيرِ ٱلْمُؤْمِنِينَ",
-        "transliteration": "alssalamu ʿalayka yabna amiri almu'minina",
+        "transliteration": "alssalamu `alayka yabna amiri almu'minina",
         "translation": {
           "en": "Peace be upon you, O son of the commander of the faithful."
         }
       },
       {
-        "number": 184,
+        "number": 37,
         "type": "content",
         "arabic": "عَبْدُكَ وَٱبْنُ عَبْدِكَ وَٱبْنُ أَمَتِكَ",
-        "transliteration": "ʿabduka wabnu ʿabdika wabnu amatika",
+        "transliteration": "`abduka wabnu `abdika wabnu amatika",
         "translation": {
           "en": "I am your slave and son of your slave and bondmaid."
         }
       },
       {
-        "number": 185,
+        "number": 38,
         "type": "content",
         "arabic": "ٱلْمُقِرُّ بِٱلرِّقِّ وَٱلتَّارِكُ لِلْخِلاَفِ عَلَيْكُمْ",
-        "transliteration": "almuqirru bilrriqqi walttariku lilkhilafi ʿalaykum",
+        "transliteration": "almuqirru bilrriqqi walttariku lilkhilafi `alaykum",
         "translation": {
           "en": "I confess of my servantship to you, acquit from being opposite to you,"
         }
       },
       {
-        "number": 186,
+        "number": 39,
         "type": "content",
         "arabic": "وَٱلْمُوَالِي لِوَلِيِّكُمْ وَٱلْمُعَادِي لِعَدُوِّكُمْ",
-        "transliteration": "walmuwali liwaliyykum walmuʿadi liʿaduwwikum",
+        "transliteration": "walmuwali liwaliyykum walmu`adi li`aduwwikum",
         "translation": {
           "en": "accede to any one who accedes to you, and antagonize an yone who antagonizes you."
         }
       },
       {
-        "number": 187,
+        "number": 40,
         "type": "content",
         "arabic": "قَصَدَ حَرَمَكَ وَٱسْتَجَارَ بِمَشْهَدِكَ",
         "transliteration": "qasada haramaka wastajara bimashhadika",
@@ -7562,7 +6218,7 @@
         }
       },
       {
-        "number": 188,
+        "number": 41,
         "type": "content",
         "arabic": "وَتَقَرَّبَ إِلَيْكَ بِقَصْدِكَ",
         "transliteration": "wa taqarraba ilayka biqasdika",
@@ -7571,7 +6227,7 @@
         }
       },
       {
-        "number": 189,
+        "number": 42,
         "type": "content",
         "arabic": "أَأَدْخُلُ يَا رَسُولَ ٱللَّهِ",
         "transliteration": "a'adkhulu ya rasula allahi",
@@ -7580,7 +6236,7 @@
         }
       },
       {
-        "number": 190,
+        "number": 43,
         "type": "content",
         "arabic": "أَأَدْخُلُ يَا نَبِيَّ ٱللَّهِ",
         "transliteration": "a'adkhulu ya nabiyya allahi",
@@ -7589,7 +6245,7 @@
         }
       },
       {
-        "number": 191,
+        "number": 44,
         "type": "content",
         "arabic": "أَأَدْخُلُ يَا أَمِيرَ ٱلْمُؤْمِنِينَ",
         "transliteration": "a'adkhulu ya amira almu'minina",
@@ -7598,34 +6254,34 @@
         }
       },
       {
-        "number": 192,
+        "number": 45,
         "type": "content",
         "arabic": "أَأَدْخُلُ يَا سَيِّدَ ٱلْوَصِيِّينَ",
         "transliteration": "a'adkhulu ya sayyida alwasiyyina",
         "translation": {
-          "en": "O Chief of the prophets' successors, may I enter?"
+          "en": "O Chief of the prophets’ successors, may I enter?"
         }
       },
       {
-        "number": 193,
+        "number": 46,
         "type": "content",
         "arabic": "أَأَدْخُلُ يَا فَاطِمَةُ سَيِّدَةَ نِسَاءِ ٱلْعَالَمِينَ",
-        "transliteration": "a'adkhulu ya fatimatu sayyidata nisa'i alʿalamina",
+        "transliteration": "a'adkhulu ya fatimatu sayyidata nisa'i al`alamina",
         "translation": {
           "en": "O Fatimah the doyenne of the women of the world, may I enter?"
         }
       },
       {
-        "number": 194,
+        "number": 47,
         "type": "content",
         "arabic": "أَأَدْخُلُ يَا مَوْلاَيَ يَا أَبَا عَبْدِ ٱللَّهِ",
-        "transliteration": "a'adkhulu ya mawlaya ya abaʿabdillahi",
+        "transliteration": "a'adkhulu ya mawlaya ya aba`abdillahi",
         "translation": {
           "en": "O my master Abu `Abdullah, may I enter?"
         }
       },
       {
-        "number": 195,
+        "number": 48,
         "type": "content",
         "arabic": "أَأَدْخُلُ يَا مَوْلاَيَ يَا بْنَ رَسُولِ ٱللَّهِ",
         "transliteration": "a'adkhulu ya mawlaya yabna rasuli allahi",
@@ -7641,7 +6297,7 @@
         }
       },
       {
-        "number": 196,
+        "number": 49,
         "type": "content",
         "arabic": "اَلْحَمْدُ لِلَّهِ ٱلْوَاحِدِ ٱلأَحَدِ",
         "transliteration": "alhamdu lillahi alwahidi al-ahadi",
@@ -7650,7 +6306,7 @@
         }
       },
       {
-        "number": 197,
+        "number": 50,
         "type": "content",
         "arabic": "ٱلْفَرْدِ ٱلصَّمَدِ",
         "transliteration": "alfardi alssamadi",
@@ -7659,7 +6315,7 @@
         }
       },
       {
-        "number": 198,
+        "number": 51,
         "type": "content",
         "arabic": "ٱلَّذِي هَدَانِي لِوِلاَيَتِكَ",
         "transliteration": "alladhi hadani liwilayatika",
@@ -7668,7 +6324,7 @@
         }
       },
       {
-        "number": 199,
+        "number": 52,
         "type": "content",
         "arabic": "وَخَصَّنِي بِزِيَارَتِكَ",
         "transliteration": "wa khassani biziyaratika",
@@ -7677,16 +6333,1000 @@
         }
       },
       {
-        "number": 200,
+        "number": 53,
         "type": "content",
         "arabic": "وَسَهَّلَ لِي قَصْدَكَ",
         "transliteration": "wa sahhala li qasdaka",
         "translation": {
           "en": "and made it easy for me to direct to you."
         }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "You should then come near the door of the dome from the side of the Imam’s head and say these words:"
+        }
+      },
+      {
+        "number": 54,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا وَارِثَ آدَمَ صَفْوَةِ ٱللَّهِ",
+        "transliteration": "alssalamu `alayka ya waritha adama safwati allahi",
+        "translation": {
+          "en": "Peace be upon you, O inheritor of Adam the choice of Allah."
+        }
+      },
+      {
+        "number": 55,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا وَارِثَ نُوحٍ نَبِيِّ ٱللَّهِ",
+        "transliteration": "alssalamu `alayka ya waritha nuhin nabiyyi allahi",
+        "translation": {
+          "en": "Peace be upon you, O inheritor of Noah the prophet of Allah."
+        }
+      },
+      {
+        "number": 56,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا وَارِثَ إِبْرَاهِيمَ خَلِيلِ ٱللَّهِ",
+        "transliteration": "alssalamu `alayka ya waritha ibrahima khalili allahi",
+        "translation": {
+          "en": "Peace be upon you, O inheritor of Abraham the intimate friend of Allah."
+        }
+      },
+      {
+        "number": 57,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا وَارِثَ مُوسَىٰ كَلِيمِ ٱللَّهِ",
+        "transliteration": "alssalamu `alayka ya waritha musa kalimi allahi",
+        "translation": {
+          "en": "Peace be upon you, O inheritor of Moses the spoken by Allah."
+        }
+      },
+      {
+        "number": 58,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا وَارِثَ عِيسَىٰ رُوحِ ٱللَّهِ",
+        "transliteration": "alssalamu `alayka ya waritha `isa ruhi allahi",
+        "translation": {
+          "en": "Peace be upon you, O inheritor of Jesus the spirit of Allah."
+        }
+      },
+      {
+        "number": 59,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا وَارِثَ مُحَمَّدٍ حَبِيبِ ٱللَّهِ",
+        "transliteration": "alssalamu `alayka ya waritha muhammadin habibi allahi",
+        "translation": {
+          "en": "Peace be upon you, O inheritor of Muhammad the most beloved by Allah."
+        }
+      },
+      {
+        "number": 60,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا وَارِثَ أَمِيرِ ٱلْمُؤْمِنِينَ عَلَيْهِ ٱلسَّلاَمُ",
+        "transliteration": "alssalamu `alayka ya waritha amiri almu'minina",
+        "translation": {
+          "en": "Peace be upon you, O inheritor of the Commander of the Faithful, peace be upon him."
+        }
+      },
+      {
+        "number": 61,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ مُحَمَّدٍ ٱلْمُصْطَفَىٰ",
+        "transliteration": "alssalamu `alayka yabna muhammadin almustafa",
+        "translation": {
+          "en": "Peace be upon you, O son of Muhammad the well-chosen Prophet."
+        }
+      },
+      {
+        "number": 62,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ عَلِيٍّ ٱلْمُرْتَضَىٰ",
+        "transliteration": "alssalamu `alayka yabna `aliyyin almurtada",
+        "translation": {
+          "en": "Peace be upon you, O son of `Ali the well-pleased."
+        }
+      },
+      {
+        "number": 63,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ فَاطِمَةَ ٱلزَّهْرَاءِ",
+        "transliteration": "alssalamu `alayka yabna fatimata alzzahra'i",
+        "translation": {
+          "en": "Peace be upon you, O son of Fatimah the luminous lady."
+        }
+      },
+      {
+        "number": 64,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ خَدِيـجَةَ ٱلْكُبْرَىٰ",
+        "transliteration": "alssalamu `alayka yabna khadijata alkubra",
+        "translation": {
+          "en": "Peace be upon you, O son of Khadijah the grand lady."
+        }
+      },
+      {
+        "number": 65,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا ثَارَ ٱللَّهِ وَٱبْنَ ثَارِهِ",
+        "transliteration": "alssalamu `alayka ya thara allahi wabna tharihi",
+        "translation": {
+          "en": "Peace be upon you, O vengeance of Allah, son of His vengeance,"
+        }
+      },
+      {
+        "number": 66,
+        "type": "content",
+        "arabic": "وَٱلْوِتْرَ ٱلْمَوْتُورَ",
+        "transliteration": "walwitra almawtura",
+        "translation": {
+          "en": "and the unavenged so far."
+        }
+      },
+      {
+        "number": 67,
+        "type": "content",
+        "arabic": "أَشْهَدُ أَنَّكَ قَدْ أَقَمْتَ ٱلصَّلاَةَ",
+        "transliteration": "ashhadu annaka qad aqamta alssalata",
+        "translation": {
+          "en": "I bear witness that you performed the prayers,"
+        }
+      },
+      {
+        "number": 68,
+        "type": "content",
+        "arabic": "وَآتَيْتَ ٱلزَّكَاةَ",
+        "transliteration": "wa atayta alzzakata",
+        "translation": {
+          "en": "defrayed the poor-rate,"
+        }
+      },
+      {
+        "number": 69,
+        "type": "content",
+        "arabic": "وَأَمَرْتَ بِٱلْمَعْرُوفِ",
+        "transliteration": "wa amarta bilma`rufi",
+        "translation": {
+          "en": "enjoined the right,"
+        }
+      },
+      {
+        "number": 70,
+        "type": "content",
+        "arabic": "وَنَهَيْتَ عَنِ ٱلْمُنْكَرِ",
+        "transliteration": "wa nahayta `an almunkari",
+        "translation": {
+          "en": "forbade the wrong,"
+        }
+      },
+      {
+        "number": 71,
+        "type": "content",
+        "arabic": "وَأَطَعْتَ ٱللَّهَ وَرَسُولَهُ حَتَّىٰ أَتَاكَ ٱلْيَقِينُ",
+        "transliteration": "wa ata`ta allaha wa rasulahu hatta ataka alyaqinu",
+        "translation": {
+          "en": "and obeyed Allah and His Messenger until death came upon you."
+        }
+      },
+      {
+        "number": 72,
+        "type": "content",
+        "arabic": "فَلَعَنَ ٱللَّهُ أُمَّةً قَتَلَتْكَ",
+        "transliteration": "fala`ana allahu ummatan qatalatka",
+        "translation": {
+          "en": "So, may Allah curse the people who slew you."
+        }
+      },
+      {
+        "number": 73,
+        "type": "content",
+        "arabic": "وَلَعَنَ ٱللَّهُ أُمَّةً ظَلَمَتْكَ",
+        "transliteration": "wa la`ana allahu ummatan zalamatka",
+        "translation": {
+          "en": "May Allah curse the people who persecuted you."
+        }
+      },
+      {
+        "number": 74,
+        "type": "content",
+        "arabic": "وَلَعَنَ ٱللَّهُ أُمَّةً سَمِعَتْ بِذٰلِكَ فَرَضِيَتْ بِهِ",
+        "transliteration": "wa la`ana allahu ummatan sami`at bidhalika faradiyat bihi",
+        "translation": {
+          "en": "May Allah curse the people who were pleased when they had heard of that."
+        }
+      },
+      {
+        "number": 75,
+        "type": "content",
+        "arabic": "يَا مَوْلاَيَ يَا أَبَا عَبْدِ ٱللَّهِ",
+        "transliteration": "ya mawlaya ya aba `abdillahi",
+        "translation": {
+          "en": "O my Master, O Abu-`Abdullah!"
+        }
+      },
+      {
+        "number": 76,
+        "type": "content",
+        "arabic": "أَشْهَدُ أَنَّكَ كُنْتَ نُوراً فِي ٱلأَصْلاَبِ ٱلشَّامِخَةِ",
+        "transliteration": "ashhadu annaka kunta nuran fi al-aslabi alshshamikhati",
+        "translation": {
+          "en": "I bear witness that you were light in the sublime loins"
+        }
+      },
+      {
+        "number": 77,
+        "type": "content",
+        "arabic": "وَٱلأَرْحَامِ ٱلْمُطَهَّرَةِ",
+        "transliteration": "wal-arhami almutahharati",
+        "translation": {
+          "en": "and purified wombs;"
+        }
+      },
+      {
+        "number": 78,
+        "type": "content",
+        "arabic": "لَمْ تُنَجِّسْكَ ٱلْجَاهِلِيَّةُ بِأَنْجَاسِهَا",
+        "transliteration": "lam tunajjiska aljahiliyyatu bi'anjasiha",
+        "translation": {
+          "en": "the impurities of the Ignorance Era could not object you to filth"
+        }
+      },
+      {
+        "number": 79,
+        "type": "content",
+        "arabic": "وَلَمْ تُلْبِسْكَ مِنْ مُدْلَهِمَّاتِ ثِيَابِهَا",
+        "transliteration": "wa lam tulbiska min mudlahimmati thiyabiha",
+        "translation": {
+          "en": "nor could it dress you its murky clothes."
+        }
+      },
+      {
+        "number": 80,
+        "type": "content",
+        "arabic": "وَأَشْهَدُ أَنَّكَ مِنْ دَعَائِمِ ٱلدِّينِ",
+        "transliteration": "wa ashhadu annaka min da`a'imi alddini",
+        "translation": {
+          "en": "I also bear witness that you are one of the mainstays of the religion"
+        }
+      },
+      {
+        "number": 81,
+        "type": "content",
+        "arabic": "وَأَرْكَانِ ٱلْمُؤْمِنِينَ",
+        "transliteration": "wa arkani almu'minina",
+        "translation": {
+          "en": "and the supports of the faithful believers."
+        }
+      },
+      {
+        "number": 82,
+        "type": "content",
+        "arabic": "وَأَشْهَدُ أَنَّكَ ٱلإِمَامُ ٱلْبَرُّ ٱلتَّقِيُّ",
+        "transliteration": "wa ashhadu annaka al-imamu albarru alttaqiyyu",
+        "translation": {
+          "en": "I also bear witness that you are the God-fearing, pious,"
+        }
+      },
+      {
+        "number": 83,
+        "type": "content",
+        "arabic": "ٱلرَّضِيُّ ٱلزَّكِيُّ",
+        "transliteration": "alrradiyyu alzzakiyyu",
+        "translation": {
+          "en": "pleased, immaculate,"
+        }
+      },
+      {
+        "number": 84,
+        "type": "content",
+        "arabic": "ٱلْهَادِي ٱلْمَهْدِيُّ",
+        "transliteration": "alhadi almahdiyyu",
+        "translation": {
+          "en": "guide, and well-guided Imam."
+        }
+      },
+      {
+        "number": 85,
+        "type": "content",
+        "arabic": "وَأَشْهَدُ أَنَّ ٱلأَئِمَّةَ مِنْ وُلْدِكَ كَلِمَةُ ٱلتَّقْوَىٰ",
+        "transliteration": "wa ashhadu anna al-a'immata min wuldika kalimatu alttaqwa",
+        "translation": {
+          "en": "And (I bear witness) that the Imams from your progeny are the spokesmen of piety,"
+        }
+      },
+      {
+        "number": 86,
+        "type": "content",
+        "arabic": "وَأَعْلاَمُ ٱلْهُدَىٰ",
+        "transliteration": "wa a`lamu alhuda",
+        "translation": {
+          "en": "the signs of guidance,"
+        }
+      },
+      {
+        "number": 87,
+        "type": "content",
+        "arabic": "وَٱلْعُروَةُ ٱلْوُثْقَىٰ",
+        "transliteration": "wal`urwatu alwuthqa",
+        "translation": {
+          "en": "the firmest handle (of Islam),"
+        }
+      },
+      {
+        "number": 88,
+        "type": "content",
+        "arabic": "وَٱلْحُجَّةُ عَلَىٰ أَهْلِ ٱلدُّنْيَا",
+        "transliteration": "walhujjatu `ala ahli alddunya",
+        "translation": {
+          "en": "and the decisive Argument against the inhabitants of the world."
+        }
+      },
+      {
+        "number": 89,
+        "type": "content",
+        "arabic": "وَأُشْهِدُ ٱللَّهَ وَمَلاَئِكَتَهُ",
+        "transliteration": "wa ushhidu allaha wa mala'ikatahu",
+        "translation": {
+          "en": "And I call Allah, His angels,"
+        }
+      },
+      {
+        "number": 90,
+        "type": "content",
+        "arabic": "وَأَنْبِيَاءَهُ وَرُسُلَهُ",
+        "transliteration": "wa anbiya'ahu wa rusulahu",
+        "translation": {
+          "en": "His Prophets, and His Messenger"
+        }
+      },
+      {
+        "number": 91,
+        "type": "content",
+        "arabic": "أَنِّي بِكُمْ مُؤْمِنٌ وَبِإِيَابِكُمْ",
+        "transliteration": "anni bikum mu'minun wa bi'yabikum",
+        "translation": {
+          "en": "to witness for me that I believe in you all and in your Return,"
+        }
+      },
+      {
+        "number": 92,
+        "type": "content",
+        "arabic": "مُوقِنٌ بِشَرَائِعِ دِينِي وَخَوَاتِيمِ عَمَلي",
+        "transliteration": "muqinun bishara'i`i dini wa khawatimi `amali",
+        "translation": {
+          "en": "I have full confidence in the laws of my religion and in the seals of my deeds,"
+        }
+      },
+      {
+        "number": 93,
+        "type": "content",
+        "arabic": "وَقَلْبِي لِقَلْبِكُمْ سِلْمٌ",
+        "transliteration": "wa qalbi liqalbikum silmun",
+        "translation": {
+          "en": "my heart is at peace with you all,"
+        }
+      },
+      {
+        "number": 94,
+        "type": "content",
+        "arabic": "وَأَمْرِي لأَمْرِكُمْ مُتَّبِعٌ",
+        "transliteration": "wa amri li'amrikum muttbi`un",
+        "translation": {
+          "en": "and all my affairs are based on your commands."
+        }
+      },
+      {
+        "number": 95,
+        "type": "content",
+        "arabic": "صَلَوَاتُ اللَّهِ عَلَيْكُمْ وَعَلَىٰ أَرْوَاحِكُمْ",
+        "transliteration": "salawatu allahi `alaykum wa `ala arwahikum",
+        "translation": {
+          "en": "May Allah’s benedictions be on your souls,"
+        }
+      },
+      {
+        "number": 96,
+        "type": "content",
+        "arabic": "وَعَلَىٰ أَجْسَادِكُمْ وَعَلَىٰ أَجْسَامِكُمْ",
+        "transliteration": "wa `ala ajsadikum wa `ala ajsamikum",
+        "translation": {
+          "en": "your bodies, your forms,"
+        }
+      },
+      {
+        "number": 97,
+        "type": "content",
+        "arabic": "وَعَلَىٰ شَاهِدِكُمْ وَعَلَىٰ غَائِبِكُمْ",
+        "transliteration": "wa `ala shahidikum wa `ala gha'ibkum",
+        "translation": {
+          "en": "the present and the absent from you,"
+        }
+      },
+      {
+        "number": 98,
+        "type": "content",
+        "arabic": "وَعَلَىٰ ظَاهِرِكُمْ وَعَلَىٰ بَاطِنِكُمْ",
+        "transliteration": "wa `ala zahirikum wa `ala batinikum",
+        "translation": {
+          "en": "and the apparent and the invisible from you."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "Then, you may throw yourself on the tomb, kiss it, and say these words:"
+        }
+      },
+      {
+        "number": 99,
+        "type": "content",
+        "arabic": "بِأَبِي أَنْتَ وَأُمِّي يَا بْنَ رَسُولِ ٱللَّهِ",
+        "transliteration": "bi'abi anta wa ummi yabna rasuli allahi",
+        "translation": {
+          "en": "My father and mother be sacrificed for you, O son of the Messenger of Allah!"
+        }
+      },
+      {
+        "number": 100,
+        "type": "content",
+        "arabic": "بِأَبِي أَنْتَ وَأُمِّي يَا أَبَا عَبْدِ ٱللَّهِ",
+        "transliteration": "bi'abi anta wa ummi ya aba `abdillahi",
+        "translation": {
+          "en": "My father and mother be sacrificed for you, O Abu `Abdullah!"
+        }
+      },
+      {
+        "number": 101,
+        "type": "content",
+        "arabic": "لَقَدْ عَظُمَتِ ٱلرَّزِيَّةُ",
+        "transliteration": "laqad `azumat alrraziyyatu",
+        "translation": {
+          "en": "Extremely terrible was the calamity"
+        }
+      },
+      {
+        "number": 102,
+        "type": "content",
+        "arabic": "وَجَلَّتِ ٱلْمُصيبَةُ بِكَ عَلَيْنَا",
+        "transliteration": "wa jallat almusibatu bika `alayna",
+        "translation": {
+          "en": "and astounding is the misfortune that you suffered upon us"
+        }
+      },
+      {
+        "number": 103,
+        "type": "content",
+        "arabic": "وَعَلَىٰ جَمِيعِ أَهْلِ ٱلسَّمَاوَاتِ وَٱلأَرْضِ",
+        "transliteration": "wa `ala jami`i ahli alssamawati wal-ardi",
+        "translation": {
+          "en": "and upon all the inhabitants of the heavens and the earth."
+        }
+      },
+      {
+        "number": 104,
+        "type": "content",
+        "arabic": "فَلَعَنَ ٱللَّهُ أُمَّةً أَسْرَجَتْ وَأَلْجَمَتْ",
+        "transliteration": "fala`ana allahu ummatan asrajat wa aljamat",
+        "translation": {
+          "en": "Therefore, Allah may curse the people who saddled up, gave rein to their horses,"
+        }
+      },
+      {
+        "number": 105,
+        "type": "content",
+        "arabic": "وَتَهَيَّأَتْ لِقِتَالِكَ",
+        "transliteration": "wa tahayya'at liqitalika",
+        "translation": {
+          "en": "and prepared themselves to kill you."
+        }
+      },
+      {
+        "number": 106,
+        "type": "content",
+        "arabic": "يَا مَوْلاَيَ يَا أَبَا عَبْدِ ٱللَّهِ",
+        "transliteration": "ya mawlaya ya aba `abdillahi",
+        "translation": {
+          "en": "O my Master, O Abu `Abdullah!"
+        }
+      },
+      {
+        "number": 107,
+        "type": "content",
+        "arabic": "قَصَدْتُ حَرَمَكَ",
+        "transliteration": "qasadtu haramaka",
+        "translation": {
+          "en": "I moved towards your sanctuary"
+        }
+      },
+      {
+        "number": 108,
+        "type": "content",
+        "arabic": "وَأَتَيْتُ إِلَىٰ مَشْهَدِكَ",
+        "transliteration": "wa ataytu ila mashhadika",
+        "translation": {
+          "en": "and came to your shrine"
+        }
+      },
+      {
+        "number": 109,
+        "type": "content",
+        "arabic": "أَسْأَلُ ٱللَّهَ بِٱلشَّأْنِ ٱلَّذِي لَكَ عِنْدَهُ",
+        "transliteration": "as'alu allaha bilshsha'ni alladhi laka `indahu",
+        "translation": {
+          "en": "beseeching Allah in the name of the standing that you enjoy with Him"
+        }
+      },
+      {
+        "number": 110,
+        "type": "content",
+        "arabic": "وَبِٱلْمَحَلِّ ٱلَّذِي لَكَ لَدَيْهِ",
+        "transliteration": "wa bilmahalli alladhi laka ladayhi",
+        "translation": {
+          "en": "and the position that you occupy with Him"
+        }
+      },
+      {
+        "number": 111,
+        "type": "content",
+        "arabic": "أَنْ يُصَلِّيَ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
+        "transliteration": "an yusalliya `ala muhammadin wa ali muhammadin",
+        "translation": {
+          "en": "to send blessings on Muhammad and on the Household of Muhammad"
+        }
+      },
+      {
+        "number": 112,
+        "type": "content",
+        "arabic": "وَأَنْ يَجْعَلَنِي مَعَكُمْ فِي ٱلدُّنْيَا وَٱلآخِرَةِ",
+        "transliteration": "wa an yaj`alani ma`akum fi alddunya wal-akhirati",
+        "translation": {
+          "en": "and to keep me with you in this world and in the Hereafter."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "Then, you should stand up for offering a two-unit prayer next to the side of the Imam’s head. In this prayer, you can recite any Surah you like. When you finish, you should say these words:"
+        }
+      },
+      {
+        "number": 113,
+        "type": "content",
+        "arabic": "اَللَّهُمَّ إِنِّي صَلَّيْتُ وَرَكَعْتُ وَسَجَدْتُ",
+        "transliteration": "allahumma inni sallaytu wa raka`tu wa sajadtu",
+        "translation": {
+          "en": "O Allah, I have offered a prayer, genuflected, and prostrated myself"
+        }
+      },
+      {
+        "number": 114,
+        "type": "content",
+        "arabic": "لَكَ وَحْدَكَ لاََ شَرِيكَ لَكَ",
+        "transliteration": "laka wahdaka la sharika laka",
+        "translation": {
+          "en": "for Your sake purely without setting any partner with You"
+        }
+      },
+      {
+        "number": 115,
+        "type": "content",
+        "arabic": "لأَنَّ ٱلصَّلاَةَ وَٱلرُّكُوعَ وَٱلسُّجُودَ",
+        "transliteration": "li'anna alssalata walrruku`a walssujuda",
+        "translation": {
+          "en": "since all prayers, genuflection, and prostration"
+        }
+      },
+      {
+        "number": 116,
+        "type": "content",
+        "arabic": "لاََ تَكُونُ إِلاَّ لَكَ",
+        "transliteration": "la takunu illa laka",
+        "translation": {
+          "en": "suit none except You."
+        }
+      },
+      {
+        "number": 117,
+        "type": "content",
+        "arabic": "لإَِنَّكَ أَنْتَ ٱللَّهُ لاََ إِلٰهَ إِلاَّ أَنْتَ",
+        "transliteration": "li'annaka anta allahu la ilaha illa anta",
+        "translation": {
+          "en": "Because You are Allah, there in n0 god save You."
+        }
+      },
+      {
+        "number": 118,
+        "type": "content",
+        "arabic": "اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍٍ",
+        "transliteration": "allahumma salli `ala muhammadin wa ali muhammadin",
+        "translation": {
+          "en": "O Allah, (please) send blessings on Muhammad and the Household of Muhammad,"
+        }
+      },
+      {
+        "number": 119,
+        "type": "content",
+        "arabic": "وَأَبْلِغْهُمْ عَنِّي أَفْضَلَ ٱلسَّلاَمِ وَٱلتَّحِيَّةِ",
+        "transliteration": "wa ablighhum `anni afdala alssalami walttahiyyati",
+        "translation": {
+          "en": "and convey to them my best greetings and compliments"
+        }
+      },
+      {
+        "number": 120,
+        "type": "content",
+        "arabic": "وَٱرْدُدْ عَلَيَّ مِنْهُمُ ٱلسَّلاَمَ",
+        "transliteration": "wardud `alayya minhum alssalama",
+        "translation": {
+          "en": "and convey to me their replies."
+        }
+      },
+      {
+        "number": 121,
+        "type": "content",
+        "arabic": "اَللَّهُمَّ وَهَاتَانِ ٱلرَّكْعَتَانِ",
+        "transliteration": "allahumma wa hatani alrrak`atani",
+        "translation": {
+          "en": "O Allah, these two units of prayer"
+        }
+      },
+      {
+        "number": 122,
+        "type": "content",
+        "arabic": "هَدِيَّةٌ مِنِّي إِلَىٰ مَوْلاَيَ",
+        "transliteration": "hadiyyatun minni ila mawlaya",
+        "translation": {
+          "en": "are present from me to my master"
+        }
+      },
+      {
+        "number": 123,
+        "type": "content",
+        "arabic": "ٱلْحُسَيْنِ بْنِ عَلِيِّ عَلَيْهِمَا ٱلسَّلاَمُ",
+        "transliteration": "alhusayni bni `aliyyin `alayhima alssalamu",
+        "translation": {
+          "en": "al-Husayn the son of `Ali, peace be upon both of them."
+        }
+      },
+      {
+        "number": 124,
+        "type": "content",
+        "arabic": "اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَعَلَيْهِ",
+        "transliteration": "allahumma salli `ala muhammadin wa `alayhi",
+        "translation": {
+          "en": "O Allah, send blessings on Muhammad and on him,"
+        }
+      },
+      {
+        "number": 125,
+        "type": "content",
+        "arabic": "وَتَقَبَّلْ مِنِّي وَأْجُرْنِي عَلَىٰ ذٰلِكَ",
+        "transliteration": "wa taqabbal minni wa'jurni `ala dhalika",
+        "translation": {
+          "en": "accept my effort, and reward me for it"
+        }
+      },
+      {
+        "number": 126,
+        "type": "content",
+        "arabic": "بِأَفْضَلِ أَمَلِي وَرَجَائِي فِيكَ",
+        "transliteration": "bi'afdali amali wa raja'i fika",
+        "translation": {
+          "en": "in the best rewarding that I anticipate and hope from You"
+        }
+      },
+      {
+        "number": 127,
+        "type": "content",
+        "arabic": "وَفِي وَلِيِّكَ يَا وَلِيَّ ٱلْمُؤْمِنِينَ",
+        "transliteration": "wa fi waliyyika ya waliyya almu'minina",
+        "translation": {
+          "en": "and from Your saint, O Guardian of the faithful!"
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "Then, move to the side of the Imam’s feet, stop at the place of the head of ‘Ali ibn al-Husayn (‘a) and say the following words:"
+        }
+      },
+      {
+        "number": 128,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ رَسُولِ ٱللَّهِ",
+        "transliteration": "alssalamu `alayka yabna rasuli allahi",
+        "translation": {
+          "en": "Peace be upon you, O son of the Messenger of Allah."
+        }
+      },
+      {
+        "number": 129,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ نَبِيِّ ٱللَّهِ",
+        "transliteration": "alssalamu `alayka yabna nabiyyi allahi",
+        "translation": {
+          "en": "Peace be upon you, O son of the Prophet of Allah."
+        }
+      },
+      {
+        "number": 130,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ أَمِيرِ ٱلْمُؤْمِنِينَ",
+        "transliteration": "alssalamu `alayka yabna amiri almu'minina",
+        "translation": {
+          "en": "Peace be upon you, O son of the commander of the faithful."
+        }
+      },
+      {
+        "number": 131,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ ٱلْحُسَيْنِ ٱلشَّهِيدِ",
+        "transliteration": "alssalamu `alayka yabna alhusayni alshshahidi",
+        "translation": {
+          "en": "Peace be upon you, O son of al-Husayn the martyr."
+        }
+      },
+      {
+        "number": 132,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ أَيُّهَا ٱلشَّهِيدُ",
+        "transliteration": "alssalamu `alayka ayyuha alshshahidu",
+        "translation": {
+          "en": "Peace be upon you, O martyr."
+        }
+      },
+      {
+        "number": 133,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ أَيُّهَا ٱلْمَظْلُومُ وَٱبْنُ ٱلْمَظْلُومِ",
+        "transliteration": "alssalamu `alayka ayyuha almazlumu wabnu almazlumi",
+        "translation": {
+          "en": "Peace be upon you, O wronged and harassed and the son of the wrong and harassed."
+        }
+      },
+      {
+        "number": 134,
+        "type": "content",
+        "arabic": "لَعَنَ ٱللَّهُ أُمَّةً قَتَلَتْكَ",
+        "transliteration": "la`ana allahu ummatan qatalatka",
+        "translation": {
+          "en": "Curse of Allah be on those who killed you."
+        }
+      },
+      {
+        "number": 135,
+        "type": "content",
+        "arabic": "وَلَعَنَ ٱللَّهُ أُمَّةً ظَلَمَتْكَ",
+        "transliteration": "wa la`ana allahu ummatan zalamatka",
+        "translation": {
+          "en": "Curse of Allah be on those who persecuted you."
+        }
+      },
+      {
+        "number": 136,
+        "type": "content",
+        "arabic": "وَلَعَنَ ٱللَّهُ أُمَّةً سَمِعَتْ بِذٰلِكَ فَرَضَيِتْ بِهِ",
+        "transliteration": "wa la`ana allahu ummatan sami`at bidhalika faradiyat bihi",
+        "translation": {
+          "en": "Curse of Allah be on those who heard this even but rested satisfied."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "You should then throw yourself on the tomb, kiss it, and say the following words:"
+        }
+      },
+      {
+        "number": 137,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا وَلِيَّ ٱللَّهِ وَٱبْنَ وَلِيِّهِ",
+        "transliteration": "alssalamu `alayka ya waliyya allahi wabna waliyyihi",
+        "translation": {
+          "en": "Peace be upon you, O intimate servant of Allah and the son of His intimate servant."
+        }
+      },
+      {
+        "number": 138,
+        "type": "content",
+        "arabic": "لَقَدْ عَظُمَتِ ٱلْمُصيبَةُ",
+        "transliteration": "laqad `azumat almusibatu",
+        "translation": {
+          "en": "Extremely terrible was the calamity"
+        }
+      },
+      {
+        "number": 139,
+        "type": "content",
+        "arabic": "وَجَلَّتِ ٱلرَّزِيَّةُ بِكَ عَلَيْنَا",
+        "transliteration": "wa jallat alrraziyyatu bika `alayna",
+        "translation": {
+          "en": "and astounding is the misfortune that you suffered, upon us"
+        }
+      },
+      {
+        "number": 140,
+        "type": "content",
+        "arabic": "وَعَلَىٰ جَمِيعِ ٱلْمُسْلِمينَ",
+        "transliteration": "wa `ala jami`i almuslimina",
+        "translation": {
+          "en": "and upon all Muslims."
+        }
+      },
+      {
+        "number": 141,
+        "type": "content",
+        "arabic": "فَلَعَنَ ٱللَّهُ أُمَّةً قَتَلَتْكَ",
+        "transliteration": "fala`ana allahu ummatan qatalatka",
+        "translation": {
+          "en": "So, curse of Allah be on those who killed you"
+        }
+      },
+      {
+        "number": 142,
+        "type": "content",
+        "arabic": "وَأَبْرَأُ إِلَىٰ ٱللَّهِ وَإِلَيْكَ مِنْهُمْ",
+        "transliteration": "wa abra'u ila allahi wa ilayka minhum",
+        "translation": {
+          "en": "and I disavow them in the presence of Allah and You."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "You should then leave from the door that is at the side of ‘Ali ibn al-Husayn’s feet, direct towards the martyrs, and say the following words:"
+        }
+      },
+      {
+        "number": 143,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكُمْ يَا أَوْلِيَاءَ ٱللَّهِ وَأَحِبَّائَهُ",
+        "transliteration": "alssalamu `alaykum ya awliya'a allahi wa ahibba'ahu",
+        "translation": {
+          "en": "Peace be upon all of you, O friends and dears of Allah."
+        }
+      },
+      {
+        "number": 144,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكُمْ يَا أَصْفِيَاءَ ٱللَّهِ وَأَوِدَّاءَهُ",
+        "transliteration": "alssalamu `alaykum ya asfiya'a allahi wa awidda'ahu",
+        "translation": {
+          "en": "Peace be upon all of you, O choice of Allah and sincerely attached to Him."
+        }
+      },
+      {
+        "number": 145,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ دِينِ ٱللَّهِ",
+        "transliteration": "alssalamu `alaykum ya ansara dini allahi",
+        "translation": {
+          "en": "Peace be upon all of you, O supporters of Allah’s religion."
+        }
+      },
+      {
+        "number": 146,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ رَسُولِ ٱللَّهِ",
+        "transliteration": "alssalamu `alaykum ya ansara rasuli allahi",
+        "translation": {
+          "en": "Peace be upon all of you, O supporters of the Messenger of Allah."
+        }
+      },
+      {
+        "number": 147,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ أَمِيرِ ٱلْمُؤْمِنِينَ",
+        "transliteration": "alssalamu `alaykum ya ansara amiri almu'minina",
+        "translation": {
+          "en": "Peace be upon all of you, O supporters of the Commander of the Faithful."
+        }
+      },
+      {
+        "number": 148,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ فَاطِمَةَ سَيِّدَةِ نِسَاءِ ٱلْعَالَمِينَ",
+        "transliteration": "alssalamu `alaykum ya ansara fatimata sayyidati nisa'i al`alamina",
+        "translation": {
+          "en": "Peace be upon all of you, O supporters of Fatimah the doyenne of the women of this world."
+        }
+      },
+      {
+        "number": 149,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ أَبِي مُحَمَّدٍ",
+        "transliteration": "alssalamu `alaykum ya ansara abi muhammadin",
+        "translation": {
+          "en": "Peace be upon all of you, O supporters of Abu Muhammad,"
+        }
+      },
+      {
+        "number": 150,
+        "type": "content",
+        "arabic": "ٱلْحَسَنِ بْنِ عَلِيٍّ ٱلْوَلِيِّ ٱلنَّاصِحِ",
+        "transliteration": "alhasani ibni `aliyyin alwaliyyi alnnasihi",
+        "translation": {
+          "en": "al-Hasan the son of `Ali, the saintly and sincere."
+        }
+      },
+      {
+        "number": 151,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ أَبِي عَبْدِ ٱللَّهِ",
+        "transliteration": "alssalamu `alaykum ya ansara abi `abdillahi",
+        "translation": {
+          "en": "Peace be upon all of you, O supporters of Abu-`Abdullah."
+        }
+      },
+      {
+        "number": 152,
+        "type": "content",
+        "arabic": "بِأَبِي أَنْتُمْ وَأُمِّي",
+        "transliteration": "bi'abi antum wa ummi",
+        "translation": {
+          "en": "My father and mother be sacrificed for you."
+        }
+      },
+      {
+        "number": 153,
+        "type": "content",
+        "arabic": "طِبْتُمْ وَطَابَتِ ٱلأَرْضُ ٱلَّتِي فِيهَا دُفِنْتُمْ",
+        "transliteration": "tibtum wa tabat al-ardu allati fiha dufintum",
+        "translation": {
+          "en": "Verily, pure be you and pure be the soil in which you were buried."
+        }
+      },
+      {
+        "number": 154,
+        "type": "content",
+        "arabic": "وَفُزْتُمْ فَوْزاً عَظيماً",
+        "transliteration": "wa fuztum fawzan `aziman",
+        "translation": {
+          "en": "You attained great success."
+        }
+      },
+      {
+        "number": 155,
+        "type": "content",
+        "arabic": "فَيَا لَيْتَنِي كُنْتُ مَعَكُمْ فَأَفُوزَ مَعَكُمْ",
+        "transliteration": "fayalaytani kuntu ma`akum fa'afuza ma`akum",
+        "translation": {
+          "en": "Would that I were with you so that I could also share the accomplishment with you."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "You should then return to the place near the head of Imam al-Husayn (‘a), supplicate Almighty Allah as much as you can, and pray for yourself, your family members, your parents, and your friends, because any prayer in the holy shrine of Imam al-Husayn (‘a) shall never be rejected."
+        }
+      },
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "You should then return to the place near the head of Imam al-Husayn ('a), supplicate Almighty Allah as much as you can, and pray for yourself, your family members, your parents, and your friends, because any prayer in the holy shrine of Imam al-Husayn (`a) shall never be rejected. Commentary: Known as Ziyarah Warith, this form of ziyarah has been quoted from Shaykh al-Tusi’s book of Misbah al-Mutahajjid, which is one of the most sublime, reliable, and famous books in the scholastic milieus. I have therefore quoted this form of ziyarah from this honorable book without leaning on any other means or reference book. Hence, the sealing statement of this form was the following:"
+        }
+      },
+      {
+        "number": 156,
+        "type": "content",
+        "arabic": "فَيَا لَيْتَنِي كُنْتُ مَعَكُمْ فَأَفُوزَ مَعَكُمْ",
+        "transliteration": "",
+        "translation": {
+          "en": "Would that I were with you so that I could also share the accomplishment with you."
+        }
       }
     ],
-    "mafatihId": 1249
+    "mafatihId": 1249,
+    "source": "mafatih-realigned"
   },
   {
     "id": "ziyarat-ashura",
@@ -11205,14 +10845,21 @@
     "id": "ziyarat-imam-mahdi",
     "name": "Ziyarat Imam Mahdi",
     "category": "ziyarat",
-    "segmentCount": 38,
+    "segmentCount": 39,
     "url": "https://www.duas.org/mobile/ziyarat-imam-mahdi.html",
     "segments": [
+      {
+        "number": null,
+        "type": "heading",
+        "text": {
+          "en": "Friday Ziyarah of Imam Mahdi (peace be upon him)"
+        }
+      },
       {
         "number": 1,
         "type": "content",
         "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا حُجَّةَ ٱللَّهِ فِي أَرْضِهِ",
-        "transliteration": "alssalamu ʿalayka ya hujjata allahi fi ardihi",
+        "transliteration": "alssalamu `alayka yahujjata allahi fi ardihi",
         "translation": {
           "en": "Peace be upon you, O argument of Allah in His lands!"
         }
@@ -11221,7 +10868,7 @@
         "number": 2,
         "type": "content",
         "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا عَيْنَ ٱللَّهِ فِي خَلْقِهِ",
-        "transliteration": "alssalamu ʿalayka ya ʿayna allahi fi khalqihi",
+        "transliteration": "alssalamu `alayka ya`ayna allahi fi khalqihi",
         "translation": {
           "en": "Peace be upon you, O sight of Allah on His creatures!"
         }
@@ -11230,7 +10877,7 @@
         "number": 3,
         "type": "content",
         "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا نُورَ ٱللَّهِ",
-        "transliteration": "alssalamu ʿalayka ya nura allahi",
+        "transliteration": "alssalamu `alayka yanura allahi",
         "translation": {
           "en": "Peace be upon you, O light of Allah"
         }
@@ -11248,7 +10895,7 @@
         "number": 5,
         "type": "content",
         "arabic": "وَيُفَرَّجُ بِهِ عَنِ ٱلْمُؤْمِنِينَ",
-        "transliteration": "wa yufarraju bihi ʿan almu'minina",
+        "transliteration": "wa yufarraju bihi `an almu'minina",
         "translation": {
           "en": "and by which the believers are relieved!"
         }
@@ -11256,8 +10903,8 @@
       {
         "number": 6,
         "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكَ أَيُّهَا ٱلْمُهَذَّبُ ٱلْخَائِفُ",
-        "transliteration": "alssalamu ʿalayka ayyuha almuhadhdhabu alkha'ifu",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ ايُّهَا ٱلْمُهَذَّبُ ٱلْخَائِفُ",
+        "transliteration": "alssalamu `alayka ayyuhaalmuhadhdhabu alkha'ifu",
         "translation": {
           "en": "Peace be upon you, O polite and fearful!"
         }
@@ -11265,8 +10912,8 @@
       {
         "number": 7,
         "type": "content",
-        "arabic": "اَلسَّلاَمُ عَلَيْكَ أَيُّهَا ٱلْوَلِيُّ ٱلنَّاصِحُ",
-        "transliteration": "alssalamu ʿalayka ayyuha alwaliyyu alnnasihu",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ ايُّهَا ٱلْوَلِيُّ ٱلنَّاصِحُ",
+        "transliteration": "alssalamu `alayka ayyuhaalwaliyyu alnnasihu",
         "translation": {
           "en": "Peace be upon you, O sincere patron!"
         }
@@ -11275,7 +10922,7 @@
         "number": 8,
         "type": "content",
         "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا سَفِينَةَ ٱلنَّجَاةِ",
-        "transliteration": "alssalamu ʿalayka ya safinata alnnajati",
+        "transliteration": "alssalamu `alayka yasafinata alnnajati",
         "translation": {
           "en": "Peace be upon you, O ark of salvation!"
         }
@@ -11284,7 +10931,7 @@
         "number": 9,
         "type": "content",
         "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا عَيْنَ ٱلْحَيَاةِ",
-        "transliteration": "alssalamu ʿalayka ya ʿayna alhayati",
+        "transliteration": "alssalamu `alayka ya`ayna alhayati",
         "translation": {
           "en": "Peace be upon you, O essence of life!"
         }
@@ -11293,7 +10940,7 @@
         "number": 10,
         "type": "content",
         "arabic": "اَلسَّلاَمُ عَلَيْكَ",
-        "transliteration": "alssalamu ʿalayka",
+        "transliteration": "alssalamu `alayka",
         "translation": {
           "en": "Peace be upon you."
         }
@@ -11302,7 +10949,7 @@
         "number": 11,
         "type": "content",
         "arabic": "صَلَّىٰ ٱللَّهُ عَلَيْكَ",
-        "transliteration": "salla allahu ʿalayka",
+        "transliteration": "sallaallahu `alayka",
         "translation": {
           "en": "May Allah send blessings to you"
         }
@@ -11311,7 +10958,7 @@
         "number": 12,
         "type": "content",
         "arabic": "وَعَلَىٰ آلِ بَيْتِكَ",
-        "transliteration": "wa ʿala ali baytika",
+        "transliteration": "wa `alaali baytika",
         "translation": {
           "en": "and upon your Household,"
         }
@@ -11329,7 +10976,7 @@
         "number": 14,
         "type": "content",
         "arabic": "اَلسَّلاَمُ عَلَيْكَ",
-        "transliteration": "alssalamu ʿalayka",
+        "transliteration": "alssalamu `alayka",
         "translation": {
           "en": "Peace be upon you."
         }
@@ -11338,7 +10985,7 @@
         "number": 15,
         "type": "content",
         "arabic": "عَجَّلَ ٱللَّهُ لَكَ مَا وَعَدَكَ",
-        "transliteration": "ʿajjala allahu laka ma waʿadaka",
+        "transliteration": "`ajjala allahu laka mawa`adaka",
         "translation": {
           "en": "May Allah hasten that which He has promised you;"
         }
@@ -11346,7 +10993,7 @@
       {
         "number": 16,
         "type": "content",
-        "arabic": "مِنَ ٱلنَّصْرِ وَظُهُورِ ٱلأَمْرِ",
+        "arabic": "مِنَ ٱلنَّصْرِ وَظُهُورِ ٱلامْرِ",
         "transliteration": "mina alnnasri wa zuhuri al-amri",
         "translation": {
           "en": "namely, victory and prevalence of your authority."
@@ -11356,7 +11003,7 @@
         "number": 17,
         "type": "content",
         "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا مَوْلاَيَ",
-        "transliteration": "alssalamu ʿalayka ya mawlaya",
+        "transliteration": "alssalamu `alayka yamawlaya",
         "translation": {
           "en": "Peace be upon you, O my master."
         }
@@ -11364,8 +11011,8 @@
       {
         "number": 18,
         "type": "content",
-        "arabic": "أَنَا مَوْلاَكَ",
-        "transliteration": "ana mawlaka",
+        "arabic": "انَا مَوْلاَكَ",
+        "transliteration": "anamawlaka",
         "translation": {
           "en": "I am a servant of you"
         }
@@ -11373,8 +11020,8 @@
       {
         "number": 19,
         "type": "content",
-        "arabic": "عَارِفٌ بِأُولاَكَ وَأُخْرَاكَ",
-        "transliteration": "ʿarifun bi'ulaka wa ukhraka",
+        "arabic": "عَارِفٌ بِاولاَكَ وَاخْرَاكَ",
+        "transliteration": "`arifun bi'ulaka wa ukhraka",
         "translation": {
           "en": "and I recognize the first and the last of your affair."
         }
@@ -11382,8 +11029,8 @@
       {
         "number": 20,
         "type": "content",
-        "arabic": "أَتَقَرَّبُ إِلَىٰ ٱللَّهِ تَعَالَىٰ بِكَ وَبِآلِ بَيْتِكَ",
-        "transliteration": "ataqarrabu ila allahi taʿala bika wa bi-ali baytika",
+        "arabic": "اتَقَرَّبُ إِلَىٰ ٱللَّهِ تَعَالَىٰ بِكَ وَبِآلِ بَيْتِكَ",
+        "transliteration": "ataqarrabu ilaallahi ta`alabika wa bi-ali baytika",
         "translation": {
           "en": "I seek nearness to Allah, the Exalted, through your Household and you"
         }
@@ -11391,8 +11038,8 @@
       {
         "number": 21,
         "type": "content",
-        "arabic": "وَأَنْتَظِرُ ظُهُورَكَ وَظُهُورَ ٱلْحَقِّ عَلَىٰ يَدَيْكَ",
-        "transliteration": "wa antaziru zuhuraka wa zuhura alhaqqi ʿala yadayka",
+        "arabic": "وَانْتَظِرُ ظُهُورَكَ وَظُهُورَ ٱلْحَقِّ عَلَىٰ يَدَيْكَ",
+        "transliteration": "wa antaziru zuhuraka wa zuhura alhaqqi `alayadayka",
         "translation": {
           "en": "and I am expecting your advent and the prevalence of the truth at your hands."
         }
@@ -11400,8 +11047,8 @@
       {
         "number": 22,
         "type": "content",
-        "arabic": "وَأَسْأَلُ ٱللَّهَ أَنْ يُصَلِّيَ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
-        "transliteration": "wa as'alu allaha an yusalliya ʿala muhammadin wa ali muhammadin",
+        "arabic": "وَاسْالُ ٱللَّهَ انْ يُصَلِّيَ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
+        "transliteration": "wa as'alu allaha an yusalliya `alamuhammadin wa ali muhammadin",
         "translation": {
           "en": "And I beseech Allah to send blessings to Muhammad and the Household of Muhammad,"
         }
@@ -11409,8 +11056,8 @@
       {
         "number": 23,
         "type": "content",
-        "arabic": "وَأَنْ يَجْعَلَنِي مِنَ ٱلمُنْتَظِرِينَ لَكَ",
-        "transliteration": "wa an yajʿalani mina almuntazirina laka",
+        "arabic": "وَانْ يَجْعَلَنِي مِنَ ٱلمُنْتَظِرِينَ لَكَ",
+        "transliteration": "wa an yaj`alani mina almuntazirina laka",
         "translation": {
           "en": "and to include me with those who are expecting you,"
         }
@@ -11418,8 +11065,8 @@
       {
         "number": 24,
         "type": "content",
-        "arabic": "وَٱلتَّابِعِينَ وَٱلنَّاصِرِينَ لَكَ عَلَىٰ أَعْدَائِكَ",
-        "transliteration": "walttabiʿina walnnasirina laka ʿala aʿda'ika",
+        "arabic": "وَٱلتَّابِعِينَ وَٱلنَّاصِرِينَ لَكَ عَلَىٰ اعْدَائِكَ",
+        "transliteration": "walttabi`ina walnnasirina laka `alaa`da'ika",
         "translation": {
           "en": "those who follow you and support you against your enemies,"
         }
@@ -11427,7 +11074,7 @@
       {
         "number": 25,
         "type": "content",
-        "arabic": "وَٱلْمُسْتَشْهَدِينَ بَيْنَ يَدَيْكَ فِي جُمْلَةِ أَوْلِيَائِكَ",
+        "arabic": "وَٱلْمُسْتَشْهَدِينَ بَيْنَ يَدَيْكَ فِي جُمْلَةِ اوْلِيَائِكَ",
         "transliteration": "walmustash-hadina bayna yadayka fi jumlati awliya'ika",
         "translation": {
           "en": "and those who will be martyred in front of you in the group of your loyalists."
@@ -11437,7 +11084,7 @@
         "number": 26,
         "type": "content",
         "arabic": "يَا مَوْلاَيَ يَا صَاحِبَ ٱلزَّمَانِ",
-        "transliteration": "ya mawlaya ya sahiba alzzamani",
+        "transliteration": "yamawlaya yasahiba alzzamani",
         "translation": {
           "en": "O my master, O Patron of the Age!"
         }
@@ -11446,16 +11093,16 @@
         "number": 27,
         "type": "content",
         "arabic": "صَلَوَاتُ ٱللَّهِ عَلَيْكَ",
-        "transliteration": "salawatu allahi ʿalayka",
+        "transliteration": "salawatu allahi `alayka",
         "translation": {
-          "en": "May Allah's blessings be upon you"
+          "en": "May Allah’s blessings be upon you"
         }
       },
       {
         "number": 28,
         "type": "content",
         "arabic": "وَعَلَىٰ آلِ بَيْتِكَ",
-        "transliteration": "wa ʿala ali baytika",
+        "transliteration": "wa `alaali baytika",
         "translation": {
           "en": "and upon your Household."
         }
@@ -11464,7 +11111,7 @@
         "number": 29,
         "type": "content",
         "arabic": "هٰذَا يَوْمُ ٱلْجُمُعَةِ",
-        "transliteration": "hadha yawmu aljumuʿati",
+        "transliteration": "hadhayawmu aljumu`ati",
         "translation": {
           "en": "Today is Friday,"
         }
@@ -11473,7 +11120,7 @@
         "number": 30,
         "type": "content",
         "arabic": "وَهُوَ يَوْمُكَ ٱلْمُتَوَقَّعُ فِيهِ ظُهُورُكَ",
-        "transliteration": "wa huwa yawmuka almutawaqqaʿu fihi zuhuruka",
+        "transliteration": "wa huwa yawmuka almutawaqqa`u fihi zuhuruka",
         "translation": {
           "en": "which is your day on which your advent is expected"
         }
@@ -11482,7 +11129,7 @@
         "number": 31,
         "type": "content",
         "arabic": "وَٱلْفَرَجُ فِيهِ لِلْمُؤْمِنِينَ عَلَىٰ يَدَيْكَ",
-        "transliteration": "walfaraju fihi lilmu'minina ʿala yadayka",
+        "transliteration": "walfaraju fihi lilmu'minina `alayadayka",
         "translation": {
           "en": "to bring about relief to the believers at your hands,"
         }
@@ -11499,8 +11146,8 @@
       {
         "number": 33,
         "type": "content",
-        "arabic": "وَأَنَا يَا مَوْلاَيَ فِيهِ ضَيْفُكَ وَجَارُكَ",
-        "transliteration": "wa ana ya mawlaya fihi dayfuka wa jaruka",
+        "arabic": "وَانَا يَا مَوْلاَيَ فِيهِ ضَيْفُكَ وَجَارُكَ",
+        "transliteration": "wa anayamawlaya fihi dayfuka wa jaruka",
         "translation": {
           "en": "On this day, O my master, I am your guest and in your vicinity"
         }
@@ -11508,8 +11155,8 @@
       {
         "number": 34,
         "type": "content",
-        "arabic": "وَأَنْتَ يَا مَوْلاَيَ كَرِيمٌ مِنْ أَوْلاَدِ ٱلْكِرَامِ",
-        "transliteration": "wa anta ya mawlaya karimun min awladi alkirami",
+        "arabic": "وَانْتَ يَا مَوْلاَيَ كَرِيمٌ مِنْ اوْلاَدِ ٱلْكِرَامِ",
+        "transliteration": "wa anta yamawlaya karimun min awladi alkirami",
         "translation": {
           "en": "and you, my master, are generous and the descendant of the generous people,"
         }
@@ -11526,7 +11173,7 @@
       {
         "number": 36,
         "type": "content",
-        "arabic": "فَأَضِفْنِي وَأَجِرْنِي",
+        "arabic": "فَاضِفْنِي وَاجِرْنِي",
         "transliteration": "fa-adifni wa ajirni",
         "translation": {
           "en": "so, receive me as your guest and neighbor."
@@ -11536,22 +11183,23 @@
         "number": 37,
         "type": "content",
         "arabic": "صَلَوَاتُ ٱللَّهِ عَلَيْكَ",
-        "transliteration": "salawatu allahi ʿalayka",
+        "transliteration": "salawatu allahi `alayka",
         "translation": {
-          "en": "May Allah's blessings be upon you"
+          "en": "May Allah’s blessings be upon you"
         }
       },
       {
         "number": 38,
         "type": "content",
-        "arabic": "وَعَلىٰ أَهْلِ بَيْتِكَ ٱلطَّاهِرينَ",
-        "transliteration": "wa ʿala ahli baytika alttahirina",
+        "arabic": "وَعَلىٰ اهْلِ بَيْتِكَ ٱلطَّاهِرينَ",
+        "transliteration": "wa `alaahli baytika alttahirina",
         "translation": {
           "en": "and upon your Household, the immaculate."
         }
       }
     ],
-    "mafatihId": 1259
+    "mafatihId": 1259,
+    "source": "mafatih-realigned"
   },
   {
     "id": "ziyarat-imam-hussain-arafah",

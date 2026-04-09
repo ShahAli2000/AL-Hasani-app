@@ -45,7 +45,7 @@
     "id": "dua-faraj",
     "name": "Dua Faraj",
     "category": "major",
-    "segmentCount": 49,
+    "segmentCount": 20,
     "mafatihId": 1334
   },
   {
@@ -87,14 +87,14 @@
     "id": "dua-jawshan-kabeer",
     "name": "Dua Jawshan Kabeer",
     "category": "major",
-    "segmentCount": 1423,
+    "segmentCount": 1201,
     "mafatihId": 1348
   },
   {
     "id": "dua-jawshan-sagheer",
     "name": "Dua Jawshan Sagheer",
     "category": "major",
-    "segmentCount": 503,
+    "segmentCount": 442,
     "mafatihId": 1351
   },
   {
@@ -122,14 +122,14 @@
     "id": "munajat-imam-ali-as",
     "name": "Munajat Imam Ali (as)",
     "category": "major",
-    "segmentCount": 104,
+    "segmentCount": 68,
     "mafatihId": 1292
   },
   {
     "id": "dua-kayfa-adooka",
     "name": "Dua Kayfa Adooka",
     "category": "major",
-    "segmentCount": 9,
+    "segmentCount": 10,
     "mafatihId": 1291
   },
   {
@@ -161,7 +161,7 @@
     "id": "dua-sad-subhan",
     "name": "Dua Sad Subhan",
     "category": "major",
-    "segmentCount": 58,
+    "segmentCount": 57,
     "mafatihId": 1010
   },
   {
@@ -174,7 +174,7 @@
     "id": "dua-ya-shahida-kulle-najwa",
     "name": "Dua Ya Shahida Kulle Najwa",
     "category": "major",
-    "segmentCount": 267,
+    "segmentCount": 327,
     "mafatihId": 1101
   },
   {
@@ -194,7 +194,7 @@
     "id": "salwaat-zarrab-isfahani",
     "name": "Salwaat Zarrab Isfahani",
     "category": "salawaat",
-    "segmentCount": 167,
+    "segmentCount": 165,
     "mafatihId": 1180
   },
   {
@@ -232,7 +232,7 @@
     "id": "salat-jafar-tayyar",
     "name": "Salat Jafar Tayyar",
     "category": "salawaat",
-    "segmentCount": 94,
+    "segmentCount": 114,
     "mafatihId": 1193
   },
   {
@@ -269,21 +269,21 @@
     "id": "general-need-duas",
     "name": "General Need Duas",
     "category": "special_needs",
-    "segmentCount": 938,
+    "segmentCount": 1021,
     "mafatihId": 1313
   },
   {
     "id": "rizq-sustenance-duas",
     "name": "Rizq / Sustenance Duas",
     "category": "special_needs",
-    "segmentCount": 209,
+    "segmentCount": 178,
     "mafatihId": 1312
   },
   {
     "id": "curing-ailments-duas",
     "name": "Curing Ailments Duas",
     "category": "special_needs",
-    "segmentCount": 537,
+    "segmentCount": 654,
     "mafatihId": 1315
   },
   {
@@ -296,14 +296,14 @@
     "id": "grief-fear-duas",
     "name": "Grief & Fear Duas",
     "category": "special_needs",
-    "segmentCount": 263,
+    "segmentCount": 239,
     "mafatihId": 1314
   },
   {
     "id": "seeking-forgiveness-duas",
     "name": "Seeking Forgiveness Duas",
     "category": "special_needs",
-    "segmentCount": 57,
+    "segmentCount": 49,
     "mafatihId": 1316
   },
   {
@@ -328,35 +328,35 @@
     "id": "sunset-duas",
     "name": "Sunset Duas",
     "category": "special_needs",
-    "segmentCount": 51,
+    "segmentCount": 44,
     "mafatihId": 1310
   },
   {
     "id": "hourly-duas",
     "name": "Hourly Duas",
     "category": "special_needs",
-    "segmentCount": 211,
+    "segmentCount": 232,
     "mafatihId": 1311
   },
   {
     "id": "bedtime-duas",
     "name": "Bedtime Duas",
     "category": "special_needs",
-    "segmentCount": 96,
+    "segmentCount": 70,
     "mafatihId": 1307
   },
   {
     "id": "graveyard-visit-duas",
     "name": "Graveyard Visit Duas",
     "category": "special_needs",
-    "segmentCount": 32,
+    "segmentCount": 56,
     "mafatihId": 1287
   },
   {
     "id": "fajr-taqeebaat",
     "name": "Fajr Taqeebaat",
     "category": "taqeebat",
-    "segmentCount": 236,
+    "segmentCount": 116,
     "mafatihId": 1353
   },
   {
@@ -375,7 +375,7 @@
     "id": "common-taqeebat",
     "name": "Common Taqeebat",
     "category": "taqeebat",
-    "segmentCount": 373,
+    "segmentCount": 221,
     "mafatihId": 1328
   },
   {
@@ -389,7 +389,7 @@
     "id": "sajda-shukr",
     "name": "Sajda Shukr",
     "category": "taqeebat",
-    "segmentCount": 134,
+    "segmentCount": 16,
     "mafatihId": 1347
   },
   {
@@ -402,7 +402,7 @@
     "id": "after-adhan-duas",
     "name": "After Adhan Duas",
     "category": "taqeebat",
-    "segmentCount": 168,
+    "segmentCount": 212,
     "mafatihId": 1309
   },
   {
@@ -477,7 +477,7 @@
     "id": "ziyarat-warith",
     "name": "Ziyarat Warith",
     "category": "ziyarat",
-    "segmentCount": 209,
+    "segmentCount": 170,
     "mafatihId": 1249
   },
   {
@@ -505,7 +505,7 @@
     "id": "ziyarat-imam-mahdi",
     "name": "Ziyarat Imam Mahdi",
     "category": "ziyarat",
-    "segmentCount": 38,
+    "segmentCount": 39,
     "mafatihId": 1259
   },
   {
