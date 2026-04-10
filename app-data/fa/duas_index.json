@@ -1,0 +1,5627 @@
+[
+  {
+    "id": "fa-3",
+    "name": "شب و روز 1 ماه محرم",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 20,
+    "mafatihId": 3,
+    "source": "mafatih",
+    "subcategory": "محرم"
+  },
+  {
+    "id": "fa-4",
+    "name": "روز 9 ماه محرم (تاسوعا)",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 4,
+    "source": "mafatih",
+    "subcategory": "محرم"
+  },
+  {
+    "id": "fa-5",
+    "name": "شب و روز 10 محرم (عاشورا)",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 54,
+    "mafatihId": 5,
+    "source": "mafatih",
+    "subcategory": "محرم"
+  },
+  {
+    "id": "fa-6",
+    "name": "روز 3 محرم",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 6,
+    "source": "mafatih",
+    "subcategory": "محرم"
+  },
+  {
+    "id": "fa-8",
+    "name": "دعای روزانه ماه صفر",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 7,
+    "mafatihId": 8,
+    "source": "mafatih",
+    "subcategory": "صفر"
+  },
+  {
+    "id": "fa-9",
+    "name": "روز 3 ماه صفر",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 9,
+    "source": "mafatih",
+    "subcategory": "صفر"
+  },
+  {
+    "id": "fa-10",
+    "name": "اعمال روز اربعین",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 10,
+    "source": "mafatih",
+    "subcategory": "صفر"
+  },
+  {
+    "id": "fa-12",
+    "name": "روز 1 ماه ربیع الاول",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 12,
+    "source": "mafatih",
+    "subcategory": "ربیع الاول"
+  },
+  {
+    "id": "fa-13",
+    "name": "روز 9 ماه ربیع الاول",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 13,
+    "source": "mafatih",
+    "subcategory": "ربیع الاول"
+  },
+  {
+    "id": "fa-14",
+    "name": "روز 12 ماه ربیع الاول",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 14,
+    "source": "mafatih",
+    "subcategory": "ربیع الاول"
+  },
+  {
+    "id": "fa-15",
+    "name": "روز 17 ماه ربیع الاول",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 7,
+    "mafatihId": 15,
+    "source": "mafatih",
+    "subcategory": "ربیع الاول"
+  },
+  {
+    "id": "fa-17",
+    "name": "روز 10 ماه ربیع الثانی",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 17,
+    "source": "mafatih",
+    "subcategory": "ربیع الثانی"
+  },
+  {
+    "id": "fa-19",
+    "name": "روز 13 و 14 و 15 ماه جمادی الاول",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 19,
+    "source": "mafatih",
+    "subcategory": "جمادی الاول"
+  },
+  {
+    "id": "fa-21",
+    "name": "نماز ماه جمادی الثانی",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 9,
+    "mafatihId": 21,
+    "source": "mafatih",
+    "subcategory": "جمادی الثانی"
+  },
+  {
+    "id": "fa-22",
+    "name": "روز 3 ماه جمادی الثانی",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 7,
+    "mafatihId": 22,
+    "source": "mafatih",
+    "subcategory": "جمادی الثانی"
+  },
+  {
+    "id": "fa-23",
+    "name": "روز 20 ماه جمادی الثانی",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 4,
+    "mafatihId": 23,
+    "source": "mafatih",
+    "subcategory": "جمادی الثانی"
+  },
+  {
+    "id": "fa-25",
+    "name": "فضیلت ماه مبارک رجب",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 4,
+    "mafatihId": 25,
+    "source": "mafatih",
+    "subcategory": "رجب"
+  },
+  {
+    "id": "fa-26",
+    "name": "اعمال لیلة الرغائب",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 9,
+    "mafatihId": 26,
+    "source": "mafatih",
+    "subcategory": "رجب"
+  },
+  {
+    "id": "fa-28",
+    "name": "شب 1 ماه رجب",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 46,
+    "mafatihId": 28,
+    "source": "mafatih",
+    "subcategory": "رجب - اعمال مخصوص شب و روز"
+  },
+  {
+    "id": "fa-29",
+    "name": "روز 1 ماه رجب",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 17,
+    "mafatihId": 29,
+    "source": "mafatih",
+    "subcategory": "رجب - اعمال مخصوص شب و روز"
+  },
+  {
+    "id": "fa-30",
+    "name": "ایام البیض 15،14،13 رجب",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 37,
+    "mafatihId": 30,
+    "source": "mafatih",
+    "subcategory": "رجب - اعمال مخصوص شب و روز"
+  },
+  {
+    "id": "fa-31",
+    "name": "اعمال شب مبعث 27 رجب",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 59,
+    "mafatihId": 31,
+    "source": "mafatih",
+    "subcategory": "رجب - اعمال مخصوص شب و روز"
+  },
+  {
+    "id": "fa-32",
+    "name": "اعمال روز مبعث 27 رجب",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 54,
+    "mafatihId": 32,
+    "source": "mafatih",
+    "subcategory": "رجب - اعمال مخصوص شب و روز"
+  },
+  {
+    "id": "fa-33",
+    "name": "روز آخر ماه رجب",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 33,
+    "source": "mafatih",
+    "subcategory": "رجب - اعمال مخصوص شب و روز"
+  },
+  {
+    "id": "fa-34",
+    "name": "عمل ام داوود",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 103,
+    "mafatihId": 34,
+    "source": "mafatih",
+    "subcategory": "رجب - اعمال مخصوص شب و روز"
+  },
+  {
+    "id": "fa-36",
+    "name": "ادعیه ماه رجب",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 85,
+    "mafatihId": 36,
+    "source": "mafatih",
+    "subcategory": "رجب - اعمال مشترک"
+  },
+  {
+    "id": "fa-37",
+    "name": "زیارت رجبیه",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 21,
+    "mafatihId": 37,
+    "source": "mafatih",
+    "subcategory": "رجب - اعمال مشترک"
+  },
+  {
+    "id": "fa-38",
+    "name": "اذکار و نماز در ماه رجب",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 17,
+    "mafatihId": 38,
+    "source": "mafatih",
+    "subcategory": "رجب - اعمال مشترک"
+  },
+  {
+    "id": "fa-39",
+    "name": "دعای یا من ارجوه",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 10,
+    "mafatihId": 39,
+    "source": "mafatih",
+    "subcategory": "رجب - اعمال مشترک"
+  },
+  {
+    "id": "fa-41",
+    "name": "فضیلت ماه شعبان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 41,
+    "source": "mafatih",
+    "subcategory": "شعبان"
+  },
+  {
+    "id": "fa-42",
+    "name": "اعمال مشترک ماه شعبان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 8,
+    "mafatihId": 42,
+    "source": "mafatih",
+    "subcategory": "شعبان"
+  },
+  {
+    "id": "fa-43",
+    "name": "صلوات شعبانیه",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 21,
+    "mafatihId": 43,
+    "source": "mafatih",
+    "subcategory": "شعبان"
+  },
+  {
+    "id": "fa-44",
+    "name": "مناجات شعبانیه",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 72,
+    "mafatihId": 44,
+    "source": "mafatih",
+    "subcategory": "شعبان"
+  },
+  {
+    "id": "fa-46",
+    "name": "شب و روز 1 شعبان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 38,
+    "mafatihId": 46,
+    "source": "mafatih",
+    "subcategory": "شعبان - اعمال مخصوص شب و روز ماه شعبان"
+  },
+  {
+    "id": "fa-47",
+    "name": "روز 3 ماه شعبان ولادت امام حسین (ع)",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 31,
+    "mafatihId": 47,
+    "source": "mafatih",
+    "subcategory": "شعبان - اعمال مخصوص شب و روز ماه شعبان"
+  },
+  {
+    "id": "fa-48",
+    "name": "شب نیمه شعبان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 109,
+    "mafatihId": 48,
+    "source": "mafatih",
+    "subcategory": "شعبان - اعمال مخصوص شب و روز ماه شعبان"
+  },
+  {
+    "id": "fa-49",
+    "name": "روز نیمه شعبان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 49,
+    "source": "mafatih",
+    "subcategory": "شعبان - اعمال مخصوص شب و روز ماه شعبان"
+  },
+  {
+    "id": "fa-50",
+    "name": "شب آخر ماه شعبان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 31,
+    "mafatihId": 50,
+    "source": "mafatih",
+    "subcategory": "شعبان - اعمال مخصوص شب و روز ماه شعبان"
+  },
+  {
+    "id": "fa-51",
+    "name": "اعمال روزهای آخر شعبان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 3,
+    "mafatihId": 51,
+    "source": "mafatih",
+    "subcategory": "شعبان - اعمال مخصوص شب و روز ماه شعبان"
+  },
+  {
+    "id": "fa-53",
+    "name": "فضیلت ماه مبارک رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 32,
+    "mafatihId": 53,
+    "source": "mafatih",
+    "subcategory": "رمضان"
+  },
+  {
+    "id": "fa-55",
+    "name": "اعمال مشترک شب و روز ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 45,
+    "mafatihId": 55,
+    "source": "mafatih",
+    "subcategory": "رمضان - اعمال مشترک"
+  },
+  {
+    "id": "fa-56",
+    "name": "آداب افطار",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 10,
+    "mafatihId": 56,
+    "source": "mafatih",
+    "subcategory": "رمضان - اعمال مشترک"
+  },
+  {
+    "id": "fa-57",
+    "name": "اعمال هر شب ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 45,
+    "mafatihId": 57,
+    "source": "mafatih",
+    "subcategory": "رمضان - اعمال مشترک"
+  },
+  {
+    "id": "fa-58",
+    "name": "دعای افتتاح",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 89,
+    "mafatihId": 58,
+    "source": "mafatih",
+    "subcategory": "رمضان"
+  },
+  {
+    "id": "fa-59",
+    "name": "اعمال سحر ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 101,
+    "mafatihId": 59,
+    "source": "mafatih",
+    "subcategory": "رمضان"
+  },
+  {
+    "id": "fa-60",
+    "name": "دعای سحر ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 40,
+    "mafatihId": 60,
+    "source": "mafatih",
+    "subcategory": "رمضان"
+  },
+  {
+    "id": "fa-61",
+    "name": "دعای ابو حمزه ثمالی",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 222,
+    "mafatihId": 61,
+    "source": "mafatih",
+    "subcategory": "رمضان"
+  },
+  {
+    "id": "fa-63",
+    "name": "دعای هر روز ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 116,
+    "mafatihId": 63,
+    "source": "mafatih",
+    "subcategory": "رمضان - دعا و اعمال روزهاى رمضان"
+  },
+  {
+    "id": "fa-64",
+    "name": "تسبیحات هر روز ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 93,
+    "mafatihId": 64,
+    "source": "mafatih",
+    "subcategory": "رمضان - دعا و اعمال روزهاى رمضان"
+  },
+  {
+    "id": "fa-65",
+    "name": "صلوات هر روز ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 69,
+    "mafatihId": 65,
+    "source": "mafatih",
+    "subcategory": "رمضان - دعا و اعمال روزهاى رمضان"
+  },
+  {
+    "id": "fa-66",
+    "name": "دیگر اعمال روزانه ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 64,
+    "mafatihId": 66,
+    "source": "mafatih",
+    "subcategory": "رمضان - دعا و اعمال روزهاى رمضان"
+  },
+  {
+    "id": "fa-68",
+    "name": "شب 1 ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 120,
+    "mafatihId": 68,
+    "source": "mafatih",
+    "subcategory": "رمضان - اعمال مخصوص"
+  },
+  {
+    "id": "fa-69",
+    "name": "روز 1 ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 66,
+    "mafatihId": 69,
+    "source": "mafatih",
+    "subcategory": "رمضان - اعمال مخصوص"
+  },
+  {
+    "id": "fa-70",
+    "name": "روز 6 ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 70,
+    "source": "mafatih",
+    "subcategory": "رمضان - اعمال مخصوص"
+  },
+  {
+    "id": "fa-71",
+    "name": "شب 13 ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 4,
+    "mafatihId": 71,
+    "source": "mafatih",
+    "subcategory": "رمضان - اعمال مخصوص"
+  },
+  {
+    "id": "fa-72",
+    "name": "شب 15 ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 6,
+    "mafatihId": 72,
+    "source": "mafatih",
+    "subcategory": "رمضان - اعمال مخصوص"
+  },
+  {
+    "id": "fa-73",
+    "name": "شب 17 ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 7,
+    "mafatihId": 73,
+    "source": "mafatih",
+    "subcategory": "رمضان - اعمال مخصوص"
+  },
+  {
+    "id": "fa-74",
+    "name": "نمازهاى شبهاى ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 54,
+    "mafatihId": 74,
+    "source": "mafatih",
+    "subcategory": "رمضان - اعمال مخصوص"
+  },
+  {
+    "id": "fa-75",
+    "name": "شب 14 شعبان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 2,
+    "mafatihId": 75,
+    "source": "mafatih",
+    "subcategory": "رمضان - اعمال مخصوص"
+  },
+  {
+    "id": "fa-77",
+    "name": "اعمال مشترک سه شب قدر",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 54,
+    "mafatihId": 77,
+    "source": "mafatih",
+    "subcategory": "رمضان - شبهاى قدر "
+  },
+  {
+    "id": "fa-78",
+    "name": "اعمال شب 19 ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 18,
+    "mafatihId": 78,
+    "source": "mafatih",
+    "subcategory": "رمضان - شبهاى قدر "
+  },
+  {
+    "id": "fa-79",
+    "name": "اعمال شب 21 ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 51,
+    "mafatihId": 79,
+    "source": "mafatih",
+    "subcategory": "رمضان - شبهاى قدر "
+  },
+  {
+    "id": "fa-80",
+    "name": "اعمال شب 23 ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 56,
+    "mafatihId": 80,
+    "source": "mafatih",
+    "subcategory": "رمضان - شبهاى قدر "
+  },
+  {
+    "id": "fa-82",
+    "name": "اعمال مشترک 10 شب آخر ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 32,
+    "mafatihId": 82,
+    "source": "mafatih",
+    "subcategory": "رمضان - اعمال 10 شب اخر ماه رمضان"
+  },
+  {
+    "id": "fa-83",
+    "name": "دعاى شب 21 ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 11,
+    "mafatihId": 83,
+    "source": "mafatih",
+    "subcategory": "رمضان - اعمال 10 شب اخر ماه رمضان"
+  },
+  {
+    "id": "fa-84",
+    "name": "دعاى شب 22 ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 13,
+    "mafatihId": 84,
+    "source": "mafatih",
+    "subcategory": "رمضان - اعمال 10 شب اخر ماه رمضان"
+  },
+  {
+    "id": "fa-85",
+    "name": "دعاى شب 23 ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 10,
+    "mafatihId": 85,
+    "source": "mafatih",
+    "subcategory": "رمضان - اعمال 10 شب اخر ماه رمضان"
+  },
+  {
+    "id": "fa-86",
+    "name": "دعاى شب 24 ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 11,
+    "mafatihId": 86,
+    "source": "mafatih",
+    "subcategory": "رمضان - اعمال 10 شب اخر ماه رمضان"
+  },
+  {
+    "id": "fa-87",
+    "name": "دعاى شب 25 ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 10,
+    "mafatihId": 87,
+    "source": "mafatih",
+    "subcategory": "رمضان - اعمال 10 شب اخر ماه رمضان"
+  },
+  {
+    "id": "fa-88",
+    "name": "دعاى شب 26 ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 11,
+    "mafatihId": 88,
+    "source": "mafatih",
+    "subcategory": "رمضان - اعمال 10 شب اخر ماه رمضان"
+  },
+  {
+    "id": "fa-89",
+    "name": "دعاى شب 27 ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 14,
+    "mafatihId": 89,
+    "source": "mafatih",
+    "subcategory": "رمضان - اعمال 10 شب اخر ماه رمضان"
+  },
+  {
+    "id": "fa-90",
+    "name": "دعاى شب 28 ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 11,
+    "mafatihId": 90,
+    "source": "mafatih",
+    "subcategory": "رمضان - اعمال 10 شب اخر ماه رمضان"
+  },
+  {
+    "id": "fa-91",
+    "name": "دعاى شب 29 ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 9,
+    "mafatihId": 91,
+    "source": "mafatih",
+    "subcategory": "رمضان - اعمال 10 شب اخر ماه رمضان"
+  },
+  {
+    "id": "fa-92",
+    "name": "دعاى شب 30 ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 11,
+    "mafatihId": 92,
+    "source": "mafatih",
+    "subcategory": "رمضان - اعمال 10 شب اخر ماه رمضان"
+  },
+  {
+    "id": "fa-93",
+    "name": "اعمال شب آخر ماه ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 24,
+    "mafatihId": 93,
+    "source": "mafatih",
+    "subcategory": "رمضان - اعمال 10 شب اخر ماه رمضان"
+  },
+  {
+    "id": "fa-94",
+    "name": "روز 30 ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 18,
+    "mafatihId": 94,
+    "source": "mafatih",
+    "subcategory": "رمضان - اعمال 10 شب اخر ماه رمضان"
+  },
+  {
+    "id": "fa-95",
+    "name": "دعاهاى روزهاى ماه رمضان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 105,
+    "mafatihId": 95,
+    "source": "mafatih",
+    "subcategory": "رمضان"
+  },
+  {
+    "id": "fa-96",
+    "name": "دعاى وداع ماه رمضان (ملحقات)",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 30,
+    "mafatihId": 96,
+    "source": "mafatih",
+    "subcategory": "رمضان"
+  },
+  {
+    "id": "fa-97",
+    "name": "دعای حج",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 15,
+    "mafatihId": 97,
+    "source": "mafatih",
+    "subcategory": "رمضان"
+  },
+  {
+    "id": "fa-99",
+    "name": "اعمال شب عید فطر",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 56,
+    "mafatihId": 99,
+    "source": "mafatih",
+    "subcategory": "شوال"
+  },
+  {
+    "id": "fa-100",
+    "name": "اعمال روز عید فطر",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 32,
+    "mafatihId": 100,
+    "source": "mafatih",
+    "subcategory": "شوال"
+  },
+  {
+    "id": "fa-101",
+    "name": "نماز عید فطر",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 12,
+    "mafatihId": 101,
+    "source": "mafatih",
+    "subcategory": "شوال"
+  },
+  {
+    "id": "fa-103",
+    "name": "نماز یکشنبه ماه ذى القعده",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 7,
+    "mafatihId": 103,
+    "source": "mafatih",
+    "subcategory": "ذی القعده"
+  },
+  {
+    "id": "fa-104",
+    "name": "شب 15 ماه ذى القعده",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 104,
+    "source": "mafatih",
+    "subcategory": "ذی القعده"
+  },
+  {
+    "id": "fa-105",
+    "name": "روز 23 ماه ذى القعده",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 105,
+    "source": "mafatih",
+    "subcategory": "ذی القعده"
+  },
+  {
+    "id": "fa-106",
+    "name": "روز 25 ماه ذى القعده (دَحْوُالاْرْض)",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 37,
+    "mafatihId": 106,
+    "source": "mafatih",
+    "subcategory": "ذی القعده"
+  },
+  {
+    "id": "fa-109",
+    "name": "نماز دهه 1 ماه ذى الحجّة",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 3,
+    "mafatihId": 109,
+    "source": "mafatih",
+    "subcategory": "ذی الحجه - اعمال 10 روز اول ماه ذى الحجه"
+  },
+  {
+    "id": "fa-110",
+    "name": "دعاى حضرت صادق (ع) از روز 1 تا عصر روز عرفه",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 18,
+    "mafatihId": 110,
+    "source": "mafatih",
+    "subcategory": "ذی الحجه - اعمال 10 روز اول ماه ذى الحجه"
+  },
+  {
+    "id": "fa-111",
+    "name": "پنج دعا در دهه 1 ماه ذى الحجه",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 7,
+    "mafatihId": 111,
+    "source": "mafatih",
+    "subcategory": "ذی الحجه - اعمال 10 روز اول ماه ذى الحجه"
+  },
+  {
+    "id": "fa-112",
+    "name": "تهلیلات در دهه 1 ماه ذى الحجه",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 5,
+    "mafatihId": 112,
+    "source": "mafatih",
+    "subcategory": "ذی الحجه - اعمال 10 روز اول ماه ذى الحجه"
+  },
+  {
+    "id": "fa-113",
+    "name": "فضیلت و اعمال دهه اول",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 6,
+    "mafatihId": 113,
+    "source": "mafatih",
+    "subcategory": "ذی الحجه - اعمال 10 روز اول ماه ذى الحجه"
+  },
+  {
+    "id": "fa-114",
+    "name": "روز 1 ماه ذى الحجه",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 11,
+    "mafatihId": 114,
+    "source": "mafatih",
+    "subcategory": "ذی الحجه"
+  },
+  {
+    "id": "fa-115",
+    "name": "روز 8 ماه ذى الحجه",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 115,
+    "source": "mafatih",
+    "subcategory": "ذی الحجه"
+  },
+  {
+    "id": "fa-116",
+    "name": "شب 9 ماه ذى الحجه (شب عرفه)",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 99,
+    "mafatihId": 116,
+    "source": "mafatih",
+    "subcategory": "ذی الحجه"
+  },
+  {
+    "id": "fa-117",
+    "name": "روز 9 ماه ذى الحجه (روز عرفه)",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 76,
+    "mafatihId": 117,
+    "source": "mafatih",
+    "subcategory": "ذی الحجه"
+  },
+  {
+    "id": "fa-118",
+    "name": "دعای عرفه",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 253,
+    "mafatihId": 118,
+    "source": "mafatih",
+    "subcategory": "ذی الحجه"
+  },
+  {
+    "id": "fa-119",
+    "name": "اعمال شب و روز عید قربان",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 11,
+    "mafatihId": 119,
+    "source": "mafatih",
+    "subcategory": "ذی الحجه"
+  },
+  {
+    "id": "fa-120",
+    "name": "اعمال شب و روز عید غدیر",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 103,
+    "mafatihId": 120,
+    "source": "mafatih",
+    "subcategory": "ذی الحجه"
+  },
+  {
+    "id": "fa-121",
+    "name": "روز 24 ماه ذى الحجه (روز مباهله)",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 71,
+    "mafatihId": 121,
+    "source": "mafatih",
+    "subcategory": "ذی الحجه"
+  },
+  {
+    "id": "fa-122",
+    "name": "روز24 ماه ذى الحجه",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 122,
+    "source": "mafatih",
+    "subcategory": "ذی الحجه"
+  },
+  {
+    "id": "fa-123",
+    "name": "روز آخر ماه ذى الحجه",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 7,
+    "mafatihId": 123,
+    "source": "mafatih",
+    "subcategory": "ذی الحجه"
+  },
+  {
+    "id": "fa-126",
+    "name": "دعای روز شنبه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 12,
+    "mafatihId": 126,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - شنبه"
+  },
+  {
+    "id": "fa-127",
+    "name": "زیارت حضرت رسول (ص) در روز شنبه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 38,
+    "mafatihId": 127,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - شنبه"
+  },
+  {
+    "id": "fa-128",
+    "name": "نماز روز شنبه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 1,
+    "mafatihId": 128,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - شنبه"
+  },
+  {
+    "id": "fa-130",
+    "name": "دعای روز یکشنبه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 17,
+    "mafatihId": 130,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - یکشنبه"
+  },
+  {
+    "id": "fa-131",
+    "name": "زیارت امیر المومنین (ع) در روز یکشنبه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 10,
+    "mafatihId": 131,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - یکشنبه"
+  },
+  {
+    "id": "fa-132",
+    "name": "زیارت حضرت فاطمه (س) در روز یکشنبه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 6,
+    "mafatihId": 132,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - یکشنبه"
+  },
+  {
+    "id": "fa-133",
+    "name": "زیارت دیگر حضرت فاطمه (س)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 7,
+    "mafatihId": 133,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - یکشنبه"
+  },
+  {
+    "id": "fa-134",
+    "name": "نماز روز یکشنبه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 1,
+    "mafatihId": 134,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - یکشنبه"
+  },
+  {
+    "id": "fa-136",
+    "name": "دعای روز دوشنبه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 21,
+    "mafatihId": 136,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - دوشنبه"
+  },
+  {
+    "id": "fa-137",
+    "name": "زیارت امام حسن (ع) در روز دوشنبه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 11,
+    "mafatihId": 137,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - دوشنبه"
+  },
+  {
+    "id": "fa-138",
+    "name": "زیارت امام حسین (ع) در روز دوشنبه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 13,
+    "mafatihId": 138,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - دوشنبه"
+  },
+  {
+    "id": "fa-139",
+    "name": "نماز روز دوشنبه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 1,
+    "mafatihId": 139,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - دوشنبه"
+  },
+  {
+    "id": "fa-141",
+    "name": "دعای روز سه شنبه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 16,
+    "mafatihId": 141,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - سه شنبه"
+  },
+  {
+    "id": "fa-142",
+    "name": "زیارت ائمه بقیع (ع) در روز سه شنبه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 12,
+    "mafatihId": 142,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - سه شنبه"
+  },
+  {
+    "id": "fa-143",
+    "name": "نماز روز سه شنبه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 1,
+    "mafatihId": 143,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - سه شنبه"
+  },
+  {
+    "id": "fa-145",
+    "name": "دعای روز چهارشنبه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 14,
+    "mafatihId": 145,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - چهارشنبه"
+  },
+  {
+    "id": "fa-146",
+    "name": "زیارت چهار امام در روز چهارشنبه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 11,
+    "mafatihId": 146,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - چهارشنبه"
+  },
+  {
+    "id": "fa-147",
+    "name": "نماز روز چهارشنبه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 1,
+    "mafatihId": 147,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - چهارشنبه"
+  },
+  {
+    "id": "fa-149",
+    "name": "استغفار در آخر روز پنجشنبه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 5,
+    "mafatihId": 149,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - پنجشنبه"
+  },
+  {
+    "id": "fa-150",
+    "name": "دعای روز پنجشنبه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 15,
+    "mafatihId": 150,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - پنجشنبه"
+  },
+  {
+    "id": "fa-151",
+    "name": "زیارت امام عسکری (ع) در روز پنجشنبه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 6,
+    "mafatihId": 151,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - پنجشنبه"
+  },
+  {
+    "id": "fa-152",
+    "name": "صلوات در روز پنجشنبه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 4,
+    "mafatihId": 152,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - پنجشنبه"
+  },
+  {
+    "id": "fa-153",
+    "name": "نماز روز پنجشنبه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 1,
+    "mafatihId": 153,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - پنجشنبه"
+  },
+  {
+    "id": "fa-155",
+    "name": "دعای روز جمعه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 15,
+    "mafatihId": 155,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه"
+  },
+  {
+    "id": "fa-156",
+    "name": "فضیلت شب و روز جمعه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 7,
+    "mafatihId": 156,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه"
+  },
+  {
+    "id": "fa-157",
+    "name": "اعمال شب جمعه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 67,
+    "mafatihId": 157,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه"
+  },
+  {
+    "id": "fa-158",
+    "name": "اعمال روز جمعه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 43,
+    "mafatihId": 158,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه"
+  },
+  {
+    "id": "fa-159",
+    "name": "نماز کامله و سایر نمازها",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 4,
+    "mafatihId": 159,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه"
+  },
+  {
+    "id": "fa-161",
+    "name": "نماز حضرت رسول (ص)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 14,
+    "mafatihId": 161,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - نماز معصومین در روز جمعه"
+  },
+  {
+    "id": "fa-162",
+    "name": "نماز حضرت امیرالمؤمنین (ع)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 36,
+    "mafatihId": 162,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - نماز معصومین در روز جمعه"
+  },
+  {
+    "id": "fa-163",
+    "name": "نماز حضرت فاطمه (س)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 13,
+    "mafatihId": 163,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - نماز معصومین در روز جمعه"
+  },
+  {
+    "id": "fa-164",
+    "name": "نماز دیگر حضرت فاطمه (س)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 15,
+    "mafatihId": 164,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - نماز معصومین در روز جمعه"
+  },
+  {
+    "id": "fa-165",
+    "name": "نماز امام حسن (ع)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 8,
+    "mafatihId": 165,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - نماز معصومین در روز جمعه"
+  },
+  {
+    "id": "fa-166",
+    "name": "نماز امام حسین (ع)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 44,
+    "mafatihId": 166,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - نماز معصومین در روز جمعه"
+  },
+  {
+    "id": "fa-167",
+    "name": "نماز امام زین العابدین (ع)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 7,
+    "mafatihId": 167,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - نماز معصومین در روز جمعه"
+  },
+  {
+    "id": "fa-168",
+    "name": "نماز امام محمد باقر (ع)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 11,
+    "mafatihId": 168,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - نماز معصومین در روز جمعه"
+  },
+  {
+    "id": "fa-169",
+    "name": "نماز امام صادق (ع)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 8,
+    "mafatihId": 169,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - نماز معصومین در روز جمعه"
+  },
+  {
+    "id": "fa-170",
+    "name": "نماز امام کاظم (ع)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 11,
+    "mafatihId": 170,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - نماز معصومین در روز جمعه"
+  },
+  {
+    "id": "fa-171",
+    "name": "نماز امام امام رضا (ع)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 6,
+    "mafatihId": 171,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - نماز معصومین در روز جمعه"
+  },
+  {
+    "id": "fa-172",
+    "name": "نماز امام جواد (ع)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 8,
+    "mafatihId": 172,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - نماز معصومین در روز جمعه"
+  },
+  {
+    "id": "fa-173",
+    "name": "نماز امام هادى (ع)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 8,
+    "mafatihId": 173,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - نماز معصومین در روز جمعه"
+  },
+  {
+    "id": "fa-174",
+    "name": "نماز امام حسن عسکرى (ع)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 17,
+    "mafatihId": 174,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - نماز معصومین در روز جمعه"
+  },
+  {
+    "id": "fa-175",
+    "name": "نماز حضرت صاحب الزَّمان (عج)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 10,
+    "mafatihId": 175,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - نماز معصومین در روز جمعه"
+  },
+  {
+    "id": "fa-176",
+    "name": "دعا و نماز زوال روز جمعه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 20,
+    "mafatihId": 176,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه"
+  },
+  {
+    "id": "fa-177",
+    "name": "اعمال عصر جمعه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 23,
+    "mafatihId": 177,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه"
+  },
+  {
+    "id": "fa-178",
+    "name": "صلوات ابوالحسن ضرابى اصفهانى",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 58,
+    "mafatihId": 178,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه"
+  },
+  {
+    "id": "fa-179",
+    "name": "زیارت حضرت صاحب الزمان (عج)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 18,
+    "mafatihId": 179,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه"
+  },
+  {
+    "id": "fa-181",
+    "name": "صلوات بر پیامبر (ص)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 13,
+    "mafatihId": 181,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - صلوات بر اهل بیت (ع) در روز جمعه"
+  },
+  {
+    "id": "fa-182",
+    "name": "صلوات بر امیرالمؤمنین (ع)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 8,
+    "mafatihId": 182,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - صلوات بر اهل بیت (ع) در روز جمعه"
+  },
+  {
+    "id": "fa-183",
+    "name": "صلوات بر حضرت فاطمه (س)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 7,
+    "mafatihId": 183,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - صلوات بر اهل بیت (ع) در روز جمعه"
+  },
+  {
+    "id": "fa-184",
+    "name": "صلوات بر امام حسن و امام حسین (ع)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 24,
+    "mafatihId": 184,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - صلوات بر اهل بیت (ع) در روز جمعه"
+  },
+  {
+    "id": "fa-185",
+    "name": "صلوات بر امام سجاد (ع)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 5,
+    "mafatihId": 185,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - صلوات بر اهل بیت (ع) در روز جمعه"
+  },
+  {
+    "id": "fa-186",
+    "name": "صلوات بر امام باقر (ع)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 5,
+    "mafatihId": 186,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - صلوات بر اهل بیت (ع) در روز جمعه"
+  },
+  {
+    "id": "fa-187",
+    "name": "صلوات بر امام صادق (ع)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 5,
+    "mafatihId": 187,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - صلوات بر اهل بیت (ع) در روز جمعه"
+  },
+  {
+    "id": "fa-188",
+    "name": "صلوات بر امام کاظم (ع)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 6,
+    "mafatihId": 188,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - صلوات بر اهل بیت (ع) در روز جمعه"
+  },
+  {
+    "id": "fa-189",
+    "name": "صلوات بر امام رضا (ع)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 6,
+    "mafatihId": 189,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - صلوات بر اهل بیت (ع) در روز جمعه"
+  },
+  {
+    "id": "fa-190",
+    "name": "صلوات بر امام جواد (ع)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 6,
+    "mafatihId": 190,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - صلوات بر اهل بیت (ع) در روز جمعه"
+  },
+  {
+    "id": "fa-191",
+    "name": "صلوات بر امام هادی (ع)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 7,
+    "mafatihId": 191,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - صلوات بر اهل بیت (ع) در روز جمعه"
+  },
+  {
+    "id": "fa-192",
+    "name": "صلوات بر امام عسکری (ع)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 5,
+    "mafatihId": 192,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - صلوات بر اهل بیت (ع) در روز جمعه"
+  },
+  {
+    "id": "fa-193",
+    "name": "صلوات بر امام زمان (عج)",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 13,
+    "mafatihId": 193,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه - صلوات بر اهل بیت (ع) در روز جمعه"
+  },
+  {
+    "id": "fa-194",
+    "name": "دعای اللهم من تعبأ و تهیأ",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 23,
+    "mafatihId": 194,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه"
+  },
+  {
+    "id": "fa-195",
+    "name": "نماز روز جمعه",
+    "nameAr": "",
+    "category": "weekday",
+    "segmentCount": 1,
+    "mafatihId": 195,
+    "source": "mafatih",
+    "subcategory": "اعمال هفته - جمعه"
+  },
+  {
+    "id": "fa-197",
+    "name": "اعمال 1 هر ماه",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 3,
+    "mafatihId": 197,
+    "source": "mafatih",
+    "subcategory": "اعمال اول هر ماه"
+  },
+  {
+    "id": "fa-198",
+    "name": "نماز شب 1 هر ماه",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 1,
+    "mafatihId": 198,
+    "source": "mafatih",
+    "subcategory": "اعمال اول هر ماه"
+  },
+  {
+    "id": "fa-199",
+    "name": "نماز روز 1 هر ماه",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 9,
+    "mafatihId": 199,
+    "source": "mafatih",
+    "subcategory": "اعمال اول هر ماه"
+  },
+  {
+    "id": "fa-200",
+    "name": "اعمال عید نوروز",
+    "nameAr": "",
+    "category": "aamal",
+    "segmentCount": 16,
+    "mafatihId": 200,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-202",
+    "name": "نماز جعفر طیار (ع)",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 44,
+    "mafatihId": 202,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-203",
+    "name": "نماز استغاثه به امام زمان (عج)",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 20,
+    "mafatihId": 203,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-204",
+    "name": "نماز شب",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 88,
+    "mafatihId": 204,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-205",
+    "name": "نماز اعرابى",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 12,
+    "mafatihId": 205,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-206",
+    "name": "نماز هدیه",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 6,
+    "mafatihId": 206,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-207",
+    "name": "نماز لیلة الدفن",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 6,
+    "mafatihId": 207,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-208",
+    "name": "نماز براى اموات",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 1,
+    "mafatihId": 208,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-209",
+    "name": "نماز فرزند براى پدر و مادر",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 7,
+    "mafatihId": 209,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-210",
+    "name": "نماز گرسنه",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 5,
+    "mafatihId": 210,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-211",
+    "name": "نماز حدیث نَفْس",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 10,
+    "mafatihId": 211,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-213",
+    "name": "نماز استخاره ذات الرّقاع",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 8,
+    "mafatihId": 213,
+    "source": "mafatih",
+    "subcategory": "استخاره"
+  },
+  {
+    "id": "fa-214",
+    "name": "معنى استخاره و کیفیت آن",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 3,
+    "mafatihId": 214,
+    "source": "mafatih",
+    "subcategory": "استخاره"
+  },
+  {
+    "id": "fa-215",
+    "name": "کیفیت استخاره به تسبیح",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 3,
+    "mafatihId": 215,
+    "source": "mafatih",
+    "subcategory": "استخاره"
+  },
+  {
+    "id": "fa-216",
+    "name": "زمان استخاره",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 1,
+    "mafatihId": 216,
+    "source": "mafatih",
+    "subcategory": "استخاره"
+  },
+  {
+    "id": "fa-217",
+    "name": "تفأل به قرآن",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 4,
+    "mafatihId": 217,
+    "source": "mafatih",
+    "subcategory": "استخاره"
+  },
+  {
+    "id": "fa-218",
+    "name": "استخاره به قرآن",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 5,
+    "mafatihId": 218,
+    "source": "mafatih",
+    "subcategory": "استخاره"
+  },
+  {
+    "id": "fa-219",
+    "name": "استخاره به عدد",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 7,
+    "mafatihId": 219,
+    "source": "mafatih",
+    "subcategory": "استخاره"
+  },
+  {
+    "id": "fa-220",
+    "name": "استخاره براى غیر",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 1,
+    "mafatihId": 220,
+    "source": "mafatih",
+    "subcategory": "استخاره"
+  },
+  {
+    "id": "fa-221",
+    "name": "نماز براى قضاى دین و کفایت ظلم سلطان",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 34,
+    "mafatihId": 221,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-223",
+    "name": "نماز حاجت اول",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 2,
+    "mafatihId": 223,
+    "source": "mafatih",
+    "subcategory": "نمازهای حاجت"
+  },
+  {
+    "id": "fa-224",
+    "name": "نماز حاجت 1",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 1,
+    "mafatihId": 224,
+    "source": "mafatih",
+    "subcategory": "نمازهای حاجت"
+  },
+  {
+    "id": "fa-225",
+    "name": "نماز حاجت 3",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 15,
+    "mafatihId": 225,
+    "source": "mafatih",
+    "subcategory": "نمازهای حاجت"
+  },
+  {
+    "id": "fa-226",
+    "name": "نماز حاجت 4",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 11,
+    "mafatihId": 226,
+    "source": "mafatih",
+    "subcategory": "نمازهای حاجت"
+  },
+  {
+    "id": "fa-227",
+    "name": "نماز حاجت 5",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 8,
+    "mafatihId": 227,
+    "source": "mafatih",
+    "subcategory": "نمازهای حاجت"
+  },
+  {
+    "id": "fa-228",
+    "name": "نماز حاجت 6",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 3,
+    "mafatihId": 228,
+    "source": "mafatih",
+    "subcategory": "نمازهای حاجت"
+  },
+  {
+    "id": "fa-229",
+    "name": "نماز حاجت 7",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 18,
+    "mafatihId": 229,
+    "source": "mafatih",
+    "subcategory": "نمازهای حاجت"
+  },
+  {
+    "id": "fa-230",
+    "name": "وظیفه خواننده حاجت",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 2,
+    "mafatihId": 230,
+    "source": "mafatih",
+    "subcategory": "نمازهای حاجت"
+  },
+  {
+    "id": "fa-231",
+    "name": "رقعه حاجت",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 4,
+    "mafatihId": 231,
+    "source": "mafatih",
+    "subcategory": "نمازهای حاجت"
+  },
+  {
+    "id": "fa-232",
+    "name": "نماز در مُهمّات",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 1,
+    "mafatihId": 232,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-233",
+    "name": "نماز رفع عُسْرت و سختى",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 1,
+    "mafatihId": 233,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-234",
+    "name": "نماز براى زیاد شدن روزى",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 12,
+    "mafatihId": 234,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-236",
+    "name": "نماز استغاثه اول",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 3,
+    "mafatihId": 236,
+    "source": "mafatih",
+    "subcategory": "نمازهای استغاثه"
+  },
+  {
+    "id": "fa-237",
+    "name": "نماز استغاثه دوم",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 7,
+    "mafatihId": 237,
+    "source": "mafatih",
+    "subcategory": "نمازهای استغاثه"
+  },
+  {
+    "id": "fa-238",
+    "name": "نماز استغاثه به حضرت زهرا (س)",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 8,
+    "mafatihId": 238,
+    "source": "mafatih",
+    "subcategory": "نمازهای استغاثه"
+  },
+  {
+    "id": "fa-239",
+    "name": "نماز امام زمان (عج) در شب جمعه",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 17,
+    "mafatihId": 239,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-240",
+    "name": "نماز خوف از ظالم",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 8,
+    "mafatihId": 240,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-241",
+    "name": "نماز بجهت تیزى ذهن و قوّت حافظه",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 2,
+    "mafatihId": 241,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-242",
+    "name": "نماز براى آمرزش گناهان",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 4,
+    "mafatihId": 242,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-243",
+    "name": "نماز وصیت",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 1,
+    "mafatihId": 243,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-244",
+    "name": "نماز عفو و استغفار",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 2,
+    "mafatihId": 244,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-245",
+    "name": "نماز میت",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 37,
+    "mafatihId": 245,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-246",
+    "name": "نماز آیات",
+    "nameAr": "",
+    "category": "salah",
+    "segmentCount": 3,
+    "mafatihId": 246,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-248",
+    "name": "آداب زیارت",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 41,
+    "mafatihId": 248,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-249",
+    "name": "اذن دخول حرم هاى مطهر",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 51,
+    "mafatihId": 249,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-250",
+    "name": "زیارت حضرت رسول (ص)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 31,
+    "mafatihId": 250,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-251",
+    "name": "زیارت حضرت فاطمه زهراء (س)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 50,
+    "mafatihId": 251,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-252",
+    "name": "زیارت حضرت رسول (ص) از راه دور",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 159,
+    "mafatihId": 252,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-253",
+    "name": "زیارت حضرت حمزه (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 47,
+    "mafatihId": 253,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-254",
+    "name": "زیارت قبور شهداء در اُحُد",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 22,
+    "mafatihId": 254,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-255",
+    "name": "ذکر مساجد معظّمه در مدینه منوّره",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 7,
+    "mafatihId": 255,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-256",
+    "name": "زیارت وداع مدینه",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 10,
+    "mafatihId": 256,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-257",
+    "name": "زیارت امین الله",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 34,
+    "mafatihId": 257,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-259",
+    "name": "زیارت امیرالمؤمنین (ع) در روز غدیر",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 226,
+    "mafatihId": 259,
+    "source": "mafatih",
+    "subcategory": "زیارت مخصوصه امیرالمؤمنین (ع)"
+  },
+  {
+    "id": "fa-260",
+    "name": "زیارت دیگر در روز غدیر",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 12,
+    "mafatihId": 260,
+    "source": "mafatih",
+    "subcategory": "زیارت مخصوصه امیرالمؤمنین (ع)"
+  },
+  {
+    "id": "fa-261",
+    "name": "زیارت على (ع) در روز ولادت پیامبر (ص)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 68,
+    "mafatihId": 261,
+    "source": "mafatih",
+    "subcategory": "زیارت مخصوصه امیرالمؤمنین (ع)"
+  },
+  {
+    "id": "fa-262",
+    "name": "زیارت امیرالمؤمنین (ع) در شب و روز مبعث",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 81,
+    "mafatihId": 262,
+    "source": "mafatih",
+    "subcategory": "زیارت مخصوصه امیرالمؤمنین (ع)"
+  },
+  {
+    "id": "fa-264",
+    "name": "فضیلت مسجد کوفه",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 3,
+    "mafatihId": 264,
+    "source": "mafatih",
+    "subcategory": "مسجد کوفه"
+  },
+  {
+    "id": "fa-265",
+    "name": "اعمال مسجد کوفه",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 56,
+    "mafatihId": 265,
+    "source": "mafatih",
+    "subcategory": "مسجد کوفه"
+  },
+  {
+    "id": "fa-266",
+    "name": "اعمال دکةُ الْقَضاء و بیت الطَّشْت",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 202,
+    "mafatihId": 266,
+    "source": "mafatih",
+    "subcategory": "مسجد کوفه"
+  },
+  {
+    "id": "fa-267",
+    "name": "اعمال محراب امیر المومنین (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 6,
+    "mafatihId": 267,
+    "source": "mafatih",
+    "subcategory": "مسجد کوفه"
+  },
+  {
+    "id": "fa-268",
+    "name": "مناجات حضرت امیر المومنین (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 39,
+    "mafatihId": 268,
+    "source": "mafatih",
+    "subcategory": "مسجد کوفه"
+  },
+  {
+    "id": "fa-269",
+    "name": "اعمال دکه امام صادق (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 7,
+    "mafatihId": 269,
+    "source": "mafatih",
+    "subcategory": "مسجد کوفه"
+  },
+  {
+    "id": "fa-270",
+    "name": "اعمال دکه امام زین العابدین (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 24,
+    "mafatihId": 270,
+    "source": "mafatih",
+    "subcategory": "مسجد کوفه"
+  },
+  {
+    "id": "fa-271",
+    "name": "ذکر نمازى براى حاجت در مسجد کوفه",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 2,
+    "mafatihId": 271,
+    "source": "mafatih",
+    "subcategory": "مسجد کوفه"
+  },
+  {
+    "id": "fa-272",
+    "name": "زیارت مسلم بن عقیل علیه (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 46,
+    "mafatihId": 272,
+    "source": "mafatih",
+    "subcategory": "مسجد کوفه"
+  },
+  {
+    "id": "fa-273",
+    "name": "زیارت هانى بن عُرْوَه (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 12,
+    "mafatihId": 273,
+    "source": "mafatih",
+    "subcategory": "مسجد کوفه"
+  },
+  {
+    "id": "fa-275",
+    "name": "فضیلت مسجد سهله",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 1,
+    "mafatihId": 275,
+    "source": "mafatih",
+    "subcategory": "مسجد سهله"
+  },
+  {
+    "id": "fa-276",
+    "name": "اعمال مسجد سهله",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 71,
+    "mafatihId": 276,
+    "source": "mafatih",
+    "subcategory": "مسجد سهله"
+  },
+  {
+    "id": "fa-277",
+    "name": "اعمال مسجد زید رحمه الله",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 27,
+    "mafatihId": 277,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-278",
+    "name": "اعمال مسجد صعصعه",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 22,
+    "mafatihId": 278,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-280",
+    "name": "فضیلت زیارت امام حسین (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 2,
+    "mafatihId": 280,
+    "source": "mafatih",
+    "subcategory": "زیارت مطلقه امام حسین (ع)"
+  },
+  {
+    "id": "fa-281",
+    "name": "آداب زیارت امام حسین (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 66,
+    "mafatihId": 281,
+    "source": "mafatih",
+    "subcategory": "زیارت مطلقه امام حسین (ع)"
+  },
+  {
+    "id": "fa-282",
+    "name": "اعمال حرم مطهر امام حسین (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 69,
+    "mafatihId": 282,
+    "source": "mafatih",
+    "subcategory": "زیارت مطلقه امام حسین (ع)"
+  },
+  {
+    "id": "fa-283",
+    "name": "زیارت امام حسین (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 100,
+    "mafatihId": 283,
+    "source": "mafatih",
+    "subcategory": "زیارت مطلقه امام حسین (ع)"
+  },
+  {
+    "id": "fa-284",
+    "name": "زیارت هفتم امام حسین (ع) (زیارت وارث)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 91,
+    "mafatihId": 284,
+    "source": "mafatih",
+    "subcategory": "زیارت مطلقه امام حسین (ع)"
+  },
+  {
+    "id": "fa-286",
+    "name": "فضیلت زیارت حضرت امیرالمؤمنین (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 3,
+    "mafatihId": 286,
+    "source": "mafatih",
+    "subcategory": "زیارت مطلقه امیرالمؤمنین (ع)"
+  },
+  {
+    "id": "fa-287",
+    "name": "زیارت امیرالمؤمنین (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 196,
+    "mafatihId": 287,
+    "source": "mafatih",
+    "subcategory": "زیارت مطلقه امیرالمؤمنین (ع)"
+  },
+  {
+    "id": "fa-288",
+    "name": "دعاى بعد از زیارت امیرالمؤمنین (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 27,
+    "mafatihId": 288,
+    "source": "mafatih",
+    "subcategory": "زیارت مطلقه امیرالمؤمنین (ع)"
+  },
+  {
+    "id": "fa-289",
+    "name": "زیارت سر امام حسین (ع) نزد قبر امیرالمؤمنین (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 13,
+    "mafatihId": 289,
+    "source": "mafatih",
+    "subcategory": "زیارت مطلقه امیرالمؤمنین (ع)"
+  },
+  {
+    "id": "fa-290",
+    "name": "زیارات دیگر امیرالمؤمنین (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 210,
+    "mafatihId": 290,
+    "source": "mafatih",
+    "subcategory": "زیارت مطلقه امیرالمؤمنین (ع)"
+  },
+  {
+    "id": "fa-291",
+    "name": "ذکر وداع امیرالمؤمنین (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 19,
+    "mafatihId": 291,
+    "source": "mafatih",
+    "subcategory": "زیارت مطلقه امیرالمؤمنین (ع)"
+  },
+  {
+    "id": "fa-293",
+    "name": "زیارت ائمّه بقیع (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 44,
+    "mafatihId": 293,
+    "source": "mafatih",
+    "subcategory": "زیارت بقیع"
+  },
+  {
+    "id": "fa-294",
+    "name": "زیارت ابراهیم بن رسول (ص)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 32,
+    "mafatihId": 294,
+    "source": "mafatih",
+    "subcategory": "زیارت بقیع"
+  },
+  {
+    "id": "fa-295",
+    "name": "زیارت جناب فاطمه بنت اَسَد",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 26,
+    "mafatihId": 295,
+    "source": "mafatih",
+    "subcategory": "زیارت بقیع"
+  },
+  {
+    "id": "fa-296",
+    "name": "زیارت حضرت عباس (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 67,
+    "mafatihId": 296,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-298",
+    "name": "زیارت امام حسین (ع) در 1 رجب",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 43,
+    "mafatihId": 298,
+    "source": "mafatih",
+    "subcategory": "زيارت مخصوصه امام حسين (ع)"
+  },
+  {
+    "id": "fa-299",
+    "name": "زیارت امام حسین (ع) در 15 رجب",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 24,
+    "mafatihId": 299,
+    "source": "mafatih",
+    "subcategory": "زيارت مخصوصه امام حسين (ع)"
+  },
+  {
+    "id": "fa-300",
+    "name": "زیارت امام حسین (ع) در 15 شعبان",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 9,
+    "mafatihId": 300,
+    "source": "mafatih",
+    "subcategory": "زيارت مخصوصه امام حسين (ع)"
+  },
+  {
+    "id": "fa-301",
+    "name": "زیارت امام حسین (ع) در شبهاى قدر",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 30,
+    "mafatihId": 301,
+    "source": "mafatih",
+    "subcategory": "زيارت مخصوصه امام حسين (ع)"
+  },
+  {
+    "id": "fa-302",
+    "name": "زیارت امام حسین (ع) در عید فطر و عید قربان",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 85,
+    "mafatihId": 302,
+    "source": "mafatih",
+    "subcategory": "زيارت مخصوصه امام حسين (ع)"
+  },
+  {
+    "id": "fa-303",
+    "name": "زیارت امام حسین (ع) در روز عرفه",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 71,
+    "mafatihId": 303,
+    "source": "mafatih",
+    "subcategory": "زيارت مخصوصه امام حسين (ع)"
+  },
+  {
+    "id": "fa-304",
+    "name": "زیارت عاشورا",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 70,
+    "mafatihId": 304,
+    "source": "mafatih",
+    "subcategory": "زيارت مخصوصه امام حسين (ع)"
+  },
+  {
+    "id": "fa-305",
+    "name": "دعاى بعد از نماز زیارت عاشورا(دعای علقمه)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 77,
+    "mafatihId": 305,
+    "source": "mafatih",
+    "subcategory": "زيارت مخصوصه امام حسين (ع)"
+  },
+  {
+    "id": "fa-306",
+    "name": "زیارت عاشورای غیر معروف",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 53,
+    "mafatihId": 306,
+    "source": "mafatih",
+    "subcategory": "زيارت مخصوصه امام حسين (ع)"
+  },
+  {
+    "id": "fa-307",
+    "name": "زیارت اربعین",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 34,
+    "mafatihId": 307,
+    "source": "mafatih",
+    "subcategory": "زيارت مخصوصه امام حسين (ع)"
+  },
+  {
+    "id": "fa-308",
+    "name": "فضیلت و فوائد و آداب تربت امام حسین (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 27,
+    "mafatihId": 308,
+    "source": "mafatih",
+    "subcategory": "زيارت مخصوصه امام حسين (ع)"
+  },
+  {
+    "id": "fa-310",
+    "name": "فضیلت زیارت کاظمین",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 2,
+    "mafatihId": 310,
+    "source": "mafatih",
+    "subcategory": "زیارت کاظمین (علیهما السلام)"
+  },
+  {
+    "id": "fa-311",
+    "name": "زیارت امام موسی کاظم (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 62,
+    "mafatihId": 311,
+    "source": "mafatih",
+    "subcategory": "زیارت کاظمین (علیهما السلام)"
+  },
+  {
+    "id": "fa-312",
+    "name": "زیارت دیگر امام موسى کاظم (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 29,
+    "mafatihId": 312,
+    "source": "mafatih",
+    "subcategory": "زیارت کاظمین (علیهما السلام)"
+  },
+  {
+    "id": "fa-313",
+    "name": "صلوات بر امام موسی کاظم (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 19,
+    "mafatihId": 313,
+    "source": "mafatih",
+    "subcategory": "زیارت کاظمین (علیهما السلام)"
+  },
+  {
+    "id": "fa-314",
+    "name": "زیارت امام جواد (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 17,
+    "mafatihId": 314,
+    "source": "mafatih",
+    "subcategory": "زیارت کاظمین (علیهما السلام)"
+  },
+  {
+    "id": "fa-315",
+    "name": "زیارت دیگر امام جواد (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 18,
+    "mafatihId": 315,
+    "source": "mafatih",
+    "subcategory": "زیارت کاظمین (علیهما السلام)"
+  },
+  {
+    "id": "fa-316",
+    "name": "صلوات بر امام جواد (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 42,
+    "mafatihId": 316,
+    "source": "mafatih",
+    "subcategory": "زیارت کاظمین (علیهما السلام)"
+  },
+  {
+    "id": "fa-317",
+    "name": "زیارت دیگر امام جواد (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 12,
+    "mafatihId": 317,
+    "source": "mafatih",
+    "subcategory": "زیارت کاظمین (علیهما السلام)"
+  },
+  {
+    "id": "fa-318",
+    "name": "زیارت مشترک کاظمین (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 27,
+    "mafatihId": 318,
+    "source": "mafatih",
+    "subcategory": "زیارت کاظمین (علیهما السلام)"
+  },
+  {
+    "id": "fa-319",
+    "name": "وداع با امام کاظم (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 5,
+    "mafatihId": 319,
+    "source": "mafatih",
+    "subcategory": "زیارت کاظمین (علیهما السلام)"
+  },
+  {
+    "id": "fa-320",
+    "name": "وداع با امام جواد (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 5,
+    "mafatihId": 320,
+    "source": "mafatih",
+    "subcategory": "زیارت کاظمین (علیهما السلام)"
+  },
+  {
+    "id": "fa-321",
+    "name": "مسجد براثا و نماز خواندن در آن",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 15,
+    "mafatihId": 321,
+    "source": "mafatih",
+    "subcategory": "زیارت کاظمین (علیهما السلام)"
+  },
+  {
+    "id": "fa-322",
+    "name": "زیارت نوّاب اربعه",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 12,
+    "mafatihId": 322,
+    "source": "mafatih",
+    "subcategory": "زیارت کاظمین (علیهما السلام)"
+  },
+  {
+    "id": "fa-323",
+    "name": "زیارت حضرت سلمان (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 44,
+    "mafatihId": 323,
+    "source": "mafatih",
+    "subcategory": "زیارت کاظمین (علیهما السلام)"
+  },
+  {
+    "id": "fa-324",
+    "name": "زیارت دیگر امام جواد (ع) (ملحقات)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 9,
+    "mafatihId": 324,
+    "source": "mafatih",
+    "subcategory": "زیارت کاظمین (علیهما السلام)"
+  },
+  {
+    "id": "fa-326",
+    "name": "فضیلت زیارت امام رضا (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 13,
+    "mafatihId": 326,
+    "source": "mafatih",
+    "subcategory": "زیارت امام رضا (ع)"
+  },
+  {
+    "id": "fa-327",
+    "name": "کیفیت زیارت امام رضا (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 104,
+    "mafatihId": 327,
+    "source": "mafatih",
+    "subcategory": "زیارت امام رضا (ع)"
+  },
+  {
+    "id": "fa-328",
+    "name": "دعاى بعد از زیارت امام رضا (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 66,
+    "mafatihId": 328,
+    "source": "mafatih",
+    "subcategory": "زیارت امام رضا (ع)"
+  },
+  {
+    "id": "fa-329",
+    "name": "وداع با امام رضا (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 9,
+    "mafatihId": 329,
+    "source": "mafatih",
+    "subcategory": "زیارت امام رضا (ع)"
+  },
+  {
+    "id": "fa-330",
+    "name": "فضیلت نماز جعفر طیار در حرم امام رضا (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 1,
+    "mafatihId": 330,
+    "source": "mafatih",
+    "subcategory": "زیارت امام رضا (ع)"
+  },
+  {
+    "id": "fa-332",
+    "name": "زیارت امام هادى و امام عسکرى (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 30,
+    "mafatihId": 332,
+    "source": "mafatih",
+    "subcategory": "زیارت عسکریین (علیهما السلام)"
+  },
+  {
+    "id": "fa-333",
+    "name": "زیارت امام هادى (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 73,
+    "mafatihId": 333,
+    "source": "mafatih",
+    "subcategory": "زیارت عسکریین (علیهما السلام)"
+  },
+  {
+    "id": "fa-334",
+    "name": "زیارت حضرت امام حسن عسکرى (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 90,
+    "mafatihId": 334,
+    "source": "mafatih",
+    "subcategory": "زیارت عسکریین (علیهما السلام)"
+  },
+  {
+    "id": "fa-335",
+    "name": "زیارت مادر امام زمان (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 39,
+    "mafatihId": 335,
+    "source": "mafatih",
+    "subcategory": "زیارت عسکریین (علیهما السلام)"
+  },
+  {
+    "id": "fa-336",
+    "name": "زیارت جناب حکیمه (س)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 34,
+    "mafatihId": 336,
+    "source": "mafatih",
+    "subcategory": "زیارت عسکریین (علیهما السلام)"
+  },
+  {
+    "id": "fa-337",
+    "name": "زیارت سید محمد (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 8,
+    "mafatihId": 337,
+    "source": "mafatih",
+    "subcategory": "زیارت عسکریین (علیهما السلام)"
+  },
+  {
+    "id": "fa-338",
+    "name": "وداع با عسکریین (علیهما السلام)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 6,
+    "mafatihId": 338,
+    "source": "mafatih",
+    "subcategory": "زیارت عسکریین (علیهما السلام)"
+  },
+  {
+    "id": "fa-340",
+    "name": "زیارت آل یاسین",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 63,
+    "mafatihId": 340,
+    "source": "mafatih",
+    "subcategory": "زیارت امام زمان (عج)"
+  },
+  {
+    "id": "fa-341",
+    "name": "زیارت دیگر براى آن حضرت (عج)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 55,
+    "mafatihId": 341,
+    "source": "mafatih",
+    "subcategory": "زیارت امام زمان (عج)"
+  },
+  {
+    "id": "fa-342",
+    "name": "زیارت سرداب غیبت امام زمان (عج)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 40,
+    "mafatihId": 342,
+    "source": "mafatih",
+    "subcategory": "زیارت امام زمان (عج)"
+  },
+  {
+    "id": "fa-343",
+    "name": "زیارت دیگر حضرت (عج)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 32,
+    "mafatihId": 343,
+    "source": "mafatih",
+    "subcategory": "زیارت امام زمان (عج)"
+  },
+  {
+    "id": "fa-344",
+    "name": "صلوات بر امام زمان (عج)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 14,
+    "mafatihId": 344,
+    "source": "mafatih",
+    "subcategory": "زیارت امام زمان (عج)"
+  },
+  {
+    "id": "fa-345",
+    "name": "دعای (اللّهمّ عَظُمَ البَلاء)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 10,
+    "mafatihId": 345,
+    "source": "mafatih",
+    "subcategory": "زیارت امام زمان (عج)"
+  },
+  {
+    "id": "fa-346",
+    "name": "زیارت امام زمان (عج) بعد از نماز صبح",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 13,
+    "mafatihId": 346,
+    "source": "mafatih",
+    "subcategory": "زیارت امام زمان (عج)"
+  },
+  {
+    "id": "fa-347",
+    "name": "دعاء براى امام زمان (عج)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 39,
+    "mafatihId": 347,
+    "source": "mafatih",
+    "subcategory": "زیارت امام زمان (عج)"
+  },
+  {
+    "id": "fa-348",
+    "name": "دعاء در غیبت امام زمان (عج) (ملحقات)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 91,
+    "mafatihId": 348,
+    "source": "mafatih",
+    "subcategory": "زیارت امام زمان (عج)"
+  },
+  {
+    "id": "fa-349",
+    "name": "نماز امام زمان (عج) در مسجد جمکران (ملحقات)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 1,
+    "mafatihId": 349,
+    "source": "mafatih",
+    "subcategory": "زیارت امام زمان (عج)"
+  },
+  {
+    "id": "fa-350",
+    "name": "زیارت جامعه صغیره",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 15,
+    "mafatihId": 350,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-351",
+    "name": "زیارت جامعه کبیره",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 145,
+    "mafatihId": 351,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-352",
+    "name": "زیارت جامعه دیگر",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 20,
+    "mafatihId": 352,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-353",
+    "name": "دعاى بعد از زیارت اهل بیت (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 35,
+    "mafatihId": 353,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-354",
+    "name": "زیارت انبیاء الهی (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 2,
+    "mafatihId": 354,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-355",
+    "name": "زیارت امام زادگان",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 22,
+    "mafatihId": 355,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-356",
+    "name": "زیارت حضرت معصومه (س)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 34,
+    "mafatihId": 356,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-357",
+    "name": "زیارت حضرت عبدالعظیم (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 38,
+    "mafatihId": 357,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-358",
+    "name": "زیارت قبور مؤمنین",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 30,
+    "mafatihId": 358,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-359",
+    "name": "زیارت جامعه ائمه (ع) (ملحقات)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 163,
+    "mafatihId": 359,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-360",
+    "name": "دعاى عالیة المضامین (ملحقات)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 86,
+    "mafatihId": 360,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-361",
+    "name": "زیارت وداع ائمّه (ع) (ملحقات)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 23,
+    "mafatihId": 361,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-362",
+    "name": "آداب زیارت نیابتی (ملحقات)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 47,
+    "mafatihId": 362,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-364",
+    "name": "تعقیبات مشترکه نماز",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 223,
+    "mafatihId": 364,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-366",
+    "name": "تعقیب نماز ظهر",
+    "nameAr": "",
+    "category": "taqeebat",
+    "segmentCount": 31,
+    "mafatihId": 366,
+    "source": "mafatih",
+    "subcategory": "تعقیبات مختصه نماز"
+  },
+  {
+    "id": "fa-367",
+    "name": "تعقیب نماز عصر",
+    "nameAr": "",
+    "category": "taqeebat",
+    "segmentCount": 14,
+    "mafatihId": 367,
+    "source": "mafatih",
+    "subcategory": "تعقیبات مختصه نماز"
+  },
+  {
+    "id": "fa-368",
+    "name": "تعقیب نماز مغرب",
+    "nameAr": "",
+    "category": "taqeebat",
+    "segmentCount": 54,
+    "mafatihId": 368,
+    "source": "mafatih",
+    "subcategory": "تعقیبات مختصه نماز"
+  },
+  {
+    "id": "fa-369",
+    "name": "تعقیب نماز عشاء",
+    "nameAr": "",
+    "category": "taqeebat",
+    "segmentCount": 23,
+    "mafatihId": 369,
+    "source": "mafatih",
+    "subcategory": "تعقیبات مختصه نماز"
+  },
+  {
+    "id": "fa-370",
+    "name": "تعقیب نماز صبح",
+    "nameAr": "",
+    "category": "taqeebat",
+    "segmentCount": 123,
+    "mafatihId": 370,
+    "source": "mafatih",
+    "subcategory": "تعقیبات مختصه نماز"
+  },
+  {
+    "id": "fa-371",
+    "name": "سجده شکر و دعاهای طلوع و غروب آفتاب",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 78,
+    "mafatihId": 371,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-372",
+    "name": "دعاى صباح",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 59,
+    "mafatihId": 372,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-373",
+    "name": "دعاى کمیل",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 126,
+    "mafatihId": 373,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-374",
+    "name": "دعاى سمات",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 102,
+    "mafatihId": 374,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-375",
+    "name": "دعای عشرات",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 110,
+    "mafatihId": 375,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-376",
+    "name": "دعاى مشلول",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 95,
+    "mafatihId": 376,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-377",
+    "name": "دعاء یستشیر",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 46,
+    "mafatihId": 377,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-378",
+    "name": "دعاى مجیر",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 87,
+    "mafatihId": 378,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-379",
+    "name": "دعاى عدیله",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 59,
+    "mafatihId": 379,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-380",
+    "name": "دعاى جوشن کبیر",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 355,
+    "mafatihId": 380,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-381",
+    "name": "دعای جوشن صغیر",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 189,
+    "mafatihId": 381,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-382",
+    "name": "دعای سیفی صغیر (دعای قاموس)",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 22,
+    "mafatihId": 382,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-383",
+    "name": "دعاى توسل",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 67,
+    "mafatihId": 383,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-384",
+    "name": "دعاى توسل دیگر",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 31,
+    "mafatihId": 384,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-385",
+    "name": "دعاى فرج",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 13,
+    "mafatihId": 385,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-386",
+    "name": "دعاى خلاصى از زندان",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 8,
+    "mafatihId": 386,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-387",
+    "name": "دعاى نور",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 9,
+    "mafatihId": 387,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-388",
+    "name": "دعای(اِلهى کیفَ اَدْعُوک)",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 9,
+    "mafatihId": 388,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-389",
+    "name": "دعاى خوف از ضرر",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 19,
+    "mafatihId": 389,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-390",
+    "name": "دعاى عَظُمَ البَلاء",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 11,
+    "mafatihId": 390,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-391",
+    "name": "دعاى امام زمان (ع)",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 16,
+    "mafatihId": 391,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-392",
+    "name": "دعاى (الهِى بِحَقِّ مَنْ نَاجَاک)",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 8,
+    "mafatihId": 392,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-393",
+    "name": "مناجات منظومه امیرالمؤ منین (ع)",
+    "nameAr": "",
+    "category": "munajat",
+    "segmentCount": 36,
+    "mafatihId": 393,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-394",
+    "name": "دعای ادریس نبی (ع)",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 101,
+    "mafatihId": 394,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-395",
+    "name": "آداب سفر",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 57,
+    "mafatihId": 395,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-396",
+    "name": "دعاى ندبه",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 148,
+    "mafatihId": 396,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-397",
+    "name": "دعاى عهد",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 37,
+    "mafatihId": 397,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-398",
+    "name": "رقعه حاجت (ملحقات)",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 9,
+    "mafatihId": 398,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-399",
+    "name": "دعاى مکارم الاخلاق (ملحقات)",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 67,
+    "mafatihId": 399,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-401",
+    "name": "اعمال مابین الطّلُوعَین",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 24,
+    "mafatihId": 401,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-402",
+    "name": "آداب بیت الخلا",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 19,
+    "mafatihId": 402,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-403",
+    "name": "آداب وضو",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 35,
+    "mafatihId": 403,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-404",
+    "name": "آداب مسجد رفتن",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 12,
+    "mafatihId": 404,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-405",
+    "name": "دعاى قبل از نماز",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 13,
+    "mafatihId": 405,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-406",
+    "name": "آداب ورود در نماز",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 1,
+    "mafatihId": 406,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-407",
+    "name": "دعاى تکبیرات",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 13,
+    "mafatihId": 407,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-408",
+    "name": "آداب قرائت و رکوع و سجود و قنوت",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 35,
+    "mafatihId": 408,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-409",
+    "name": "سجده امام کاظم و امام رضا (ع)",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 4,
+    "mafatihId": 409,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-410",
+    "name": "اعمال ما بین غروب تا وقت خواب",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 15,
+    "mafatihId": 410,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-411",
+    "name": "آداب وقت خواب و دعاهاى آن",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 25,
+    "mafatihId": 411,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-412",
+    "name": "ذکر بعضى اذکار و دعاهای صبح و شب",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 96,
+    "mafatihId": 412,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-414",
+    "name": "ساعت 1",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 7,
+    "mafatihId": 414,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه ساعات روز"
+  },
+  {
+    "id": "fa-415",
+    "name": "ساعت 2",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 8,
+    "mafatihId": 415,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه ساعات روز"
+  },
+  {
+    "id": "fa-416",
+    "name": "ساعت 3",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 9,
+    "mafatihId": 416,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه ساعات روز"
+  },
+  {
+    "id": "fa-417",
+    "name": "ساعت 4",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 9,
+    "mafatihId": 417,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه ساعات روز"
+  },
+  {
+    "id": "fa-418",
+    "name": "ساعت 5",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 8,
+    "mafatihId": 418,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه ساعات روز"
+  },
+  {
+    "id": "fa-419",
+    "name": "ساعت 6",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 7,
+    "mafatihId": 419,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه ساعات روز"
+  },
+  {
+    "id": "fa-420",
+    "name": "ساعت 7",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 7,
+    "mafatihId": 420,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه ساعات روز"
+  },
+  {
+    "id": "fa-421",
+    "name": "ساعت 8",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 8,
+    "mafatihId": 421,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه ساعات روز"
+  },
+  {
+    "id": "fa-422",
+    "name": "ساعت 9",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 9,
+    "mafatihId": 422,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه ساعات روز"
+  },
+  {
+    "id": "fa-423",
+    "name": "ساعت 10",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 7,
+    "mafatihId": 423,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه ساعات روز"
+  },
+  {
+    "id": "fa-424",
+    "name": "ساعت 11",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 7,
+    "mafatihId": 424,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه ساعات روز"
+  },
+  {
+    "id": "fa-425",
+    "name": "ساعت 12",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 12,
+    "mafatihId": 425,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه ساعات روز"
+  },
+  {
+    "id": "fa-426",
+    "name": "دعا در سه ساعت شب و سه ساعت روز",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 12,
+    "mafatihId": 426,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-427",
+    "name": "ادعیه هر روز",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 17,
+    "mafatihId": 427,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-428",
+    "name": "دعاى أَعْدَدْتُ لِکلِّ هَوْلٍ... و فضیلت آن",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 6,
+    "mafatihId": 428,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-429",
+    "name": "ثواب بعضى از ادعیه",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 36,
+    "mafatihId": 429,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-430",
+    "name": "براى دفع وسوسه",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 7,
+    "mafatihId": 430,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-432",
+    "name": "أدعيه آلام و اسقام",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 8,
+    "mafatihId": 432,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-433",
+    "name": "ادعیه عافیت",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 70,
+    "mafatihId": 433,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-434",
+    "name": "دعاى مادر براى مرض فرزند خود",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 5,
+    "mafatihId": 434,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-435",
+    "name": "تعویذ بجهت درد سر و درد گوش",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 19,
+    "mafatihId": 435,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-436",
+    "name": "تعویذ بجهت درد شَقیقِه",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 4,
+    "mafatihId": 436,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-437",
+    "name": "بجهت کرى گوش",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 2,
+    "mafatihId": 437,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-438",
+    "name": "بجهت درد دهان",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 9,
+    "mafatihId": 438,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-439",
+    "name": "بجهت درد دندان",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 26,
+    "mafatihId": 439,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-440",
+    "name": "بجهت درد سینه",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 3,
+    "mafatihId": 440,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-441",
+    "name": "بجهت سرفه",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 3,
+    "mafatihId": 441,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-442",
+    "name": "بجهت درد شکم",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 8,
+    "mafatihId": 442,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-443",
+    "name": "بجهت قولنج",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 7,
+    "mafatihId": 443,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-444",
+    "name": "بجهت ثالول",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 6,
+    "mafatihId": 444,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-445",
+    "name": "بجهت ورمهاى بدن",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 1,
+    "mafatihId": 445,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-446",
+    "name": "بجهت رفع دشوار زائیدن زنان",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 16,
+    "mafatihId": 446,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-447",
+    "name": "بجهت باز کردن بسته شده",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 12,
+    "mafatihId": 447,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-448",
+    "name": "تعویذات تب",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 50,
+    "mafatihId": 448,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-449",
+    "name": "دُعاى زَحير",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 4,
+    "mafatihId": 449,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-450",
+    "name": "دعاى قرقره شکم",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 2,
+    "mafatihId": 450,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-451",
+    "name": "دعاى بَرَص (پیسى اندام )",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 13,
+    "mafatihId": 451,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-452",
+    "name": "بجهت جرب و دمّل و قوباء",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 6,
+    "mafatihId": 452,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-453",
+    "name": "بجهت درد عورت",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 5,
+    "mafatihId": 453,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-454",
+    "name": "بجهت درد زانو",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 4,
+    "mafatihId": 454,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-455",
+    "name": "بجهت درد ساقها",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 1,
+    "mafatihId": 455,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-456",
+    "name": "بجهت درد چشم",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 25,
+    "mafatihId": 456,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-457",
+    "name": "دعا براى دردها",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 15,
+    "mafatihId": 457,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-458",
+    "name": "دعا برای مریضی",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 2,
+    "mafatihId": 458,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-459",
+    "name": "دعا برای درد زانو",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 4,
+    "mafatihId": 459,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-460",
+    "name": "دعا براى رفع بیماریها و ناخوشیها",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 4,
+    "mafatihId": 460,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-461",
+    "name": "دعاى آبله ریزى",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 1,
+    "mafatihId": 461,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-462",
+    "name": "دعاى درد کمر",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 4,
+    "mafatihId": 462,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-463",
+    "name": "دعاى درد ناف",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 3,
+    "mafatihId": 463,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-464",
+    "name": "تعویذ هر درد",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 3,
+    "mafatihId": 464,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-465",
+    "name": "دعاى درد خاصره",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 1,
+    "mafatihId": 465,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-466",
+    "name": "دعاى درد شکم و قولنج",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 1,
+    "mafatihId": 466,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه برای رفع بیماری و دردها"
+  },
+  {
+    "id": "fa-468",
+    "name": "هنگام داخل شدن در صبح",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 43,
+    "mafatihId": 468,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه صبح و شام"
+  },
+  {
+    "id": "fa-469",
+    "name": "هنگام داخل شدن در شب",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 8,
+    "mafatihId": 469,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه صبح و شام"
+  },
+  {
+    "id": "fa-470",
+    "name": "ادعیه مشترک صبح و شب",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 43,
+    "mafatihId": 470,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه صبح و شام"
+  },
+  {
+    "id": "fa-472",
+    "name": "دعا هنگام خوابیدن",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 26,
+    "mafatihId": 472,
+    "source": "mafatih",
+    "subcategory": "ملحقات - دعا هنگام خوابیدن و بیدار شدن"
+  },
+  {
+    "id": "fa-473",
+    "name": "دعا هنگام بیداری",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 14,
+    "mafatihId": 473,
+    "source": "mafatih",
+    "subcategory": "ملحقات - دعا هنگام خوابیدن و بیدار شدن"
+  },
+  {
+    "id": "fa-474",
+    "name": "ادعیه هنگام خروج از منزل",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 51,
+    "mafatihId": 474,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-475",
+    "name": "ادعيه پيش از نماز و بعد از آن",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 62,
+    "mafatihId": 475,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-476",
+    "name": "ادعیه جهت رزق",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 71,
+    "mafatihId": 476,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-477",
+    "name": "ادعیه برای دین",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 22,
+    "mafatihId": 477,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-478",
+    "name": "ادعیه براى اندوه و غم و خوف",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 95,
+    "mafatihId": 478,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-480",
+    "name": "حرز امام سجاد (ع)",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 19,
+    "mafatihId": 480,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-481",
+    "name": "تعویذ بُطلان سحر",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 5,
+    "mafatihId": 481,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-482",
+    "name": "براى دفع شیاطین و جادوگران",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 17,
+    "mafatihId": 482,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-483",
+    "name": "حرز چشم زخم",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 18,
+    "mafatihId": 483,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-484",
+    "name": "بجهت دفع وسوسه شیطان",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 7,
+    "mafatihId": 484,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-485",
+    "name": "بجهت ایمنى از دزد",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 1,
+    "mafatihId": 485,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-486",
+    "name": "عوذه عقرب",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 18,
+    "mafatihId": 486,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-487",
+    "name": "بجهت وحشت",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 6,
+    "mafatihId": 487,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-488",
+    "name": "بجهت تنها بودن در خانه در شب",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 2,
+    "mafatihId": 488,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-489",
+    "name": "تعویذ حضرت رسول (ص) به حسنین (ع)",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 5,
+    "mafatihId": 489,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-490",
+    "name": "عوذات کیک",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 3,
+    "mafatihId": 490,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-491",
+    "name": "عوذه درندگان",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 9,
+    "mafatihId": 491,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-492",
+    "name": "هنگام وقوع ورطه یا بلیه",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 3,
+    "mafatihId": 492,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-493",
+    "name": "به جهت امر دشوار",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 5,
+    "mafatihId": 493,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-494",
+    "name": "حرز حضرت زهرا (س)",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 2,
+    "mafatihId": 494,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-495",
+    "name": "حرز امام سجاد (ع)",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 13,
+    "mafatihId": 495,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-496",
+    "name": "حرز امام صادق (ع)",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 4,
+    "mafatihId": 496,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-497",
+    "name": "حرز امام کاظم (ع)",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 15,
+    "mafatihId": 497,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-498",
+    "name": "حرز امام رضا (ع)",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 12,
+    "mafatihId": 498,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-499",
+    "name": "حرز امام جواد (ع)",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 2,
+    "mafatihId": 499,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-500",
+    "name": "حرز امام هادی (ع)",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 3,
+    "mafatihId": 500,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-501",
+    "name": "حرز امام حسن عسکری (ع)",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 3,
+    "mafatihId": 501,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-502",
+    "name": "حرز امام زمان (ع)",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 3,
+    "mafatihId": 502,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-503",
+    "name": "قنوت امام حسین (ع)",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 7,
+    "mafatihId": 503,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-504",
+    "name": "برای امان از جن و انس",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 5,
+    "mafatihId": 504,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-505",
+    "name": "دعاى مجرّب از حضرت رسول (ص)",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 13,
+    "mafatihId": 505,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-506",
+    "name": "دعاى حضرت رسول (ص)",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 4,
+    "mafatihId": 506,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-507",
+    "name": "حجاب امام صادق (ع)",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 11,
+    "mafatihId": 507,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-508",
+    "name": "حجاب امام کاظم (ع)",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 6,
+    "mafatihId": 508,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-509",
+    "name": "حجاب امام جواد (ع)",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 6,
+    "mafatihId": 509,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-510",
+    "name": "دعاى دفع شرّ ابلیس",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 7,
+    "mafatihId": 510,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ذکر بعض از حرزها و عوذات"
+  },
+  {
+    "id": "fa-512",
+    "name": "دعا جهت حاجت",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 6,
+    "mafatihId": 512,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه براى حوائج دنیا و آخرت"
+  },
+  {
+    "id": "fa-513",
+    "name": "دعای سریع الاجابه",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 12,
+    "mafatihId": 513,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه براى حوائج دنیا و آخرت"
+  },
+  {
+    "id": "fa-514",
+    "name": "دعای جامع دنیا و آخرت",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 27,
+    "mafatihId": 514,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه براى حوائج دنیا و آخرت"
+  },
+  {
+    "id": "fa-515",
+    "name": "دعای الحاح",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 7,
+    "mafatihId": 515,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه براى حوائج دنیا و آخرت"
+  },
+  {
+    "id": "fa-516",
+    "name": "دعای جامع از امام باقر (ع)",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 34,
+    "mafatihId": 516,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه براى حوائج دنیا و آخرت"
+  },
+  {
+    "id": "fa-517",
+    "name": "ادعیه دیگر برای حوائج",
+    "nameAr": "",
+    "category": "special_needs",
+    "segmentCount": 258,
+    "mafatihId": 517,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه براى حوائج دنیا و آخرت"
+  },
+  {
+    "id": "fa-519",
+    "name": "مناجات استخاره",
+    "nameAr": "",
+    "category": "munajat",
+    "segmentCount": 13,
+    "mafatihId": 519,
+    "source": "mafatih",
+    "subcategory": "ملحقات - مناجات جهت طلب حاجات"
+  },
+  {
+    "id": "fa-520",
+    "name": "مناجات استقاله",
+    "nameAr": "",
+    "category": "munajat",
+    "segmentCount": 16,
+    "mafatihId": 520,
+    "source": "mafatih",
+    "subcategory": "ملحقات - مناجات جهت طلب حاجات"
+  },
+  {
+    "id": "fa-521",
+    "name": "مناجات استعاذه",
+    "nameAr": "",
+    "category": "munajat",
+    "segmentCount": 12,
+    "mafatihId": 521,
+    "source": "mafatih",
+    "subcategory": "ملحقات - مناجات جهت طلب حاجات"
+  },
+  {
+    "id": "fa-522",
+    "name": "مناجات طلب حجّ",
+    "nameAr": "",
+    "category": "munajat",
+    "segmentCount": 16,
+    "mafatihId": 522,
+    "source": "mafatih",
+    "subcategory": "ملحقات - مناجات جهت طلب حاجات"
+  },
+  {
+    "id": "fa-523",
+    "name": "مناجات کشف ظلم",
+    "nameAr": "",
+    "category": "munajat",
+    "segmentCount": 13,
+    "mafatihId": 523,
+    "source": "mafatih",
+    "subcategory": "ملحقات - مناجات جهت طلب حاجات"
+  },
+  {
+    "id": "fa-524",
+    "name": "مناجات شکر خدا",
+    "nameAr": "",
+    "category": "munajat",
+    "segmentCount": 13,
+    "mafatihId": 524,
+    "source": "mafatih",
+    "subcategory": "ملحقات - مناجات جهت طلب حاجات"
+  },
+  {
+    "id": "fa-525",
+    "name": "مناجات طلب حوائج",
+    "nameAr": "",
+    "category": "munajat",
+    "segmentCount": 10,
+    "mafatihId": 525,
+    "source": "mafatih",
+    "subcategory": "ملحقات - مناجات جهت طلب حاجات"
+  },
+  {
+    "id": "fa-527",
+    "name": "دعا براى آمرزش گناهان و دفع بلیات",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 6,
+    "mafatihId": 527,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه جهت توبه و آمرزش گناهان"
+  },
+  {
+    "id": "fa-528",
+    "name": "مناجات طلب توبه",
+    "nameAr": "",
+    "category": "munajat",
+    "segmentCount": 15,
+    "mafatihId": 528,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه جهت توبه و آمرزش گناهان"
+  },
+  {
+    "id": "fa-529",
+    "name": "دعاى موجز در حمد و استغفار",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 3,
+    "mafatihId": 529,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه جهت توبه و آمرزش گناهان"
+  },
+  {
+    "id": "fa-530",
+    "name": "دعاى حضرت سجّاد (ع) در ذکر توبه",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 66,
+    "mafatihId": 530,
+    "source": "mafatih",
+    "subcategory": "ملحقات - ادعیه جهت توبه و آمرزش گناهان"
+  },
+  {
+    "id": "fa-531",
+    "name": "دعا بجهت زنده شدن دل",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 4,
+    "mafatihId": 531,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-532",
+    "name": "دعاى تاخیر اجل",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 3,
+    "mafatihId": 532,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-533",
+    "name": "ذكر خواص بعضى از سوره ها و آيات",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 65,
+    "mafatihId": 533,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-534",
+    "name": "دعاى پیش از مطالعه",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 4,
+    "mafatihId": 534,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-535",
+    "name": "دعاى دیدن اهل بلا",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 6,
+    "mafatihId": 535,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-536",
+    "name": "براى پسر شدن حمل",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 1,
+    "mafatihId": 536,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-537",
+    "name": "دعاى عقیقه",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 21,
+    "mafatihId": 537,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-538",
+    "name": "آداب ختنه",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 6,
+    "mafatihId": 538,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-539",
+    "name": "دعاى رؤ یت جهود و ترسا و گبر",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 11,
+    "mafatihId": 539,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-540",
+    "name": "در مذمت تراشیدن ریش",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 4,
+    "mafatihId": 540,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-541",
+    "name": "دعاى فرج از آفات",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 10,
+    "mafatihId": 541,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-542",
+    "name": "دعاى امان از سوختن",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 6,
+    "mafatihId": 542,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-543",
+    "name": "دعا در زمان غیبت و امتحان شیعه",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 4,
+    "mafatihId": 543,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-544",
+    "name": "دعا بجهت حفظ زراعت از آفات",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 12,
+    "mafatihId": 544,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-545",
+    "name": "دعا هنگام نظر کردن به انگشتر عقیق",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 4,
+    "mafatihId": 545,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-546",
+    "name": "دعاى دفع فراموشى",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 9,
+    "mafatihId": 546,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-547",
+    "name": "دعاى تمجید",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 4,
+    "mafatihId": 547,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-549",
+    "name": "آداب میت",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 49,
+    "mafatihId": 549,
+    "source": "mafatih",
+    "subcategory": "ملحقات - آداب و ادعیه موت"
+  },
+  {
+    "id": "fa-550",
+    "name": "آداب محتضر و تلقین او به کلمات فرج",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 6,
+    "mafatihId": 550,
+    "source": "mafatih",
+    "subcategory": "ملحقات - آداب و ادعیه موت"
+  },
+  {
+    "id": "fa-551",
+    "name": "کفن میت",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 6,
+    "mafatihId": 551,
+    "source": "mafatih",
+    "subcategory": "ملحقات - آداب و ادعیه موت"
+  },
+  {
+    "id": "fa-552",
+    "name": "در کیفیت و آداب غسل میت",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 2,
+    "mafatihId": 552,
+    "source": "mafatih",
+    "subcategory": "ملحقات - آداب و ادعیه موت"
+  },
+  {
+    "id": "fa-553",
+    "name": "تکفین میت",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 1,
+    "mafatihId": 553,
+    "source": "mafatih",
+    "subcategory": "ملحقات - آداب و ادعیه موت"
+  },
+  {
+    "id": "fa-554",
+    "name": "تشیع جنازه",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 3,
+    "mafatihId": 554,
+    "source": "mafatih",
+    "subcategory": "ملحقات - آداب و ادعیه موت"
+  },
+  {
+    "id": "fa-555",
+    "name": "دعاى رؤیت جنازه",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 9,
+    "mafatihId": 555,
+    "source": "mafatih",
+    "subcategory": "ملحقات - آداب و ادعیه موت"
+  },
+  {
+    "id": "fa-556",
+    "name": "شهادت چهل نفر در حق میت",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 1,
+    "mafatihId": 556,
+    "source": "mafatih",
+    "subcategory": "ملحقات - آداب و ادعیه موت"
+  },
+  {
+    "id": "fa-557",
+    "name": "آداب حمل جنازه",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 1,
+    "mafatihId": 557,
+    "source": "mafatih",
+    "subcategory": "ملحقات - آداب و ادعیه موت"
+  },
+  {
+    "id": "fa-558",
+    "name": "آداب دفن میت",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 21,
+    "mafatihId": 558,
+    "source": "mafatih",
+    "subcategory": "ملحقات - آداب و ادعیه موت"
+  },
+  {
+    "id": "fa-559",
+    "name": "احکام دفن اموات",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 1,
+    "mafatihId": 559,
+    "source": "mafatih",
+    "subcategory": "ملحقات - آداب و ادعیه موت"
+  },
+  {
+    "id": "fa-560",
+    "name": "دعا براى میت",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 9,
+    "mafatihId": 560,
+    "source": "mafatih",
+    "subcategory": "ملحقات - آداب و ادعیه موت"
+  },
+  {
+    "id": "fa-561",
+    "name": "تلقین میت",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 37,
+    "mafatihId": 561,
+    "source": "mafatih",
+    "subcategory": "ملحقات - آداب و ادعیه موت"
+  },
+  {
+    "id": "fa-562",
+    "name": "دعا بجهت خلاصى از زندان",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 6,
+    "mafatihId": 562,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-563",
+    "name": "دعاى فرج",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 3,
+    "mafatihId": 563,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-564",
+    "name": "دعا براى زیادى فهم",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 1,
+    "mafatihId": 564,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-565",
+    "name": "دعاى حدیث قدسى",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 12,
+    "mafatihId": 565,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-566",
+    "name": "نماز و دعا در شب زفاف",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 7,
+    "mafatihId": 566,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-567",
+    "name": "دعاى رهبه",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 20,
+    "mafatihId": 567,
+    "source": "mafatih",
+    "subcategory": "ملحقات"
+  },
+  {
+    "id": "fa-568",
+    "name": "مناجات خمس عشرة",
+    "nameAr": "",
+    "category": "munajat",
+    "segmentCount": 15,
+    "mafatihId": 568,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-569",
+    "name": "حدیث کساء",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 59,
+    "mafatihId": 569,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-570",
+    "name": "دعای حزین",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 18,
+    "mafatihId": 570,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-571",
+    "name": "دعای (یا عدتی)",
+    "nameAr": "",
+    "category": "major",
+    "segmentCount": 71,
+    "mafatihId": 571,
+    "source": "mafatih"
+  },
+  {
+    "id": "fa-sahife-3783",
+    "name": "دعا ی 1 در توحید و ستایش خداوند",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 30,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3784",
+    "name": "دعای 2 در صلوات و درود بر رسول خدا و بیان اوصاف آن حضرت",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 26,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3785",
+    "name": " دعا ی 3 برای فرشتگان و حاملان عرش",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 26,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3786",
+    "name": "دعای 4 در درود بر پیروان و تصدیق کنندگان پیامبران",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 19,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3787",
+    "name": "دعا ی 5 برای خود و دوستان و نزدیکان",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 15,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3788",
+    "name": " دعای 6 برای صبح و شب",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 24,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3789",
+    "name": " دعای 7 برای پیشآمدهای سخت و اندوهناک",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 10,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3790",
+    "name": "دعای 8 برای پناه بردن به خدا از سختی ها",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 10,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3791",
+    "name": " دعای 9 برای طلب بخشش و آمرزش از خدا",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 7,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3792",
+    "name": " دعای 10 پناه بردن به خداوند",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 6,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3793",
+    "name": " دعا 11 برای عاقبت به خیری",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 5,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3794",
+    "name": " دعای 12 در اعتراف به گناه و درخواست توبه",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 16,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3795",
+    "name": " دعای 13 در طلب حوائج از خداوند",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 25,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3796",
+    "name": " دعای 14 برای ستم و ستمدیده و مظلوم",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 16,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3797",
+    "name": " دعای 15 برای بیماری و اندوه و بلا و مریضی",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 7,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3798",
+    "name": " دعای 16 برای طلب عفو و بخشش از گناهان و عیوب",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 34,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3799",
+    "name": " دعای 17 پناه بردن به خداوند از شر شیطان",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 16,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3800",
+    "name": " دعای 18 برای دفع بلا و طلب عافیت",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 3,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3801",
+    "name": " دعای 19 برای درخواست و طلب باران",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 7,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3802",
+    "name": " دعای 20 در مکارم اخلاق و اعمال پسندیده",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 30,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3803",
+    "name": " دعای 21 برای زمان هجوم غم و اندوه و نگرانی از گناه",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 13,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3804",
+    "name": " دعای 22 برای سختی و دشواری امور",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 14,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3805",
+    "name": " دعای 23 برای عافیت و شکر بر آن",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 8,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3806",
+    "name": " دعای 24 برای پدر و مادر",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 15,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3807",
+    "name": " دعای 25 پدر و مادر درباره فرزندان",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 13,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3808",
+    "name": " دعای 26 برای همسایه ها و دوستان",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 4,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3809",
+    "name": " دعای 27 برای مرزداران",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 18,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3810",
+    "name": " دعای 28 برای پناه بردن به خداوند",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 12,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3811",
+    "name": " دعای 29 به وقت تنگی رزق و روزی",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 5,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3812",
+    "name": " دعای 30 برای پرداخت قرض و دین و وام",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 6,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3813",
+    "name": " دعای 31 در توبه و بازگشت",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 30,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3814",
+    "name": " دعای 32 پس از نماز شب",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 35,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3815",
+    "name": " دعای 33 در استخاره و درخواست خیر و نیکی",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 6,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3816",
+    "name": " دعای 34 برای رسوایی در گناه",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 5,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3817",
+    "name": " دعای 35 در رضا و خشنودی به دادههای الهی",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 5,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3818",
+    "name": " دعای 36 هنگام نظر به ابر و برق و شنیدن بانگ رعد",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 7,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3819",
+    "name": " دعای 37 در اعتراف به ناتوانی از شکر",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 16,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3820",
+    "name": " دعای 38 در پوزش از کوتاهی در حقوق بندگان و طلب آزادی از آتش",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 3,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3821",
+    "name": " دعای 39 در طلب عفو و بخشش",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 14,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3822",
+    "name": " دعای 40 به وقت یاد مرگ",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 5,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3823",
+    "name": " دعای 41 در درخواست پردهپوشی و حفظ شدن از حادثهها",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 4,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3824",
+    "name": " دعای 42 به وقت ختم قرآن",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 22,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3825",
+    "name": " دعای 43 هنگام نگاه کردن به هلال",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 7,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3826",
+    "name": " دعای 44 به وقت فرا رسیدن ماه مبارک رمضان",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 19,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3827",
+    "name": " دعای 45 به هنگام وداع با ماه مبارک رمضان",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 56,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3828",
+    "name": " دعای 46 بعد از بازگشت از نماز عید فطر و جمعه",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 25,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3829",
+    "name": " دعای 47 عرفه امام سجاد",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 133,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3830",
+    "name": " دعای 48 برای روز عید قربان و جمعه",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 28,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3831",
+    "name": " دعای 49 برای دفع شر دشمنان و رد فشار آنها",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 17,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3832",
+    "name": " دعای 50 در مقام ترس از خدا",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 7,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3833",
+    "name": " دعای 51 برای تضرع و زاری به درگاه خداوند",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 14,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3834",
+    "name": " دعای 52 برای اصرار در درخواست از خداوند",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 11,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3835",
+    "name": " دعای 53 در اظهار ذلت به پیشگاه خداوند",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 7,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3836",
+    "name": "دعای 54 درخواست از خدا برای دور کردن غم و اندوه",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 9,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3838",
+    "name": "1. مناجات توبه کنندگان",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 25,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3839",
+    "name": "2. مناجات شکوه کنندگان",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 15,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3840",
+    "name": "3. مناجات خائفین",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 19,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3841",
+    "name": "4. مناجات امیدواران",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 18,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3842",
+    "name": "5. مناجات مشتاقان",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 21,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3843",
+    "name": "6. مناجات شاکرین",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 23,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3844",
+    "name": "7. مناجات اطاعت کنندگان",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 13,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3845",
+    "name": "8. مناجات اهل ارادت",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 22,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3846",
+    "name": "9. مناجات محبین",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 22,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3847",
+    "name": "10. مناجات متوسلین",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 12,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3848",
+    "name": "11. مناجات نیازمندان",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 21,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3849",
+    "name": "12. مناجات عارفان",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 25,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3850",
+    "name": "13. مناجات یادکنندگان",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 20,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3851",
+    "name": "14. مناجات معتصمین",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 18,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3852",
+    "name": "15. مناجات زاهدین",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 12,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3854",
+    "name": "دعاى روز شنبه",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 12,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3855",
+    "name": "دعاى روز یکشنبه",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 17,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3856",
+    "name": "دعاى روز پنجشنبه",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 15,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3857",
+    "name": "دعاى روز دوشنبه",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 21,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3858",
+    "name": "دعاى روز چهارشنبه",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 14,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3859",
+    "name": "دعاى روز جمعه",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 15,
+    "source": "sahife"
+  },
+  {
+    "id": "fa-sahife-3860",
+    "name": "دعاى روز سه شنبه",
+    "nameAr": "",
+    "category": "sahifa",
+    "segmentCount": 16,
+    "source": "sahife"
+  }
+]

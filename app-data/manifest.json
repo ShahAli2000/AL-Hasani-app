@@ -1,5 +1,5 @@
 {
-  "version": "2026-04-10T21:29:42.256Z",
+  "version": "2026-04-10T21:55:38.362Z",
   "files": {
     "duas_index.json": "041a8c94acddb9db",
     "dua_audio.json": "ecf4fdcdea6c31fd",
@@ -26,6 +26,32 @@
     "today_mafatih.json": "19b5a32170f475df",
     "islamic_events.json": "74e6eec3982bcb55",
     "holy_places.json": "677bd92b36fd3cd8",
-    "hadith_collection.json": "4926682bf0d2914f"
+    "hadith_collection.json": "4926682bf0d2914f",
+    "fa/duas_index.json": "ca2256c639c7dd2a",
+    "fa/duas/major.json": "f06449112ac5f02b",
+    "fa/duas/special_needs.json": "5505ead2c29dae83",
+    "fa/duas/weekday.json": "0fb517ddf4fb8097",
+    "fa/duas/taqeebat.json": "5af6464d217cf14e",
+    "fa/duas/ziyarat.json": "18994c8d0d1f9268",
+    "fa/duas/sahifa.json": "1aaf83cd7e4b8480",
+    "fa/duas/munajat.json": "7e27c3c165ffd980",
+    "fa/duas/aamal.json": "329b784ed71b2f92",
+    "fa/duas/salah.json": "f6576ab846a049a3",
+    "fa/book_texts/nahj-al-balagha.json": "76ad4f80fde7ee70",
+    "fa/book_texts/sahifa-sajjadiyya.json": "b9a5ad1f908ffa9f",
+    "fa/hadith_collection.json": "311d7609572e83a3",
+    "ur/duas_index.json": "ce5a5927c255e768",
+    "ur/duas/major.json": "340193ee10c8ac96",
+    "ur/duas/special_needs.json": "171fe6ea7157f4ad",
+    "ur/duas/weekday.json": "8a4c2b79398ca214",
+    "ur/duas/taqeebat.json": "67a9171e27c002ee",
+    "ur/duas/ziyarat.json": "84e01fe94fad4c4e",
+    "ur/duas/sahifa.json": "0e6ffa7cb61e0045",
+    "ur/duas/munajat.json": "1b0ccd056d6cfbd1",
+    "ur/duas/aamal.json": "ea5baa6be0fbff31",
+    "ur/duas/salah.json": "1cabaa6181573c69",
+    "ur/book_texts/nahj-al-balagha.json": "f7a37ca6f686ff83",
+    "ur/book_texts/sahifa-sajjadiyya.json": "3633ea93f14bf3a0",
+    "ur/hadith_collection.json": "3da7185472f2913c"
   }
 }
