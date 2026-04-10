@@ -36,7 +36,8 @@
         "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
         "transliteration": "bis-millahir-rahmanir-rahim",
         "translation": {
-          "en": "In the Name of Allah, the All-merciful, the All-compassionate"
+          "en": "In the Name of Allah, the All-merciful, the All-compassionate",
+          "fa": "به نام خداى بخشاینده مهربان"
         }
       },
       {
@@ -1692,7 +1693,8 @@
         "arabic": "يَا رَبِّ يَا رَبِّ يَا رَبِّ",
         "transliteration": "ya rab-bi ya rab-bi ya rabb",
         "translation": {
-          "en": "My Lord! My Lord! My Lord!"
+          "en": "My Lord! My Lord! My Lord!",
+          "fa": "پروردگارا، پروردگارا، پروردگارا؛"
         }
       },
       {
@@ -1737,7 +1739,8 @@
         "arabic": "يَا رَبِّ يَا رَبِّ يَا رَبِّ",
         "transliteration": "ya rab-bi ya ya rab-bi ya rabb",
         "translation": {
-          "en": "My Lord! My Lord! My Lord!"
+          "en": "My Lord! My Lord! My Lord!",
+          "fa": "پروردگارا، پروردگارا، پروردگارا؛"
         }
       },
       {
@@ -1827,7 +1830,8 @@
         "arabic": "يَا رَبِّ يَا رَبِّ يَا رَبِّ",
         "transliteration": "ya rab-bi ya rab-bi ya rabb",
         "translation": {
-          "en": "My Lord! My Lord! My Lord!"
+          "en": "My Lord! My Lord! My Lord!",
+          "fa": "پروردگارا، پروردگارا، پروردگارا؛"
         }
       },
       {
@@ -2241,7 +2245,8 @@
         "arabic": "صَلِّ عَلَى مُحَمَّدٍ وَّآلِ مُحَمَّدٍ",
         "transliteration": "sal-li `ala muhammad wa a-li muhammadin",
         "translation": {
-          "en": "Bless Muhammad and Muhammad's household!"
+          "en": "Bless Muhammad and Muhammad's household!",
+          "fa": "بر محمّد و خاندان محمّد درود فرست"
         }
       },
       {
@@ -3885,7 +3890,8 @@
         "arabic": "اللّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "O Allah: (please do) send blessings upon Muhammad and the Household of Muhammad—",
         "translation": {
-          "en": "allahumma salli `ala muhammadin wa ali muhammadin"
+          "en": "allahumma salli `ala muhammadin wa ali muhammadin",
+          "fa": "خدایا درود فرست بر محمد و آل محمد"
         }
       },
       {
@@ -3993,7 +3999,8 @@
         "arabic": "يَا حَيُّ يَا قَيُّومُ",
         "transliteration": "ya hayyu ya qayyumu",
         "translation": {
-          "en": "O Ever-living! O Self-Subsistent!"
+          "en": "O Ever-living! O Self-Subsistent!",
+          "fa": "ى زنده و اى پاینده"
         }
       },
       {
@@ -6752,7 +6759,8 @@
         "arabic": "صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "(please) send Your blessings upon Muhammad and the Household of Muhammad,"
+          "en": "(please) send Your blessings upon Muhammad and the Household of Muhammad,",
+          "fa": "بر محمّد و خاندان محمّد درود فرست"
         }
       },
       {
@@ -7341,7 +7349,8 @@
         "arabic": "يَا حَنَّانُ يَا مَنَّانُ",
         "transliteration": "ya hannanu ya mannanu",
         "translation": {
-          "en": "O All-tender! O All-bestower!"
+          "en": "O All-tender! O All-bestower!",
+          "fa": "اى پرعطا اى پرنعمت"
         }
       },
       {
@@ -10213,7 +10222,8 @@
         "arabic": "اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "allahumma salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "O Allah, (please) send blessings upon Muhammad and the Household of Muhammad;([1])"
+          "en": "O Allah, (please) send blessings upon Muhammad and the Household of Muhammad;([1])",
+          "fa": "خدایا درود فرست بر محمد و آل محمد"
         }
       },
       {
@@ -10698,7 +10708,8 @@
         "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
         "transliteration": "Bismillahi ’r-rahmani ’r-rahim",
         "translation": {
-          "en": "In the Name of Allah, the All-beneficent, the All-merciful"
+          "en": "In the Name of Allah, the All-beneficent, the All-merciful",
+          "fa": "به نام خداى بخشاینده مهربان"
         }
       },
       {
@@ -10922,7 +10933,8 @@
         "arabic": "يَا حَيُّ يَا قَيُّومُ",
         "transliteration": "ya hayyu ya qayyumu",
         "translation": {
-          "en": "O Ever-living! O Self-subsistent!"
+          "en": "O Ever-living! O Self-subsistent!",
+          "fa": "ى زنده و اى پاینده"
         }
       },
       {
@@ -11129,7 +11141,8 @@
         "arabic": "يَا حَنَّانُ يَا مَنَّانُ",
         "transliteration": "ya hannanu ya mannanu",
         "translation": {
-          "en": "O All-commiserating! O All-gracious!"
+          "en": "O All-commiserating! O All-gracious!",
+          "fa": "اى پرعطا اى پرنعمت"
         }
       },
       {
@@ -12866,7 +12879,8 @@
         "arabic": "صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "(please do) Bless Muhammad, the household of Muhammad,"
+          "en": "(please do) Bless Muhammad, the household of Muhammad,",
+          "fa": "بر محمّد و خاندان محمّد درود فرست"
         }
       },
       {
@@ -20257,7 +20271,8 @@
         "arabic": "يَا أَرْحَمَ الرَّاحِمِينَ",
         "transliteration": "ya arhama alrrahimina",
         "translation": {
-          "en": "O most Merciful of all those who show mercy!"
+          "en": "O most Merciful of all those who show mercy!",
+          "fa": "اى مهربانترین مهربانان"
         }
       },
       {
@@ -20751,7 +20766,8 @@
         "arabic": "يَا حَنَّانُ يَا مَنَّانُ",
         "transliteration": "ya han-nanu ya man-nan",
         "translation": {
-          "en": "O Charitable One, O Benefactor,"
+          "en": "O Charitable One, O Benefactor,",
+          "fa": "اى پرعطا اى پرنعمت"
         }
       },
       {
@@ -27033,7 +27049,8 @@
         "arabic": "يَا مَن يَّمْلِكُ حَوَائِجَ السَّائِلِينَ",
         "transliteration": "ya may-yam-liku hawa-ijas-sa-ilen",
         "translation": {
-          "en": "O He, Who satisfies the needs of the petitioner,"
+          "en": "O He, Who satisfies the needs of the petitioner,",
+          "fa": "اى که مالک حاجات خواستارانى"
         }
       },
       {
@@ -31382,7 +31399,8 @@
         "arabic": "صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "Bless Muhammad and the Household of Muhammad"
+          "en": "Bless Muhammad and the Household of Muhammad",
+          "fa": "بر محمّد و خاندان محمّد درود فرست"
         }
       },
       {
@@ -31706,7 +31724,8 @@
         "arabic": "صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "Bless Muhammad and the Household of Muhammad"
+          "en": "Bless Muhammad and the Household of Muhammad",
+          "fa": "بر محمّد و خاندان محمّد درود فرست"
         }
       },
       {
@@ -31877,7 +31896,8 @@
         "arabic": "صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "Bless Muhammad and the Household of Muhammad"
+          "en": "Bless Muhammad and the Household of Muhammad",
+          "fa": "بر محمّد و خاندان محمّد درود فرست"
         }
       },
       {
@@ -32021,7 +32041,8 @@
         "arabic": "صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "Bless Muhammad and the Household of Muhammad"
+          "en": "Bless Muhammad and the Household of Muhammad",
+          "fa": "بر محمّد و خاندان محمّد درود فرست"
         }
       },
       {
@@ -32381,7 +32402,8 @@
         "arabic": "صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "Bless Muhammad and the Household of Muhammad"
+          "en": "Bless Muhammad and the Household of Muhammad",
+          "fa": "بر محمّد و خاندان محمّد درود فرست"
         }
       },
       {
@@ -32489,7 +32511,8 @@
         "arabic": "صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "Bless Muhammad and the Household of Muhammad"
+          "en": "Bless Muhammad and the Household of Muhammad",
+          "fa": "بر محمّد و خاندان محمّد درود فرست"
         }
       },
       {
@@ -32624,7 +32647,8 @@
         "arabic": "صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "Bless Muhammad and the Household of Muhammad"
+          "en": "Bless Muhammad and the Household of Muhammad",
+          "fa": "بر محمّد و خاندان محمّد درود فرست"
         }
       },
       {
@@ -32777,7 +32801,8 @@
         "arabic": "صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "Bless Muhammad and the Household of Muhammad"
+          "en": "Bless Muhammad and the Household of Muhammad",
+          "fa": "بر محمّد و خاندان محمّد درود فرست"
         }
       },
       {
@@ -32921,7 +32946,8 @@
         "arabic": "صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "Bless Muhammad and the Household of Muhammad"
+          "en": "Bless Muhammad and the Household of Muhammad",
+          "fa": "بر محمّد و خاندان محمّد درود فرست"
         }
       },
       {
@@ -33119,7 +33145,8 @@
         "arabic": "صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "Bless Muhammad and the Household of Muhammad"
+          "en": "Bless Muhammad and the Household of Muhammad",
+          "fa": "بر محمّد و خاندان محمّد درود فرست"
         }
       },
       {
@@ -33272,7 +33299,8 @@
         "arabic": "صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "Bless Muhammad and the Household of Muhammad"
+          "en": "Bless Muhammad and the Household of Muhammad",
+          "fa": "بر محمّد و خاندان محمّد درود فرست"
         }
       },
       {
@@ -33443,7 +33471,8 @@
         "arabic": "صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "Bless Muhammad and the Household of Muhammad"
+          "en": "Bless Muhammad and the Household of Muhammad",
+          "fa": "بر محمّد و خاندان محمّد درود فرست"
         }
       },
       {
@@ -33677,7 +33706,8 @@
         "arabic": "صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "Bless Muhammad and the Household of Muhammad"
+          "en": "Bless Muhammad and the Household of Muhammad",
+          "fa": "بر محمّد و خاندان محمّد درود فرست"
         }
       },
       {
@@ -33839,7 +33869,8 @@
         "arabic": "صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "Bless Muhammad and the Household of Muhammad"
+          "en": "Bless Muhammad and the Household of Muhammad",
+          "fa": "بر محمّد و خاندان محمّد درود فرست"
         }
       },
       {
@@ -34037,7 +34068,8 @@
         "arabic": "صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "Bless Muhammad and the Household of Muhammad"
+          "en": "Bless Muhammad and the Household of Muhammad",
+          "fa": "بر محمّد و خاندان محمّد درود فرست"
         }
       },
       {
@@ -34226,7 +34258,8 @@
         "arabic": "صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "Bless Muhammad and the Household of Muhammad"
+          "en": "Bless Muhammad and the Household of Muhammad",
+          "fa": "بر محمّد و خاندان محمّد درود فرست"
         }
       },
       {
@@ -34451,7 +34484,8 @@
         "arabic": "صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "Bless Muhammad and the Household of Muhammad"
+          "en": "Bless Muhammad and the Household of Muhammad",
+          "fa": "بر محمّد و خاندان محمّد درود فرست"
         }
       },
       {
@@ -34802,7 +34836,8 @@
         "arabic": "صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "(Please) send blessings to Muhammad and the Household of Muhammad"
+          "en": "(Please) send blessings to Muhammad and the Household of Muhammad",
+          "fa": "بر محمّد و خاندان محمّد درود فرست"
         }
       },
       {
@@ -36238,7 +36273,8 @@
         "arabic": "يَا حَيُّ يَا قَيُّومُ",
         "transliteration": "ya hayyu ya qayyumu",
         "translation": {
-          "en": "O Ever-living! O Self-subsistent!"
+          "en": "O Ever-living! O Self-subsistent!",
+          "fa": "ى زنده و اى پاینده"
         }
       },
       {
@@ -37381,7 +37417,8 @@
         "arabic": "اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "allahumma salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "O Allah, send blessings to Muhammad and the Household of Muhammad,"
+          "en": "O Allah, send blessings to Muhammad and the Household of Muhammad,",
+          "fa": "خدایا درود فرست بر محمد و آل محمد"
         }
       },
       {
@@ -41189,7 +41226,8 @@
         "arabic": "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ",
         "transliteration": "allahumma salli ala muhammadin wa ali muhammad",
         "translation": {
-          "en": "O' Allāh send Your blessings on Muhammad and the family of Muhammad."
+          "en": "O' Allāh send Your blessings on Muhammad and the family of Muhammad.",
+          "fa": "خدایا درود فرست بر محمد و آل محمد"
         }
       },
       {
@@ -42206,7 +42244,8 @@
         "arabic": "اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "allahumma salli ala muhammadin wa ali muhammad",
         "translation": {
-          "en": "O' Allāh send Your blessings on Muhammad and the family of Muhammad."
+          "en": "O' Allāh send Your blessings on Muhammad and the family of Muhammad.",
+          "fa": "خدایا درود فرست بر محمد و آل محمد"
         }
       }
     ],
@@ -45373,7 +45412,8 @@
         "arabic": "يَا حَيُّ يَا قَيُّومُ",
         "transliteration": "ya hayyu ya qayyumu",
         "translation": {
-          "en": "O Ever-living, O Self-subsisting,"
+          "en": "O Ever-living, O Self-subsisting,",
+          "fa": "ى زنده و اى پاینده"
         }
       },
       {
@@ -46966,7 +47006,8 @@
         "arabic": "اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "allahumma salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "O Allah, bless Muhammad and the Household of Muhammad"
+          "en": "O Allah, bless Muhammad and the Household of Muhammad",
+          "fa": "خدایا درود فرست بر محمد و آل محمد"
         }
       },
       {
@@ -47363,7 +47404,8 @@
         "arabic": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ",
         "transliteration": "bismillahir rahmanir raheem.",
         "translation": {
-          "en": "In the name of Allah, the Beneficent, the Merciful."
+          "en": "In the name of Allah, the Beneficent, the Merciful.",
+          "fa": "به نام خداى بخشاینده مهربان"
         }
       },
       {
@@ -49606,7 +49648,8 @@
         "arabic": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْم",
         "transliteration": "Bismillah",
         "translation": {
-          "en": "In the name of Allah, the Beneficent, the Merciful."
+          "en": "In the name of Allah, the Beneficent, the Merciful.",
+          "fa": "به نام خداى بخشاینده مهربان"
         }
       },
       {
@@ -49615,7 +49658,8 @@
         "arabic": "اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "Allhumsallealmuhadin wa ale muhammad",
         "translation": {
-          "en": "O Allah, (please do) send blessings to Muhammad and the Household of Muhammad,"
+          "en": "O Allah, (please do) send blessings to Muhammad and the Household of Muhammad,",
+          "fa": "خدایا درود فرست بر محمد و آل محمد"
         }
       },
       {
@@ -54075,7 +54119,8 @@
         "arabic": "يَا حَنَّانُ يَا مَنَّانُ",
         "transliteration": "ya hannanu ya mannanu",
         "translation": {
-          "en": "O All-compassionate! O Grantor (of graces)!"
+          "en": "O All-compassionate! O Grantor (of graces)!",
+          "fa": "اى پرعطا اى پرنعمت"
         }
       },
       {
@@ -54092,7 +54137,8 @@
         "arabic": "يَا حَيُّ يَا قَيُّومُ",
         "transliteration": "ya hayyu yaqayyumu",
         "translation": {
-          "en": "O Ever-living! O Self-Subsistent!"
+          "en": "O Ever-living! O Self-Subsistent!",
+          "fa": "ى زنده و اى پاینده"
         }
       },
       {
@@ -54160,7 +54206,8 @@
         "arabic": "اللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "allahumma salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "O Allah, bless Muhammad and the Household of Muhammad."
+          "en": "O Allah, bless Muhammad and the Household of Muhammad.",
+          "fa": "خدایا درود فرست بر محمد و آل محمد"
         }
       },
       {
@@ -54838,7 +54885,8 @@
         "arabic": "اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "allahumma salli ‘alaa muhammadin wa ali muhammad",
         "translation": {
-          "en": "O Allah bless Muhammad and his family"
+          "en": "O Allah bless Muhammad and his family",
+          "fa": "خدایا درود فرست بر محمد و آل محمد"
         }
       },
       {
@@ -62142,7 +62190,8 @@
         "arabic": "صَلِّ عَلى مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "’laa mohammadin wa ale muhammad",
         "translation": {
-          "en": "bless Mohammad and his holy progeny,"
+          "en": "bless Mohammad and his holy progeny,",
+          "fa": "بر محمّد و خاندان محمّد درود فرست"
         }
       },
       {
@@ -62187,7 +62236,8 @@
         "arabic": "أَسْتَغْفِرُ اللهَ وَأَتُوبُ إِلَيْهِ",
         "transliteration": "astaghferul laaha wa atoobo elayhe,",
         "translation": {
-          "en": "I seek Forgiveness from Allah, and turn towards Him,"
+          "en": "I seek Forgiveness from Allah, and turn towards Him,",
+          "fa": "از خدا آمرزش مى‌جویم و به‌سوی او می‌پویم."
         }
       },
       {
@@ -62259,7 +62309,8 @@
         "arabic": "أَسْتَغْفِرُ اللهَ وَأَتُوبُ إِلَيْهِ",
         "transliteration": "astaghferul laaha wa atoobo elayhe,",
         "translation": {
-          "en": "I seek forgiveness from Allah and return towards Him,"
+          "en": "I seek forgiveness from Allah and return towards Him,",
+          "fa": "از خدا آمرزش مى‌جویم و به‌سوی او می‌پویم."
         }
       },
       {
@@ -62376,7 +62427,8 @@
         "arabic": "يا أَرْحَمَ الرَّاحِمينَ",
         "transliteration": "yaa arhamar raahemeen.",
         "translation": {
-          "en": "O' the Most Merciful of all the Merciful."
+          "en": "O' the Most Merciful of all the Merciful.",
+          "fa": "اى مهربانترین مهربانان"
         }
       },
       {
@@ -62439,7 +62491,8 @@
         "arabic": "يا أَرْحَمَ الرَّاحِمينَ",
         "transliteration": "yaa arhamar raahemeen.",
         "translation": {
-          "en": "O' the Most Merciful of all the Merciful."
+          "en": "O' the Most Merciful of all the Merciful.",
+          "fa": "اى مهربانترین مهربانان"
         }
       },
       {
@@ -62574,7 +62627,8 @@
         "arabic": "يا أَرْحَمَ الرَّاحِمينَ",
         "transliteration": "yaa arhamar raahemeen.",
         "translation": {
-          "en": "O' the Most Merciful of all Merciful."
+          "en": "O' the Most Merciful of all Merciful.",
+          "fa": "اى مهربانترین مهربانان"
         }
       },
       {
@@ -62637,7 +62691,8 @@
         "arabic": "يا أَرْحَمَ الرَّاحِمينَ",
         "transliteration": "yaa arhamar raahemeen.",
         "translation": {
-          "en": "O' the Most Merciful of all Merciful."
+          "en": "O' the Most Merciful of all Merciful.",
+          "fa": "اى مهربانترین مهربانان"
         }
       },
       {
@@ -62727,7 +62782,8 @@
         "arabic": "يا أَرْحَمَ الرَّاحِمينَ",
         "transliteration": "yaa arhamar raahemeen.",
         "translation": {
-          "en": "O' the Most Merciful of all Merciful."
+          "en": "O' the Most Merciful of all Merciful.",
+          "fa": "اى مهربانترین مهربانان"
         }
       },
       {
@@ -62817,7 +62873,8 @@
         "arabic": "يا أَرْحَمَ الرَّاحِمينَ",
         "transliteration": "yaa arhamar raahemeen.",
         "translation": {
-          "en": "O' the Most Merciful of all Merciful."
+          "en": "O' the Most Merciful of all Merciful.",
+          "fa": "اى مهربانترین مهربانان"
         }
       },
       {
@@ -63060,7 +63117,8 @@
         "arabic": "يا أَرْحَمَ الرَّاحِمينَ",
         "transliteration": "yaa arhamar raahemeen.",
         "translation": {
-          "en": "O' the Most Merciful of all the Merciful."
+          "en": "O' the Most Merciful of all the Merciful.",
+          "fa": "اى مهربانترین مهربانان"
         }
       },
       {
@@ -64356,7 +64414,8 @@
         "arabic": "يا أَرْحَمَ الرَّاحِمينَ",
         "transliteration": "yaa arhamar raahemeen.",
         "translation": {
-          "en": "O' the Most Merciful of all the Merciful."
+          "en": "O' the Most Merciful of all the Merciful.",
+          "fa": "اى مهربانترین مهربانان"
         }
       },
       {
@@ -64725,7 +64784,8 @@
         "arabic": "يا حَيُّ يا قَيُّومُ",
         "transliteration": "O’ Ever-Living! O’ Self Subsistent!",
         "translation": {
-          "en": ""
+          "en": "",
+          "fa": "ى زنده و اى پاینده"
         }
       },
       {
@@ -64904,7 +64964,8 @@
         "arabic": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيم",
         "transliteration": "",
         "translation": {
-          "en": "In the Name of Allah, the Most Gracious, the Most Merciful"
+          "en": "In the Name of Allah, the Most Gracious, the Most Merciful",
+          "fa": "به نام خداى بخشاینده مهربان"
         }
       },
       {
@@ -67077,7 +67138,8 @@
         "arabic": "يا أرْحَمَ الرّاحِمينَ.",
         "transliteration": "ya arhama alrrahimina.",
         "translation": {
-          "en": "O the most Merciful of all those who show mercy;"
+          "en": "O the most Merciful of all those who show mercy;",
+          "fa": "ای مهربان‌ترین مهربانان."
         }
       },
       {
@@ -67347,7 +67409,8 @@
         "arabic": "صَلِّ عَلى مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "salli `ala muhammadin wali muhammadin",
         "translation": {
-          "en": "(please) send blessings upon Muhammad and the Household of Muhammad,"
+          "en": "(please) send blessings upon Muhammad and the Household of Muhammad,",
+          "fa": "بر محمّد و خاندان محمّد درود فرست"
         }
       },
       {
@@ -68262,7 +68325,8 @@
         "arabic": "بسم الله الرحمن الرحيم",
         "transliteration": "bismillahi alrrahmani alrrahimi",
         "translation": {
-          "en": "In the Name of Allah, the All-beneficent, the All-merciful."
+          "en": "In the Name of Allah, the All-beneficent, the All-merciful.",
+          "fa": "به نام خداى بخشاینده مهربان"
         }
       },
       {
@@ -69464,7 +69528,8 @@
         "arabic": "بسم الله الرحمن الرحيم",
         "transliteration": "bismillahi alrrahmani alrrahimi",
         "translation": {
-          "en": "In the Name of Allah, the All-beneficent, the All-merciful."
+          "en": "In the Name of Allah, the All-beneficent, the All-merciful.",
+          "fa": "به نام خداى بخشاینده مهربان"
         }
       },
       {
@@ -73706,7 +73771,8 @@
         "arabic": "اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "allahumma salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "O Allah, send blessings to Muhammad and the Household of Muhammad,"
+          "en": "O Allah, send blessings to Muhammad and the Household of Muhammad,",
+          "fa": "خدایا درود فرست بر محمد و آل محمد"
         }
       },
       {
@@ -75568,7 +75634,8 @@
         "arabic": "صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِهِ",
         "transliteration": "salli `ala muhammadin wa alihi",
         "translation": {
-          "en": "(please do) bless Muhammad and his Household,"
+          "en": "(please do) bless Muhammad and his Household,",
+          "fa": "درود فرست بر محمد و آلش"
         }
       },
       {
@@ -76350,7 +76417,8 @@
         "arabic": "اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "allahumma salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "O Allah, (please do) bless Muhammad and the Household of Muhammad."
+          "en": "O Allah, (please do) bless Muhammad and the Household of Muhammad.",
+          "fa": "خدایا درود فرست بر محمد و آل محمد"
         }
       },
       {
@@ -76780,7 +76848,8 @@
         "arabic": "اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
         "transliteration": "allahumma salli `ala muhammadin wa ali muhammadin",
         "translation": {
-          "en": "O Allah, (please do) bless Muhammad and the Household of Muhammad."
+          "en": "O Allah, (please do) bless Muhammad and the Household of Muhammad.",
+          "fa": "خدایا درود فرست بر محمد و آل محمد"
         }
       },
       {
@@ -78201,7 +78270,8 @@
         "arabic": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِیْمِ",
         "transliteration": "",
         "translation": {
-          "en": "In the Name of Allah the most beneficent & the most merciful"
+          "en": "In the Name of Allah the most beneficent & the most merciful",
+          "fa": "به نام خداى بخشاینده مهربان"
         }
       },
       {

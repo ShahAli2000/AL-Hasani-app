@@ -469,7 +469,8 @@
         "arabic": "يا أَرْحَمَ الرَّاحِمِينَ.",
         "transliteration": "yaaa ar-h'amar-raah'imeen",
         "translation": {
-          "en": "O Most Merciful of the merciful"
+          "en": "O Most Merciful of the merciful",
+          "fa": "ای مهربان‌ترین مهربانان."
         }
       }
     ],
@@ -756,7 +757,8 @@
         "arabic": "يَا حَنَّانُ يَا مَنَّانُ",
         "transliteration": "ya hannanu ya mannanu",
         "translation": {
-          "en": "O All-loving, O All-kind!"
+          "en": "O All-loving, O All-kind!",
+          "fa": "اى پرعطا اى پرنعمت"
         }
       },
       {

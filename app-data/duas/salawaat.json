@@ -659,7 +659,8 @@
         "arabic": "اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَأَهْلِ بَيْتِهِ",
         "transliteration": "allahumma salli `ala muhammadin wa ahli baytihi",
         "translation": {
-          "en": "O Allah, send blessings to Muhammad and his Household,"
+          "en": "O Allah, send blessings to Muhammad and his Household,",
+          "fa": "خدایا درود فرست بر محمد و خاندانش"
         }
       },
       {
