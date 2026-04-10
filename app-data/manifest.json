@@ -1,11 +1,11 @@
 {
-  "version": "2026-04-10T20:35:32.516Z",
+  "version": "2026-04-10T20:46:50.540Z",
   "files": {
     "duas_index.json": "041a8c94acddb9db",
     "dua_audio.json": "ecf4fdcdea6c31fd",
     "dua_reciters.json": "c2b1a2c1dde3646f",
     "dua_audio_timestamps.json": "475aae56f6adde97",
-    "dua_mafatih_map.json": "89d86064ae618a91",
+    "dua_mafatih_map.json": "7c01fec863cae4f3",
     "duas/major.json": "4d951211cb9929b0",
     "duas/special_needs.json": "6d3ea1ef6a587615",
     "duas/weekday.json": "e66e1472d95e3f5c",
@@ -23,7 +23,7 @@
     "library_books.json": "7c50d8fe5026a15c",
     "quran_wbw_audio.json": "52453fccac81780e",
     "quran_reciters.json": "21f228f2b791cd8e",
-    "today_mafatih.json": "1bd9186ff93f0ed1",
+    "today_mafatih.json": "19b5a32170f475df",
     "islamic_events.json": "74e6eec3982bcb55",
     "holy_places.json": "677bd92b36fd3cd8",
     "hadith_collection.json": "4926682bf0d2914f"

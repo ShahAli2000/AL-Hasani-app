@@ -22,6 +22,17 @@
     "category": "weekday"
   },
   {
+    "duaId": "practical-sunset",
+    "name": "Sunset",
+    "nameAr": "",
+    "weekday": 1,
+    "hijriMonth": null,
+    "hijriDay": 1,
+    "timeOfDay": "night",
+    "priority": 2,
+    "category": "practical"
+  },
+  {
     "duaId": "prayer-on-saturday",
     "name": "Prayer on Saturday",
     "nameAr": "صلاة يوم السبت",
@@ -31,6 +42,17 @@
     "timeOfDay": "day",
     "priority": 3,
     "category": "weekday"
+  },
+  {
+    "duaId": "practical-first-hour-of-the-day",
+    "name": "First hour of the day",
+    "nameAr": "",
+    "weekday": 1,
+    "hijriMonth": null,
+    "hijriDay": 1,
+    "timeOfDay": "day",
+    "priority": 3,
+    "category": "practical"
   },
   {
     "duaId": "dua-of-sunday",
@@ -44,6 +66,17 @@
     "category": "weekday"
   },
   {
+    "duaId": "practical-third-hour-of-the-day",
+    "name": "Third hour of the day",
+    "nameAr": "",
+    "weekday": 2,
+    "hijriMonth": null,
+    "hijriDay": 2,
+    "timeOfDay": "night",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "ziyarat-of-imam-ali-as-on-sunday",
     "name": "Ziyarat Of Imam Ali (as) on Sunday",
     "nameAr": "زيارة أَميرِ المُؤمِنين (ع) في یوم الأحد",
@@ -53,6 +86,17 @@
     "timeOfDay": "night",
     "priority": 2,
     "category": "weekday"
+  },
+  {
+    "duaId": "practical-fourth-hour-of-the-day",
+    "name": "Fourth hour of the day",
+    "nameAr": "",
+    "weekday": 2,
+    "hijriMonth": null,
+    "hijriDay": 2,
+    "timeOfDay": "night",
+    "priority": 2,
+    "category": "practical"
   },
   {
     "duaId": "ziyarat-syeda-fatimasa-on-sunday",
@@ -66,6 +110,17 @@
     "category": "weekday"
   },
   {
+    "duaId": "practical-fifth-hour-of-the-day",
+    "name": "Fifth hour of the day",
+    "nameAr": "",
+    "weekday": 2,
+    "hijriMonth": null,
+    "hijriDay": 2,
+    "timeOfDay": "night",
+    "priority": 3,
+    "category": "practical"
+  },
+  {
     "duaId": "prayer-of-sunday",
     "name": "Prayer of Sunday",
     "nameAr": "صلاة يوم الأحد",
@@ -75,6 +130,17 @@
     "timeOfDay": "day",
     "priority": 3,
     "category": "weekday"
+  },
+  {
+    "duaId": "practical-seventh-hour-of-the-day",
+    "name": "Seventh hour of the day",
+    "nameAr": "",
+    "weekday": 2,
+    "hijriMonth": null,
+    "hijriDay": 2,
+    "timeOfDay": "day",
+    "priority": 3,
+    "category": "practical"
   },
   {
     "duaId": "dua-of-monday",
@@ -88,6 +154,17 @@
     "category": "weekday"
   },
   {
+    "duaId": "practical-ninth-hour-of-the-day",
+    "name": "Ninth hour of the day",
+    "nameAr": "",
+    "weekday": 3,
+    "hijriMonth": null,
+    "hijriDay": 3,
+    "timeOfDay": "night",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "ziyarat-of-imam-hassan-as-on-monday",
     "name": "Ziyarat Of Imam Hassan (as) on Monday",
     "nameAr": "زِيارة الإمام الحَسَنِ (ع) في یوم الإثنین",
@@ -97,6 +174,17 @@
     "timeOfDay": "night",
     "priority": 2,
     "category": "weekday"
+  },
+  {
+    "duaId": "practical-tenth-hour-of-the-day",
+    "name": "Tenth hour of the day",
+    "nameAr": "",
+    "weekday": 3,
+    "hijriMonth": null,
+    "hijriDay": 3,
+    "timeOfDay": "night",
+    "priority": 2,
+    "category": "practical"
   },
   {
     "duaId": "ziyarat-imam-hussain-as-on-monday",
@@ -110,6 +198,17 @@
     "category": "weekday"
   },
   {
+    "duaId": "practical-eleventh-hour-of-the-day",
+    "name": "Eleventh hour of the day",
+    "nameAr": "",
+    "weekday": 3,
+    "hijriMonth": null,
+    "hijriDay": 3,
+    "timeOfDay": "night",
+    "priority": 3,
+    "category": "practical"
+  },
+  {
     "duaId": "prayer-on-monday",
     "name": "Prayer on Monday",
     "nameAr": "صلاة يوم الاثنين",
@@ -119,6 +218,17 @@
     "timeOfDay": "day",
     "priority": 4,
     "category": "weekday"
+  },
+  {
+    "duaId": "practical-twelfth-hour-of-the-day",
+    "name": "Twelfth hour of the day",
+    "nameAr": "",
+    "weekday": 3,
+    "hijriMonth": null,
+    "hijriDay": 3,
+    "timeOfDay": "day",
+    "priority": 4,
+    "category": "practical"
   },
   {
     "duaId": "dua-of-tuesday",
@@ -132,6 +242,17 @@
     "category": "weekday"
   },
   {
+    "duaId": "practical-1-morning",
+    "name": "1. morning",
+    "nameAr": "",
+    "weekday": 4,
+    "hijriMonth": null,
+    "hijriDay": 4,
+    "timeOfDay": "night",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "ziyarat-of-three-imams-on-tuesday",
     "name": "Ziyarat of three Imams on Tuesday",
     "nameAr": "زیارة ثلاثة من الائمة (ع) في یوم الثلاثاء",
@@ -141,6 +262,17 @@
     "timeOfDay": "night",
     "priority": 2,
     "category": "weekday"
+  },
+  {
+    "duaId": "practical-2-morning",
+    "name": "2. morning",
+    "nameAr": "",
+    "weekday": 4,
+    "hijriMonth": null,
+    "hijriDay": 4,
+    "timeOfDay": "night",
+    "priority": 2,
+    "category": "practical"
   },
   {
     "duaId": "prayer-of-tuesday",
@@ -163,6 +295,17 @@
     "timeOfDay": "night",
     "priority": 1,
     "category": "weekday"
+  },
+  {
+    "duaId": "practical-sahifa-sajjadia-dua-no-13-for-seeking-needs",
+    "name": "Sahifa Sajjadia dua no 13 for seeking needs",
+    "nameAr": "",
+    "weekday": 5,
+    "hijriMonth": null,
+    "hijriDay": 5,
+    "timeOfDay": "night",
+    "priority": 1,
+    "category": "practical"
   },
   {
     "duaId": "ziyarat-of-four-imams-on-wednesday",
@@ -374,6 +517,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-tasbih-of-fatima-zehra-sa",
+    "name": "Tasbih of Fatima Zehra (sa)",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 7,
+    "hijriDay": null,
+    "timeOfDay": "after_sunset",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "dua-yaman-arjohu",
     "name": "Dua Yaman Arjohu",
     "nameAr": "دعاء یا من أرجو بعد الصلوات الفریضة",
@@ -383,6 +537,17 @@
     "timeOfDay": "all_day",
     "priority": 2,
     "category": "aamal"
+  },
+  {
+    "duaId": "practical-rizq-dua-by-imam-ali-as",
+    "name": "Rizq Dua by Imam Ali (a.s)",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 7,
+    "hijriDay": null,
+    "timeOfDay": "all_day",
+    "priority": 2,
+    "category": "practical"
   },
   {
     "duaId": "dua-yaman-arjohu",
@@ -396,6 +561,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-rizq-dua-by-imam-ali-as",
+    "name": "Rizq Dua by Imam Ali (a.s)",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 7,
+    "hijriDay": null,
+    "timeOfDay": "sahar",
+    "priority": 2,
+    "category": "practical"
+  },
+  {
     "duaId": "dua-yaman-arjohu",
     "name": "Dua Yaman Arjohu",
     "nameAr": "دعاء یا من أرجو بعد الصلوات الفریضة",
@@ -405,6 +581,17 @@
     "timeOfDay": "between_prayers",
     "priority": 2,
     "category": "aamal"
+  },
+  {
+    "duaId": "practical-rizq-dua-by-imam-ali-as",
+    "name": "Rizq Dua by Imam Ali (a.s)",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 7,
+    "hijriDay": null,
+    "timeOfDay": "between_prayers",
+    "priority": 2,
+    "category": "practical"
   },
   {
     "duaId": "1st-night-of-rajab",
@@ -550,6 +737,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-verse-19-of-surah-ash-shura",
+    "name": "Verse 19 of Surah Ash-Shura",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 8,
+    "hijriDay": 30,
+    "timeOfDay": "specific_day",
+    "priority": 2,
+    "category": "practical"
+  },
+  {
     "duaId": "general-duas-for-the-days-nights",
     "name": "General Duas for the Days & Nights",
     "nameAr": "الأدعیة العامة للیالي و الأیام",
@@ -561,6 +759,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-verse-37-of-surah-al-imran",
+    "name": "Verse 37 of Surah Al Imran",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 9,
+    "hijriDay": null,
+    "timeOfDay": "all_day",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "general-duas-for-the-days-nights",
     "name": "General Duas for the Days & Nights",
     "nameAr": "الأدعیة العامة للیالي و الأیام",
@@ -570,6 +779,17 @@
     "timeOfDay": "sahar",
     "priority": 1,
     "category": "aamal"
+  },
+  {
+    "duaId": "practical-verse-37-of-surah-al-imran",
+    "name": "Verse 37 of Surah Al Imran",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 9,
+    "hijriDay": null,
+    "timeOfDay": "sahar",
+    "priority": 1,
+    "category": "practical"
   },
   {
     "duaId": "general-duas-for-the-days-nights",
@@ -583,6 +803,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-verse-37-of-surah-al-imran",
+    "name": "Verse 37 of Surah Al Imran",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 9,
+    "hijriDay": null,
+    "timeOfDay": "between_prayers",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "iftar-etiquette",
     "name": "Iftar Etiquette",
     "nameAr": "اعمال في وقت الإفطار",
@@ -594,6 +825,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-7-dua-for-sustenance",
+    "name": "7. Dua for Sustenance",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 9,
+    "hijriDay": null,
+    "timeOfDay": "sahar",
+    "priority": 2,
+    "category": "practical"
+  },
+  {
     "duaId": "aamal-for-every-night",
     "name": "Aamal For every  Night",
     "nameAr": "الأعمال لکل لیلة",
@@ -603,6 +845,17 @@
     "timeOfDay": "specific_day",
     "priority": 3,
     "category": "aamal"
+  },
+  {
+    "duaId": "practical-other-verses-for-sustenance",
+    "name": "Other verses for sustenance",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 9,
+    "hijriDay": null,
+    "timeOfDay": "specific_day",
+    "priority": 3,
+    "category": "practical"
   },
   {
     "duaId": "the-1st-night-of-ramadan",
@@ -638,6 +891,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-salat-of-isteghfar",
+    "name": "Salat of Isteghfar",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 9,
+    "hijriDay": 6,
+    "timeOfDay": "day",
+    "priority": 2,
+    "category": "practical"
+  },
+  {
     "duaId": "the-13th-and-14th-night-of-ramadan",
     "name": "The 13th and 14th Night of ramadan",
     "nameAr": "اللیلة 13 و 14 من رمضان",
@@ -660,6 +924,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-8-dua-for-sustenance",
+    "name": "8. Dua for Sustenance",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 9,
+    "hijriDay": 12,
+    "timeOfDay": "specific_day",
+    "priority": 2,
+    "category": "practical"
+  },
+  {
     "duaId": "the-15th-night-of-ramadan",
     "name": "The 15th Night of ramadan",
     "nameAr": "لیلة 15 من رمضان",
@@ -669,6 +944,17 @@
     "timeOfDay": "specific_day",
     "priority": 2,
     "category": "aamal"
+  },
+  {
+    "duaId": "practical-supplication-when-sick",
+    "name": "Supplication when sick",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 9,
+    "hijriDay": 14,
+    "timeOfDay": "specific_day",
+    "priority": 2,
+    "category": "practical"
   },
   {
     "duaId": "salats-for-the-nights-of-ramadan",
@@ -737,6 +1023,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-6-dua-for-healing",
+    "name": "6. Dua for Healing",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 9,
+    "hijriDay": null,
+    "timeOfDay": "night",
+    "priority": 7,
+    "category": "practical"
+  },
+  {
     "duaId": "aamal-e-sahar",
     "name": "Aamal-e-Sahar",
     "nameAr": "اعمال السحر",
@@ -779,6 +1076,17 @@
     "timeOfDay": "specific_day",
     "priority": 9,
     "category": "aamal"
+  },
+  {
+    "duaId": "practical-dua-amulet-against-deafness",
+    "name": "Dua Amulet against Deafness",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 9,
+    "hijriDay": null,
+    "timeOfDay": "specific_day",
+    "priority": 9,
+    "category": "practical"
   },
   {
     "duaId": "dua-mujeer",
@@ -924,6 +1232,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-7-dua-for-healing",
+    "name": "7. Dua for Healing",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 9,
+    "hijriDay": 20,
+    "timeOfDay": "specific_day",
+    "priority": 2,
+    "category": "practical"
+  },
+  {
     "duaId": "21st-night-of-ramadan",
     "name": "21st Night of ramadan",
     "nameAr": "اللیلة  21 من رمضان",
@@ -933,6 +1252,17 @@
     "timeOfDay": "iftaar",
     "priority": 2,
     "category": "aamal"
+  },
+  {
+    "duaId": "practical-7-dua-for-healing",
+    "name": "7. Dua for Healing",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 9,
+    "hijriDay": 21,
+    "timeOfDay": "iftaar",
+    "priority": 2,
+    "category": "practical"
   },
   {
     "duaId": "23rd-night-of-ramadan",
@@ -946,6 +1276,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-8-dua-for-healing",
+    "name": "8. Dua for Healing",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 9,
+    "hijriDay": 22,
+    "timeOfDay": "specific_day",
+    "priority": 2,
+    "category": "practical"
+  },
+  {
     "duaId": "23rd-night-of-ramadan",
     "name": "23rd Night of ramadan",
     "nameAr": "الليلة 23 من رمضان",
@@ -955,6 +1296,28 @@
     "timeOfDay": "iftaar",
     "priority": 2,
     "category": "aamal"
+  },
+  {
+    "duaId": "practical-8-dua-for-healing",
+    "name": "8. Dua for Healing",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 9,
+    "hijriDay": 23,
+    "timeOfDay": "iftaar",
+    "priority": 2,
+    "category": "practical"
+  },
+  {
+    "duaId": "practical-1-dua-for-toothache",
+    "name": "1. Dua for Toothache",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 9,
+    "hijriDay": 30,
+    "timeOfDay": "specific_day",
+    "priority": 1,
+    "category": "practical"
   },
   {
     "duaId": "aamaltakbeer",
@@ -1001,6 +1364,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-2-dua-for-toothache",
+    "name": "2. Dua for Toothache",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 10,
+    "hijriDay": 1,
+    "timeOfDay": "eid",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "salat-al-eid-fitr",
     "name": "Salat al Eid Fitr",
     "nameAr": "صلاة العید الفطر",
@@ -1010,6 +1384,17 @@
     "timeOfDay": "eid",
     "priority": 2,
     "category": "aamal"
+  },
+  {
+    "duaId": "practical-3-dua-for-toothache",
+    "name": "3. Dua for Toothache",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 10,
+    "hijriDay": 1,
+    "timeOfDay": "eid",
+    "priority": 2,
+    "category": "practical"
   },
   {
     "duaId": "sundays-dhul-qadah-salat",
@@ -1023,6 +1408,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-dua-for-cough-relief",
+    "name": "Dua for cough relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 11,
+    "hijriDay": 2,
+    "timeOfDay": "night",
+    "priority": 2,
+    "category": "practical"
+  },
+  {
     "duaId": "25th-of-dhul-qadah-day-dahwul-ardh",
     "name": "25th of dhul-qa'dah: Day Dahwul Ardh",
     "nameAr": " ٢٥من ذی القعدة؛ یوم دحو الأرض",
@@ -1032,6 +1428,17 @@
     "timeOfDay": "specific_night",
     "priority": 2,
     "category": "aamal"
+  },
+  {
+    "duaId": "practical-dua-for-the-removal-of-warts",
+    "name": "Dua for the removal of warts",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 11,
+    "hijriDay": 24,
+    "timeOfDay": "specific_night",
+    "priority": 2,
+    "category": "practical"
   },
   {
     "duaId": "25th-of-dhul-qadah-day-dahwul-ardh",
@@ -1045,6 +1452,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-dua-for-the-removal-of-warts",
+    "name": "Dua for the removal of warts",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 11,
+    "hijriDay": 25,
+    "timeOfDay": "laylat_al_qadr",
+    "priority": 2,
+    "category": "practical"
+  },
+  {
     "duaId": "1st-day-of-dhul-hijjah",
     "name": "1st Day of dhul-hijjah",
     "nameAr": "الیوم 1 من ذی الحجة",
@@ -1054,6 +1472,17 @@
     "timeOfDay": "specific_night",
     "priority": 1,
     "category": "aamal"
+  },
+  {
+    "duaId": "practical-dua-amulet-for-epilepsy-relief",
+    "name": "Dua Amulet for Epilepsy relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 1,
+    "timeOfDay": "specific_night",
+    "priority": 1,
+    "category": "practical"
   },
   {
     "duaId": "1st-day-of-dhul-hijjah",
@@ -1067,6 +1496,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-dua-amulet-for-epilepsy-relief",
+    "name": "Dua Amulet for Epilepsy relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 1,
+    "timeOfDay": "laylat_al_qadr",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "dua-after-fajrmagrib",
     "name": "Dua after Fajr/Magrib",
     "nameAr": "دعاء بعد الفجر/المغرب",
@@ -1078,6 +1518,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-dua-amulet-for-stomach-gurgling-relief",
+    "name": "Dua Amulet for stomach gurgling relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 1,
+    "timeOfDay": "between_prayers",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "dua-after-fajrmagrib",
     "name": "Dua after Fajr/Magrib",
     "nameAr": "دعاء بعد الفجر/المغرب",
@@ -1087,6 +1538,17 @@
     "timeOfDay": "all_day",
     "priority": 1,
     "category": "aamal"
+  },
+  {
+    "duaId": "practical-dua-amulet-for-stomach-gurgling-relief",
+    "name": "Dua Amulet for stomach gurgling relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 1,
+    "timeOfDay": "all_day",
+    "priority": 1,
+    "category": "practical"
   },
   {
     "duaId": "dua-after-fajrmagrib",
@@ -1100,6 +1562,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-dua-amulet-for-stomach-gurgling-relief",
+    "name": "Dua Amulet for stomach gurgling relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 2,
+    "timeOfDay": "between_prayers",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "dua-after-fajrmagrib",
     "name": "Dua after Fajr/Magrib",
     "nameAr": "دعاء بعد الفجر/المغرب",
@@ -1111,6 +1584,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-dua-amulet-for-stomach-gurgling-relief",
+    "name": "Dua Amulet for stomach gurgling relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 2,
+    "timeOfDay": "all_day",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "dua-after-fajrmagrib",
     "name": "Dua after Fajr/Magrib",
     "nameAr": "دعاء بعد الفجر/المغرب",
@@ -1122,6 +1606,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-dua-amulet-for-stomach-gurgling-relief",
+    "name": "Dua Amulet for stomach gurgling relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 3,
+    "timeOfDay": "between_prayers",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "dua-after-fajrmagrib",
     "name": "Dua after Fajr/Magrib",
     "nameAr": "دعاء بعد الفجر/المغرب",
@@ -1131,6 +1626,17 @@
     "timeOfDay": "all_day",
     "priority": 1,
     "category": "aamal"
+  },
+  {
+    "duaId": "practical-dua-amulet-for-stomach-gurgling-relief",
+    "name": "Dua Amulet for stomach gurgling relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 3,
+    "timeOfDay": "all_day",
+    "priority": 1,
+    "category": "practical"
   },
   {
     "duaId": "dua-after-fajrmagrib",
@@ -1144,6 +1650,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-dua-amulet-for-stomach-gurgling-relief",
+    "name": "Dua Amulet for stomach gurgling relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 4,
+    "timeOfDay": "between_prayers",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "dua-after-fajrmagrib",
     "name": "Dua after Fajr/Magrib",
     "nameAr": "دعاء بعد الفجر/المغرب",
@@ -1155,6 +1672,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-dua-amulet-for-stomach-gurgling-relief",
+    "name": "Dua Amulet for stomach gurgling relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 4,
+    "timeOfDay": "all_day",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "dua-after-fajrmagrib",
     "name": "Dua after Fajr/Magrib",
     "nameAr": "دعاء بعد الفجر/المغرب",
@@ -1166,6 +1694,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-dua-amulet-for-stomach-gurgling-relief",
+    "name": "Dua Amulet for stomach gurgling relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 5,
+    "timeOfDay": "between_prayers",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "dua-after-fajrmagrib",
     "name": "Dua after Fajr/Magrib",
     "nameAr": "دعاء بعد الفجر/المغرب",
@@ -1175,6 +1714,17 @@
     "timeOfDay": "all_day",
     "priority": 1,
     "category": "aamal"
+  },
+  {
+    "duaId": "practical-dua-amulet-for-stomach-gurgling-relief",
+    "name": "Dua Amulet for stomach gurgling relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 5,
+    "timeOfDay": "all_day",
+    "priority": 1,
+    "category": "practical"
   },
   {
     "duaId": "dua-after-fajrmagrib",
@@ -1188,6 +1738,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-dua-amulet-for-stomach-gurgling-relief",
+    "name": "Dua Amulet for stomach gurgling relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 6,
+    "timeOfDay": "between_prayers",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "dua-after-fajrmagrib",
     "name": "Dua after Fajr/Magrib",
     "nameAr": "دعاء بعد الفجر/المغرب",
@@ -1199,6 +1760,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-dua-amulet-for-stomach-gurgling-relief",
+    "name": "Dua Amulet for stomach gurgling relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 6,
+    "timeOfDay": "all_day",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "dua-after-fajrmagrib",
     "name": "Dua after Fajr/Magrib",
     "nameAr": "دعاء بعد الفجر/المغرب",
@@ -1210,6 +1782,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-dua-amulet-for-stomach-gurgling-relief",
+    "name": "Dua Amulet for stomach gurgling relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 7,
+    "timeOfDay": "between_prayers",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "dua-after-fajrmagrib",
     "name": "Dua after Fajr/Magrib",
     "nameAr": "دعاء بعد الفجر/المغرب",
@@ -1219,6 +1802,17 @@
     "timeOfDay": "all_day",
     "priority": 1,
     "category": "aamal"
+  },
+  {
+    "duaId": "practical-dua-amulet-for-stomach-gurgling-relief",
+    "name": "Dua Amulet for stomach gurgling relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 7,
+    "timeOfDay": "all_day",
+    "priority": 1,
+    "category": "practical"
   },
   {
     "duaId": "dua-after-fajrmagrib",
@@ -1232,6 +1826,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-dua-amulet-for-stomach-gurgling-relief",
+    "name": "Dua Amulet for stomach gurgling relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 8,
+    "timeOfDay": "between_prayers",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "dua-after-fajrmagrib",
     "name": "Dua after Fajr/Magrib",
     "nameAr": "دعاء بعد الفجر/المغرب",
@@ -1241,6 +1846,17 @@
     "timeOfDay": "all_day",
     "priority": 1,
     "category": "aamal"
+  },
+  {
+    "duaId": "practical-dua-amulet-for-stomach-gurgling-relief",
+    "name": "Dua Amulet for stomach gurgling relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 8,
+    "timeOfDay": "all_day",
+    "priority": 1,
+    "category": "practical"
   },
   {
     "duaId": "dua-after-fajrmagrib",
@@ -1254,6 +1870,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-dua-amulet-for-stomach-gurgling-relief",
+    "name": "Dua Amulet for stomach gurgling relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 9,
+    "timeOfDay": "between_prayers",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "dua-after-fajrmagrib",
     "name": "Dua after Fajr/Magrib",
     "nameAr": "دعاء بعد الفجر/المغرب",
@@ -1263,6 +1890,17 @@
     "timeOfDay": "all_day",
     "priority": 1,
     "category": "aamal"
+  },
+  {
+    "duaId": "practical-dua-amulet-for-stomach-gurgling-relief",
+    "name": "Dua Amulet for stomach gurgling relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 9,
+    "timeOfDay": "all_day",
+    "priority": 1,
+    "category": "practical"
   },
   {
     "duaId": "salah-between-magrib-isha",
@@ -1276,6 +1914,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-8-duas-amulet-for-fever-relief",
+    "name": "8 Duas Amulet for Fever relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 11,
+    "hijriDay": 30,
+    "timeOfDay": "sahar",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "salah-between-magrib-isha",
     "name": "Salah between Magrib-Isha",
     "nameAr": "صلاة بین المغرب و العشاء في العشر الأولی من ذي الحجة",
@@ -1285,6 +1934,17 @@
     "timeOfDay": "sahar",
     "priority": 1,
     "category": "aamal"
+  },
+  {
+    "duaId": "practical-8-duas-amulet-for-fever-relief",
+    "name": "8 Duas Amulet for Fever relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 1,
+    "timeOfDay": "sahar",
+    "priority": 1,
+    "category": "practical"
   },
   {
     "duaId": "salah-between-magrib-isha",
@@ -1298,6 +1958,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-8-duas-amulet-for-fever-relief",
+    "name": "8 Duas Amulet for Fever relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 2,
+    "timeOfDay": "sahar",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "salah-between-magrib-isha",
     "name": "Salah between Magrib-Isha",
     "nameAr": "صلاة بین المغرب و العشاء في العشر الأولی من ذي الحجة",
@@ -1307,6 +1978,17 @@
     "timeOfDay": "sahar",
     "priority": 1,
     "category": "aamal"
+  },
+  {
+    "duaId": "practical-8-duas-amulet-for-fever-relief",
+    "name": "8 Duas Amulet for Fever relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 3,
+    "timeOfDay": "sahar",
+    "priority": 1,
+    "category": "practical"
   },
   {
     "duaId": "salah-between-magrib-isha",
@@ -1320,6 +2002,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-8-duas-amulet-for-fever-relief",
+    "name": "8 Duas Amulet for Fever relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 4,
+    "timeOfDay": "sahar",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "salah-between-magrib-isha",
     "name": "Salah between Magrib-Isha",
     "nameAr": "صلاة بین المغرب و العشاء في العشر الأولی من ذي الحجة",
@@ -1329,6 +2022,17 @@
     "timeOfDay": "sahar",
     "priority": 1,
     "category": "aamal"
+  },
+  {
+    "duaId": "practical-8-duas-amulet-for-fever-relief",
+    "name": "8 Duas Amulet for Fever relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 5,
+    "timeOfDay": "sahar",
+    "priority": 1,
+    "category": "practical"
   },
   {
     "duaId": "salah-between-magrib-isha",
@@ -1342,6 +2046,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-8-duas-amulet-for-fever-relief",
+    "name": "8 Duas Amulet for Fever relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 6,
+    "timeOfDay": "sahar",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "salah-between-magrib-isha",
     "name": "Salah between Magrib-Isha",
     "nameAr": "صلاة بین المغرب و العشاء في العشر الأولی من ذي الحجة",
@@ -1351,6 +2066,17 @@
     "timeOfDay": "sahar",
     "priority": 1,
     "category": "aamal"
+  },
+  {
+    "duaId": "practical-8-duas-amulet-for-fever-relief",
+    "name": "8 Duas Amulet for Fever relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 7,
+    "timeOfDay": "sahar",
+    "priority": 1,
+    "category": "practical"
   },
   {
     "duaId": "salah-between-magrib-isha",
@@ -1364,6 +2090,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-8-duas-amulet-for-fever-relief",
+    "name": "8 Duas Amulet for Fever relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 8,
+    "timeOfDay": "sahar",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "salah-between-magrib-isha",
     "name": "Salah between Magrib-Isha",
     "nameAr": "صلاة بین المغرب و العشاء في العشر الأولی من ذي الحجة",
@@ -1373,6 +2110,17 @@
     "timeOfDay": "sahar",
     "priority": 1,
     "category": "aamal"
+  },
+  {
+    "duaId": "practical-8-duas-amulet-for-fever-relief",
+    "name": "8 Duas Amulet for Fever relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 9,
+    "timeOfDay": "sahar",
+    "priority": 1,
+    "category": "practical"
   },
   {
     "duaId": "9th-night-dhul-hijjah-arafah-night",
@@ -1386,6 +2134,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-compulsive-disorders",
+    "name": "compulsive disorders",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 8,
+    "timeOfDay": "specific_day",
+    "priority": 2,
+    "category": "practical"
+  },
+  {
     "duaId": "9th-day-dhul-hijjah-arafah-day",
     "name": "9th Day dhul-hijjah (Arafah Day)",
     "nameAr": "الیوم 9  من ذی الحجة (یوم عرفة)",
@@ -1397,6 +2156,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-before-going-to-sleep",
+    "name": "before going to sleep",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 9,
+    "timeOfDay": "night",
+    "priority": 2,
+    "category": "practical"
+  },
+  {
     "duaId": "dua-arafah",
     "name": "Dua Arafah",
     "nameAr": "دعاء عرفة",
@@ -1406,6 +2176,17 @@
     "timeOfDay": "night",
     "priority": 3,
     "category": "aamal"
+  },
+  {
+    "duaId": "practical-1-at-bedtime-and-at-waking",
+    "name": "1. at bedtime and at waking",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 9,
+    "timeOfDay": "night",
+    "priority": 3,
+    "category": "practical"
   },
   {
     "duaId": "10th-night-of-dhul-hajjah",
@@ -1428,6 +2209,50 @@
     "timeOfDay": "day",
     "priority": 2,
     "category": "aamal"
+  },
+  {
+    "duaId": "practical-2-at-bedtime-and-at-waking",
+    "name": "2. at bedtime and at waking",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 9,
+    "timeOfDay": "specific_day",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
+    "duaId": "practical-2-at-bedtime-and-at-waking",
+    "name": "2. at bedtime and at waking",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 10,
+    "timeOfDay": "day",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
+    "duaId": "practical-3-at-bedtime-and-at-waking",
+    "name": "3. at bedtime and at waking",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 17,
+    "timeOfDay": "specific_day",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
+    "duaId": "practical-3-at-bedtime-and-at-waking",
+    "name": "3. at bedtime and at waking",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 18,
+    "timeOfDay": "night",
+    "priority": 1,
+    "category": "practical"
   },
   {
     "duaId": "18th-dhul-hijjah-eid-ghadeer",
@@ -1463,6 +2288,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-4-at-bedtime-and-at-waking",
+    "name": "4. at bedtime and at waking",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 23,
+    "timeOfDay": "specific_night",
+    "priority": 2,
+    "category": "practical"
+  },
+  {
     "duaId": "24th-dhul-hijjah-day-of-mubahelah",
     "name": "24th dhul-hijjah Day of Mubahelah",
     "nameAr": "الیوم 24 من ذی الحجة (یوم المباهلة)",
@@ -1474,6 +2310,17 @@
     "category": "aamal"
   },
   {
+    "duaId": "practical-4-at-bedtime-and-at-waking",
+    "name": "4. at bedtime and at waking",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 24,
+    "timeOfDay": "night",
+    "priority": 2,
+    "category": "practical"
+  },
+  {
     "duaId": "last-day-of-dhul-hijjah",
     "name": "Last Day of dhul-hijjah",
     "nameAr": "الیوم الأخیر من ذی الحجة",
@@ -1483,6 +2330,17 @@
     "timeOfDay": "night",
     "priority": 2,
     "category": "aamal"
+  },
+  {
+    "duaId": "practical-6-at-bedtime-and-at-waking",
+    "name": "6. at bedtime and at waking",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 12,
+    "hijriDay": 30,
+    "timeOfDay": "night",
+    "priority": 2,
+    "category": "practical"
   },
   {
     "duaId": "1st-night-of-muharram",
@@ -1650,6 +2508,17 @@
     "category": "weekday"
   },
   {
+    "duaId": "practical-sunset",
+    "name": "Sunset",
+    "nameAr": "",
+    "weekday": 1,
+    "hijriMonth": null,
+    "hijriDay": 1,
+    "timeOfDay": "all_day",
+    "priority": 2,
+    "category": "practical"
+  },
+  {
     "duaId": "dua-of-sunday",
     "name": "Dua of sunday",
     "nameAr": "دعاء یوم الأحد",
@@ -1659,6 +2528,17 @@
     "timeOfDay": "all_day",
     "priority": 1,
     "category": "weekday"
+  },
+  {
+    "duaId": "practical-third-hour-of-the-day",
+    "name": "Third hour of the day",
+    "nameAr": "",
+    "weekday": 2,
+    "hijriMonth": null,
+    "hijriDay": 2,
+    "timeOfDay": "all_day",
+    "priority": 1,
+    "category": "practical"
   },
   {
     "duaId": "ziyarat-of-imam-ali-as-on-sunday",
@@ -1672,6 +2552,17 @@
     "category": "weekday"
   },
   {
+    "duaId": "practical-fourth-hour-of-the-day",
+    "name": "Fourth hour of the day",
+    "nameAr": "",
+    "weekday": 2,
+    "hijriMonth": null,
+    "hijriDay": 2,
+    "timeOfDay": "all_day",
+    "priority": 2,
+    "category": "practical"
+  },
+  {
     "duaId": "ziyarat-syeda-fatimasa-on-sunday",
     "name": "Ziyarat Syeda Fatima(sa) on Sunday",
     "nameAr": "زِيارة السیدة الزَّهراءِ (س) في یوم الأحد",
@@ -1681,6 +2572,17 @@
     "timeOfDay": "all_day",
     "priority": 3,
     "category": "weekday"
+  },
+  {
+    "duaId": "practical-fifth-hour-of-the-day",
+    "name": "Fifth hour of the day",
+    "nameAr": "",
+    "weekday": 2,
+    "hijriMonth": null,
+    "hijriDay": 2,
+    "timeOfDay": "all_day",
+    "priority": 3,
+    "category": "practical"
   },
   {
     "duaId": "dua-of-monday",
@@ -1694,6 +2596,17 @@
     "category": "weekday"
   },
   {
+    "duaId": "practical-ninth-hour-of-the-day",
+    "name": "Ninth hour of the day",
+    "nameAr": "",
+    "weekday": 3,
+    "hijriMonth": null,
+    "hijriDay": 3,
+    "timeOfDay": "all_day",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "ziyarat-of-imam-hassan-as-on-monday",
     "name": "Ziyarat Of Imam Hassan (as) on Monday",
     "nameAr": "زِيارة الإمام الحَسَنِ (ع) في یوم الإثنین",
@@ -1703,6 +2616,17 @@
     "timeOfDay": "all_day",
     "priority": 2,
     "category": "weekday"
+  },
+  {
+    "duaId": "practical-tenth-hour-of-the-day",
+    "name": "Tenth hour of the day",
+    "nameAr": "",
+    "weekday": 3,
+    "hijriMonth": null,
+    "hijriDay": 3,
+    "timeOfDay": "all_day",
+    "priority": 2,
+    "category": "practical"
   },
   {
     "duaId": "ziyarat-imam-hussain-as-on-monday",
@@ -1716,6 +2640,17 @@
     "category": "weekday"
   },
   {
+    "duaId": "practical-eleventh-hour-of-the-day",
+    "name": "Eleventh hour of the day",
+    "nameAr": "",
+    "weekday": 3,
+    "hijriMonth": null,
+    "hijriDay": 3,
+    "timeOfDay": "all_day",
+    "priority": 3,
+    "category": "practical"
+  },
+  {
     "duaId": "dua-of-tuesday",
     "name": "Dua of Tuesday",
     "nameAr": "دعاء یوم الثلاثاء",
@@ -1725,6 +2660,17 @@
     "timeOfDay": "all_day",
     "priority": 1,
     "category": "weekday"
+  },
+  {
+    "duaId": "practical-1-morning",
+    "name": "1. morning",
+    "nameAr": "",
+    "weekday": 4,
+    "hijriMonth": null,
+    "hijriDay": 4,
+    "timeOfDay": "all_day",
+    "priority": 1,
+    "category": "practical"
   },
   {
     "duaId": "ziyarat-of-three-imams-on-tuesday",
@@ -1738,6 +2684,17 @@
     "category": "weekday"
   },
   {
+    "duaId": "practical-2-morning",
+    "name": "2. morning",
+    "nameAr": "",
+    "weekday": 4,
+    "hijriMonth": null,
+    "hijriDay": 4,
+    "timeOfDay": "all_day",
+    "priority": 2,
+    "category": "practical"
+  },
+  {
     "duaId": "dua-of-wednesday",
     "name": "Dua of Wednesday",
     "nameAr": "دعاء یوم الأربعاء",
@@ -1747,6 +2704,17 @@
     "timeOfDay": "all_day",
     "priority": 1,
     "category": "weekday"
+  },
+  {
+    "duaId": "practical-sahifa-sajjadia-dua-no-13-for-seeking-needs",
+    "name": "Sahifa Sajjadia dua no 13 for seeking needs",
+    "nameAr": "",
+    "weekday": 5,
+    "hijriMonth": null,
+    "hijriDay": 5,
+    "timeOfDay": "all_day",
+    "priority": 1,
+    "category": "practical"
   },
   {
     "duaId": "ziyarat-of-four-imams-on-wednesday",
@@ -1848,6 +2816,17 @@
     "category": "major"
   },
   {
+    "duaId": "practical-to-complete-the-task-successfully",
+    "name": "To complete the task successfully",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": null,
+    "hijriDay": null,
+    "timeOfDay": "iftaar",
+    "priority": 1,
+    "category": "practical"
+  },
+  {
     "duaId": "lailatul-raghaib",
     "name": "Lailatul Raghaib",
     "nameAr": "لیلة الرغائب",
@@ -1945,5 +2924,16 @@
     "timeOfDay": "night",
     "priority": 1,
     "category": "aamal"
+  },
+  {
+    "duaId": "practical-dua-for-cough-relief",
+    "name": "Dua for cough relief",
+    "nameAr": "",
+    "weekday": null,
+    "hijriMonth": 11,
+    "hijriDay": null,
+    "timeOfDay": "night",
+    "priority": 1,
+    "category": "practical"
   }
 ]
