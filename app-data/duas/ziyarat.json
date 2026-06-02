@@ -3741,7 +3741,7 @@
     ],
     "mafatihId": 1230,
     "source": "mafatih-realigned",
-    "subcategory": "Major Ziyarat"
+    "subcategory": "Universal Ziyarats"
   },
   {
     "id": "ziyarat-aleyasin",
@@ -5143,7 +5143,7 @@
     ],
     "mafatihId": 1258,
     "source": "mafatih-realigned",
-    "subcategory": "Imam Mahdi"
+    "subcategory": "Imam Mahdi (ajtfs)"
   },
   {
     "id": "dua-after-ziyarat-aleyasin",
@@ -5825,7 +5825,7 @@
         }
       }
     ],
-    "subcategory": "Imam Mahdi"
+    "subcategory": "Imam Mahdi (ajtfs)"
   },
   {
     "id": "ziyarat-warith",
@@ -7354,7 +7354,7 @@
     ],
     "mafatihId": 1249,
     "source": "mafatih-realigned",
-    "subcategory": "Imam Hussain & Karbala"
+    "subcategory": "Imam Hussain (a) — Karbala"
   },
   {
     "id": "ziyarat-ashura",
@@ -8620,7 +8620,7 @@
     ],
     "mafatihId": 1246,
     "source": "mafatih-realigned",
-    "subcategory": "General"
+    "subcategory": "Universal Ziyarats"
   },
   {
     "id": "ziyarat-ameenullah",
@@ -9257,7 +9257,7 @@
     ],
     "mafatihId": 1233,
     "source": "mafatih-realigned",
-    "subcategory": "General"
+    "subcategory": "Universal Ziyarats"
   },
   {
     "id": "daily-ziyarat-imam-mahdi",
@@ -10884,7 +10884,7 @@
     ],
     "mafatihId": 1257,
     "source": "mafatih-realigned",
-    "subcategory": "Imam Mahdi"
+    "subcategory": "Imam Mahdi (ajtfs)"
   },
   {
     "id": "ziyarat-imam-mahdi",
@@ -11246,7 +11246,7 @@
     ],
     "mafatihId": 1259,
     "source": "mafatih-realigned",
-    "subcategory": "Imam Mahdi"
+    "subcategory": "Imam Mahdi (ajtfs)"
   },
   {
     "id": "ziyarat-imam-hussain-arafah",
@@ -13067,7 +13067,7 @@
         }
       }
     ],
-    "subcategory": "Imam Hussain & Karbala"
+    "subcategory": "Imam Hussain (a) — Karbala"
   },
   {
     "id": "ziarat-jamia-saghira",
@@ -13333,7 +13333,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Major Ziyarat"
+    "subcategory": "Universal Ziyarats"
   },
   {
     "id": "ziyarat-of-holy-prophet-sawa",
@@ -16751,7 +16751,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Prophet & Ahlulbayt"
+    "subcategory": "Prophet Muhammad (s)"
   },
   {
     "id": "ziyarat-of-syeda-fatima-sa",
@@ -17398,7 +17398,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Prophet & Ahlulbayt"
+    "subcategory": "Fatima al-Zahra (s)"
   },
   {
     "id": "ziyarat-of-imam-hassan-as",
@@ -18454,7 +18454,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Prophet & Ahlulbayt"
+    "subcategory": "Imam Hasan (a)"
   },
   {
     "id": "ziyarat-of-imam-sajjad-as",
@@ -18985,7 +18985,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Imam Sajjad to Sadiq"
+    "subcategory": "Imam Sajjad (a)"
   },
   {
     "id": "ziyarat-of-imam-baqir-as",
@@ -19778,7 +19778,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Imam Sajjad to Sadiq"
+    "subcategory": "Imam Baqir (a)"
   },
   {
     "id": "ziyarat-of-imam-sadiq-as",
@@ -20308,7 +20308,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Imam Sajjad to Sadiq"
+    "subcategory": "Imam Sadiq (a)"
   },
   {
     "id": "ziyarat-of-imam-kadhim-as",
@@ -22666,7 +22666,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Imam Kadhim to Askari"
+    "subcategory": "Imam Kadhim (a)"
   },
   {
     "id": "ziyarat-of-imam-ridha-as",
@@ -25963,7 +25963,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Imam Kadhim to Askari"
+    "subcategory": "Imam Ridha (a)"
   },
   {
     "id": "ziyarat-of-imam-jawad-as",
@@ -28007,7 +28007,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Imam Kadhim to Askari"
+    "subcategory": "Imam Jawad (a)"
   },
   {
     "id": "ziyarat-of-imam-hadi-as",
@@ -30028,7 +30028,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Imam Kadhim to Askari"
+    "subcategory": "Imam Hadi (a)"
   },
   {
     "id": "ziyarat-of-imam-hassan-askari-as",
@@ -31971,7 +31971,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Imam Kadhim to Askari"
+    "subcategory": "Imam Askari (a)"
   },
   {
     "id": "ziyarah-abbas-ibn-ali-as",
@@ -33354,7 +33354,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Abbas & Others"
+    "subcategory": "Other Holy Figures"
   },
   {
     "id": "ziyarat-imam-husainas-on-the-eve-of-eid",
@@ -34919,7 +34919,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Ziyarat of Imam Hussain(as)"
+    "subcategory": "Imam Hussain (a) — Karbala"
   },
   {
     "id": "special-ziyarat-of-imam-hussain-as-15th-of-shaban",
@@ -35107,7 +35107,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Ziyarat of Imam Hussain(as)"
+    "subcategory": "Imam Hussain (a) — Karbala"
   },
   {
     "id": "dua-after-salat-of-ziarat",
@@ -35548,7 +35548,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Ziyarat of Imam Hussain(as)"
+    "subcategory": "Imam Hussain (a) — Karbala"
   },
   {
     "id": "ziarat-ghair-maroof",
@@ -37115,7 +37115,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Ziyarat of Imam Hussain(as)"
+    "subcategory": "Imam Hussain (a) — Karbala"
   },
   {
     "id": "ziyarat-etiquettes",
@@ -37686,7 +37686,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Ziyarat of Imam Hussain(as)"
+    "subcategory": "Imam Hussain (a) — Karbala"
   },
   {
     "id": "aamal-in-holy-shrine-imam-hussainas",
@@ -39172,7 +39172,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Ziyarat of Imam Hussain(as)"
+    "subcategory": "Imam Hussain (a) — Karbala"
   },
   {
     "id": "method-of-visiting-of-imam-husain-as",
@@ -40791,7 +40791,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Ziyarat of Imam Hussain(as)"
+    "subcategory": "Imam Hussain (a) — Karbala"
   },
   {
     "id": "ziyarats-of-imam-atfs-at-samarra-sirdab",
@@ -51282,7 +51282,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Major Ziyarat"
+    "subcategory": "Universal Ziyarats"
   },
   {
     "id": "ziyarat-of-imams-in-baqi",
@@ -52140,7 +52140,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Abbas & Others"
+    "subcategory": "Other Holy Figures"
   },
   {
     "id": "ziyarat-of-fatimah-al-masumah-sa",
@@ -52910,7 +52910,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Abbas & Others"
+    "subcategory": "Other Holy Figures"
   },
   {
     "id": "ziyarat-of-abd-al-azim-al-hasani-as",
@@ -53072,7 +53072,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Abbas & Others"
+    "subcategory": "Other Holy Figures"
   },
   {
     "id": "aamal-of-masjid-al-kufah",
@@ -54271,7 +54271,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Masjid Kufa"
+    "subcategory": "Holy Sites & Mosques"
   },
   {
     "id": "aamal-in-the-seat-of-judgment",
@@ -57476,7 +57476,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Masjid Kufa"
+    "subcategory": "Holy Sites & Mosques"
   },
   {
     "id": "acts-at-the-niche-of-imam-ali-as",
@@ -57629,7 +57629,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Masjid Kufa"
+    "subcategory": "Holy Sites & Mosques"
   },
   {
     "id": "acts-at-imam-zayn-al-abidins-bench",
@@ -58134,7 +58134,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Masjid Kufa"
+    "subcategory": "Holy Sites & Mosques"
   },
   {
     "id": "acts-at-imam-al-sadiqs-bench",
@@ -58288,7 +58288,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Masjid Kufa"
+    "subcategory": "Holy Sites & Mosques"
   },
   {
     "id": "prayer-for-desires",
@@ -58323,7 +58323,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Masjid Kufa"
+    "subcategory": "Holy Sites & Mosques"
   },
   {
     "id": "the-ziyarah-of-muslim-ibn-aqil",
@@ -58421,7 +58421,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Masjid Kufa"
+    "subcategory": "Holy Sites & Mosques"
   },
   {
     "id": "the-ziyarah-of-hani-ibn-urwah",
@@ -58466,7 +58466,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Masjid Kufa"
+    "subcategory": "Holy Sites & Mosques"
   },
   {
     "id": "masjid-al-sahla",
@@ -58738,7 +58738,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Mosques & Shrines"
+    "subcategory": "Holy Sites & Mosques"
   },
   {
     "id": "masjid-zayd-and-sasaa",
@@ -59414,7 +59414,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Mosques & Shrines"
+    "subcategory": "Holy Sites & Mosques"
   },
   {
     "id": "first-ziyarat-of-imam-ali-as",
@@ -63454,7 +63454,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Ziyarat of Imam Ali (as)"
+    "subcategory": "Imam Ali (a)"
   },
   {
     "id": "dua-after-the-ziyarah-of-imam-ali",
@@ -64041,7 +64041,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Ziyarat of Imam Ali (as)"
+    "subcategory": "Imam Ali (a)"
   },
   {
     "id": "ziyarat-of-imam-hussain-before-imam-ali",
@@ -64351,7 +64351,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Ziyarat of Imam Ali (as)"
+    "subcategory": "Imam Ali (a)"
   },
   {
     "id": "the-other-ziyarats-of-imam-ali",
@@ -68582,7 +68582,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Ziyarat of Imam Ali (as)"
+    "subcategory": "Imam Ali (a)"
   },
   {
     "id": "bidding-farewell-to-imam-ali-as",
@@ -68934,7 +68934,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Ziyarat of Imam Ali (as)"
+    "subcategory": "Imam Ali (a)"
   },
   {
     "id": "asking-permission-for-entering-holy-shrines",
@@ -69785,7 +69785,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "General"
+    "subcategory": "Universal Ziyarats"
   },
   {
     "id": "third-ziarat-jamea",
@@ -70479,7 +70479,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "Major Ziyarat"
+    "subcategory": "Universal Ziyarats"
   },
   {
     "id": "supplications-after-the-ziyarat-of-imams",
@@ -70558,7 +70558,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "General"
+    "subcategory": "Universal Ziyarats"
   },
   {
     "id": "visiting-of-the-prophets",
@@ -70593,7 +70593,7 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "General"
+    "subcategory": "Universal Ziyarats"
   },
   {
     "id": "visiting-the-descendants-of-imams",
@@ -70642,6 +70642,6 @@
       }
     ],
     "source": "mafatih",
-    "subcategory": "General"
+    "subcategory": "Universal Ziyarats"
   }
 ]

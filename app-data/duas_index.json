@@ -523,27 +523,76 @@
     "subcategory": "Friday"
   },
   {
-    "id": "ziyarat-jamia-kabira",
-    "name": "Ziyarat Jamia Kabira",
+    "id": "ziyarat-of-holy-prophet-sawa",
+    "name": "Ziyarat of Holy Prophet (sawa)",
     "category": "ziyarat",
-    "segmentCount": 415,
-    "mafatihId": 1230,
-    "subcategory": "Major Ziyarat"
+    "segmentCount": 380,
+    "mafatihId": 1232,
+    "source": "mafatih",
+    "subcategory": "Prophet Muhammad (s)"
   },
   {
-    "id": "ziyarat-aleyasin",
-    "name": "Ziyarat Aleyasin",
+    "id": "ziyarat-of-syeda-fatima-sa",
+    "name": "Ziyarat of Syeda Fatima (sa)",
     "category": "ziyarat",
-    "segmentCount": 155,
-    "mafatihId": 1258,
-    "subcategory": "Imam Mahdi"
+    "segmentCount": 71,
+    "mafatihId": 1234,
+    "source": "mafatih",
+    "subcategory": "Fatima al-Zahra (s)"
   },
   {
-    "id": "dua-after-ziyarat-aleyasin",
-    "name": "Dua after Ziyarat Aleyasin",
+    "id": "first-ziyarat-of-imam-ali-as",
+    "name": "First Ziyarat of Imam Ali (as)",
     "category": "ziyarat",
-    "segmentCount": 75,
-    "subcategory": "Imam Mahdi"
+    "segmentCount": 450,
+    "mafatihId": 1279,
+    "source": "mafatih",
+    "subcategory": "Imam Ali (a)"
+  },
+  {
+    "id": "dua-after-the-ziyarah-of-imam-ali",
+    "name": "Dua After The Ziyarah of imam ali",
+    "category": "ziyarat",
+    "segmentCount": 64,
+    "mafatihId": 1280,
+    "source": "mafatih",
+    "subcategory": "Imam Ali (a)"
+  },
+  {
+    "id": "ziyarat-of-imam-hussain-before-imam-ali",
+    "name": "Ziyarat of Imam Hussain before Imam Ali",
+    "category": "ziyarat",
+    "segmentCount": 34,
+    "mafatihId": 1281,
+    "source": "mafatih",
+    "subcategory": "Imam Ali (a)"
+  },
+  {
+    "id": "the-other-ziyarats-of-imam-ali",
+    "name": "The Other Ziyarats of imam ali",
+    "category": "ziyarat",
+    "segmentCount": 473,
+    "mafatihId": 1282,
+    "source": "mafatih",
+    "subcategory": "Imam Ali (a)"
+  },
+  {
+    "id": "bidding-farewell-to-imam-ali-as",
+    "name": "Bidding Farewell To Imam Ali (as)",
+    "category": "ziyarat",
+    "segmentCount": 38,
+    "mafatihId": 1283,
+    "source": "mafatih",
+    "subcategory": "Imam Ali (a)"
+  },
+  {
+    "id": "ziyarat-of-imam-hassan-as",
+    "name": "Ziyarat of Imam Hassan (as)",
+    "category": "ziyarat",
+    "segmentCount": 117,
+    "mafatihId": 1235,
+    "source": "mafatih",
+    "subcategory": "Imam Hasan (a)"
   },
   {
     "id": "ziyarat-warith",
@@ -551,46 +600,7 @@
     "category": "ziyarat",
     "segmentCount": 170,
     "mafatihId": 1249,
-    "subcategory": "Imam Hussain & Karbala"
-  },
-  {
-    "id": "ziyarat-ashura",
-    "name": "Ziyarat Ashura",
-    "category": "ziyarat",
-    "segmentCount": 140,
-    "mafatihId": 1246,
-    "subcategory": "General"
-  },
-  {
-    "id": "ziyarat-ameenullah",
-    "name": "Ziyarat Ameenullah",
-    "category": "ziyarat",
-    "segmentCount": 70,
-    "mafatihId": 1233,
-    "subcategory": "General"
-  },
-  {
-    "id": "daily-ziyarat-imam-mahdi",
-    "name": "Daily Ziyarat Imam Mahdi",
-    "category": "ziyarat",
-    "segmentCount": 180,
-    "mafatihId": 1257,
-    "subcategory": "Imam Mahdi"
-  },
-  {
-    "id": "ziyarat-imam-mahdi",
-    "name": "Ziyarat Imam Mahdi",
-    "category": "ziyarat",
-    "segmentCount": 39,
-    "mafatihId": 1259,
-    "subcategory": "Imam Mahdi"
-  },
-  {
-    "id": "ziyarat-imam-hussain-arafah",
-    "name": "Ziyarat Imam Hussain Arafah",
-    "category": "ziyarat",
-    "segmentCount": 203,
-    "subcategory": "Imam Hussain & Karbala"
+    "subcategory": "Imam Hussain (a) — Karbala"
   },
   {
     "id": "short-duas-imam-mahdi",
@@ -2588,121 +2598,11 @@
     "subcategory": "Personal"
   },
   {
-    "id": "ziarat-jamia-saghira",
-    "name": "Ziarat Jamia Saghira",
+    "id": "ziyarat-imam-hussain-arafah",
+    "name": "Ziyarat Imam Hussain Arafah",
     "category": "ziyarat",
-    "segmentCount": 29,
-    "mafatihId": 1231,
-    "source": "mafatih",
-    "subcategory": "Major Ziyarat"
-  },
-  {
-    "id": "ziyarat-of-holy-prophet-sawa",
-    "name": "Ziyarat of Holy Prophet (sawa)",
-    "category": "ziyarat",
-    "segmentCount": 380,
-    "mafatihId": 1232,
-    "source": "mafatih",
-    "subcategory": "Prophet & Ahlulbayt"
-  },
-  {
-    "id": "ziyarat-of-syeda-fatima-sa",
-    "name": "Ziyarat of Syeda Fatima (sa)",
-    "category": "ziyarat",
-    "segmentCount": 71,
-    "mafatihId": 1234,
-    "source": "mafatih",
-    "subcategory": "Prophet & Ahlulbayt"
-  },
-  {
-    "id": "ziyarat-of-imam-hassan-as",
-    "name": "Ziyarat of Imam Hassan (as)",
-    "category": "ziyarat",
-    "segmentCount": 117,
-    "mafatihId": 1235,
-    "source": "mafatih",
-    "subcategory": "Prophet & Ahlulbayt"
-  },
-  {
-    "id": "ziyarat-of-imam-sajjad-as",
-    "name": "Ziyarat of Imam Sajjad (as)",
-    "category": "ziyarat",
-    "segmentCount": 58,
-    "mafatihId": 1236,
-    "source": "mafatih",
-    "subcategory": "Imam Sajjad to Sadiq"
-  },
-  {
-    "id": "ziyarat-of-imam-baqir-as",
-    "name": "Ziyarat of Imam Baqir (as)",
-    "category": "ziyarat",
-    "segmentCount": 87,
-    "mafatihId": 1237,
-    "source": "mafatih",
-    "subcategory": "Imam Sajjad to Sadiq"
-  },
-  {
-    "id": "ziyarat-of-imam-sadiq-as",
-    "name": "Ziyarat of Imam Sadiq (as)",
-    "category": "ziyarat",
-    "segmentCount": 58,
-    "mafatihId": 1238,
-    "source": "mafatih",
-    "subcategory": "Imam Sajjad to Sadiq"
-  },
-  {
-    "id": "ziyarat-of-imam-kadhim-as",
-    "name": "Ziyarat of Imam Kadhim (as)",
-    "category": "ziyarat",
-    "segmentCount": 262,
-    "mafatihId": 1239,
-    "source": "mafatih",
-    "subcategory": "Imam Kadhim to Askari"
-  },
-  {
-    "id": "ziyarat-of-imam-ridha-as",
-    "name": "Ziyarat of Imam Ridha (as)",
-    "category": "ziyarat",
-    "segmentCount": 366,
-    "mafatihId": 1240,
-    "source": "mafatih",
-    "subcategory": "Imam Kadhim to Askari"
-  },
-  {
-    "id": "ziyarat-of-imam-jawad-as",
-    "name": "Ziyarat of Imam Jawad (as)",
-    "category": "ziyarat",
-    "segmentCount": 227,
-    "mafatihId": 1241,
-    "source": "mafatih",
-    "subcategory": "Imam Kadhim to Askari"
-  },
-  {
-    "id": "ziyarat-of-imam-hadi-as",
-    "name": "Ziyarat of Imam Hadi (as)",
-    "category": "ziyarat",
-    "segmentCount": 224,
-    "mafatihId": 1242,
-    "source": "mafatih",
-    "subcategory": "Imam Kadhim to Askari"
-  },
-  {
-    "id": "ziyarat-of-imam-hassan-askari-as",
-    "name": "Ziyarat of Imam Hassan Askari (as)",
-    "category": "ziyarat",
-    "segmentCount": 215,
-    "mafatihId": 1243,
-    "source": "mafatih",
-    "subcategory": "Imam Kadhim to Askari"
-  },
-  {
-    "id": "ziyarah-abbas-ibn-ali-as",
-    "name": "Ziyarah Abbas ibn Ali (as)",
-    "category": "ziyarat",
-    "segmentCount": 153,
-    "mafatihId": 1244,
-    "source": "mafatih",
-    "subcategory": "Abbas & Others"
+    "segmentCount": 203,
+    "subcategory": "Imam Hussain (a) — Karbala"
   },
   {
     "id": "ziyarat-imam-husainas-on-the-eve-of-eid",
@@ -2711,7 +2611,7 @@
     "segmentCount": 175,
     "mafatihId": 1247,
     "source": "mafatih",
-    "subcategory": "Ziyarat of Imam Hussain(as)"
+    "subcategory": "Imam Hussain (a) — Karbala"
   },
   {
     "id": "special-ziyarat-of-imam-hussain-as-15th-of-shaban",
@@ -2720,7 +2620,7 @@
     "segmentCount": 20,
     "mafatihId": 1248,
     "source": "mafatih",
-    "subcategory": "Ziyarat of Imam Hussain(as)"
+    "subcategory": "Imam Hussain (a) — Karbala"
   },
   {
     "id": "dua-after-salat-of-ziarat",
@@ -2729,7 +2629,7 @@
     "segmentCount": 48,
     "mafatihId": 1250,
     "source": "mafatih",
-    "subcategory": "Ziyarat of Imam Hussain(as)"
+    "subcategory": "Imam Hussain (a) — Karbala"
   },
   {
     "id": "ziarat-ghair-maroof",
@@ -2738,7 +2638,7 @@
     "segmentCount": 173,
     "mafatihId": 1251,
     "source": "mafatih",
-    "subcategory": "Ziyarat of Imam Hussain(as)"
+    "subcategory": "Imam Hussain (a) — Karbala"
   },
   {
     "id": "ziyarat-etiquettes",
@@ -2747,7 +2647,7 @@
     "segmentCount": 64,
     "mafatihId": 1253,
     "source": "mafatih",
-    "subcategory": "Ziyarat of Imam Hussain(as)"
+    "subcategory": "Imam Hussain (a) — Karbala"
   },
   {
     "id": "aamal-in-holy-shrine-imam-hussainas",
@@ -2756,7 +2656,7 @@
     "segmentCount": 165,
     "mafatihId": 1254,
     "source": "mafatih",
-    "subcategory": "Ziyarat of Imam Hussain(as)"
+    "subcategory": "Imam Hussain (a) — Karbala"
   },
   {
     "id": "method-of-visiting-of-imam-husain-as",
@@ -2765,7 +2665,110 @@
     "segmentCount": 181,
     "mafatihId": 1255,
     "source": "mafatih",
-    "subcategory": "Ziyarat of Imam Hussain(as)"
+    "subcategory": "Imam Hussain (a) — Karbala"
+  },
+  {
+    "id": "ziyarat-of-imam-sajjad-as",
+    "name": "Ziyarat of Imam Sajjad (as)",
+    "category": "ziyarat",
+    "segmentCount": 58,
+    "mafatihId": 1236,
+    "source": "mafatih",
+    "subcategory": "Imam Sajjad (a)"
+  },
+  {
+    "id": "ziyarat-of-imam-baqir-as",
+    "name": "Ziyarat of Imam Baqir (as)",
+    "category": "ziyarat",
+    "segmentCount": 87,
+    "mafatihId": 1237,
+    "source": "mafatih",
+    "subcategory": "Imam Baqir (a)"
+  },
+  {
+    "id": "ziyarat-of-imam-sadiq-as",
+    "name": "Ziyarat of Imam Sadiq (as)",
+    "category": "ziyarat",
+    "segmentCount": 58,
+    "mafatihId": 1238,
+    "source": "mafatih",
+    "subcategory": "Imam Sadiq (a)"
+  },
+  {
+    "id": "ziyarat-of-imam-kadhim-as",
+    "name": "Ziyarat of Imam Kadhim (as)",
+    "category": "ziyarat",
+    "segmentCount": 262,
+    "mafatihId": 1239,
+    "source": "mafatih",
+    "subcategory": "Imam Kadhim (a)"
+  },
+  {
+    "id": "ziyarat-of-imam-ridha-as",
+    "name": "Ziyarat of Imam Ridha (as)",
+    "category": "ziyarat",
+    "segmentCount": 366,
+    "mafatihId": 1240,
+    "source": "mafatih",
+    "subcategory": "Imam Ridha (a)"
+  },
+  {
+    "id": "ziyarat-of-imam-jawad-as",
+    "name": "Ziyarat of Imam Jawad (as)",
+    "category": "ziyarat",
+    "segmentCount": 227,
+    "mafatihId": 1241,
+    "source": "mafatih",
+    "subcategory": "Imam Jawad (a)"
+  },
+  {
+    "id": "ziyarat-of-imam-hadi-as",
+    "name": "Ziyarat of Imam Hadi (as)",
+    "category": "ziyarat",
+    "segmentCount": 224,
+    "mafatihId": 1242,
+    "source": "mafatih",
+    "subcategory": "Imam Hadi (a)"
+  },
+  {
+    "id": "ziyarat-of-imam-hassan-askari-as",
+    "name": "Ziyarat of Imam Hassan Askari (as)",
+    "category": "ziyarat",
+    "segmentCount": 215,
+    "mafatihId": 1243,
+    "source": "mafatih",
+    "subcategory": "Imam Askari (a)"
+  },
+  {
+    "id": "ziyarat-aleyasin",
+    "name": "Ziyarat Aleyasin",
+    "category": "ziyarat",
+    "segmentCount": 155,
+    "mafatihId": 1258,
+    "subcategory": "Imam Mahdi (ajtfs)"
+  },
+  {
+    "id": "dua-after-ziyarat-aleyasin",
+    "name": "Dua after Ziyarat Aleyasin",
+    "category": "ziyarat",
+    "segmentCount": 75,
+    "subcategory": "Imam Mahdi (ajtfs)"
+  },
+  {
+    "id": "daily-ziyarat-imam-mahdi",
+    "name": "Daily Ziyarat Imam Mahdi",
+    "category": "ziyarat",
+    "segmentCount": 180,
+    "mafatihId": 1257,
+    "subcategory": "Imam Mahdi (ajtfs)"
+  },
+  {
+    "id": "ziyarat-imam-mahdi",
+    "name": "Ziyarat Imam Mahdi",
+    "category": "ziyarat",
+    "segmentCount": 39,
+    "mafatihId": 1259,
+    "subcategory": "Imam Mahdi (ajtfs)"
   },
   {
     "id": "ziyarats-of-imam-atfs-at-samarra-sirdab",
@@ -2795,13 +2798,13 @@
     "subcategory": "Imam Mahdi (ajtfs)"
   },
   {
-    "id": "ziyarah-nahiya",
-    "name": "Ziyarah Nahiya",
+    "id": "ziyarah-abbas-ibn-ali-as",
+    "name": "Ziyarah Abbas ibn Ali (as)",
     "category": "ziyarat",
-    "segmentCount": 492,
-    "mafatihId": 1263,
+    "segmentCount": 153,
+    "mafatihId": 1244,
     "source": "mafatih",
-    "subcategory": "Major Ziyarat"
+    "subcategory": "Other Holy Figures"
   },
   {
     "id": "ziyarat-of-imams-in-baqi",
@@ -2810,7 +2813,7 @@
     "segmentCount": 96,
     "mafatihId": 1264,
     "source": "mafatih",
-    "subcategory": "Abbas & Others"
+    "subcategory": "Other Holy Figures"
   },
   {
     "id": "ziyarat-of-fatimah-al-masumah-sa",
@@ -2819,7 +2822,7 @@
     "segmentCount": 85,
     "mafatihId": 1265,
     "source": "mafatih",
-    "subcategory": "Abbas & Others"
+    "subcategory": "Other Holy Figures"
   },
   {
     "id": "ziyarat-of-abd-al-azim-al-hasani-as",
@@ -2828,142 +2831,49 @@
     "segmentCount": 18,
     "mafatihId": 1266,
     "source": "mafatih",
-    "subcategory": "Abbas & Others"
+    "subcategory": "Other Holy Figures"
   },
   {
-    "id": "aamal-of-masjid-al-kufah",
-    "name": "Aamal Of Masjid Al Kufah",
+    "id": "ziyarat-jamia-kabira",
+    "name": "Ziyarat Jamia Kabira",
     "category": "ziyarat",
-    "segmentCount": 133,
-    "mafatihId": 1268,
-    "source": "mafatih",
-    "subcategory": "Masjid Kufa"
+    "segmentCount": 415,
+    "mafatihId": 1230,
+    "subcategory": "Universal Ziyarats"
   },
   {
-    "id": "aamal-in-the-seat-of-judgment",
-    "name": "Aamal In The Seat Of Judgment",
+    "id": "ziyarat-ashura",
+    "name": "Ziyarat Ashura",
     "category": "ziyarat",
-    "segmentCount": 362,
-    "mafatihId": 1269,
-    "source": "mafatih",
-    "subcategory": "Masjid Kufa"
+    "segmentCount": 140,
+    "mafatihId": 1246,
+    "subcategory": "Universal Ziyarats"
   },
   {
-    "id": "acts-at-the-niche-of-imam-ali-as",
-    "name": "Acts at the niche of Imam Ali (as)",
+    "id": "ziyarat-ameenullah",
+    "name": "Ziyarat Ameenullah",
     "category": "ziyarat",
-    "segmentCount": 16,
-    "mafatihId": 1270,
-    "source": "mafatih",
-    "subcategory": "Masjid Kufa"
+    "segmentCount": 70,
+    "mafatihId": 1233,
+    "subcategory": "Universal Ziyarats"
   },
   {
-    "id": "acts-at-imam-zayn-al-abidins-bench",
-    "name": "Acts At Imam Zayn al-’Abidin’S Bench",
+    "id": "ziarat-jamia-saghira",
+    "name": "Ziarat Jamia Saghira",
     "category": "ziyarat",
-    "segmentCount": 55,
-    "mafatihId": 1271,
+    "segmentCount": 29,
+    "mafatihId": 1231,
     "source": "mafatih",
-    "subcategory": "Masjid Kufa"
+    "subcategory": "Universal Ziyarats"
   },
   {
-    "id": "acts-at-imam-al-sadiqs-bench",
-    "name": "Acts At Imam Al-Sadiq’s Bench",
+    "id": "ziyarah-nahiya",
+    "name": "Ziyarah Nahiya",
     "category": "ziyarat",
-    "segmentCount": 16,
-    "mafatihId": 1272,
+    "segmentCount": 492,
+    "mafatihId": 1263,
     "source": "mafatih",
-    "subcategory": "Masjid Kufa"
-  },
-  {
-    "id": "prayer-for-desires",
-    "name": "Prayer For Desires",
-    "category": "ziyarat",
-    "segmentCount": 3,
-    "mafatihId": 1273,
-    "source": "mafatih",
-    "subcategory": "Masjid Kufa"
-  },
-  {
-    "id": "the-ziyarah-of-muslim-ibn-aqil",
-    "name": "The Ziyarah Of Muslim Ibn Aqil",
-    "category": "ziyarat",
-    "segmentCount": 10,
-    "mafatihId": 1274,
-    "source": "mafatih",
-    "subcategory": "Masjid Kufa"
-  },
-  {
-    "id": "the-ziyarah-of-hani-ibn-urwah",
-    "name": "The Ziyarah Of Hani Ibn Urwah",
-    "category": "ziyarat",
-    "segmentCount": 4,
-    "mafatihId": 1275,
-    "source": "mafatih",
-    "subcategory": "Masjid Kufa"
-  },
-  {
-    "id": "masjid-al-sahla",
-    "name": "Masjid Al Sahla",
-    "category": "ziyarat",
-    "segmentCount": 31,
-    "mafatihId": 1276,
-    "source": "mafatih",
-    "subcategory": "Mosques & Shrines"
-  },
-  {
-    "id": "masjid-zayd-and-sasaa",
-    "name": "Masjid Zayd And Sasaa",
-    "category": "ziyarat",
-    "segmentCount": 75,
-    "mafatihId": 1277,
-    "source": "mafatih",
-    "subcategory": "Mosques & Shrines"
-  },
-  {
-    "id": "first-ziyarat-of-imam-ali-as",
-    "name": "First Ziyarat of Imam Ali (as)",
-    "category": "ziyarat",
-    "segmentCount": 450,
-    "mafatihId": 1279,
-    "source": "mafatih",
-    "subcategory": "Ziyarat of Imam Ali (as)"
-  },
-  {
-    "id": "dua-after-the-ziyarah-of-imam-ali",
-    "name": "Dua After The Ziyarah of imam ali",
-    "category": "ziyarat",
-    "segmentCount": 64,
-    "mafatihId": 1280,
-    "source": "mafatih",
-    "subcategory": "Ziyarat of Imam Ali (as)"
-  },
-  {
-    "id": "ziyarat-of-imam-hussain-before-imam-ali",
-    "name": "Ziyarat of Imam Hussain before Imam Ali",
-    "category": "ziyarat",
-    "segmentCount": 34,
-    "mafatihId": 1281,
-    "source": "mafatih",
-    "subcategory": "Ziyarat of Imam Ali (as)"
-  },
-  {
-    "id": "the-other-ziyarats-of-imam-ali",
-    "name": "The Other Ziyarats of imam ali",
-    "category": "ziyarat",
-    "segmentCount": 473,
-    "mafatihId": 1282,
-    "source": "mafatih",
-    "subcategory": "Ziyarat of Imam Ali (as)"
-  },
-  {
-    "id": "bidding-farewell-to-imam-ali-as",
-    "name": "Bidding Farewell To Imam Ali (as)",
-    "category": "ziyarat",
-    "segmentCount": 38,
-    "mafatihId": 1283,
-    "source": "mafatih",
-    "subcategory": "Ziyarat of Imam Ali (as)"
+    "subcategory": "Universal Ziyarats"
   },
   {
     "id": "asking-permission-for-entering-holy-shrines",
@@ -2972,7 +2882,7 @@
     "segmentCount": 94,
     "mafatihId": 1284,
     "source": "mafatih",
-    "subcategory": "General"
+    "subcategory": "Universal Ziyarats"
   },
   {
     "id": "third-ziarat-jamea",
@@ -2981,7 +2891,7 @@
     "segmentCount": 76,
     "mafatihId": 1285,
     "source": "mafatih",
-    "subcategory": "Major Ziyarat"
+    "subcategory": "Universal Ziyarats"
   },
   {
     "id": "supplications-after-the-ziyarat-of-imams",
@@ -2990,7 +2900,7 @@
     "segmentCount": 8,
     "mafatihId": 1286,
     "source": "mafatih",
-    "subcategory": "General"
+    "subcategory": "Universal Ziyarats"
   },
   {
     "id": "visiting-of-the-prophets",
@@ -2999,7 +2909,7 @@
     "segmentCount": 3,
     "mafatihId": 1288,
     "source": "mafatih",
-    "subcategory": "General"
+    "subcategory": "Universal Ziyarats"
   },
   {
     "id": "visiting-the-descendants-of-imams",
@@ -3008,7 +2918,97 @@
     "segmentCount": 5,
     "mafatihId": 1289,
     "source": "mafatih",
-    "subcategory": "General"
+    "subcategory": "Universal Ziyarats"
+  },
+  {
+    "id": "aamal-of-masjid-al-kufah",
+    "name": "Aamal Of Masjid Al Kufah",
+    "category": "ziyarat",
+    "segmentCount": 133,
+    "mafatihId": 1268,
+    "source": "mafatih",
+    "subcategory": "Holy Sites & Mosques"
+  },
+  {
+    "id": "aamal-in-the-seat-of-judgment",
+    "name": "Aamal In The Seat Of Judgment",
+    "category": "ziyarat",
+    "segmentCount": 362,
+    "mafatihId": 1269,
+    "source": "mafatih",
+    "subcategory": "Holy Sites & Mosques"
+  },
+  {
+    "id": "acts-at-the-niche-of-imam-ali-as",
+    "name": "Acts at the niche of Imam Ali (as)",
+    "category": "ziyarat",
+    "segmentCount": 16,
+    "mafatihId": 1270,
+    "source": "mafatih",
+    "subcategory": "Holy Sites & Mosques"
+  },
+  {
+    "id": "acts-at-imam-zayn-al-abidins-bench",
+    "name": "Acts At Imam Zayn al-’Abidin’S Bench",
+    "category": "ziyarat",
+    "segmentCount": 55,
+    "mafatihId": 1271,
+    "source": "mafatih",
+    "subcategory": "Holy Sites & Mosques"
+  },
+  {
+    "id": "acts-at-imam-al-sadiqs-bench",
+    "name": "Acts At Imam Al-Sadiq’s Bench",
+    "category": "ziyarat",
+    "segmentCount": 16,
+    "mafatihId": 1272,
+    "source": "mafatih",
+    "subcategory": "Holy Sites & Mosques"
+  },
+  {
+    "id": "prayer-for-desires",
+    "name": "Prayer For Desires",
+    "category": "ziyarat",
+    "segmentCount": 3,
+    "mafatihId": 1273,
+    "source": "mafatih",
+    "subcategory": "Holy Sites & Mosques"
+  },
+  {
+    "id": "the-ziyarah-of-muslim-ibn-aqil",
+    "name": "The Ziyarah Of Muslim Ibn Aqil",
+    "category": "ziyarat",
+    "segmentCount": 10,
+    "mafatihId": 1274,
+    "source": "mafatih",
+    "subcategory": "Holy Sites & Mosques"
+  },
+  {
+    "id": "the-ziyarah-of-hani-ibn-urwah",
+    "name": "The Ziyarah Of Hani Ibn Urwah",
+    "category": "ziyarat",
+    "segmentCount": 4,
+    "mafatihId": 1275,
+    "source": "mafatih",
+    "subcategory": "Holy Sites & Mosques"
+  },
+  {
+    "id": "masjid-al-sahla",
+    "name": "Masjid Al Sahla",
+    "category": "ziyarat",
+    "segmentCount": 31,
+    "mafatihId": 1276,
+    "source": "mafatih",
+    "subcategory": "Holy Sites & Mosques"
+  },
+  {
+    "id": "masjid-zayd-and-sasaa",
+    "name": "Masjid Zayd And Sasaa",
+    "category": "ziyarat",
+    "segmentCount": 75,
+    "mafatihId": 1277,
+    "source": "mafatih",
+    "subcategory": "Holy Sites & Mosques"
   },
   {
     "id": "dua-ya-mafzai",

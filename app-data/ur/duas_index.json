@@ -1616,7 +1616,8 @@
     "category": "salah",
     "segmentCount": 30,
     "mafatihId": 762,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "نماز میت و خاص"
   },
   {
     "id": "ur-763",
@@ -1625,7 +1626,8 @@
     "category": "salah",
     "segmentCount": 28,
     "mafatihId": 763,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "شخصی نمازیں"
   },
   {
     "id": "ur-764",
@@ -1634,7 +1636,8 @@
     "category": "salah",
     "segmentCount": 12,
     "mafatihId": 764,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "شخصی نمازیں"
   },
   {
     "id": "ur-765",
@@ -1643,7 +1646,8 @@
     "category": "salah",
     "segmentCount": 8,
     "mafatihId": 765,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "شخصی نمازیں"
   },
   {
     "id": "ur-766",
@@ -1652,7 +1656,8 @@
     "category": "salah",
     "segmentCount": 10,
     "mafatihId": 766,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "نماز میت و خاص"
   },
   {
     "id": "ur-767",
@@ -1661,7 +1666,8 @@
     "category": "salah",
     "segmentCount": 25,
     "mafatihId": 767,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "نماز استغاثہ"
   },
   {
     "id": "ur-768",
@@ -1670,7 +1676,8 @@
     "category": "salah",
     "segmentCount": 69,
     "mafatihId": 768,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "نماز شب"
   },
   {
     "id": "ur-769",
@@ -1679,7 +1686,8 @@
     "category": "salah",
     "segmentCount": 12,
     "mafatihId": 769,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "شخصی نمازیں"
   },
   {
     "id": "ur-770",
@@ -1688,7 +1696,8 @@
     "category": "salah",
     "segmentCount": 7,
     "mafatihId": 770,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "شخصی نمازیں"
   },
   {
     "id": "ur-771",
@@ -1697,7 +1706,8 @@
     "category": "salah",
     "segmentCount": 5,
     "mafatihId": 771,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "بخشش اور حاجات"
   },
   {
     "id": "ur-772",
@@ -1706,7 +1716,8 @@
     "category": "salah",
     "segmentCount": 4,
     "mafatihId": 772,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "شخصی نمازیں"
   },
   {
     "id": "ur-773",
@@ -1715,7 +1726,8 @@
     "category": "salah",
     "segmentCount": 15,
     "mafatihId": 773,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "شخصی نمازیں"
   },
   {
     "id": "ur-774",
@@ -1724,7 +1736,8 @@
     "category": "salah",
     "segmentCount": 12,
     "mafatihId": 774,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "استخارہ"
   },
   {
     "id": "ur-775",
@@ -1733,7 +1746,8 @@
     "category": "salah",
     "segmentCount": 8,
     "mafatihId": 775,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "بخشش اور حاجات"
   },
   {
     "id": "ur-776",
@@ -1742,7 +1756,8 @@
     "category": "salah",
     "segmentCount": 2,
     "mafatihId": 776,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "شخصی نمازیں"
   },
   {
     "id": "ur-777",
@@ -1751,7 +1766,8 @@
     "category": "salah",
     "segmentCount": 8,
     "mafatihId": 777,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "شخصی نمازیں"
   },
   {
     "id": "ur-778",
@@ -1760,7 +1776,8 @@
     "category": "salah",
     "segmentCount": 1,
     "mafatihId": 778,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "شخصی نمازیں"
   },
   {
     "id": "ur-779",
@@ -1769,7 +1786,8 @@
     "category": "salah",
     "segmentCount": 15,
     "mafatihId": 779,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "شخصی نمازیں"
   },
   {
     "id": "ur-780",
@@ -1778,7 +1796,8 @@
     "category": "salah",
     "segmentCount": 75,
     "mafatihId": 780,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "شخصی نمازیں"
   },
   {
     "id": "ur-781",
@@ -1787,7 +1806,8 @@
     "category": "salah",
     "segmentCount": 5,
     "mafatihId": 781,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "نماز استغاثہ"
   },
   {
     "id": "ur-782",
@@ -1796,7 +1816,8 @@
     "category": "salah",
     "segmentCount": 15,
     "mafatihId": 782,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "نماز استغاثہ"
   },
   {
     "id": "ur-783",
@@ -1805,7 +1826,8 @@
     "category": "salah",
     "segmentCount": 30,
     "mafatihId": 783,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "نماز استغاثہ"
   },
   {
     "id": "ur-784",
@@ -1814,7 +1836,8 @@
     "category": "salah",
     "segmentCount": 6,
     "mafatihId": 784,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "شخصی نمازیں"
   },
   {
     "id": "ur-785",
@@ -1823,7 +1846,8 @@
     "category": "salah",
     "segmentCount": 1,
     "mafatihId": 785,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "شخصی نمازیں"
   },
   {
     "id": "ur-786",
@@ -1832,7 +1856,8 @@
     "category": "salah",
     "segmentCount": 6,
     "mafatihId": 786,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "بخشش اور حاجات"
   },
   {
     "id": "ur-787",
@@ -1841,7 +1866,8 @@
     "category": "salah",
     "segmentCount": 2,
     "mafatihId": 787,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "شخصی نمازیں"
   },
   {
     "id": "ur-788",
@@ -1850,34 +1876,8 @@
     "category": "salah",
     "segmentCount": 2,
     "mafatihId": 788,
-    "source": "mafatih"
-  },
-  {
-    "id": "ur-790",
-    "name": "زیارات ائمہ کے آداب",
-    "nameAr": "",
-    "category": "ziyarat",
-    "segmentCount": 34,
-    "mafatihId": 790,
-    "source": "mafatih"
-  },
-  {
-    "id": "ur-791",
-    "name": "تمام حرم ہائے مبارکہ کیلئے اذن دخول",
-    "nameAr": "",
-    "category": "ziyarat",
-    "segmentCount": 48,
-    "mafatihId": 791,
-    "source": "mafatih"
-  },
-  {
-    "id": "ur-792",
-    "name": "مدینہ کی زیارات",
-    "nameAr": "",
-    "category": "ziyarat",
-    "segmentCount": 6,
-    "mafatihId": 792,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "بخشش اور حاجات"
   },
   {
     "id": "ur-793",
@@ -1886,16 +1886,8 @@
     "category": "ziyarat",
     "segmentCount": 27,
     "mafatihId": 793,
-    "source": "mafatih"
-  },
-  {
-    "id": "ur-794",
-    "name": "کیفیت زیارت حضرت فاطمتہ الزہرا",
-    "nameAr": "",
-    "category": "ziyarat",
-    "segmentCount": 50,
-    "mafatihId": 794,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "پیغمبر اکرم (ص)"
   },
   {
     "id": "ur-795",
@@ -1904,7 +1896,8 @@
     "category": "ziyarat",
     "segmentCount": 104,
     "mafatihId": 795,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "پیغمبر اکرم (ص)"
   },
   {
     "id": "ur-796",
@@ -1913,16 +1906,8 @@
     "category": "ziyarat",
     "segmentCount": 15,
     "mafatihId": 796,
-    "source": "mafatih"
-  },
-  {
-    "id": "ur-797",
-    "name": "زیارت معصومین روز جمعہ",
-    "nameAr": "",
-    "category": "ziyarat",
-    "segmentCount": 12,
-    "mafatihId": 797,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "پیغمبر اکرم (ص)"
   },
   {
     "id": "ur-798",
@@ -1931,34 +1916,18 @@
     "category": "ziyarat",
     "segmentCount": 11,
     "mafatihId": 798,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "پیغمبر اکرم (ص)"
   },
   {
-    "id": "ur-799",
-    "name": "زیارات ائمہ بقیع",
+    "id": "ur-794",
+    "name": "کیفیت زیارت حضرت فاطمتہ الزہرا",
     "nameAr": "",
     "category": "ziyarat",
-    "segmentCount": 38,
-    "mafatihId": 799,
-    "source": "mafatih"
-  },
-  {
-    "id": "ur-800",
-    "name": "ذکر زیارات مدینہ",
-    "nameAr": "",
-    "category": "ziyarat",
-    "segmentCount": 114,
-    "mafatihId": 800,
-    "source": "mafatih"
-  },
-  {
-    "id": "ur-801",
-    "name": "مدینہ منورہ کی باعظمت مساجد کاتذکرہ",
-    "nameAr": "",
-    "category": "ziyarat",
-    "segmentCount": 21,
-    "mafatihId": 801,
-    "source": "mafatih"
+    "segmentCount": 50,
+    "mafatihId": 794,
+    "source": "mafatih",
+    "subcategory": "حضرت فاطمہ زہرا (س)"
   },
   {
     "id": "ur-802",
@@ -1967,7 +1936,8 @@
     "category": "ziyarat",
     "segmentCount": 5,
     "mafatihId": 802,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امیرالمومنین حضرت علی (ع)"
   },
   {
     "id": "ur-803",
@@ -1976,16 +1946,8 @@
     "category": "ziyarat",
     "segmentCount": 152,
     "mafatihId": 803,
-    "source": "mafatih"
-  },
-  {
-    "id": "ur-804",
-    "name": "نماز و زیارت آدم و نوح",
-    "nameAr": "",
-    "category": "ziyarat",
-    "segmentCount": 28,
-    "mafatihId": 804,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امیرالمومنین حضرت علی (ع)"
   },
   {
     "id": "ur-805",
@@ -1994,7 +1956,8 @@
     "category": "ziyarat",
     "segmentCount": 25,
     "mafatihId": 805,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امیرالمومنین حضرت علی (ع)"
   },
   {
     "id": "ur-806",
@@ -2003,25 +1966,8 @@
     "category": "ziyarat",
     "segmentCount": 12,
     "mafatihId": 806,
-    "source": "mafatih"
-  },
-  {
-    "id": "ur-807",
-    "name": "زیارت امام حسین مسجد حنانہ",
-    "nameAr": "",
-    "category": "ziyarat",
-    "segmentCount": 5,
-    "mafatihId": 807,
-    "source": "mafatih"
-  },
-  {
-    "id": "ur-808",
-    "name": "زیارت امین اللہ",
-    "nameAr": "",
-    "category": "ziyarat",
-    "segmentCount": 29,
-    "mafatihId": 808,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امیرالمومنین حضرت علی (ع)"
   },
   {
     "id": "ur-809",
@@ -2030,7 +1976,8 @@
     "category": "ziyarat",
     "segmentCount": 21,
     "mafatihId": 809,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امیرالمومنین حضرت علی (ع)"
   },
   {
     "id": "ur-810",
@@ -2039,7 +1986,8 @@
     "category": "ziyarat",
     "segmentCount": 12,
     "mafatihId": 810,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امیرالمومنین حضرت علی (ع)"
   },
   {
     "id": "ur-811",
@@ -2048,7 +1996,8 @@
     "category": "ziyarat",
     "segmentCount": 8,
     "mafatihId": 811,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امیرالمومنین حضرت علی (ع)"
   },
   {
     "id": "ur-812",
@@ -2057,7 +2006,8 @@
     "category": "ziyarat",
     "segmentCount": 78,
     "mafatihId": 812,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امیرالمومنین حضرت علی (ع)"
   },
   {
     "id": "ur-813",
@@ -2066,7 +2016,8 @@
     "category": "ziyarat",
     "segmentCount": 59,
     "mafatihId": 813,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امیرالمومنین حضرت علی (ع)"
   },
   {
     "id": "ur-814",
@@ -2075,7 +2026,8 @@
     "category": "ziyarat",
     "segmentCount": 15,
     "mafatihId": 814,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امیرالمومنین حضرت علی (ع)"
   },
   {
     "id": "ur-815",
@@ -2084,7 +2036,8 @@
     "category": "ziyarat",
     "segmentCount": 222,
     "mafatihId": 815,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امیرالمومنین حضرت علی (ع)"
   },
   {
     "id": "ur-816",
@@ -2093,7 +2046,8 @@
     "category": "ziyarat",
     "segmentCount": 15,
     "mafatihId": 816,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امیرالمومنین حضرت علی (ع)"
   },
   {
     "id": "ur-817",
@@ -2102,16 +2056,8 @@
     "category": "ziyarat",
     "segmentCount": 95,
     "mafatihId": 817,
-    "source": "mafatih"
-  },
-  {
-    "id": "ur-818",
-    "name": "مسجد کوفہ اور دیگر مساجد کے کام",
-    "nameAr": "",
-    "category": "ziyarat",
-    "segmentCount": 417,
-    "mafatihId": 818,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امیرالمومنین حضرت علی (ع)"
   },
   {
     "id": "ur-819",
@@ -2120,7 +2066,8 @@
     "category": "ziyarat",
     "segmentCount": 42,
     "mafatihId": 819,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام حسین (ع) — کربلا"
   },
   {
     "id": "ur-820",
@@ -2129,7 +2076,8 @@
     "category": "ziyarat",
     "segmentCount": 73,
     "mafatihId": 820,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام حسین (ع) — کربلا"
   },
   {
     "id": "ur-821",
@@ -2138,16 +2086,8 @@
     "category": "ziyarat",
     "segmentCount": 187,
     "mafatihId": 821,
-    "source": "mafatih"
-  },
-  {
-    "id": "ur-822",
-    "name": "زیارت حضرت عباس بن امیرالمومنین علی",
-    "nameAr": "",
-    "category": "ziyarat",
-    "segmentCount": 58,
-    "mafatihId": 822,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام حسین (ع) — کربلا"
   },
   {
     "id": "ur-823",
@@ -2156,7 +2096,8 @@
     "category": "ziyarat",
     "segmentCount": 206,
     "mafatihId": 823,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام حسین (ع) — کربلا"
   },
   {
     "id": "ur-824",
@@ -2165,7 +2106,8 @@
     "category": "ziyarat",
     "segmentCount": 84,
     "mafatihId": 824,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام حسین (ع) — کربلا"
   },
   {
     "id": "ur-825",
@@ -2174,7 +2116,8 @@
     "category": "ziyarat",
     "segmentCount": 61,
     "mafatihId": 825,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام حسین (ع) — کربلا"
   },
   {
     "id": "ur-826",
@@ -2183,7 +2126,8 @@
     "category": "ziyarat",
     "segmentCount": 66,
     "mafatihId": 826,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام حسین (ع) — کربلا"
   },
   {
     "id": "ur-827",
@@ -2192,7 +2136,8 @@
     "category": "ziyarat",
     "segmentCount": 70,
     "mafatihId": 827,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام حسین (ع) — کربلا"
   },
   {
     "id": "ur-828",
@@ -2201,7 +2146,8 @@
     "category": "ziyarat",
     "segmentCount": 31,
     "mafatihId": 828,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام حسین (ع) — کربلا"
   },
   {
     "id": "ur-829",
@@ -2210,7 +2156,8 @@
     "category": "ziyarat",
     "segmentCount": 1,
     "mafatihId": 829,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام حسین (ع) — کربلا"
   },
   {
     "id": "ur-830",
@@ -2219,7 +2166,8 @@
     "category": "ziyarat",
     "segmentCount": 76,
     "mafatihId": 830,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام موسیٰ کاظم (ع)"
   },
   {
     "id": "ur-831",
@@ -2228,25 +2176,8 @@
     "category": "ziyarat",
     "segmentCount": 15,
     "mafatihId": 831,
-    "source": "mafatih"
-  },
-  {
-    "id": "ur-832",
-    "name": "امام محمد تقی - کی مخصوص زیارت",
-    "nameAr": "",
-    "category": "ziyarat",
-    "segmentCount": 46,
-    "mafatihId": 832,
-    "source": "mafatih"
-  },
-  {
-    "id": "ur-833",
-    "name": "امام محمد تقی - کی ایک اور مخصوص زیارت",
-    "nameAr": "",
-    "category": "ziyarat",
-    "segmentCount": 9,
-    "mafatihId": 833,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام موسیٰ کاظم (ع)"
   },
   {
     "id": "ur-834",
@@ -2255,34 +2186,8 @@
     "category": "ziyarat",
     "segmentCount": 28,
     "mafatihId": 834,
-    "source": "mafatih"
-  },
-  {
-    "id": "ur-835",
-    "name": "مسجد براثا میں جانا اور وہاں نمازپڑھنا",
-    "nameAr": "",
-    "category": "ziyarat",
-    "segmentCount": 15,
-    "mafatihId": 835,
-    "source": "mafatih"
-  },
-  {
-    "id": "ur-836",
-    "name": "نواب اربعہ کی زیارت کا طریقہ",
-    "nameAr": "",
-    "category": "ziyarat",
-    "segmentCount": 11,
-    "mafatihId": 836,
-    "source": "mafatih"
-  },
-  {
-    "id": "ur-837",
-    "name": "کیفیت زیارت سلمان فارسی(رض)",
-    "nameAr": "",
-    "category": "ziyarat",
-    "segmentCount": 31,
-    "mafatihId": 837,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام موسیٰ کاظم (ع)"
   },
   {
     "id": "ur-838",
@@ -2291,7 +2196,8 @@
     "category": "ziyarat",
     "segmentCount": 20,
     "mafatihId": 838,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام رضا (ع)"
   },
   {
     "id": "ur-839",
@@ -2300,7 +2206,8 @@
     "category": "ziyarat",
     "segmentCount": 84,
     "mafatihId": 839,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام رضا (ع)"
   },
   {
     "id": "ur-840",
@@ -2309,7 +2216,8 @@
     "category": "ziyarat",
     "segmentCount": 39,
     "mafatihId": 840,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام رضا (ع)"
   },
   {
     "id": "ur-841",
@@ -2318,16 +2226,28 @@
     "category": "ziyarat",
     "segmentCount": 26,
     "mafatihId": 841,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام رضا (ع)"
   },
   {
-    "id": "ur-842",
-    "name": "امام علی نقی و امام حسن عسکری کی زیارت",
+    "id": "ur-832",
+    "name": "امام محمد تقی - کی مخصوص زیارت",
     "nameAr": "",
     "category": "ziyarat",
-    "segmentCount": 23,
-    "mafatihId": 842,
-    "source": "mafatih"
+    "segmentCount": 46,
+    "mafatihId": 832,
+    "source": "mafatih",
+    "subcategory": "امام جواد (ع)"
+  },
+  {
+    "id": "ur-833",
+    "name": "امام محمد تقی - کی ایک اور مخصوص زیارت",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 9,
+    "mafatihId": 833,
+    "source": "mafatih",
+    "subcategory": "امام جواد (ع)"
   },
   {
     "id": "ur-843",
@@ -2336,7 +2256,18 @@
     "category": "ziyarat",
     "segmentCount": 61,
     "mafatihId": 843,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام ہادی (ع)"
+  },
+  {
+    "id": "ur-842",
+    "name": "امام علی نقی و امام حسن عسکری کی زیارت",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 23,
+    "mafatihId": 842,
+    "source": "mafatih",
+    "subcategory": "امام عسکری (ع)"
   },
   {
     "id": "ur-844",
@@ -2345,25 +2276,18 @@
     "category": "ziyarat",
     "segmentCount": 71,
     "mafatihId": 844,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام عسکری (ع)"
   },
   {
-    "id": "ur-845",
-    "name": "زیارت والدہ امام مہدی عج",
+    "id": "ur-836",
+    "name": "نواب اربعہ کی زیارت کا طریقہ",
     "nameAr": "",
     "category": "ziyarat",
-    "segmentCount": 30,
-    "mafatihId": 845,
-    "source": "mafatih"
-  },
-  {
-    "id": "ur-846",
-    "name": "زیارت جناب حکیمہ خاتون",
-    "nameAr": "",
-    "category": "ziyarat",
-    "segmentCount": 27,
-    "mafatihId": 846,
-    "source": "mafatih"
+    "segmentCount": 11,
+    "mafatihId": 836,
+    "source": "mafatih",
+    "subcategory": "امام مہدی (عج)"
   },
   {
     "id": "ur-847",
@@ -2372,7 +2296,8 @@
     "category": "ziyarat",
     "segmentCount": 5,
     "mafatihId": 847,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام مہدی (عج)"
   },
   {
     "id": "ur-848",
@@ -2381,7 +2306,8 @@
     "category": "ziyarat",
     "segmentCount": 49,
     "mafatihId": 848,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام مہدی (عج)"
   },
   {
     "id": "ur-849",
@@ -2390,7 +2316,8 @@
     "category": "ziyarat",
     "segmentCount": 76,
     "mafatihId": 849,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام مہدی (عج)"
   },
   {
     "id": "ur-850",
@@ -2399,7 +2326,8 @@
     "category": "ziyarat",
     "segmentCount": 26,
     "mafatihId": 850,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام مہدی (عج)"
   },
   {
     "id": "ur-851",
@@ -2408,7 +2336,8 @@
     "category": "ziyarat",
     "segmentCount": 20,
     "mafatihId": 851,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام مہدی (عج)"
   },
   {
     "id": "ur-852",
@@ -2417,61 +2346,48 @@
     "category": "ziyarat",
     "segmentCount": 11,
     "mafatihId": 852,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام مہدی (عج)"
   },
   {
-    "id": "ur-853",
-    "name": "زیارت جامعہ صغیرہ",
+    "id": "ur-822",
+    "name": "زیارت حضرت عباس بن امیرالمومنین علی",
     "nameAr": "",
     "category": "ziyarat",
-    "segmentCount": 12,
-    "mafatihId": 853,
-    "source": "mafatih"
+    "segmentCount": 58,
+    "mafatihId": 822,
+    "source": "mafatih",
+    "subcategory": "دیگر بزرگانِ دین"
   },
   {
-    "id": "ur-854",
-    "name": "زیارت جامعہ کبیرہ",
+    "id": "ur-837",
+    "name": "کیفیت زیارت سلمان فارسی(رض)",
     "nameAr": "",
     "category": "ziyarat",
-    "segmentCount": 115,
-    "mafatihId": 854,
-    "source": "mafatih"
+    "segmentCount": 31,
+    "mafatihId": 837,
+    "source": "mafatih",
+    "subcategory": "دیگر بزرگانِ دین"
   },
   {
-    "id": "ur-855",
-    "name": "تیسری زیارت جامعہ",
-    "nameAr": "",
-    "category": "ziyarat",
-    "segmentCount": 26,
-    "mafatihId": 855,
-    "source": "mafatih"
-  },
-  {
-    "id": "ur-856",
-    "name": "چوتھی اور پانچویں زیارت جامعہ",
-    "nameAr": "",
-    "category": "ziyarat",
-    "segmentCount": 6,
-    "mafatihId": 856,
-    "source": "mafatih"
-  },
-  {
-    "id": "ur-857",
-    "name": "دعا بعد از زیارت",
+    "id": "ur-845",
+    "name": "زیارت والدہ امام مہدی عج",
     "nameAr": "",
     "category": "ziyarat",
     "segmentCount": 30,
-    "mafatihId": 857,
-    "source": "mafatih"
+    "mafatihId": 845,
+    "source": "mafatih",
+    "subcategory": "دیگر بزرگانِ دین"
   },
   {
-    "id": "ur-858",
-    "name": "زیارت انبیائ",
+    "id": "ur-846",
+    "name": "زیارت جناب حکیمہ خاتون",
     "nameAr": "",
     "category": "ziyarat",
-    "segmentCount": 4,
-    "mafatihId": 858,
-    "source": "mafatih"
+    "segmentCount": 27,
+    "mafatihId": 846,
+    "source": "mafatih",
+    "subcategory": "دیگر بزرگانِ دین"
   },
   {
     "id": "ur-859",
@@ -2480,7 +2396,8 @@
     "category": "ziyarat",
     "segmentCount": 27,
     "mafatihId": 859,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "دیگر بزرگانِ دین"
   },
   {
     "id": "ur-860",
@@ -2489,7 +2406,8 @@
     "category": "ziyarat",
     "segmentCount": 30,
     "mafatihId": 860,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "دیگر بزرگانِ دین"
   },
   {
     "id": "ur-861",
@@ -2498,7 +2416,128 @@
     "category": "ziyarat",
     "segmentCount": 1,
     "mafatihId": 861,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "دیگر بزرگانِ دین"
+  },
+  {
+    "id": "ur-790",
+    "name": "زیارات ائمہ کے آداب",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 34,
+    "mafatihId": 790,
+    "source": "mafatih",
+    "subcategory": "عمومی زیارات"
+  },
+  {
+    "id": "ur-791",
+    "name": "تمام حرم ہائے مبارکہ کیلئے اذن دخول",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 48,
+    "mafatihId": 791,
+    "source": "mafatih",
+    "subcategory": "عمومی زیارات"
+  },
+  {
+    "id": "ur-797",
+    "name": "زیارت معصومین روز جمعہ",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 12,
+    "mafatihId": 797,
+    "source": "mafatih",
+    "subcategory": "عمومی زیارات"
+  },
+  {
+    "id": "ur-799",
+    "name": "زیارات ائمہ بقیع",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 38,
+    "mafatihId": 799,
+    "source": "mafatih",
+    "subcategory": "عمومی زیارات"
+  },
+  {
+    "id": "ur-804",
+    "name": "نماز و زیارت آدم و نوح",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 28,
+    "mafatihId": 804,
+    "source": "mafatih",
+    "subcategory": "عمومی زیارات"
+  },
+  {
+    "id": "ur-808",
+    "name": "زیارت امین اللہ",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 29,
+    "mafatihId": 808,
+    "source": "mafatih",
+    "subcategory": "عمومی زیارات"
+  },
+  {
+    "id": "ur-853",
+    "name": "زیارت جامعہ صغیرہ",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 12,
+    "mafatihId": 853,
+    "source": "mafatih",
+    "subcategory": "عمومی زیارات"
+  },
+  {
+    "id": "ur-854",
+    "name": "زیارت جامعہ کبیرہ",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 115,
+    "mafatihId": 854,
+    "source": "mafatih",
+    "subcategory": "عمومی زیارات"
+  },
+  {
+    "id": "ur-855",
+    "name": "تیسری زیارت جامعہ",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 26,
+    "mafatihId": 855,
+    "source": "mafatih",
+    "subcategory": "عمومی زیارات"
+  },
+  {
+    "id": "ur-856",
+    "name": "چوتھی اور پانچویں زیارت جامعہ",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 6,
+    "mafatihId": 856,
+    "source": "mafatih",
+    "subcategory": "عمومی زیارات"
+  },
+  {
+    "id": "ur-857",
+    "name": "دعا بعد از زیارت",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 30,
+    "mafatihId": 857,
+    "source": "mafatih",
+    "subcategory": "عمومی زیارات"
+  },
+  {
+    "id": "ur-858",
+    "name": "زیارت انبیائ",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 4,
+    "mafatihId": 858,
+    "source": "mafatih",
+    "subcategory": "عمومی زیارات"
   },
   {
     "id": "ur-862",
@@ -2507,7 +2546,8 @@
     "category": "ziyarat",
     "segmentCount": 23,
     "mafatihId": 862,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "عمومی زیارات"
   },
   {
     "id": "ur-863",
@@ -2516,7 +2556,8 @@
     "category": "ziyarat",
     "segmentCount": 130,
     "mafatihId": 863,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "عمومی زیارات"
   },
   {
     "id": "ur-864",
@@ -2525,7 +2566,68 @@
     "category": "ziyarat",
     "segmentCount": 22,
     "mafatihId": 864,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "عمومی زیارات"
+  },
+  {
+    "id": "ur-792",
+    "name": "مدینہ کی زیارات",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 6,
+    "mafatihId": 792,
+    "source": "mafatih",
+    "subcategory": "مقدس مقامات اور مساجد"
+  },
+  {
+    "id": "ur-800",
+    "name": "ذکر زیارات مدینہ",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 114,
+    "mafatihId": 800,
+    "source": "mafatih",
+    "subcategory": "مقدس مقامات اور مساجد"
+  },
+  {
+    "id": "ur-801",
+    "name": "مدینہ منورہ کی باعظمت مساجد کاتذکرہ",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 21,
+    "mafatihId": 801,
+    "source": "mafatih",
+    "subcategory": "مقدس مقامات اور مساجد"
+  },
+  {
+    "id": "ur-807",
+    "name": "زیارت امام حسین مسجد حنانہ",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 5,
+    "mafatihId": 807,
+    "source": "mafatih",
+    "subcategory": "مقدس مقامات اور مساجد"
+  },
+  {
+    "id": "ur-818",
+    "name": "مسجد کوفہ اور دیگر مساجد کے کام",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 417,
+    "mafatihId": 818,
+    "source": "mafatih",
+    "subcategory": "مقدس مقامات اور مساجد"
+  },
+  {
+    "id": "ur-835",
+    "name": "مسجد براثا میں جانا اور وہاں نمازپڑھنا",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 15,
+    "mafatihId": 835,
+    "source": "mafatih",
+    "subcategory": "مقدس مقامات اور مساجد"
   },
   {
     "id": "ur-866",
@@ -2534,7 +2636,8 @@
     "category": "major",
     "segmentCount": 7,
     "mafatihId": 866,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مختصر دعائیں"
   },
   {
     "id": "ur-867",
@@ -2543,7 +2646,8 @@
     "category": "munajat",
     "segmentCount": 67,
     "mafatihId": 867,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "خصوصی مناجات"
   },
   {
     "id": "ur-868",
@@ -2552,7 +2656,8 @@
     "category": "major",
     "segmentCount": 41,
     "mafatihId": 868,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مشہور دعائیں"
   },
   {
     "id": "ur-869",
@@ -2561,7 +2666,8 @@
     "category": "major",
     "segmentCount": 84,
     "mafatihId": 869,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مشہور دعائیں"
   },
   {
     "id": "ur-870",
@@ -2570,7 +2676,8 @@
     "category": "major",
     "segmentCount": 47,
     "mafatihId": 870,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مشہور دعائیں"
   },
   {
     "id": "ur-871",
@@ -2579,7 +2686,8 @@
     "category": "major",
     "segmentCount": 17,
     "mafatihId": 871,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "خصوصی دعائیں"
   },
   {
     "id": "ur-872",
@@ -2588,7 +2696,8 @@
     "category": "major",
     "segmentCount": 9,
     "mafatihId": 872,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مختصر دعائیں"
   },
   {
     "id": "ur-873",
@@ -2597,7 +2706,8 @@
     "category": "major",
     "segmentCount": 102,
     "mafatihId": 873,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "ائمہ کی تعلیمات"
   },
   {
     "id": "ur-874",
@@ -2606,7 +2716,8 @@
     "category": "major",
     "segmentCount": 95,
     "mafatihId": 874,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "خصوصی دعائیں"
   },
   {
     "id": "ur-875",
@@ -2615,7 +2726,8 @@
     "category": "major",
     "segmentCount": 107,
     "mafatihId": 875,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مشہور دعائیں"
   },
   {
     "id": "ur-876",
@@ -2624,7 +2736,8 @@
     "category": "major",
     "segmentCount": 45,
     "mafatihId": 876,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مشہور دعائیں"
   },
   {
     "id": "ur-877",
@@ -2633,7 +2746,8 @@
     "category": "major",
     "segmentCount": 30,
     "mafatihId": 877,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام مہدی (عج)"
   },
   {
     "id": "ur-878",
@@ -2642,7 +2756,8 @@
     "category": "major",
     "segmentCount": 48,
     "mafatihId": 878,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مشہور دعائیں"
   },
   {
     "id": "ur-879",
@@ -2651,7 +2766,8 @@
     "category": "major",
     "segmentCount": 88,
     "mafatihId": 879,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مشہور دعائیں"
   },
   {
     "id": "ur-880",
@@ -2660,7 +2776,8 @@
     "category": "major",
     "segmentCount": 59,
     "mafatihId": 880,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "خصوصی دعائیں"
   },
   {
     "id": "ur-881",
@@ -2669,7 +2786,8 @@
     "category": "major",
     "segmentCount": 118,
     "mafatihId": 881,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام مہدی (عج)"
   },
   {
     "id": "ur-882",
@@ -2678,7 +2796,8 @@
     "category": "major",
     "segmentCount": 93,
     "mafatihId": 882,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "خصوصی دعائیں"
   },
   {
     "id": "ur-883",
@@ -2687,7 +2806,8 @@
     "category": "major",
     "segmentCount": 25,
     "mafatihId": 883,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "صبح و شام کی دعائیں"
   },
   {
     "id": "ur-884",
@@ -2696,7 +2816,8 @@
     "category": "major",
     "segmentCount": 29,
     "mafatihId": 884,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "صبح و شام کی دعائیں"
   },
   {
     "id": "ur-885",
@@ -2705,7 +2826,8 @@
     "category": "major",
     "segmentCount": 28,
     "mafatihId": 885,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "خصوصی دعائیں"
   },
   {
     "id": "ur-886",
@@ -2714,7 +2836,8 @@
     "category": "major",
     "segmentCount": 66,
     "mafatihId": 886,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "خصوصی دعائیں"
   },
   {
     "id": "ur-887",
@@ -2723,7 +2846,8 @@
     "category": "major",
     "segmentCount": 15,
     "mafatihId": 887,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "صبح و شام کی دعائیں"
   },
   {
     "id": "ur-888",
@@ -2732,7 +2856,8 @@
     "category": "major",
     "segmentCount": 89,
     "mafatihId": 888,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "صبح و شام کی دعائیں"
   },
   {
     "id": "ur-889",
@@ -2741,7 +2866,8 @@
     "category": "major",
     "segmentCount": 62,
     "mafatihId": 889,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "روزانہ حاجات"
   },
   {
     "id": "ur-890",
@@ -2750,7 +2876,8 @@
     "category": "special_needs",
     "segmentCount": 387,
     "mafatihId": 890,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "عمومی حاجات"
   },
   {
     "id": "ur-891",
@@ -2759,7 +2886,8 @@
     "category": "major",
     "segmentCount": 97,
     "mafatihId": 891,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "حفاظت اور بخشش"
   },
   {
     "id": "ur-892",
@@ -2768,7 +2896,8 @@
     "category": "special_needs",
     "segmentCount": 90,
     "mafatihId": 892,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "صحت اور حفاظت"
   },
   {
     "id": "ur-893",
@@ -2777,7 +2906,8 @@
     "category": "munajat",
     "segmentCount": 14,
     "mafatihId": 893,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مناجات نجویٰ"
   },
   {
     "id": "ur-894",
@@ -2786,7 +2916,8 @@
     "category": "munajat",
     "segmentCount": 19,
     "mafatihId": 894,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مناجات نجویٰ"
   },
   {
     "id": "ur-895",
@@ -2795,7 +2926,8 @@
     "category": "munajat",
     "segmentCount": 12,
     "mafatihId": 895,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مناجات نجویٰ"
   },
   {
     "id": "ur-896",
@@ -2804,7 +2936,8 @@
     "category": "munajat",
     "segmentCount": 17,
     "mafatihId": 896,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مناجات نجویٰ"
   },
   {
     "id": "ur-897",
@@ -2813,7 +2946,8 @@
     "category": "munajat",
     "segmentCount": 11,
     "mafatihId": 897,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مناجات نجویٰ"
   },
   {
     "id": "ur-898",
@@ -2822,7 +2956,8 @@
     "category": "munajat",
     "segmentCount": 14,
     "mafatihId": 898,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مناجات نجویٰ"
   },
   {
     "id": "ur-899",
@@ -2831,7 +2966,8 @@
     "category": "munajat",
     "segmentCount": 15,
     "mafatihId": 899,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مناجات نجویٰ"
   },
   {
     "id": "ur-900",
@@ -2840,7 +2976,8 @@
     "category": "munajat",
     "segmentCount": 12,
     "mafatihId": 900,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مناجات نجویٰ"
   },
   {
     "id": "ur-901",
@@ -2849,7 +2986,8 @@
     "category": "munajat",
     "segmentCount": 12,
     "mafatihId": 901,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مناجات نجویٰ"
   },
   {
     "id": "ur-902",
@@ -2858,7 +2996,8 @@
     "category": "munajat",
     "segmentCount": 10,
     "mafatihId": 902,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مناجات نجویٰ"
   },
   {
     "id": "ur-903",
@@ -2867,7 +3006,8 @@
     "category": "major",
     "segmentCount": 93,
     "mafatihId": 903,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام مہدی (عج)"
   },
   {
     "id": "ur-905",
@@ -2936,7 +3076,8 @@
     "category": "major",
     "segmentCount": 20,
     "mafatihId": 912,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "قرآن اور استغفار"
   },
   {
     "id": "ur-913",
@@ -2945,7 +3086,8 @@
     "category": "major",
     "segmentCount": 52,
     "mafatihId": 913,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "قرآن اور استغفار"
   },
   {
     "id": "ur-914",
@@ -2954,7 +3096,8 @@
     "category": "major",
     "segmentCount": 301,
     "mafatihId": 914,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مشہور دعائیں"
   },
   {
     "id": "ur-915",
@@ -2963,7 +3106,8 @@
     "category": "munajat",
     "segmentCount": 35,
     "mafatihId": 915,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "خصوصی مناجات"
   },
   {
     "id": "ur-916",
@@ -2972,7 +3116,8 @@
     "category": "major",
     "segmentCount": 75,
     "mafatihId": 916,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مشہور دعائیں"
   },
   {
     "id": "ur-917",
@@ -2981,7 +3126,8 @@
     "category": "major",
     "segmentCount": 164,
     "mafatihId": 917,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مشہور دعائیں"
   },
   {
     "id": "ur-918",
@@ -2990,7 +3136,8 @@
     "category": "major",
     "segmentCount": 11,
     "mafatihId": 918,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "خصوصی دعائیں"
   },
   {
     "id": "ur-919",
@@ -2999,7 +3146,8 @@
     "category": "major",
     "segmentCount": 102,
     "mafatihId": 919,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "صبح و شام کی دعائیں"
   },
   {
     "id": "ur-920",
@@ -3008,7 +3156,8 @@
     "category": "special_needs",
     "segmentCount": 5,
     "mafatihId": 920,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "عمومی حاجات"
   },
   {
     "id": "ur-921",
@@ -3017,7 +3166,8 @@
     "category": "major",
     "segmentCount": 43,
     "mafatihId": 921,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "حفاظت اور بخشش"
   },
   {
     "id": "ur-922",
@@ -3026,7 +3176,8 @@
     "category": "major",
     "segmentCount": 83,
     "mafatihId": 922,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "خصوصی دعائیں"
   },
   {
     "id": "ur-924",
@@ -3085,7 +3236,8 @@
     "category": "major",
     "segmentCount": 16,
     "mafatihId": 929,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "صبح و شام کی دعائیں"
   },
   {
     "id": "ur-930",
@@ -3094,7 +3246,8 @@
     "category": "major",
     "segmentCount": 22,
     "mafatihId": 930,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مختصر دعائیں"
   },
   {
     "id": "ur-931",
@@ -3103,7 +3256,8 @@
     "category": "major",
     "segmentCount": 5,
     "mafatihId": 931,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مشہور دعائیں"
   },
   {
     "id": "ur-932",
@@ -3112,7 +3266,8 @@
     "category": "major",
     "segmentCount": 25,
     "mafatihId": 932,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مشہور دعائیں"
   },
   {
     "id": "ur-933",
@@ -3121,7 +3276,8 @@
     "category": "major",
     "segmentCount": 11,
     "mafatihId": 933,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام مہدی (عج)"
   },
   {
     "id": "ur-934",
@@ -3130,7 +3286,8 @@
     "category": "special_needs",
     "segmentCount": 7,
     "mafatihId": 934,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "صحت اور حفاظت"
   },
   {
     "id": "ur-935",
@@ -3139,7 +3296,8 @@
     "category": "special_needs",
     "segmentCount": 16,
     "mafatihId": 935,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "صحت اور حفاظت"
   },
   {
     "id": "ur-936",
@@ -3148,7 +3306,8 @@
     "category": "major",
     "segmentCount": 3,
     "mafatihId": 936,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "ائمہ کی تعلیمات"
   },
   {
     "id": "ur-937",
@@ -3157,7 +3316,8 @@
     "category": "major",
     "segmentCount": 13,
     "mafatihId": 937,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مختصر دعائیں"
   },
   {
     "id": "ur-938",
@@ -3166,7 +3326,8 @@
     "category": "major",
     "segmentCount": 17,
     "mafatihId": 938,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "حفاظت اور بخشش"
   },
   {
     "id": "ur-939",
@@ -3175,7 +3336,8 @@
     "category": "major",
     "segmentCount": 30,
     "mafatihId": 939,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام مہدی (عج)"
   },
   {
     "id": "ur-940",
@@ -3184,7 +3346,8 @@
     "category": "special_needs",
     "segmentCount": 6,
     "mafatihId": 940,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "عمومی حاجات"
   },
   {
     "id": "ur-941",
@@ -3193,7 +3356,8 @@
     "category": "major",
     "segmentCount": 3,
     "mafatihId": 941,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "خصوصی دعائیں"
   },
   {
     "id": "ur-942",
@@ -3202,7 +3366,8 @@
     "category": "major",
     "segmentCount": 6,
     "mafatihId": 942,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "خصوصی دعائیں"
   },
   {
     "id": "ur-943",
@@ -3211,7 +3376,8 @@
     "category": "major",
     "segmentCount": 43,
     "mafatihId": 943,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "قرآن اور استغفار"
   },
   {
     "id": "ur-944",
@@ -3220,7 +3386,8 @@
     "category": "special_needs",
     "segmentCount": 230,
     "mafatihId": 944,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "صحت اور حفاظت"
   },
   {
     "id": "ur-945",
@@ -3229,7 +3396,8 @@
     "category": "major",
     "segmentCount": 5,
     "mafatihId": 945,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "حفاظت اور بخشش"
   },
   {
     "id": "ur-946",
@@ -3238,7 +3406,8 @@
     "category": "major",
     "segmentCount": 3,
     "mafatihId": 946,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "حفاظت اور بخشش"
   },
   {
     "id": "ur-947",
@@ -3247,7 +3416,8 @@
     "category": "major",
     "segmentCount": 10,
     "mafatihId": 947,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "حفاظت اور بخشش"
   },
   {
     "id": "ur-948",
@@ -3256,7 +3426,8 @@
     "category": "major",
     "segmentCount": 5,
     "mafatihId": 948,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "حفاظت اور بخشش"
   },
   {
     "id": "ur-949",
@@ -3265,7 +3436,8 @@
     "category": "major",
     "segmentCount": 3,
     "mafatihId": 949,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "حفاظت اور بخشش"
   },
   {
     "id": "ur-950",
@@ -3274,7 +3446,8 @@
     "category": "major",
     "segmentCount": 3,
     "mafatihId": 950,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "حفاظت اور بخشش"
   },
   {
     "id": "ur-951",
@@ -3283,7 +3456,8 @@
     "category": "major",
     "segmentCount": 19,
     "mafatihId": 951,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "حفاظت اور بخشش"
   },
   {
     "id": "ur-952",
@@ -3292,7 +3466,8 @@
     "category": "major",
     "segmentCount": 1,
     "mafatihId": 952,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "حفاظت اور بخشش"
   },
   {
     "id": "ur-953",
@@ -3301,7 +3476,8 @@
     "category": "special_needs",
     "segmentCount": 14,
     "mafatihId": 953,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "صحت اور حفاظت"
   },
   {
     "id": "ur-954",
@@ -3310,7 +3486,8 @@
     "category": "major",
     "segmentCount": 4,
     "mafatihId": 954,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "حفاظت اور بخشش"
   },
   {
     "id": "ur-955",
@@ -3319,7 +3496,8 @@
     "category": "special_needs",
     "segmentCount": 3,
     "mafatihId": 955,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "صحت اور حفاظت"
   },
   {
     "id": "ur-956",
@@ -3328,7 +3506,8 @@
     "category": "major",
     "segmentCount": 6,
     "mafatihId": 956,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مشہور دعائیں"
   },
   {
     "id": "ur-957",
@@ -3337,7 +3516,8 @@
     "category": "special_needs",
     "segmentCount": 6,
     "mafatihId": 957,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "صحت اور حفاظت"
   },
   {
     "id": "ur-958",
@@ -3346,7 +3526,8 @@
     "category": "special_needs",
     "segmentCount": 5,
     "mafatihId": 958,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "صحت اور حفاظت"
   },
   {
     "id": "ur-959",
@@ -3355,7 +3536,8 @@
     "category": "major",
     "segmentCount": 15,
     "mafatihId": 959,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "خصوصی دعائیں"
   },
   {
     "id": "ur-960",
@@ -3364,7 +3546,8 @@
     "category": "special_needs",
     "segmentCount": 2,
     "mafatihId": 960,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "صحت اور حفاظت"
   },
   {
     "id": "ur-961",
@@ -3373,7 +3556,8 @@
     "category": "special_needs",
     "segmentCount": 4,
     "mafatihId": 961,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "صحت اور حفاظت"
   },
   {
     "id": "ur-962",
@@ -3382,7 +3566,8 @@
     "category": "special_needs",
     "segmentCount": 3,
     "mafatihId": 962,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "امام مہدی (عج)"
   },
   {
     "id": "ur-963",
@@ -3391,7 +3576,8 @@
     "category": "major",
     "segmentCount": 14,
     "mafatihId": 963,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مختصر دعائیں"
   },
   {
     "id": "ur-964",
@@ -3400,7 +3586,8 @@
     "category": "major",
     "segmentCount": 7,
     "mafatihId": 964,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "حفاظت اور بخشش"
   },
   {
     "id": "ur-965",
@@ -3409,7 +3596,8 @@
     "category": "major",
     "segmentCount": 3,
     "mafatihId": 965,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "خصوصی دعائیں"
   },
   {
     "id": "ur-966",
@@ -3418,7 +3606,8 @@
     "category": "major",
     "segmentCount": 2,
     "mafatihId": 966,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "خصوصی دعائیں"
   },
   {
     "id": "ur-967",
@@ -3427,7 +3616,8 @@
     "category": "major",
     "segmentCount": 6,
     "mafatihId": 967,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "خصوصی دعائیں"
   },
   {
     "id": "ur-968",
@@ -3436,7 +3626,8 @@
     "category": "major",
     "segmentCount": 5,
     "mafatihId": 968,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "خصوصی دعائیں"
   },
   {
     "id": "ur-969",
@@ -3445,7 +3636,8 @@
     "category": "major",
     "segmentCount": 3,
     "mafatihId": 969,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "خصوصی دعائیں"
   },
   {
     "id": "ur-970",
@@ -3454,7 +3646,8 @@
     "category": "major",
     "segmentCount": 5,
     "mafatihId": 970,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "حفاظت اور بخشش"
   },
   {
     "id": "ur-971",
@@ -3463,7 +3656,8 @@
     "category": "major",
     "segmentCount": 2,
     "mafatihId": 971,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "خصوصی دعائیں"
   },
   {
     "id": "ur-972",
@@ -3472,7 +3666,8 @@
     "category": "major",
     "segmentCount": 11,
     "mafatihId": 972,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "خصوصی دعائیں"
   },
   {
     "id": "ur-973",
@@ -3481,7 +3676,8 @@
     "category": "major",
     "segmentCount": 11,
     "mafatihId": 973,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "خصوصی دعائیں"
   },
   {
     "id": "ur-974",
@@ -3490,7 +3686,8 @@
     "category": "major",
     "segmentCount": 7,
     "mafatihId": 974,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "خصوصی دعائیں"
   },
   {
     "id": "ur-975",
@@ -3499,7 +3696,8 @@
     "category": "major",
     "segmentCount": 19,
     "mafatihId": 975,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "حفاظت اور بخشش"
   },
   {
     "id": "ur-976",
@@ -3508,7 +3706,8 @@
     "category": "munajat",
     "segmentCount": 15,
     "mafatihId": 976,
-    "source": "mafatih"
+    "source": "mafatih",
+    "subcategory": "مناجات نجویٰ"
   },
   {
     "id": "ur-sahife-3862",
@@ -3516,7 +3715,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 8,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3863",
@@ -3524,7 +3724,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 9,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3864",
@@ -3532,7 +3733,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 7,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3865",
@@ -3540,7 +3742,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 6,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3866",
@@ -3548,7 +3751,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 5,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3867",
@@ -3556,7 +3760,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 5,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3868",
@@ -3564,7 +3769,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 3,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3870",
@@ -3572,7 +3778,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 24,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3871",
@@ -3580,7 +3787,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 7,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3872",
@@ -3588,7 +3796,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 13,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3873",
@@ -3596,7 +3805,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 8,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3874",
@@ -3604,7 +3814,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 16,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3875",
@@ -3612,7 +3823,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 20,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3876",
@@ -3620,7 +3832,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 9,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3877",
@@ -3628,7 +3841,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 9,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3878",
@@ -3636,7 +3850,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 6,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3879",
@@ -3644,7 +3859,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 6,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3880",
@@ -3652,7 +3868,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 6,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3881",
@@ -3660,7 +3877,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 17,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3882",
@@ -3668,7 +3886,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 14,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3883",
@@ -3676,7 +3895,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 14,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3884",
@@ -3684,7 +3904,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 8,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3885",
@@ -3692,7 +3913,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 20,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3886",
@@ -3700,7 +3922,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 16,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3887",
@@ -3708,7 +3931,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 4,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3888",
@@ -3716,7 +3940,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 8,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3889",
@@ -3724,7 +3949,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 32,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3890",
@@ -3732,7 +3958,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 12,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3891",
@@ -3740,7 +3967,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 12,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3892",
@@ -3748,7 +3976,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 6,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3893",
@@ -3756,7 +3985,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 14,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3894",
@@ -3764,7 +3994,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 16,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3895",
@@ -3772,7 +4003,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 5,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3896",
@@ -3780,7 +4012,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 19,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3897",
@@ -3788,7 +4021,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 6,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3898",
@@ -3796,7 +4030,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 4,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3899",
@@ -3804,7 +4039,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 7,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3900",
@@ -3812,7 +4048,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 24,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3901",
@@ -3820,7 +4057,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 19,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3902",
@@ -3828,7 +4066,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 5,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3903",
@@ -3836,7 +4075,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 6,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3904",
@@ -3844,7 +4084,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 6,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3905",
@@ -3852,7 +4093,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 7,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3906",
@@ -3860,7 +4102,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 10,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3907",
@@ -3868,7 +4111,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 5,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3908",
@@ -3876,7 +4120,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 5,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3909",
@@ -3884,7 +4129,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 20,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3910",
@@ -3892,7 +4138,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 5,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3911",
@@ -3900,7 +4147,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 19,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3912",
@@ -3908,7 +4156,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 44,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3913",
@@ -3916,7 +4165,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 14,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3914",
@@ -3924,7 +4174,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 94,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3915",
@@ -3932,7 +4183,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 31,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3916",
@@ -3940,7 +4192,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 16,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3917",
@@ -3948,7 +4201,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 7,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3918",
@@ -3956,7 +4210,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 10,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3919",
@@ -3964,7 +4219,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 10,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3920",
@@ -3972,7 +4228,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 8,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3921",
@@ -3980,7 +4237,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 11,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3922",
@@ -3988,7 +4246,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 6,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3923",
@@ -3996,7 +4255,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 8,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3924",
@@ -4004,7 +4264,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 12,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3925",
@@ -4012,7 +4273,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 2,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3926",
@@ -4020,7 +4282,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 3,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3927",
@@ -4028,7 +4291,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 8,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3928",
@@ -4036,7 +4300,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 6,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3929",
@@ -4044,7 +4309,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 12,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3930",
@@ -4052,7 +4318,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 6,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3932",
@@ -4060,7 +4327,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 22,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3933",
@@ -4068,7 +4336,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 14,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3934",
@@ -4076,7 +4345,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 17,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3935",
@@ -4084,7 +4354,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 17,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3936",
@@ -4092,7 +4363,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 20,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3937",
@@ -4100,7 +4372,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 17,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3938",
@@ -4108,7 +4381,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 12,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3939",
@@ -4116,7 +4390,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 20,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3940",
@@ -4124,7 +4399,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 18,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3941",
@@ -4132,7 +4408,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 11,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3942",
@@ -4140,7 +4417,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 18,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3943",
@@ -4148,7 +4426,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 18,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3944",
@@ -4156,7 +4435,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 17,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3945",
@@ -4164,7 +4444,8 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 15,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   },
   {
     "id": "ur-sahife-3946",
@@ -4172,6 +4453,7 @@
     "nameAr": "",
     "category": "sahifa",
     "segmentCount": 11,
-    "source": "sahife"
+    "source": "sahife",
+    "subcategory": "صحیفہ سجادیہ"
   }
 ]
