@@ -70648,7 +70648,7 @@
     "id": "ziyarat-al-ansar",
     "name": "Ziyarat of the Martyrs of Karbala (al-Ansar)",
     "category": "ziyarat",
-    "segmentCount": 14,
+    "segmentCount": 13,
     "url": "https://www.duas.org/mobile/ziyarat-imam-hussain-as-shrine.html",
     "source": "duas.org",
     "subcategory": "Other Holy Figures",
@@ -70768,15 +70768,6 @@
         "transliteration": "fayalaytani kuntu ma`akum fa'afuza ma`akum",
         "translation": {
           "en": "Would that I were with you so that I could also share the accomplishment with you."
-        }
-      },
-      {
-        "number": 14,
-        "type": "content",
-        "arabic": "فَيَا لَيْتَنِي كُنْتُ مَعَكُمْ فَأَفُوزَ مَعَكُمْ",
-        "transliteration": "",
-        "translation": {
-          "en": "Oh, would that I had been with you, so that I could have attained the great triumph alongside you."
         }
       }
     ]

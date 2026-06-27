@@ -1,7 +1,7 @@
 {
-  "version": "2026-06-27T20:55:01.845Z",
+  "version": "2026-06-27T21:31:15.160Z",
   "files": {
-    "duas_index.json": "e6966703f4b6e3b1",
+    "duas_index.json": "792317bb9ac8b1dc",
     "dua_audio.json": "ecf4fdcdea6c31fd",
     "dua_reciters.json": "c2b1a2c1dde3646f",
     "dua_audio_timestamps.json": "475aae56f6adde97",
@@ -10,7 +10,7 @@
     "duas/special_needs.json": "6ced12734fa131ed",
     "duas/weekday.json": "1824a64dbe1c5a1b",
     "duas/taqeebat.json": "b5ee42d88894f233",
-    "duas/ziyarat.json": "dc916eec448cbaeb",
+    "duas/ziyarat.json": "bf6d9f9c02ca158c",
     "duas/sahifa.json": "257518c268bc13c5",
     "duas/munajat.json": "a074eab33f305631",
     "duas/salawaat.json": "705dde4a45f8f88e",
