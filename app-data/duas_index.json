@@ -4795,5 +4795,47 @@
     "segmentCount": 4,
     "subcategory": "Evil & Evil eye",
     "source": "practical"
+  },
+  {
+    "id": "ziyarat-al-ansar",
+    "name": "Ziyarat of the Martyrs of Karbala (al-Ansar)",
+    "category": "ziyarat",
+    "segmentCount": 14,
+    "subcategory": "Other Holy Figures"
+  },
+  {
+    "id": "ziyarat-ali-al-akbar",
+    "name": "Ziyarat of Ali al-Akbar (as)",
+    "category": "ziyarat",
+    "segmentCount": 15,
+    "subcategory": "Other Holy Figures"
+  },
+  {
+    "id": "ziyarat-habib-ibn-mazahir",
+    "name": "Ziyarat of Habib ibn Mazahir (ra)",
+    "category": "ziyarat",
+    "segmentCount": 4,
+    "subcategory": "Other Holy Figures"
+  },
+  {
+    "id": "ziyarat-maytham-al-tammar",
+    "name": "Ziyarat of Maytham al-Tammar (ra)",
+    "category": "ziyarat",
+    "segmentCount": 10,
+    "subcategory": "Other Holy Figures"
+  },
+  {
+    "id": "ziyarat-al-mukhayyam",
+    "name": "Dua at al-Mukhayyam (the Camps of Imam Hussain)",
+    "category": "ziyarat",
+    "segmentCount": 13,
+    "subcategory": "Holy Sites & Mosques"
+  },
+  {
+    "id": "ziyarat-masjid-al-hannana",
+    "name": "Ziyarat at Masjid al-Hannana (Imam Mahdi)",
+    "category": "ziyarat",
+    "segmentCount": 22,
+    "subcategory": "Holy Sites & Mosques"
   }
 ]
