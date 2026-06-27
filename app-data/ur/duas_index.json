@@ -4455,5 +4455,50 @@
     "segmentCount": 11,
     "source": "sahife",
     "subcategory": "صحیفہ سجادیہ"
+  },
+  {
+    "id": "ur-3947",
+    "name": "زیارت حضرت علی اکبر (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 15,
+    "source": "mafatih.net",
+    "subcategory": "دیگر بزرگانِ دین"
+  },
+  {
+    "id": "ur-3948",
+    "name": "زیارت شہدائے کربلا",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 13,
+    "source": "imamiajantri.com",
+    "subcategory": "دیگر بزرگانِ دین"
+  },
+  {
+    "id": "ur-3949",
+    "name": "زیارت حبیب ابن مظاہر",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 4,
+    "source": "ziaraat.com",
+    "subcategory": "دیگر بزرگانِ دین"
+  },
+  {
+    "id": "ur-3950",
+    "name": "دعائے مخیّم الحسین (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 14,
+    "source": "mafatih.net",
+    "subcategory": "مقدس مقامات اور مساجد"
+  },
+  {
+    "id": "ur-3951",
+    "name": "استغاثہ بحضور امام مہدی (عج) — مسجد حنانہ",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 22,
+    "source": "mafatih.net",
+    "subcategory": "مقدس مقامات اور مساجد"
   }
 ]

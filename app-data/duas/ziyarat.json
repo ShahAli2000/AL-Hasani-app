@@ -71070,7 +71070,7 @@
     "id": "ziyarat-al-mukhayyam",
     "name": "Dua at al-Mukhayyam (the Camps of Imam Hussain)",
     "category": "ziyarat",
-    "segmentCount": 13,
+    "segmentCount": 14,
     "url": "",
     "source": "mafatih",
     "subcategory": "Holy Sites & Mosques",
@@ -71190,6 +71190,15 @@
         "transliteration": "",
         "translation": {
           "en": "and relief of disasters."
+        }
+      },
+      {
+        "number": 14,
+        "type": "content",
+        "arabic": "إِنَّكَ أَهْلُ ٱلتَّقْوَىٰ وَأَهْلُ ٱلْمَغْفِرَةِ",
+        "transliteration": "",
+        "translation": {
+          "en": "Verily, You are the One worthy of being feared and worthy of granting forgiveness."
         }
       }
     ]

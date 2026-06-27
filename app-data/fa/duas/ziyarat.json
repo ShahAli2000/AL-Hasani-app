@@ -41957,5 +41957,672 @@
       }
     ],
     "subcategory": "زیارات عمومی"
+  },
+  {
+    "id": "fa-3861",
+    "name": "زیارت حضرت علی اکبر (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 15,
+    "source": "hawzah.net",
+    "subcategory": "سایر بزرگان دینی",
+    "segments": [
+      {
+        "number": 1,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ رَسُولِ ٱللَّهِ",
+        "transliteration": "",
+        "translation": {
+          "fa": "سلام بر تو ای فرزند رسول خدا"
+        }
+      },
+      {
+        "number": 2,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ نَبِيِّ ٱللَّهِ",
+        "transliteration": "",
+        "translation": {
+          "fa": "سلام بر تو ای فرزند پیامبر خدا"
+        }
+      },
+      {
+        "number": 3,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ أَمِيرِ ٱلْمُؤْمِنِينَ",
+        "transliteration": "",
+        "translation": {
+          "fa": "سلام بر تو ای فرزند امیرمؤمنان"
+        }
+      },
+      {
+        "number": 4,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ ٱلْحُسَيْنِ ٱلشَّهِيدِ",
+        "transliteration": "",
+        "translation": {
+          "fa": "سلام بر تو ای فرزند حسین شهید"
+        }
+      },
+      {
+        "number": 5,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ أَيُّهَا ٱلشَّهِيدُ",
+        "transliteration": "",
+        "translation": {
+          "fa": "سلام بر تو ای شهید"
+        }
+      },
+      {
+        "number": 6,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ أَيُّهَا ٱلْمَظْلُومُ وَٱبْنُ ٱلْمَظْلُومِ",
+        "transliteration": "",
+        "translation": {
+          "fa": "سلام بر تو ای ستمدیده و پسر ستمدیده"
+        }
+      },
+      {
+        "number": 7,
+        "type": "content",
+        "arabic": "لَعَنَ ٱللَّهُ أُمَّةً قَتَلَتْكَ",
+        "transliteration": "",
+        "translation": {
+          "fa": "خدا لعنت کند امّتی که تو را کشت"
+        }
+      },
+      {
+        "number": 8,
+        "type": "content",
+        "arabic": "وَلَعَنَ ٱللَّهُ أُمَّةً ظَلَمَتْكَ",
+        "transliteration": "",
+        "translation": {
+          "fa": "و خدا لعنت کند امّتی که به تو ستم روا داشت"
+        }
+      },
+      {
+        "number": 9,
+        "type": "content",
+        "arabic": "وَلَعَنَ ٱللَّهُ أُمَّةً سَمِعَتْ بِذٰلِكَ فَرَضَيِتْ بِهِ",
+        "transliteration": "",
+        "translation": {
+          "fa": "و خدا لعنت کند امّتی که این واقعه را شنید و به آن رضایت داد"
+        }
+      },
+      {
+        "number": 10,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا وَلِيَّ ٱللَّهِ وَٱبْنَ وَلِيِّهِ",
+        "transliteration": "",
+        "translation": {
+          "fa": "سلام بر تو ای ولی خدا و پسر ولی خدا"
+        }
+      },
+      {
+        "number": 11,
+        "type": "content",
+        "arabic": "لَقَدْ عَظُمَتِ ٱلْمُصيبَةُ",
+        "transliteration": "",
+        "translation": {
+          "fa": "همانا مصیبت"
+        }
+      },
+      {
+        "number": 12,
+        "type": "content",
+        "arabic": "وَجَلَّتِ ٱلرَّزِيَّةُ بِكَ عَلَيْنَا",
+        "transliteration": "",
+        "translation": {
+          "fa": "و عزای تو بر ما"
+        }
+      },
+      {
+        "number": 13,
+        "type": "content",
+        "arabic": "وَعَلَىٰ جَمِيعِ ٱلْمُسْلِمينَ",
+        "transliteration": "",
+        "translation": {
+          "fa": "و بر همه مسلمانان بزرگ شد"
+        }
+      },
+      {
+        "number": 14,
+        "type": "content",
+        "arabic": "فَلَعَنَ ٱللَّهُ أُمَّةً قَتَلَتْكَ",
+        "transliteration": "",
+        "translation": {
+          "fa": "پس خدا لعنت کند امّتی که تو را کشت"
+        }
+      },
+      {
+        "number": 15,
+        "type": "content",
+        "arabic": "وَأَبْرَأُ إِلَىٰ ٱللَّهِ وَإِلَيْكَ مِنْهُمْ",
+        "transliteration": "",
+        "translation": {
+          "fa": "و من به سوی خدا و به سوی تو از آنان بیزاری می جویم"
+        }
+      }
+    ]
+  },
+  {
+    "id": "fa-3862",
+    "name": "زیارت شهدای کربلا",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 13,
+    "source": "hawzah.net",
+    "subcategory": "سایر بزرگان دینی",
+    "segments": [
+      {
+        "number": 1,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكُمْ يَا أَوْلِيَاءَ ٱللَّهِ وَأَحِبَّائَهُ",
+        "transliteration": "",
+        "translation": {
+          "fa": "سلام بر شما ای اولیای خدا و عاشقانش"
+        }
+      },
+      {
+        "number": 2,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكُمْ يَا أَصْفِيَاءَ ٱللَّهِ وَأَوِدَّاءَهُ",
+        "transliteration": "",
+        "translation": {
+          "fa": "سلام بر شما ای برگزیدگان خدا و دوستدارانش"
+        }
+      },
+      {
+        "number": 3,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ دِينِ ٱللَّهِ",
+        "transliteration": "",
+        "translation": {
+          "fa": "سلام بر شما ای یاران دین خدا"
+        }
+      },
+      {
+        "number": 4,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ رَسُولِ ٱللَّهِ",
+        "transliteration": "",
+        "translation": {
+          "fa": "سلام بر شما ای یاران رسول خدا"
+        }
+      },
+      {
+        "number": 5,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ أَمِيرِ ٱلْمُؤْمِنِينَ",
+        "transliteration": "",
+        "translation": {
+          "fa": "سلام بر شما ای یاران امیرمؤمنان"
+        }
+      },
+      {
+        "number": 6,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ فَاطِمَةَ سَيِّدَةِ نِسَاءِ ٱلْعَالَمِينَ",
+        "transliteration": "",
+        "translation": {
+          "fa": "سلام بر شما ای یاران فاطمه سرور زنان جهانیان"
+        }
+      },
+      {
+        "number": 7,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ أَبِي مُحَمَّدٍ",
+        "transliteration": "",
+        "translation": {
+          "fa": "سلام بر شما ای یاران ابی محمّد"
+        }
+      },
+      {
+        "number": 8,
+        "type": "content",
+        "arabic": "ٱلْحَسَنِ بْنِ عَلِيٍّ ٱلْوَلِيِّ ٱلنَّاصِحِ",
+        "transliteration": "",
+        "translation": {
+          "fa": "حسن بن علی آن ولی خیرخواه"
+        }
+      },
+      {
+        "number": 9,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ أَبِي عَبْدِ ٱللَّهِ",
+        "transliteration": "",
+        "translation": {
+          "fa": "سلام بر شما ای یاران اباعبدالله"
+        }
+      },
+      {
+        "number": 10,
+        "type": "content",
+        "arabic": "بِأَبِي أَنْتُمْ وَأُمِّي",
+        "transliteration": "",
+        "translation": {
+          "fa": "پدر و مادرم فدای شما"
+        }
+      },
+      {
+        "number": 11,
+        "type": "content",
+        "arabic": "طِبْتُمْ وَطَابَتِ ٱلأَرْضُ ٱلَّتِي فِيهَا دُفِنْتُمْ",
+        "transliteration": "",
+        "translation": {
+          "fa": "پاکیزه شدید و پاکیزه شد زمینی که شما در آن دفن شدید"
+        }
+      },
+      {
+        "number": 12,
+        "type": "content",
+        "arabic": "وَفُزْتُمْ فَوْزاً عَظيماً",
+        "transliteration": "",
+        "translation": {
+          "fa": "و به رستگاری بزرگی رسیدید"
+        }
+      },
+      {
+        "number": 13,
+        "type": "content",
+        "arabic": "فَيَا لَيْتَنِي كُنْتُ مَعَكُمْ فَأَفُوزَ مَعَكُمْ",
+        "transliteration": "",
+        "translation": {
+          "fa": "ای کاش من هم با شما بودم تا همراه شما به رستگاری می رسیدم"
+        }
+      }
+    ]
+  },
+  {
+    "id": "fa-3863",
+    "name": "زیارت حبیب بن مظاهر",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 4,
+    "source": "imna.ir",
+    "subcategory": "سایر بزرگان دینی",
+    "segments": [
+      {
+        "number": 1,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ اَيُّهَا الْعَبْدُ الصَّالِحُ الْمُطِيْعُ لِللهِ وَلِرَسُولِهٖ وَلِاَمِيْرِ الْمُؤمِنِينَ وَلِفَاطِمَةَ الزَّهْرَآءِ وَ الْحَسَنِ وَ الْحُسَينِ عَلَيْهِمُ السَّلاَمُ",
+        "transliteration": "",
+        "translation": {
+          "fa": "سلام بر تو ای بندۀ درستکار و فرمانبردار خدا و رسول او و امیرمؤمنان و فاطمۀ زهرا و حسن و حسین که درود خدا بر آنان باد"
+        }
+      },
+      {
+        "number": 2,
+        "type": "content",
+        "arabic": "الْغَرِيْبُ الْمَوَاسِىْ اَشْهَدُ اَنَّكَ جَاهَدْتَّ فِىْ سَبِيْلِ اللهِ وَ نُصْرَتَ الْحُسَيْنَ ابْنَ بِنْتِ رَسُوْلِ اللهِ وَ وَاسِیْتَ بِنَفْسِكَ وَ بَذَلْتَ مُهْجَتَكَ فَعَلَيْكَ مِنَ اللهِ اَلسَّلاَمُ اتَّآمُّ",
+        "transliteration": "",
+        "translation": {
+          "fa": "و ای غریبی که (با حسین) همراهی و همدردی کردی. گواهی می‌دهم که تو در راه خدا جهاد کردی. حسین پسر دختر رسول خدا را یاری دادی و به جان با او همدردی و همراهی کردی و جان باختی. سلام تام خداوند بر تو باد!"
+        }
+      },
+      {
+        "number": 3,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ اَيُّهَا الْقَمَرُ الزَّاهِرُ",
+        "transliteration": "",
+        "translation": {
+          "fa": "سلام بر تو ای ماه تابان"
+        }
+      },
+      {
+        "number": 4,
+        "type": "content",
+        "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا حَبِيْبَ ابْنَ مَظَاهِرِ اَلْاَسَدِىِّ وَ رَحْمَةُ اللهِ وَ بَرَكَاتُةُ-",
+        "transliteration": "",
+        "translation": {
+          "fa": "سلام بر تو ای حبیب بن مظاهر اسدی. و رحمت و برکات خداوند نیز بر تو باد."
+        }
+      }
+    ]
+  },
+  {
+    "id": "fa-3864",
+    "name": "دعای مخیّم الحسین (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 14,
+    "source": "hawzah.net",
+    "subcategory": "اماکن مقدسه و مساجد",
+    "segments": [
+      {
+        "number": 1,
+        "type": "content",
+        "arabic": "اَللَّهُمَّ إِنِّي تَعَرَّضْتُ لِزِيَارَةِ أَوْلِيَائِكَ رَغْبَةً فِي ثَوَابِكَ",
+        "transliteration": "",
+        "translation": {
+          "fa": "خدایا من توجّه خود را به زیارت اولیایت معطوف داشتم به خاطر رغبت در پاداشت"
+        }
+      },
+      {
+        "number": 2,
+        "type": "content",
+        "arabic": "وَرَجَاءً لِمَغْفِرَتِكَ وَجَزِيلِ إِحْسَانِكَ",
+        "transliteration": "",
+        "translation": {
+          "fa": "و امید به آمرزشت و احسان فراوانت"
+        }
+      },
+      {
+        "number": 3,
+        "type": "content",
+        "arabic": "فَأَسْأَلُكَ أَنْ تُصَلِّيَ عَلَىٰ مُحَمَّدٍ وَآلِهِ ٱلطَّاهِرِينَ",
+        "transliteration": "",
+        "translation": {
+          "fa": "پس از تو می خواهم که بر محمّد و خاندان پاکش درود فرستی"
+        }
+      },
+      {
+        "number": 4,
+        "type": "content",
+        "arabic": "وَأَنْ تَجْعَلَ رِزْقِي بِهِمْ دَارّاً",
+        "transliteration": "",
+        "translation": {
+          "fa": "و روزی ام را به خاطر ایشان زیاد کنی"
+        }
+      },
+      {
+        "number": 5,
+        "type": "content",
+        "arabic": "وَعَيْشِي بِهِمْ قَارّاً",
+        "transliteration": "",
+        "translation": {
+          "fa": "و زندگی ام را به خاطر آنان برقرار داری"
+        }
+      },
+      {
+        "number": 6,
+        "type": "content",
+        "arabic": "وَزِيَارَتِي بِهِمْ مَقْبُولَةً",
+        "transliteration": "",
+        "translation": {
+          "fa": "و زیارتم را به حق آنان بپذیری"
+        }
+      },
+      {
+        "number": 7,
+        "type": "content",
+        "arabic": "وَحَيَاتِي بِهِمْ طَيِّبَةً",
+        "transliteration": "",
+        "translation": {
+          "fa": "و حیاتم را دلپسند فرمایی"
+        }
+      },
+      {
+        "number": 8,
+        "type": "content",
+        "arabic": "وَأَدْرِجْنِي إِدْرَاجَ ٱلْمُكْرَمِينَ",
+        "transliteration": "",
+        "translation": {
+          "fa": "و مرا با گروه اهل کرامت همراه کنی"
+        }
+      },
+      {
+        "number": 9,
+        "type": "content",
+        "arabic": "وَٱجْعَلْنِي مِمَّنْ يَنْقَلِبُ مِنْ زِيَارَةِ مَشَاهِدِ أَحِبَّائِكَ",
+        "transliteration": "",
+        "translation": {
+          "fa": "و از کسانی قرار دهی که از زیارت زیارتگاه های عاشقانت بازمی گردند"
+        }
+      },
+      {
+        "number": 10,
+        "type": "content",
+        "arabic": "مُفْلِحاً مُنْجِحاً",
+        "transliteration": "",
+        "translation": {
+          "fa": "رستگار و کامیاب"
+        }
+      },
+      {
+        "number": 11,
+        "type": "content",
+        "arabic": "قَدِ ٱسْتَوْجَبَ غُفْرَانَ ٱلذُّنُوبِ",
+        "transliteration": "",
+        "translation": {
+          "fa": "درحالی که مستوجب آمرزش گناهان"
+        }
+      },
+      {
+        "number": 12,
+        "type": "content",
+        "arabic": "وَسَتْرَ ٱلْعُيُوبِ",
+        "transliteration": "",
+        "translation": {
+          "fa": "و پوشیدن عیب ها"
+        }
+      },
+      {
+        "number": 13,
+        "type": "content",
+        "arabic": "وَكَشْفَ ٱلْكُرُوبِ",
+        "transliteration": "",
+        "translation": {
+          "fa": "و برطرف شدن ناراحتی ها و غصّه ها شده باشد"
+        }
+      },
+      {
+        "number": 14,
+        "type": "content",
+        "arabic": "إِنَّكَ أَهْلُ ٱلتَّقْوَىٰ وَأَهْلُ ٱلْمَغْفِرَةِ",
+        "transliteration": "",
+        "translation": {
+          "fa": "همانا تو اهل تقوا و اهل آمرزشی"
+        }
+      }
+    ]
+  },
+  {
+    "id": "fa-3865",
+    "name": "استغاثه به امام مهدی (عج) — مسجد حنانه",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 22,
+    "source": "ahlolbait.com",
+    "subcategory": "اماکن مقدسه و مساجد",
+    "segments": [
+      {
+        "number": 1,
+        "type": "content",
+        "arabic": "السَّلامُ عَلَيْكَ يَا مُذِلَّ ٱلْكَافِرِينَ ٱلْمُتَكَبِّرِينَ ٱلظَّالِمِينَ",
+        "transliteration": "",
+        "translation": {
+          "fa": "سلام بر تو اى ذليل و خوار كننده كافران متكبر ستمكار"
+        }
+      },
+      {
+        "number": 2,
+        "type": "content",
+        "arabic": "السَّلامُ عَلَيْكَ يَا مَوْلايَ يَا صَاحِبَ ٱلزَّمَانِ",
+        "transliteration": "",
+        "translation": {
+          "fa": "سلام بر تو اى مولاى من اى صاحب زمان"
+        }
+      },
+      {
+        "number": 3,
+        "type": "content",
+        "arabic": "السَّلامُ عَلَيْكَ يَا بْنَ رَسُولِ ٱللَّهِ",
+        "transliteration": "",
+        "translation": {
+          "fa": "سلام بر تو اى فرزند رسول خدا"
+        }
+      },
+      {
+        "number": 4,
+        "type": "content",
+        "arabic": "السَّلامُ عَلَيْكَ يَا بْنَ امِيرِ ٱلْمُؤْمِنِينَ",
+        "transliteration": "",
+        "translation": {
+          "fa": "سلام بر تو اى فرزند امير المؤمنين"
+        }
+      },
+      {
+        "number": 5,
+        "type": "content",
+        "arabic": "السّلامُ عَلَيْكَ يَا بْنَ فَاطِمَةَ ٱلزَّهْرَاءِ",
+        "transliteration": "",
+        "translation": {
+          "fa": "سلام بر تو اى فرزند فاطمه زهرا"
+        }
+      },
+      {
+        "number": 6,
+        "type": "content",
+        "arabic": "سَيِّدَةِ نِسَاءِ ٱلْعَالَمِينَ",
+        "transliteration": "",
+        "translation": {
+          "fa": "بزرگ زنان عالم"
+        }
+      },
+      {
+        "number": 7,
+        "type": "content",
+        "arabic": "السَّلامُ عَلَيْكَ يَا بْنَ ٱلائِمَّةِ ٱلْحُجَجِ ٱلْمَعصُومِينَ",
+        "transliteration": "",
+        "translation": {
+          "fa": "سلام بر تو اى فرزند امامان و حجتهاى خدا كه معصومانند"
+        }
+      },
+      {
+        "number": 8,
+        "type": "content",
+        "arabic": "وَٱلإِمَامُ عَلَىٰ ٱلْخَلْقِ اجْمَعِينَ",
+        "transliteration": "",
+        "translation": {
+          "fa": "و پيشوايان بر همه خلق عالم"
+        }
+      },
+      {
+        "number": 9,
+        "type": "content",
+        "arabic": "السَّلامُ عَلَيْكَ يَا مَوْلايَ",
+        "transliteration": "",
+        "translation": {
+          "fa": "سلام بر تو اى مولاى من"
+        }
+      },
+      {
+        "number": 10,
+        "type": "content",
+        "arabic": "سَلامَ مُخْلِصٍ لَكَ فِي ٱلْوِلاَيتِ",
+        "transliteration": "",
+        "translation": {
+          "fa": "سلام و تحيت خالصانه با ايمان به ولايت و امامت تو"
+        }
+      },
+      {
+        "number": 11,
+        "type": "content",
+        "arabic": "اشْهَدُ انَّكَ ٱلإِمَامُ ٱلْمَهْدِيُّ قَوْلاً وَفِعْلاً",
+        "transliteration": "",
+        "translation": {
+          "fa": "گواهى مى دهم كه تو پيشواى رهنماى عالمى به گفتار و كردار"
+        }
+      },
+      {
+        "number": 12,
+        "type": "content",
+        "arabic": "وَانْتَ ٱلَّذِي تَمْلَا ٱلارْضَ قِسْطاً وَعَدْلاً",
+        "transliteration": "",
+        "translation": {
+          "fa": "و تويى آنكه جهان را پر از عدل و داد خواهد كرد"
+        }
+      },
+      {
+        "number": 13,
+        "type": "content",
+        "arabic": "بَعْدَ مَا مُلِئَتْ ظُلْماً وَجَوْراً",
+        "transliteration": "",
+        "translation": {
+          "fa": "پس از آنكه پر از جور و بيداد گرديده است"
+        }
+      },
+      {
+        "number": 14,
+        "type": "content",
+        "arabic": "فَعَجَّلَ ٱللَّهُ فَرَجَكَ",
+        "transliteration": "",
+        "translation": {
+          "fa": "خدا ظهورت را زود گرداند"
+        }
+      },
+      {
+        "number": 15,
+        "type": "content",
+        "arabic": "وَسَهَّلَ مَخْرَجَكَ",
+        "transliteration": "",
+        "translation": {
+          "fa": "خروجت را آسان"
+        }
+      },
+      {
+        "number": 16,
+        "type": "content",
+        "arabic": "وَقَرَّبَ زَمَانَكَ",
+        "transliteration": "",
+        "translation": {
+          "fa": "زمان سلطنتت را نزديك سازد"
+        }
+      },
+      {
+        "number": 17,
+        "type": "content",
+        "arabic": "وَكَثَّرَ انْصَارَكَ وَاعْوَانَكَ",
+        "transliteration": "",
+        "translation": {
+          "fa": "بسيار نمايد ياران و ياورانت را"
+        }
+      },
+      {
+        "number": 18,
+        "type": "content",
+        "arabic": "وَانْجَزَ لَكَ مَا وَعَدَكَ",
+        "transliteration": "",
+        "translation": {
+          "fa": "وعده ظفرى كه به تو فرموده بزودى روا گرداند"
+        }
+      },
+      {
+        "number": 19,
+        "type": "content",
+        "arabic": "فَهُوَ اصْدَقُ ٱلْقَائِلِينَ:",
+        "transliteration": "",
+        "translation": {
+          "fa": "او راستگوترين سخن گويان است كه خود فرموده:"
+        }
+      },
+      {
+        "number": 20,
+        "type": "content",
+        "arabic": "(وَنُرِيدُ انْ نَمُنَّ عَلَىٰ ٱلَّذِينَ ٱسْتُضْعِفُوا فِي ٱلارْضِ",
+        "transliteration": "",
+        "translation": {
+          "fa": "ما مى‏ خواهيم بر اهل ايمان كه بدان آنان را ضعيف و ناتوان كردند منت گذاشته"
+        }
+      },
+      {
+        "number": 21,
+        "type": "content",
+        "arabic": "وَنَجْعَلَهُمْ ائِمَّة ًوَنَجْعَلَهُمُ الْوَارِثِينَ)",
+        "transliteration": "",
+        "translation": {
+          "fa": "و آنها را پيشوايان خلق قرار دهيم و وارث (اهل زمين) گردانيم"
+        }
+      },
+      {
+        "number": 22,
+        "type": "content",
+        "arabic": "يَا مَوْلاَيَ يَا صَاحِبَ ٱلزَّمَانِ",
+        "transliteration": "",
+        "translation": {
+          "fa": "اى مولاى من اى صاحب الزمان"
+        }
+      }
+    ]
   }
 ]

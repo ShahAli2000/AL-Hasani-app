@@ -5781,5 +5781,50 @@
     "segmentCount": 16,
     "source": "sahife",
     "subcategory": "صحیفه سجادیه"
+  },
+  {
+    "id": "fa-3861",
+    "name": "زیارت حضرت علی اکبر (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 15,
+    "source": "hawzah.net",
+    "subcategory": "سایر بزرگان دینی"
+  },
+  {
+    "id": "fa-3862",
+    "name": "زیارت شهدای کربلا",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 13,
+    "source": "hawzah.net",
+    "subcategory": "سایر بزرگان دینی"
+  },
+  {
+    "id": "fa-3863",
+    "name": "زیارت حبیب بن مظاهر",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 4,
+    "source": "imna.ir",
+    "subcategory": "سایر بزرگان دینی"
+  },
+  {
+    "id": "fa-3864",
+    "name": "دعای مخیّم الحسین (ع)",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 14,
+    "source": "hawzah.net",
+    "subcategory": "اماکن مقدسه و مساجد"
+  },
+  {
+    "id": "fa-3865",
+    "name": "استغاثه به امام مهدی (عج) — مسجد حنانه",
+    "nameAr": "",
+    "category": "ziyarat",
+    "segmentCount": 22,
+    "source": "ahlolbait.com",
+    "subcategory": "اماکن مقدسه و مساجد"
   }
 ]
